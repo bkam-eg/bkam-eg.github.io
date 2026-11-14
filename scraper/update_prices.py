@@ -35,7 +35,6 @@ STORES = {
     "2b":     {"name": "2B",         "affiliate": False, "search": "https://2b.com.eg/en/catalogsearch/result/?q="},
     "carrefour": {"name": "كارفور",  "affiliate": False, "search": "https://www.carrefouregypt.com/mafegy/en/search?keyword="},
     "compumarts": {"name": "Compumarts", "affiliate": False, "search": "https://www.compumarts.com/search?q="},
-    "elbadr": {"name": "البدر جروب", "affiliate": False, "search": "https://elbadrgroupeg.store/index.php?route=product/search&search="},
     "jumia":  {"name": "جوميا",      "affiliate": False, "search": "https://www.jumia.com.eg/catalog/?q="},
 }
 
@@ -241,35 +240,6 @@ def search_compumarts(q):
     return out[:PER_STORE]
 
 
-# ---------- البدر جروب (OpenCart) ----------
-
-def search_elbadr(q):
-    page = fetch(STORES["elbadr"]["search"] + quote_plus(q))
-    out = []
-    for c in page.split('class="product-layout')[1:]:
-        c = c[:8000]
-        link = re.search(r'<div class="name"><a href="([^"]+)">([^<]+)</a>', c)
-        price = re.search(r'class="price-new">([\d,.]+)', c) or re.search(r'class="price-normal">([\d,.]+)', c) \
-            or re.search(r'<div class="price">\s*(?:<span[^>]*>\s*</span>)?\s*<div>\s*(?:<span[^>]*>)?([\d,.]+)\s*EGP', c)
-        if not (link and price):
-            continue
-        old = re.search(r'class="price-old">([\d,.]+)', c)
-        img = re.search(r'<img src="([^"]+)"', c)
-        out.append({
-            "store": "elbadr",
-            "name": htmllib.unescape(link.group(2)),
-            "price": money(price.group(1)),
-            "old_price": money(old.group(1)) if old else None,
-            "image": img.group(1) if img else "",
-            "url": link.group(1),
-            "in_stock": "out-of-stock" not in c.lower() and "Out Of Stock" not in c,
-            "key": "elbadr:" + link.group(1).rstrip("/").rsplit("/", 1)[-1][:80],
-        })
-        if len(out) >= PER_STORE:
-            break
-    return out
-
-
 # ---------- كارفور ----------
 
 def search_carrefour(q):
@@ -303,7 +273,7 @@ def search_carrefour(q):
 
 
 SEARCHERS = {"noon": search_noon, "amazon": search_amazon, "btech": search_btech,
-             "2b": search_2b, "carrefour": search_carrefour, "compumarts": search_compumarts, "elbadr": search_elbadr}
+             "2b": search_2b, "carrefour": search_carrefour, "compumarts": search_compumarts}
 
 
 # ---------- المطابقة بين المتاجر ----------
