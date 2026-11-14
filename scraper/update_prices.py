@@ -34,6 +34,8 @@ STORES = {
     "btech":  {"name": "B.TECH",     "affiliate": False, "search": "https://btech.com/en/s?q="},
     "2b":     {"name": "2B",         "affiliate": False, "search": "https://2b.com.eg/en/catalogsearch/result/?q="},
     "carrefour": {"name": "كارفور",  "affiliate": False, "search": "https://www.carrefouregypt.com/mafegy/en/search?keyword="},
+    "compumarts": {"name": "Compumarts", "affiliate": False, "search": "https://www.compumarts.com/search?q="},
+    "elbadr": {"name": "البدر جروب", "affiliate": False, "search": "https://elbadrgroupeg.store/index.php?route=product/search&search="},
     "jumia":  {"name": "جوميا",      "affiliate": False, "search": "https://www.jumia.com.eg/catalog/?q="},
 }
 
@@ -214,6 +216,60 @@ def search_2b(q):
     return out
 
 
+# ---------- Compumarts (Shopify) ----------
+
+def search_compumarts(q):
+    data = json.loads(fetch("https://www.compumarts.com/search/suggest.json?resources[type]=product"
+                            f"&resources[limit]={min(PER_STORE, 10)}&q=" + quote_plus(q)))
+    out = []
+    for p in data["resources"]["results"]["products"]:
+        price = money(p.get("price"))
+        if not price:
+            continue
+        old = money(p.get("compare_at_price_max"))
+        out.append({
+            "store": "compumarts",
+            "brand": p.get("vendor") or "",
+            "name": htmllib.unescape(p["title"]),
+            "price": price,
+            "old_price": old if old and old > price else None,
+            "image": p.get("image") or "",
+            "url": "https://www.compumarts.com/products/" + p["handle"],
+            "in_stock": bool(p.get("available")),
+            "key": "compumarts:" + p["handle"][:80],
+        })
+    return out[:PER_STORE]
+
+
+# ---------- البدر جروب (OpenCart) ----------
+
+def search_elbadr(q):
+    page = fetch(STORES["elbadr"]["search"] + quote_plus(q))
+    out = []
+    for c in page.split('class="product-layout')[1:]:
+        c = c[:8000]
+        link = re.search(r'<div class="name"><a href="([^"]+)">([^<]+)</a>', c)
+        price = re.search(r'class="price-new">([\d,.]+)', c) or re.search(r'class="price-normal">([\d,.]+)', c) \
+            or re.search(r'<div class="price">\s*(?:<span[^>]*>\s*</span>)?\s*<div>\s*(?:<span[^>]*>)?([\d,.]+)\s*EGP', c)
+        if not (link and price):
+            continue
+        old = re.search(r'class="price-old">([\d,.]+)', c)
+        img = re.search(r'<img src="([^"]+)"', c)
+        out.append({
+            "store": "elbadr",
+            "name": htmllib.unescape(link.group(2)),
+            "price": money(price.group(1)),
+            "old_price": money(old.group(1)) if old else None,
+            "image": img.group(1) if img else "",
+            "url": link.group(1),
+            "in_stock": "out-of-stock" not in c.lower() and "Out Of Stock" not in c,
+            "key": "elbadr:" + link.group(1).rstrip("/").rsplit("/", 1)[-1][:80],
+        })
+        if len(out) >= PER_STORE:
+            break
+    return out
+
+
 # ---------- كارفور ----------
 
 def search_carrefour(q):
@@ -247,7 +303,7 @@ def search_carrefour(q):
 
 
 SEARCHERS = {"noon": search_noon, "amazon": search_amazon, "btech": search_btech,
-             "2b": search_2b, "carrefour": search_carrefour}
+             "2b": search_2b, "carrefour": search_carrefour, "compumarts": search_compumarts, "elbadr": search_elbadr}
 
 
 # ---------- المطابقة بين المتاجر ----------
