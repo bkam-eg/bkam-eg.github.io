@@ -415,6 +415,14 @@ def global_merge(products):
     return kept
 
 
+def short_query(p):
+    """نسخة أقصر: الماركة + الموديل (أول 4 كلمات + رقم الموديل لو موجود)، من غير مساحة ولون."""
+    words = [w for w in targeted_query(p).split() if not re.fullmatch(r"\d+(gb|tb|mah|w)", w, re.I)]
+    short = words[:4]
+    code = next((w for w in words[4:] if re.search(r"\d{4,}", w)), None)
+    return " ".join(short + ([code] if code else []))
+
+
 def targeted_query(p):
     """اسم قصير ودقيق للبحث بيه في متجر تاني: الماركة + أول كلمات الاسم."""
     name = re.sub(r"\(.*?\)|\[.*?\]|\|.*$", " ", p["name"])
@@ -465,7 +473,16 @@ def main():
                     jobs.setdefault(store, []).append(p)
 
         def targeted(store):
-            return [(p, run(store, targeted_query(p)) or []) for p in jobs[store]]
+            out = []
+            for p in jobs[store]:
+                found = run(store, targeted_query(p)) or []
+                ref = p.get("brand", "") + " " + p["name"]
+                if not any(similar(ref, r.get("brand", "") + " " + r["name"]) >= 0.5 for r in found):
+                    short = short_query(p)  # متاجر زي 2B مبترجعش حاجة لو الاسم طويل
+                    if short and short != targeted_query(p):
+                        found += run(store, short) or []
+                out.append((p, found))
+            return out
 
         with ThreadPoolExecutor(max(1, len(jobs))) as pool:
             hits = list(pool.map(targeted, jobs))
