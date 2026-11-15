@@ -1,0 +1,11 @@
+name: probe
+on: [push, workflow_dispatch]
+jobs:
+  probe:
+    if: contains(github.event.head_commit.message, 'probe') || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install curl_cffi && python -u scraper/probe.py
