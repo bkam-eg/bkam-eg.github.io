@@ -37,9 +37,6 @@ STORES = {
     "compumarts": {"name": "Compumarts", "affiliate": False, "search": "https://www.compumarts.com/search?q="},
     "xprs": {"name": "XPRS", "affiliate": False, "search": "https://myxprs.com/search?type=product&q="},
     "tradeline": {"name": "تريدلاين", "affiliate": False, "search": "https://tradelinestores.com/search?type=product&q="},
-    "ennap": {"name": "Ennap", "affiliate": False, "search": "https://ennap.com/search?type=product&q="},
-    "elghazawy": {"name": "الغزاوي", "affiliate": False, "search": "https://elghazawy.com/en/search?q="},
-    "mobilemasr": {"name": "موبايل مصر", "affiliate": False, "search": "https://mobilemasr.com/en/search?q="},
     "dream2000": {"name": "دريم 2000", "affiliate": False, "search": "https://dream2000.com/en/search?type=product&q="},
     "alsheikh": {"name": "الشيخ", "affiliate": False, "search": "https://alsheikhstores.com/en/search?type=product&q="},
     "miami":  {"name": "ميامي سنتر", "affiliate": False, "search": "https://miamicenters.com/?post_type=product&s="},
@@ -302,7 +299,7 @@ def search_shopify(store, base, q, limit=60, lang="/en"):
         img = re.search(r'href="' + lang + '/products/' + re.escape(handle) + r'[^"]*".{0,4000}?<img[^>]+src="(//[^"]+)"', page, re.S)
         for v in prod.get("variants") or []:
             name = v.get("name") or ""
-            if not name or not v.get("price") or re.search(r"\bunpaid tax", name, re.I):
+            if not name or not v.get("price") or re.search(r"\bunpaid tax|customs fees", name, re.I):
                 continue  # "UnPaid Taxes" نسخة مستوردة من غير ضريبة، مش نفس المنتج الرسمي
             out.append({
                 "store": store, "brand": prod.get("vendor") or "", "name": name.replace(" / ", " , "),
@@ -330,48 +327,6 @@ def search_xprs(q):
 
 def search_tradeline(q):
     return search_shopify("tradeline", "https://tradelinestores.com", q, lang="")
-
-
-def search_ennap(q):
-    return search_shopify("ennap", "https://ennap.com", q, lang="")
-
-
-# ---------- الغزاوي (أجهزة منزلية: صفحة البحث فيها الاسم والسعر والصورة) ----------
-
-def search_elghazawy(q):
-    page = fetch("https://elghazawy.com/en/search?q=" + quote_plus(q))
-    out, seen = [], set()
-    for m in re.finditer(r'<li data-thumb="([^"]*)" href="(https://elghazawy\.com/en/product/(\d+)/[^"]+)">'
-                         r'.{0,1500}?<p>([^<]{5,})</p>\s*<h4[^>]*>\s*([\d,]+)\s*EGP', page, re.S):
-        img, url, pid, name, price = m.groups()
-        if pid in seen:
-            continue
-        seen.add(pid)
-        out.append({"store": "elghazawy", "brand": "", "name": htmllib.unescape(name.strip()),
-                    "price": int(price.replace(",", "")), "old_price": None, "image": img, "url": url,
-                    "in_stock": True, "key": f"elghazawy:{pid}"})
-        if len(out) >= PER_STORE:
-            break
-    return out
-
-
-# ---------- موبايل مصر (موبايلات جديدة بس، من غير المستعمل) ----------
-
-def search_mobilemasr(q):
-    page = fetch("https://mobilemasr.com/en/search?q=" + quote_plus(q))
-    out, seen = [], set()
-    for m in re.finditer(r'<a href="(/en/products/show/([a-z0-9-]+))"[^>]*>\s*<div[^>]*>\s*<p[^>]*>([^<]+)</p>'
-                         r'.{0,600}?>([\d,]+) EGP<', page, re.S):
-        path, slug, name, price = m.groups()
-        if slug in seen or re.search(r"-(used|excellent|very-good|good|fair|like-new|open-box)-", slug):
-            continue
-        seen.add(slug)
-        out.append({"store": "mobilemasr", "brand": "", "name": htmllib.unescape(name.strip()),
-                    "price": int(price.replace(",", "")), "old_price": None, "image": "",
-                    "url": "https://mobilemasr.com" + path, "in_stock": True, "key": f"mobilemasr:{slug}"})
-        if len(out) >= PER_STORE:
-            break
-    return out
 
 
 # ---------- ميامي سنتر (WooCommerce Store API: JSON رسمي ومفتوح) ----------
@@ -402,8 +357,7 @@ def search_miami(q):
 SEARCHERS = {"noon": search_noon, "amazon": search_amazon, "btech": search_btech,
              "2b": search_2b, "carrefour": search_carrefour, "compumarts": search_compumarts,
              "dream2000": search_dream2000, "alsheikh": search_alsheikh, "miami": search_miami,
-             "xprs": search_xprs, "tradeline": search_tradeline, "ennap": search_ennap,
-             "elghazawy": search_elghazawy, "mobilemasr": search_mobilemasr}
+             "xprs": search_xprs, "tradeline": search_tradeline}
 
 
 # ---------- المطابقة بين المتاجر ----------
