@@ -280,7 +280,7 @@ def search_carrefour(q):
 # ---------- متاجر Shopify (دريم 2000، الشيخ) ----------
 # صفحة البحث فيها كل المنتجات كـ JSON (ShopifyAnalytics meta): الاسم، الماركة، وكل variant بسعره
 
-def search_shopify(store, base, q, limit=24):
+def search_shopify(store, base, q, limit=60):
     page = fetch(f"{base}/en/search?type=product&q=" + quote_plus(q))
     m = re.search(r"var meta = (\{.*?\});\s*\n", page) or re.search(r"var meta = (\{.*?\});", page)
     if not m:
@@ -377,6 +377,11 @@ def keywords(name):
     n = name.lower()
     n = re.sub(r"(?<=\b[a-z])-(?=[a-z]{3,})", "", n)  # E-train = Etrain
     n = re.sub(r"play\s*station\s*5|\bps\s*5\b", " ps5 ", n)
+    # "256/8" أو "256/8GB" = مساحة 256GB ورام 8GB ، و"256G" = 256GB (مش 5G الشبكة)
+    n = re.sub(r"\b(16|32|64|128|256|512)\s*/\s*(\d{1,2})\s*(?:gb)?\b", r"\1gb \2gb", n)
+    n = re.sub(r"\b(\d{1,2})\s*/\s*(64|128|256|512)\s*(?:gb)?\b", r"\2gb \1gb", n)
+    n = re.sub(r"\b(16|32|64|128|256|512)\s?g\b", r"\1gb", n)
+    n = re.sub(r"\b1\s?t\b", "1tb", n)
     # وحدات بأشكال مختلفة = نفس الوحدة (100 Hertz = 100Hz، 27" = 27 inch، 5 Millisecond = 5ms)
     for pat, unit in ((r"hertz", "hz"), (r"milli\s*seconds?|msec", "ms"), (r"inches|inch|in\b(?!\s*(?:black|white|\d))|\"|”|″|''", "inch"),
                       (r"litres?|liters?|ltr", "l"), (r"watts?", "w"), (r"kilograms?|kgs?", "kg"),
