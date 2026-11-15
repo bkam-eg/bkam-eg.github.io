@@ -460,6 +460,9 @@ def targeted_query(p):
     return " ".join(words)
 
 
+DEADLINE = time.time() + 95 * 60  # الشغلانة ليها ساعتين؛ نسيب وقت للحفظ
+
+
 def main():
     global PER_STORE
     try:
@@ -473,12 +476,17 @@ def main():
     products, seen, ok, failed = [], set(), 0, []
     fails = {s: 0 for s in SEARCHERS}
 
+    cache = {}
+
     def run(store, query):
         nonlocal ok
-        if fails[store] >= MAX_FAILS:
-            return None
+        if fails[store] >= MAX_FAILS or time.time() > DEADLINE:
+            return None  # بعد الوقت المسموح بنكمّل بالقديم بدل ما الشغلانة كلها تتلغي
+        if (store, query) in cache:  # نفس البحث اتعمل قبل كده
+            return list(cache[(store, query)])
         try:
             found = SEARCHERS[store](query)
+            cache[(store, query)] = list(found)
             ok += 1
             fails[store] = 0  # بنعدّ الفشل المتتالي بس
             return found
@@ -501,13 +509,12 @@ def main():
         def targeted(store):
             out = []
             for p in jobs[store]:
-                found = run(store, targeted_query(p)) or []
-                ref = p.get("brand", "") + " " + p["name"]
-                if not any(similar(ref, r.get("brand", "") + " " + r["name"]) >= 0.5 for r in found):
+                found = run(store, targeted_query(p))
+                if found == []:  # مفيش ولا نتيجة: متاجر زي 2B محتاجة اسم أقصر
                     short = short_query(p)  # متاجر زي 2B مبترجعش حاجة لو الاسم طويل
                     if short and short != targeted_query(p):
-                        found += run(store, short) or []
-                out.append((p, found))
+                        found = run(store, short)
+                out.append((p, found or []))
             return out
 
         with ThreadPoolExecutor(max(1, len(jobs))) as pool:
@@ -577,6 +584,8 @@ def main():
         refs, ref_store = [], None
         for store in REF_ORDER:
             if store == "noon":
+                if time.time() > DEADLINE:
+                    break
                 if noon_fails >= 3 and noon_skipped < 5:  # نون قافل؟ نجربه تاني كل 5 أقسام
                     noon_skipped += 1
                     continue

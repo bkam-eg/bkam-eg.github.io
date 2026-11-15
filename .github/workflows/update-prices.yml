@@ -28,7 +28,7 @@ jobs:
         run: pip install curl_cffi
 
       - name: سحب الأسعار
-        run: python scraper/update_prices.py
+        run: python -u scraper/update_prices.py
 
       - name: حفظ الأسعار الجديدة
         run: |
