@@ -84,7 +84,7 @@ footer{border-top:1px solid var(--line);padding-block:18px 28px;color:var(--mute
 <div class="bar">
   <div class="wrap">
     <div class="row">
-      <input id="q" type="search" placeholder="دوّر على منتج… مثلاً: DualSense، iPhone، AirPods" aria-label="بحث">
+      <input id="q" type="search" placeholder="دوّر على منتج… مثلاً: ايفون 17، تكييف شارب، iPad" aria-label="بحث">
       <select id="sort" aria-label="ترتيب">
         <option value="save">الأكبر توفيرًا</option>
         <option value="low">الأرخص أولًا</option>
@@ -135,9 +135,37 @@ document.addEventListener("error",e=>{const im=e.target;if(im.tagName!=="IMG"||!
   if(i<list.length){w.dataset.i=i;im.src=list[i]}else{w.outerHTML=`<div class="thumb ph" aria-hidden="true">•</div>`}},true);
 function live(p){return p.offers.filter(o=>o.price>0)}
 function stats(p){const v=(p.offers.filter(avail).length?p.offers.filter(avail):live(p)).map(o=>o.price);return v.length?{min:Math.min(...v),max:Math.max(...v)}:{min:Infinity,max:Infinity}}
+/* بحث بالعربي: "ايفون ١٧ برو" = iPhone 17 Pro */
+const AR={"اي فون":"iphone","ايفون":"iphone","ايفن":"iphone","اي باد":"ipad","ايباد":"ipad","ابل":"apple","سامسونج":"samsung","سامسونغ":"samsung","سامسونق":"samsung",
+"جالكسي":"galaxy","جلاكسي":"galaxy","جالاكسي":"galaxy","شاومي":"xiaomi","ريدمي":"redmi","اوبو":"oppo","ريلمي":"realme","هونر":"honor","اونر":"honor","انفنكس":"infinix","انفينكس":"infinix","فيفو":"vivo",
+"نوت":"note","برو":"pro","ماكس":"max","الترا":"ultra","بلس":"plus","ميني":"mini","سليم":"slim","بورتال":"portal",
+"بلاي ستيشن":"ps5|playstation","بلايستيشن":"ps5|playstation","بلايستيشن٥":"ps5","بلاستيشن":"ps5|playstation","دراع":"dualsense|controller","دراعات":"dualsense|controller","يد":"dualsense|controller","فيفا":"fc 26","اف سي":"fc",
+"سماعه":"earbuds|headphone|airpods|buds|headset|tune","سماعات":"earbuds|headphone|airpods|buds|headset|tune","ايربودز":"airpods","بادز":"buds","ساعه":"watch|band","ساعات":"watch|band","باند":"band",
+"باور بانك":"power bank","باوربانك":"power bank","شاحن":"charger","ماوس":"mouse","لاب توب":"laptop","لابتوب":"laptop","لاب":"laptop","ماك بوك":"macbook","ماكبوك":"macbook","ماك":"mac",
+"تابلت":"tab|pad","شاشه":"monitor|tv","شاشات":"monitor|tv","تلفزيون":"tv","تليفزيون":"tv","تلفاز":"tv","تلاجه":"refrigerator|fridge","ثلاجه":"refrigerator|fridge","غساله":"washing","تكييف":"air conditioner|ac","مكيف":"air conditioner|ac",
+"اير فراير":"air fryer|fryer","قلايه":"fryer","هوائيه":"air fryer","خلاط":"blender","ماكينه قهوه":"coffee","قهوه":"coffee","حصان":"hp",
+"شارب":"sharp","كاريير":"carrier","كارير":"carrier","فريش":"fresh","ال جي":"lg","لينوفو":"lenovo","اتش بي":"hp","اسوس":"asus","ديل":"dell","فيليبس":"philips","فيلبس":"philips","تيفال":"tefal","نسبريسو":"nespresso","نيسبريسو":"nespresso",
+"جي بي ال":"jbl","انكر":"anker","لوجيتك":"logitech","لوجيتيك":"logitech","سوني":"sony","تي سي ال":"tcl","ديل":"dell","ابيض":"white","اسود":"black","ازرق":"blue","فضي":"silver","جيجا":"gb","تيرا":"tb","بوصه":"inch"};
+const AR_STOP=new Set("سعر اسعار ارخص عايز عاوز في من بكام كام".split(" "));
+function arNorm(t){return t.toLowerCase().replace(/[ً-ْـ]/g,"").replace(/[أإآ]/g,"ا").replace(/ة/g,"ه").replace(/ى/g,"ي")
+  .replace(/[٠-٩]/g,d=>"٠١٢٣٤٥٦٧٨٩".indexOf(d))}
+const AR_KEYS=Object.keys(AR).map(arNorm).sort((a,b)=>b.length-a.length), AR_N={};Object.keys(AR).forEach(k=>AR_N[arNorm(k)]=AR[k]);
+function terms(q){q=" "+arNorm(q)+" ";
+  for(const k of AR_KEYS){if(k.includes(" ")&&q.includes(" "+k+" "))q=q.split(" "+k+" ").join(" "+AR_N[k].replace(/ /g,"_")+" ")}
+  return q.trim().split(/\s+/).filter(Boolean).map(w=>{w=w.replace(/_/g," ");
+    let base=AR_N[w]?w:(w.startsWith("ال")&&AR_N[w.slice(2)]?w.slice(2):w.startsWith("وال")&&AR_N[w.slice(3)]?w.slice(3):w);
+    if(AR_STOP.has(base))return null;
+    return AR_N[base]?[...AR_N[base].split("|"),base]:[base]}).filter(Boolean)}
+function hit(hay,a){if(!/^[a-z0-9 ]+$/.test(a))return hay.includes(a);  // عربي: جزء من الكلمة كفاية
+  const i=hay.indexOf(a);let j=i;while(j>=0){if(j===0||!/[a-z0-9]/.test(hay[j-1]))return true;j=hay.indexOf(a,j+1)}return false}  // إنجليزي: من أول الكلمة
+// اسم المنتج من غير الهدايا ("... With Free Buds and Band" مش ساعة)
+function matches(p,ts,full){const name=full?p.name:p.name.split(/\s(?:with|\+|includes?|bundle)\s/i)[0];
+  const hay=arNorm((p.brand||"")+" "+name+" "+p.category);return ts.every(alts=>alts.some(a=>hit(hay,a)))}
 function render(){
-  const q=$("q").value.trim().toLowerCase(), owner=$("owner").checked, sort=$("sort").value;
-  let list=DATA.products.filter(p=>live(p).length&&(cat==="الكل"||p.category===cat)&&(!q||(p.name+" "+p.search).toLowerCase().includes(q)));
+  const q=$("q").value.trim(), ts=terms(q), owner=$("owner").checked, sort=$("sort").value;
+  const base=DATA.products.filter(p=>live(p).length&&(cat==="الكل"||p.category===cat));
+  let list=base.filter(p=>!q||matches(p,ts));
+  if(q&&!list.length)list=base.filter(p=>matches(p,ts,true));
   list.sort((a,b)=>{const A=stats(a),B=stats(b);
     return sort==="low"?A.min-B.min:sort==="high"?B.min-A.min:(B.max-B.min)-(A.max-A.min)});
   $("count").textContent=list.length+" منتج";
