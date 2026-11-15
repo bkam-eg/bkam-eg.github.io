@@ -42,6 +42,7 @@ jobs:
           git config user.name "price-bot"
           git config user.email "price-bot@users.noreply.github.com"
           git add products.json specs.json index.html sitemap.xml robots.txt p c
+          python scraper/indexnow.py --staged --list > /tmp/changed.txt || true
           if git diff --cached --quiet; then
             echo "مفيش تغيير"
           else
@@ -55,3 +56,9 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh api -X POST "repos/${{ github.repository }}/pages/builds"
+
+      - name: تبليغ Bing وYandex بالصفحات اللي اتغيرت (IndexNow)
+        continue-on-error: true
+        run: |
+          sleep 120
+          python scraper/indexnow.py $(cat /tmp/changed.txt 2>/dev/null)
