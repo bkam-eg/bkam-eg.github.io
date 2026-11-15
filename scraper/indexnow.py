@@ -6,6 +6,8 @@
 import json
 import subprocess
 import sys
+import time
+import urllib.error
 import urllib.request
 from pathlib import Path
 
@@ -44,14 +46,20 @@ def main():
         return
     body = json.dumps({"host": SITE.split("//")[1], "key": KEY, "keyLocation": f"{SITE}/{KEY}.txt",
                        "urlList": urls[:10000]}).encode()
-    req = urllib.request.Request("https://api.indexnow.org/indexnow", data=body,
-                                 headers={"Content-Type": "application/json; charset=utf-8"})
-    try:
-        with urllib.request.urlopen(req, timeout=30) as r:
-            print(f"IndexNow: بلّغت عن {len(urls)} صفحة (HTTP {r.status})")
-    except Exception as e:  # noqa: BLE001  (مش مشكلة لو فشل، جوجل وBing بيقروا الـ sitemap برضه)
-        print(f"IndexNow: فشل ({e})")
-
+    for attempt in range(4):  # 403 = لسه مش شايفين ملف المفتاح (النشر بياخد دقايق)
+        req = urllib.request.Request("https://api.indexnow.org/indexnow", data=body,
+                                     headers={"Content-Type": "application/json; charset=utf-8"})
+        try:
+            with urllib.request.urlopen(req, timeout=30) as r:
+                print(f"IndexNow: بلّغت عن {len(urls)} صفحة (HTTP {r.status})")
+                return
+        except urllib.error.HTTPError as e:
+            print(f"IndexNow: محاولة {attempt + 1}: HTTP {e.code}")
+            if e.code not in (403, 429, 500, 503):
+                return
+        except Exception as e:  # noqa: BLE001  (مش مشكلة لو فشل، جوجل وBing بيقروا الـ sitemap برضه)
+            print(f"IndexNow: فشل ({e})")
+        time.sleep(90)
 
 if __name__ == "__main__":
     main()
