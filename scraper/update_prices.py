@@ -582,7 +582,9 @@ def main():
         limit, pages = int(row.get("limit") or 40), int(row.get("pages") or 2)
         strict = (row.get("filter") or "yes").strip().lower() != "no"
         refs, ref_store = [], None
-        for store in REF_ORDER:
+        # عمود stores (اختياري): المتاجر اللي بتبيع القسم ده بس، عشان منضيّعش وقت (مثلاً الملابس مش في B.TECH)
+        allowed = {x.strip() for x in (row.get("stores") or "").split("|") if x.strip()} or set(SEARCHERS)
+        for store in [s for s in REF_ORDER if s in allowed]:
             if store == "noon":
                 if time.time() > DEADLINE:
                     break
@@ -611,7 +613,7 @@ def main():
             # نون قافل: المرجع هو نتايج كل المتاجر التانية مع بعض
             # (ولو القسم واسع زي لعب الأطفال، ندوّر بالكلمات البديلة المحددة)
             alts = [x.strip() for x in (row.get("fallback") or "").split("|") if x.strip()] or [q]
-            others = [s for s in SEARCHERS if s != "noon" and fails[s] < MAX_FAILS]
+            others = [s for s in SEARCHERS if s != "noon" and s in allowed and fails[s] < MAX_FAILS]
             per = max(3, limit // len(alts)) if len(alts) > 1 else min(limit, 8)
             PER_STORE, saved = per, PER_STORE
             try:
@@ -625,7 +627,7 @@ def main():
             ref_store = "كل المتاجر" if refs else None
         print(f"✓ قسم «{q}»: {len(refs)} منتج مرجعي من {ref_store or '—'}")
         merged = merge(refs, cat, q)
-        fill(sorted(merged, key=lambda p: -len(p["offers"]))[:max(limit, ANCHORS)], [s for s in SEARCHERS if s != ref_store and fails[s] < MAX_FAILS
+        fill(sorted(merged, key=lambda p: -len(p["offers"]))[:max(limit, ANCHORS)], [s for s in SEARCHERS if s != ref_store and s in allowed and fails[s] < MAX_FAILS
                       and not (s == "noon" and noon_fails >= 3)])
         if not refs:  # كل المتاجر المرجعية قافلة؟ رجّع آخر نسخة من القسم
             merged = [{**p, "offers": [{**o, "stale": True} for o in p["offers"]]}

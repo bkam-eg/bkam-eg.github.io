@@ -1,34 +1,42 @@
-search,category,pages,limit,filter,fallback
-PS5 Slim,بلايستيشن,1,8,yes,
-PS5 Pro,بلايستيشن,1,8,yes,
-DualSense controller,بلايستيشن,1,8,yes,
-PlayStation Portal,بلايستيشن,1,8,yes,
-EA FC 26 PS5,بلايستيشن,1,8,yes,
-iPhone 17 Pro Max,موبايلات,1,8,yes,
-iPhone 17,موبايلات,1,8,yes,
-iPhone 16,موبايلات,1,8,yes,
-Samsung Galaxy S25 Ultra,موبايلات,1,8,yes,
-Samsung Galaxy A56,موبايلات,1,8,yes,
-Samsung Galaxy A36,موبايلات,1,8,yes,
-Xiaomi Redmi Note 14 Pro,موبايلات,1,8,yes,
-AirPods Pro 2,سماعات,1,8,yes,
-AirPods 4,سماعات,1,8,yes,
-Samsung Galaxy Buds3,سماعات,1,8,yes,
-JBL Tune 520BT,سماعات,1,8,yes,
-Anker power bank 20000mAh,إكسسوارات موبايل,1,8,yes,
-Samsung 25W charger,إكسسوارات موبايل,1,8,yes,
-Apple Watch Series 11,ساعات ذكية,1,8,yes,
-Samsung Galaxy Watch8,ساعات ذكية,1,8,yes,
-Xiaomi Smart Band,ساعات ذكية,1,8,yes,
-Logitech G102,كمبيوتر,1,8,yes,
-Logitech G502,كمبيوتر,1,8,yes,
-LEGO Classic,لعب أطفال,1,8,yes,
-LEGO City,لعب أطفال,1,8,yes,
-LEGO Technic,لعب أطفال,1,8,yes,
-Hot Wheels,لعب أطفال,1,8,yes,
-Barbie doll,لعب أطفال,1,8,yes,
-Nerf blaster,لعب أطفال,1,8,yes,
-Play-Doh,لعب أطفال,1,8,yes,
-UNO card game,لعب أطفال,1,8,yes,
-Rubik's Cube,لعب أطفال,1,8,yes,
-Monopoly board game,لعب أطفال,1,8,yes,
+search,category,pages,limit,filter,fallback,stores
+PS5 Slim,بلايستيشن,1,8,yes,,
+PS5 Pro,بلايستيشن,1,8,yes,,
+DualSense controller,بلايستيشن,1,8,yes,,
+PlayStation Portal,بلايستيشن,1,8,yes,,
+EA FC 26 PS5,بلايستيشن,1,8,yes,,
+iPhone 17 Pro Max,موبايلات,1,8,yes,,
+iPhone 17,موبايلات,1,8,yes,,
+iPhone 16,موبايلات,1,8,yes,,
+Samsung Galaxy S25 Ultra,موبايلات,1,8,yes,,
+Samsung Galaxy A56,موبايلات,1,8,yes,,
+Samsung Galaxy A36,موبايلات,1,8,yes,,
+Xiaomi Redmi Note 14 Pro,موبايلات,1,8,yes,,
+AirPods Pro 2,سماعات,1,8,yes,,
+AirPods 4,سماعات,1,8,yes,,
+Samsung Galaxy Buds3,سماعات,1,8,yes,,
+JBL Tune 520BT,سماعات,1,8,yes,,
+Anker power bank 20000mAh,إكسسوارات موبايل,1,8,yes,,
+Samsung 25W charger,إكسسوارات موبايل,1,8,yes,,
+Apple Watch Series 11,ساعات ذكية,1,8,yes,,
+Samsung Galaxy Watch8,ساعات ذكية,1,8,yes,,
+Xiaomi Smart Band,ساعات ذكية,1,8,yes,,
+Logitech G102,كمبيوتر,1,8,yes,,
+Logitech G502,كمبيوتر,1,8,yes,,
+LEGO Classic,لعب أطفال,1,8,yes,,noon|amazon|carrefour
+LEGO City,لعب أطفال,1,8,yes,,noon|amazon|carrefour
+LEGO Technic,لعب أطفال,1,8,yes,,noon|amazon|carrefour
+Hot Wheels,لعب أطفال,1,8,yes,,noon|amazon|carrefour
+Barbie doll,لعب أطفال,1,8,yes,,noon|amazon|carrefour
+Nerf blaster,لعب أطفال,1,8,yes,,noon|amazon|carrefour
+Play-Doh,لعب أطفال,1,8,yes,,noon|amazon|carrefour
+UNO card game,لعب أطفال,1,8,yes,,noon|amazon|carrefour
+Rubik's Cube,لعب أطفال,1,8,yes,,noon|amazon|carrefour
+Monopoly board game,لعب أطفال,1,8,yes,,noon|amazon|carrefour
+adidas t-shirt men,ملابس,1,8,yes,,noon|amazon|carrefour
+Nike t-shirt men,ملابس,1,8,yes,,noon|amazon|carrefour
+Puma t-shirt men,ملابس,1,8,yes,,noon|amazon|carrefour
+adidas hoodie,ملابس,1,8,yes,,noon|amazon|carrefour
+Nike hoodie,ملابس,1,8,yes,,noon|amazon|carrefour
+Levi's jeans men,ملابس,1,8,yes,,noon|amazon|carrefour
+Nike sweatpants,ملابس,1,8,yes,,noon|amazon|carrefour
+adidas track pants,ملابس,1,8,yes,,noon|amazon|carrefour
