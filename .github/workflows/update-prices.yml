@@ -30,11 +30,14 @@ jobs:
       - name: سحب الأسعار
         run: python -u scraper/update_prices.py
 
+      - name: بناء صفحات المنتجات والأقسام و sitemap
+        run: python scraper/build_pages.py
+
       - name: حفظ الأسعار الجديدة
         run: |
           git config user.name "price-bot"
           git config user.email "price-bot@users.noreply.github.com"
-          git add products.json
+          git add products.json index.html sitemap.xml robots.txt p c
           if git diff --cached --quiet; then
             echo "مفيش تغيير"
           else
