@@ -7,6 +7,8 @@
 وبيضيف لكل منتج في products.json حقل "page" عشان الصفحة الرئيسية تربط بيه.
 """
 import hashlib
+import os
+import subprocess
 import html
 import json
 import re
@@ -16,7 +18,16 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parent.parent
-SITE = "https://s3rahakam.github.io"
+# رابط الموقع من اسم الريبو (<اسم>.github.io)، عشان لو اسم الحساب اتغير الروابط تتظبط لوحدها
+_repo = os.environ.get("GITHUB_REPOSITORY", "").split("/")[-1]
+if not _repo:
+    try:
+        _repo = subprocess.run(["git", "remote", "get-url", "origin"], capture_output=True, text=True,
+                               cwd=Path(__file__).resolve().parent).stdout.strip().rstrip("/").split("/")[-1]
+    except OSError:
+        _repo = ""
+    _repo = _repo.removesuffix(".git")
+SITE = "https://" + (_repo if _repo.endswith(".github.io") else "bkam.github.io")
 DATA = ROOT / "products.json"
 SPECS = ROOT / "specs.json"  # من fetch_specs.py
 
@@ -83,12 +94,12 @@ HEAD = """<!doctype html>
 <meta property="og:description" content="{desc}">
 <meta property="og:url" content="{url}">
 {og_image}<meta property="og:locale" content="ar_EG">
-<meta property="og:site_name" content="سعرها كام؟">
+<meta property="og:site_name" content="بكام؟">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Readex+Pro:wght@500;700&family=IBM+Plex+Sans+Arabic:wght@400;500;600&display=swap">
 <link rel="stylesheet" href="/page.css">
 {extra}</head>
 <body>
-<header class="top"><div class="wrap"><a class="logo" href="/">سعرها <span>كام</span>؟</a>
+<header class="top"><div class="wrap"><a class="logo" href="/"><span>بكام</span>؟</a>
 <a class="back" href="/">كل المنتجات ←</a></div></header>
 <main class="wrap">
 """
