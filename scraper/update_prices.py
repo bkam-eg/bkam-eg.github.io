@@ -496,7 +496,7 @@ def main():
             print(f"✗ {query} / {store}: {e}", file=sys.stderr)
             return None
         finally:
-            time.sleep(random.uniform(3, 6))
+            time.sleep(random.uniform(2, 4))
 
     def fill(refs, live):
         """البحث الموجّه: كل منتج مرجعي ندوّر عليه بالاسم في المتاجر اللي ملقيناهوش فيها."""
@@ -607,7 +607,7 @@ def main():
                         found = search_noon(q, limit=200, page_no=pg)
                         ok += 1
                         refs += [r for r in found if r["key"] not in {x["key"] for x in refs}]
-                        time.sleep(random.uniform(3, 6))
+                        time.sleep(random.uniform(2, 4))
                     noon_fails = 0
                 except Exception as e:  # noqa: BLE001
                     noon_fails += 1
