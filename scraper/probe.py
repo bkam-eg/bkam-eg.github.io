@@ -1,13 +1,9 @@
-import re,sys,json
-from curl_cffi import requests as http
-H={"Accept-Language":"en-US,en;q=0.9"}
-for b in ["https://dream2000.com","https://alsheikhstores.com"]:
-    for u in [b+"/en/search?q=iphone+17+pro&type=product", b+"/en/search?q=iphone+17+pro&type=product&view=json", b+"/en/search?type=product&q=iphone+17+pro&section_id=main-search"]:
-        r=http.get(u,impersonate="chrome",timeout=30,headers=H); t=r.text
-        print("#####",u,r.status_code,len(t))
-        m=re.search(r'var meta = (\{.*?\});',t)
-        if m: print("META",m.group(1)[:1500])
-        for i in [x.start() for x in re.finditer(r'href="(/en)?/products/',t)][:2]:
-            print("CARD",re.sub(r'\s+',' ',t[i-300:i+1500]))
-        j=t.find('"@type":"Product"'); 
-        if j>0: print("LD",t[j-200:j+600])
+import sys,json
+sys.path.insert(0,'scraper')
+import update_prices as u
+for st in ("dream2000","alsheikh","miami"):
+    for q in ("iPhone 17 Pro Max","Samsung Galaxy A56","Sharp air conditioner"):
+        try:
+            r=u.SEARCHERS[st](q); print("#",st,q,len(r))
+            for x in r[:3]: print("   ",x["price"],x["brand"],"|",x["name"][:70],"|",x["url"][:80],"|",bool(x["image"]),x["in_stock"])
+        except Exception as e: print("#",st,q,"ERR",e)

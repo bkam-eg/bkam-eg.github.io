@@ -35,6 +35,9 @@ STORES = {
     "2b":     {"name": "2B",         "affiliate": False, "search": "https://2b.com.eg/en/catalogsearch/result/?q="},
     "carrefour": {"name": "كارفور",  "affiliate": False, "search": "https://www.carrefouregypt.com/mafegy/en/search?keyword="},
     "compumarts": {"name": "Compumarts", "affiliate": False, "search": "https://www.compumarts.com/search?q="},
+    "dream2000": {"name": "دريم 2000", "affiliate": False, "search": "https://dream2000.com/en/search?type=product&q="},
+    "alsheikh": {"name": "الشيخ", "affiliate": False, "search": "https://alsheikhstores.com/en/search?type=product&q="},
+    "miami":  {"name": "ميامي سنتر", "affiliate": False, "search": "https://miamicenters.com/?post_type=product&s="},
     "jumia":  {"name": "جوميا",      "affiliate": False, "search": "https://www.jumia.com.eg/catalog/?q="},
 }
 
@@ -274,8 +277,76 @@ def search_carrefour(q):
     return out
 
 
+# ---------- متاجر Shopify (دريم 2000، الشيخ) ----------
+# صفحة البحث فيها كل المنتجات كـ JSON (ShopifyAnalytics meta): الاسم، الماركة، وكل variant بسعره
+
+def search_shopify(store, base, q, limit=24):
+    page = fetch(f"{base}/en/search?type=product&q=" + quote_plus(q))
+    m = re.search(r"var meta = (\{.*?\});\s*\n", page) or re.search(r"var meta = (\{.*?\});", page)
+    if not m:
+        return []
+    try:
+        meta = json.loads(m.group(1))
+    except ValueError:
+        return []
+    out = []
+    for prod in meta.get("products") or []:
+        handle = prod.get("handle")
+        if not handle:
+            continue
+        img = re.search(r'href="/en/products/' + re.escape(handle) + r'[^"]*".{0,4000}?<img[^>]+src="(//[^"]+)"', page, re.S)
+        for v in prod.get("variants") or []:
+            name = v.get("name") or ""
+            if not name or not v.get("price") or re.search(r"\bunpaid tax", name, re.I):
+                continue  # "UnPaid Taxes" نسخة مستوردة من غير ضريبة، مش نفس المنتج الرسمي
+            out.append({
+                "store": store, "brand": prod.get("vendor") or "", "name": name.replace(" / ", " , "),
+                "price": round(v["price"] / 100), "old_price": None,
+                "image": ("https:" + img.group(1).split("&amp;")[0]) if img else "",
+                "url": f"{base}/en/products/{handle}?variant={v['id']}",
+                "in_stock": True, "key": f"{store}:{v['id']}",
+            })
+            if len(out) >= limit:
+                return out
+    return out
+
+
+def search_dream2000(q):
+    return search_shopify("dream2000", "https://dream2000.com", q)
+
+
+def search_alsheikh(q):
+    return search_shopify("alsheikh", "https://alsheikhstores.com", q)
+
+
+# ---------- ميامي سنتر (WooCommerce Store API: JSON رسمي ومفتوح) ----------
+
+def search_miami(q):
+    data = json.loads(fetch("https://miamicenters.com/wp-json/wc/store/v1/products?per_page="
+                            f"{min(PER_STORE, 20)}&search=" + quote_plus(q)))
+    out = []
+    for it in data:
+        pr = it.get("prices") or {}
+        unit = 10 ** int(pr.get("currency_minor_unit") or 0)
+        price = int(pr.get("price") or 0) / unit
+        if not price:
+            continue
+        reg = int(pr.get("regular_price") or 0) / unit
+        brands = it.get("brands") or []
+        out.append({
+            "store": "miami", "brand": brands[0].get("name", "") if brands and isinstance(brands[0], dict) else "",
+            "name": htmllib.unescape(it.get("name") or ""), "price": round(price),
+            "old_price": round(reg) if reg > price else None,
+            "image": (it.get("images") or [{}])[0].get("src", ""),
+            "url": it.get("permalink") or "", "in_stock": it.get("is_in_stock", True) is not False,
+            "key": f"miami:{it.get('id')}",
+        })
+    return out
+
+
 SEARCHERS = {"noon": search_noon, "amazon": search_amazon, "btech": search_btech,
-             "2b": search_2b, "carrefour": search_carrefour, "compumarts": search_compumarts}
+             "2b": search_2b, "carrefour": search_carrefour, "compumarts": search_compumarts,
+             "dream2000": search_dream2000, "alsheikh": search_alsheikh, "miami": search_miami}
 
 
 # ---------- المطابقة بين المتاجر ----------
