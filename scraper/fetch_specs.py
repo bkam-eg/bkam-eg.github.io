@@ -120,7 +120,10 @@ def main():
         cache = {}
     now = datetime.now(timezone.utc)
     fresh = lambda c: c and now - datetime.fromisoformat(c["t"]) < timedelta(days=60 if c.get("specs") else 7)
-    todo = [p for p in products if sources(p) and not fresh(cache.get(p["id"]))]
+    # منتج فشلنا نجيب مواصفاته بس روابطه اتغيرت (زي روابط B.TECH اللي اتصلحت)؟ نجرب تاني على طول
+    tried = lambda p: cache.get(p["id"], {}).get("tried")
+    todo = [p for p in products if sources(p) and (not fresh(cache.get(p["id"]))
+            or (not cache[p["id"]].get("specs") and tried(p) != [u for _, u in sources(p)]))]
     # المنتجات المتقارنة في متاجر أكتر الأول
     todo.sort(key=lambda p: -len({o["store"] for o in p["offers"]}))
     start, got = time.time(), 0
@@ -137,7 +140,8 @@ def main():
             if len(specs) >= 3:
                 src = s
                 break
-        cache[p["id"]] = {"t": now.isoformat(timespec="minutes"), "source": src, "specs": specs if src else []}
+        cache[p["id"]] = {"t": now.isoformat(timespec="minutes"), "source": src, "specs": specs if src else [],
+                          "tried": [u for _, u in sources(p)]}
         got += bool(src)
     keep = {p["id"] for p in products}
     cache = {k: v for k, v in cache.items() if k in keep}  # منتجات اتشالت
