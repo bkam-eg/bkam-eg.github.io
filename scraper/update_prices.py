@@ -319,7 +319,7 @@ def close_price(prices, price):
     if not prices or not price:
         return True
     mid = prices[len(prices) // 2]
-    return 0.4 <= price / mid <= 2.5
+    return 0.6 <= price / mid <= 1.6  # نفس المنتج نادراً ما سعره يفرق أكتر من كده بين متجرين
 
 
 def similar(a, b):
@@ -520,12 +520,22 @@ def main():
         with ThreadPoolExecutor(max(1, len(jobs))) as pool:
             hits = list(pool.map(targeted, jobs))
         for store, pairs in zip(jobs, hits):
+            # كل منتج في المتجر يتربط بمنتج مرجعي واحد بس (الأقرب له)،
+            # عشان تلاجة واحدة متتحطش قدام 3 تلاجات بأحجام مختلفة
+            cands = []
             for p, found in pairs:
-                best = max(found, key=lambda r: similar(p.get("brand", "") + " " + p["name"],
-                                                         r.get("brand", "") + " " + r["name"]), default=None)
-                if best and similar(p.get("brand", "") + " " + p["name"],
-                                    best.get("brand", "") + " " + best["name"]) >= 0.5 \
-                        and close_price([o["price"] for o in p["offers"]], best["price"]):
+                ref = p.get("brand", "") + " " + p["name"]
+                for r in found:
+                    sim = similar(ref, r.get("brand", "") + " " + r["name"])
+                    if sim >= 0.5 and close_price([o["price"] for o in p["offers"]], r["price"]):
+                        cands.append((sim, id(p), p, r))
+            used_urls, done = set(), set()
+            for sim, pid, p, best in sorted(cands, key=lambda c: -c[0]):
+                if pid in done or best["url"] in used_urls:
+                    continue
+                done.add(pid)
+                used_urls.add(best["url"])
+                if True:
                     p["offers"].append({k: best[k] for k in ("store", "price", "old_price", "url", "in_stock")})
                     if best.get("image") and best["image"] not in p["images"]:
                         p["images"].append(best["image"])
