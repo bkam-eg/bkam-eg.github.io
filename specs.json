@@ -4280,5 +4280,10887 @@
     "Yes"
    ]
   ]
+ },
+ "btech-1TXITVSML32M8P2EL007": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "MPN",
+    "L32MB-P2EG"
+   ],
+   [
+    "Device Type",
+    "TVs"
+   ],
+   [
+    "Country of Manufacture",
+    "Egypt"
+   ],
+   [
+    "Brand",
+    "Xiaomi"
+   ],
+   [
+    "Color",
+    "Black"
+   ],
+   [
+    "Model",
+    "Xiaomi 32\" LED HD Smart Google TV- TV A 32"
+   ],
+   [
+    "Smart TV",
+    "Yes"
+   ],
+   [
+    "Design",
+    "Flat"
+   ],
+   [
+    "Display Type",
+    "LED"
+   ],
+   [
+    "Resolution",
+    "HD"
+   ],
+   [
+    "Display Size",
+    "32 inches"
+   ],
+   [
+    "warranty",
+    "2 Years"
+   ]
+  ]
+ },
+ "btech-D4DE17973CBB37111CD0": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Xiaomi"
+   ],
+   [
+    "Resolution Type",
+    "4K UHD"
+   ],
+   [
+    "Model Number",
+    "PFJ4191EU"
+   ],
+   [
+    "Model Name",
+    "S 3rd Gen"
+   ]
+  ]
+ },
+ "btech-1TTCTVSM43S5K000L007": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Display diagonal",
+    "43-inch"
+   ],
+   [
+    "Display resolution",
+    "1920 x 1080"
+   ],
+   [
+    "OLED technology",
+    "No"
+   ],
+   [
+    "HD type",
+    "FHD"
+   ],
+   [
+    "Ethernet LAN",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "Built-in speaker",
+    "Yes"
+   ],
+   [
+    "USB 2.0 ports quantity",
+    "1"
+   ],
+   [
+    "USB 3.0 - 3.1 Gen 1 Type-A ports quantity",
+    "1"
+   ],
+   [
+    "HDMI ports quantity",
+    "2"
+   ],
+   [
+    "Internet TV",
+    "Yes"
+   ],
+   [
+    "Smart TV",
+    "Yes"
+   ]
+  ]
+ },
+ "btech-1TTCTVSM50P7K000L007": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-1D45945CD90C9EA6EAB1": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "HP"
+   ],
+   [
+    "Color",
+    "Silver"
+   ],
+   [
+    "MPN",
+    "DW0T0EA"
+   ],
+   [
+    "Part Number",
+    "DW0T0EA"
+   ],
+   [
+    "Model",
+    "HP Victus 15-fb3031ne"
+   ],
+   [
+    "Processor",
+    "AMD"
+   ],
+   [
+    "Processor Information",
+    "AMD Ryzen™ 7 7445HS (up to 4.7 GHz max boost clock, 16 MB L3 cache, 6 cores, 12 threads)"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "RAM Information",
+    "12 GB DDR5"
+   ],
+   [
+    "Hard Disk Capacity",
+    "512 GB"
+   ],
+   [
+    "Hard Disk Type",
+    "512 GB PCIe® Gen4 NVMe™ M.2 SSD"
+   ],
+   [
+    "Graphics Card",
+    "NVIDIA® GeForce RTX 3050"
+   ],
+   [
+    "Graphics Card Details",
+    "NVIDIA® GeForce RTX™ 3050 6GB GDDR6"
+   ],
+   [
+    "Display Type",
+    "15.6\" FHD (1920 x 1080), 144 Hz"
+   ],
+   [
+    "Display Size",
+    "15.6 inches"
+   ],
+   [
+    "warranty",
+    "3 Years"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 6E MT7922 (2x2) and Bluetooth® 5.3 wireless card"
+   ],
+   [
+    "Speaker",
+    "Stereo Speakers"
+   ],
+   [
+    "I/O Ports",
+    "1 USB Type-A 5Gbps signaling rate (HP Sleep and Charge), 1 USB Type-A 5Gbps signaling rate, 1 AC smart pin; 1 HDMI 2.1, 1 headphone/microphone combo, 1 RJ-45, 1 USB Type-C® 5Gbps signaling rate"
+   ],
+   [
+    "Operating System",
+    "Windows 11"
+   ]
+  ]
+ },
+ "btech-F5E45A1BB753BBA1DC98": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "compumarts",
+  "specs": [
+   [
+    "CPU",
+    "Intel Core i5-13420H (8C /12T)"
+   ],
+   [
+    "GPU",
+    "NVIDIA GeForce RTX 3050 6GB"
+   ],
+   [
+    "MEMORY",
+    "8GB DDR4 3200MHz"
+   ],
+   [
+    "STORAGE",
+    "512GB Nvme GEN 4"
+   ],
+   [
+    "DISPLAY",
+    "FHD (1920x1080)"
+   ],
+   [
+    "OS",
+    "Windows 11"
+   ]
+  ]
+ },
+ "btech-1BASLPMDHN167W00L007": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "compumarts",
+  "specs": [
+   [
+    "CPU",
+    "AMD Ryzen™ 7 170"
+   ],
+   [
+    "GPU",
+    "NVIDIA® GeForce RTX™ 3050 Laptop GPU"
+   ],
+   [
+    "MEMORY",
+    "16 GB DDR5-4800 MHz SO-DIMM"
+   ],
+   [
+    "STORAGE",
+    "512 GB PCIe® 4.0 NVMe™ M.2 SSD"
+   ],
+   [
+    "DISPLAY",
+    "15.6\", Resolution: 1920 × 1080 (Full HD)"
+   ],
+   [
+    "OS",
+    "Windows 11 Home"
+   ]
+  ]
+ },
+ "btech-1BAPLPSMMBAM4130L077": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "Apple"
+   ],
+   [
+    "Color",
+    "Starlight"
+   ],
+   [
+    "MPN",
+    "MDG54"
+   ],
+   [
+    "Part Number",
+    "MDG54"
+   ],
+   [
+    "Model",
+    "Apple MacBook Air"
+   ],
+   [
+    "Processor Information",
+    "Apple M4 chip with 10‑core CPU, 10‑core GPU"
+   ],
+   [
+    "RAM",
+    "16 GB"
+   ],
+   [
+    "Hard Disk Capacity",
+    "1 Tera"
+   ],
+   [
+    "Hard Disk Type",
+    "1TB SSD"
+   ],
+   [
+    "Display Type",
+    "13.6\" Liquid Retina"
+   ],
+   [
+    "Display Size",
+    "13 inches"
+   ],
+   [
+    "warranty",
+    "1 Year"
+   ],
+   [
+    "Speaker",
+    "Stereo Speakers"
+   ],
+   [
+    "Operating System",
+    "Mac Os"
+   ]
+  ]
+ },
+ "btech-1BAPLPSMMBAM4000L006": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "Apple"
+   ],
+   [
+    "Color",
+    "Blue"
+   ],
+   [
+    "MPN",
+    "MDG24"
+   ],
+   [
+    "Part Number",
+    "MDG24"
+   ],
+   [
+    "Model",
+    "Apple MacBook Air"
+   ],
+   [
+    "Processor Information",
+    "Apple M4 chip with 10-core CPU and 10-core GPU"
+   ],
+   [
+    "RAM",
+    "16 GB"
+   ],
+   [
+    "Hard Disk Capacity",
+    "1 Tera"
+   ],
+   [
+    "Hard Disk Type",
+    "1TB SSD"
+   ],
+   [
+    "Display Type",
+    "13.6\" Liquid Retina"
+   ],
+   [
+    "Display Size",
+    "13 inches"
+   ],
+   [
+    "warranty",
+    "1 Year"
+   ],
+   [
+    "Speaker",
+    "Stereo Speakers"
+   ],
+   [
+    "Operating System",
+    "Mac Os"
+   ]
+  ]
+ },
+ "btech-561BB51642CED24AEA71": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Loading type",
+    "Top Load"
+   ],
+   [
+    "Built-in display",
+    "No"
+   ],
+   [
+    "Dimensions WxDxH",
+    "400 x 740 x 885"
+   ],
+   [
+    "Washing class",
+    "Semi Automatic"
+   ],
+   [
+    "Washing capacity",
+    "8"
+   ],
+   [
+    "Drying capacity",
+    "3"
+   ],
+   [
+    "Maximum spin speed",
+    "1350"
+   ]
+  ]
+ },
+ "btech-C03103EB2823B372A86F": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Fresh"
+   ],
+   [
+    "Inverter Motor",
+    "Yes"
+   ],
+   [
+    "Energy Efficiency Class",
+    "A"
+   ],
+   [
+    "Model Number",
+    "500016432"
+   ],
+   [
+    "RPM",
+    "1200"
+   ]
+  ]
+ },
+ "btech-1MSAWMFUWW90T404F008": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Child Lock",
+    "Yes"
+   ],
+   [
+    "Inverter Motor",
+    "Yes"
+   ],
+   [
+    "Steam Function",
+    "Yes"
+   ],
+   [
+    "RPM",
+    "1400"
+   ],
+   [
+    "Dimensions",
+    "(HXDXW): 85X60X55 cm"
+   ],
+   [
+    "Model Number",
+    "WW90T4040CX1AS"
+   ]
+  ]
+ },
+ "btech-722CE761134B384C3A88": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Sharp"
+   ],
+   [
+    "Filter Type",
+    "Plasma"
+   ],
+   [
+    "Cooling Type",
+    "Only Cooling"
+   ],
+   [
+    "Cooling Capacity",
+    "24000 BTU"
+   ],
+   [
+    "Horsepower",
+    "3 horsepower"
+   ],
+   [
+    "Dimensions",
+    "(HxWxD): 1122 x 327 x 259 mm"
+   ],
+   [
+    "Model Number",
+    "AH-XP24UHE"
+   ]
+  ]
+ },
+ "btech-3D13505C42559A083A51": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Processor model",
+    "Qualcomm SM7750-AB Snapdragon 7"
+   ],
+   [
+    "Processor frequency",
+    "1.8"
+   ],
+   [
+    "Battery capacity",
+    "6700"
+   ],
+   [
+    "Color",
+    "White"
+   ],
+   [
+    "Internal storage capacity",
+    "256"
+   ],
+   [
+    "Internal RAM in GB",
+    "12"
+   ],
+   [
+    "Display diagonal",
+    "6.32"
+   ],
+   [
+    "Display resolution",
+    "1216 x 2640"
+   ],
+   [
+    "Touchscreen",
+    "Yes"
+   ],
+   [
+    "Built-in flash",
+    "Yes"
+   ],
+   [
+    "Second camera",
+    "Yes"
+   ],
+   [
+    "Main camera resolution - numeric",
+    "50"
+   ],
+   [
+    "Bluetooth",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "SIM card type",
+    "Nano-SIM"
+   ],
+   [
+    "4G",
+    "Yes"
+   ],
+   [
+    "SIM card capability",
+    "Dual SIM"
+   ],
+   [
+    "Operating system installed",
+    "Android 16"
+   ],
+   [
+    "GPS - satellite",
+    "Yes"
+   ],
+   [
+    "USB port",
+    "Yes"
+   ]
+  ]
+ },
+ "btech-7CA195CADC6DE1910D7D": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-50378D650B8638920AFC": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-0F30E571C45A8DFE1426": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-1BRMOMSMR15P16GLL008": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Realme"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "OLED"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Memory Card Slot",
+    "No"
+   ],
+   [
+    "Display Resolution",
+    "1280x2800"
+   ],
+   [
+    "Operating System Type",
+    "Android 15"
+   ],
+   [
+    "Dimensions",
+    "162.3 x 76.2 x 7.7 mm"
+   ],
+   [
+    "Model Name",
+    "15 Pro"
+   ],
+   [
+    "Connectivity",
+    "Bluetooth 5.4, USB Type-C 2, Infrared port, USB Type-C 2, Wifi, GPS"
+   ],
+   [
+    "Chipset Manufacturer",
+    "Qualcomm SM7750-AB Snapdragon 7 Gen 4, Octa-core"
+   ],
+   [
+    "Video Capture Format",
+    "4K@30/60fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+   ],
+   [
+    "Screen Size",
+    "6.8 Inch"
+   ],
+   [
+    "Front Camera",
+    "50 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "50 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "7000 mAh"
+   ]
+  ]
+ },
+ "btech-1BRMOMSMR15P16RRL005": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "Realme"
+   ],
+   [
+    "Color",
+    "Green"
+   ],
+   [
+    "MPN",
+    "RMX5101G-12256"
+   ],
+   [
+    "Network 2G",
+    "GSM 850 / 900 / 1800 / 1900"
+   ],
+   [
+    "Network 3G",
+    "HSDPA 850 / 900 / 2100"
+   ],
+   [
+    "4G Network",
+    "HSPA, LTE, 5G"
+   ],
+   [
+    "SIM Card",
+    "Dual SIM"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM7750-AB Snapdragon 7 Gen 4 (4 nm)"
+   ],
+   [
+    "CPU (Processor)",
+    "Octa Core"
+   ],
+   [
+    "CPU Speed (GHz)",
+    "Octa-core (1x2.8 GHz Cortex-720 & 4x2.4 GHz Cortex-720 & 3x1.8 GHz Cortex-520)"
+   ],
+   [
+    "GPU",
+    "Adreno 722"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Display Size",
+    "6.8 inches"
+   ],
+   [
+    "Display Type",
+    "6.8 inches 1280 x 2800 pixels, 19.5:9 ratio (~453 ppi density) OLED, 1B colors, 144Hz, 4608Hz PWM, HDR10+, 1800 nits (HBM), 6500 nits (peak)"
+   ],
+   [
+    "Internal Storage",
+    "256 GB"
+   ],
+   [
+    "Operating System",
+    "Android"
+   ],
+   [
+    "OS version",
+    "Android 15, up to 3 major Android upgrades, Realme UI 6.0"
+   ],
+   [
+    "Primary Camera",
+    "Dual: 50 MP, f/1.8 (wide), PDAF, OIS + 50 MP, f/2.0, 16mm, 116˚ (ultrawide)LED flash, HDR, panorama"
+   ],
+   [
+    "Secondary Camera",
+    "50 MP, f/2.4, 23mm (wide)"
+   ],
+   [
+    "Video Resolutions",
+    "4K@30/60fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+   ],
+   [
+    "Connectivity",
+    "WLAN: Wi-Fi 802.11 a/b/g/n/ac/6, dual-band Bluetooth: 5.4, A2DP, LE Positioning: GPS, GLONASS, GALILEO, BDS Radio: No USB: USB Type-C 2.0"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Battery",
+    "Li-Ion 7000 mAh 80W wired, 50% in 25 min"
+   ],
+   [
+    "warranty",
+    "1 Year"
+   ]
+  ]
+ },
+ "btech-1BRMMOBIRP16PGRYL020": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Realme"
+   ],
+   [
+    "Display Type",
+    "AMOLED"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Version",
+    "Middle East Version"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Memory Card Slot",
+    "No"
+   ],
+   [
+    "Display Resolution",
+    "2772x1272"
+   ],
+   [
+    "Operating System Type",
+    "Android 16"
+   ],
+   [
+    "Model Name",
+    "16 Pro"
+   ],
+   [
+    "Dimensions",
+    "162.6 x 77.6 x 7.8 mm"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Bluetooth 5.4, USB Type-C 2, OTG, GPS, GLONASS, GALILEO, BDS"
+   ],
+   [
+    "Chipset Manufacturer",
+    "MediaTek Dimensity"
+   ],
+   [
+    "Video Capture Format",
+    "Video 4K@30fps, 1080p@30/60/120fps"
+   ],
+   [
+    "Processor Manufacturer",
+    "Mediatek Dimensity 7300 Max (4 nm) - Octa-core"
+   ],
+   [
+    "Battery Capacity",
+    "7000 mAh"
+   ],
+   [
+    "Screen Size",
+    "6.78 Inch"
+   ],
+   [
+    "Front Camera",
+    "50 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "200 megapixels"
+   ]
+  ]
+ },
+ "btech-1BRMMOBIRP16PGD0L010": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Realme"
+   ],
+   [
+    "Display Type",
+    "AMOLED"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Version",
+    "Middle East Version"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Memory Card Slot",
+    "No"
+   ],
+   [
+    "Display Resolution",
+    "2772x1272"
+   ],
+   [
+    "Operating System Type",
+    "Android 16"
+   ],
+   [
+    "Model Name",
+    "16 Pro"
+   ],
+   [
+    "Dimensions",
+    "162.6 x 77.6 x 7.8 mm"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Bluetooth 5.4, USB Type-C 2, OTG, GPS, GLONASS, GALILEO, BDS"
+   ],
+   [
+    "Chipset Manufacturer",
+    "MediaTek Dimensity"
+   ],
+   [
+    "Video Capture Format",
+    "Video 4K@30fps, 1080p@30/60/120fps"
+   ],
+   [
+    "Processor Manufacturer",
+    "Mediatek Dimensity 7300 Max (4 nm) - Octa-core"
+   ],
+   [
+    "Battery Capacity",
+    "7000 mAh"
+   ],
+   [
+    "Screen Size",
+    "6.78 Inch"
+   ],
+   [
+    "Front Camera",
+    "50 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "200 megapixels"
+   ]
+  ]
+ },
+ "2b-infinix-hot-70-6gb-ram-128gb-dive-blue.html": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "Infinix"
+   ],
+   [
+    "Color",
+    "Blue"
+   ],
+   [
+    "MPN",
+    "4894947121814"
+   ],
+   [
+    "Network 2G",
+    "GSM 850 / 900 / 1800 / 1900"
+   ],
+   [
+    "Network 3G",
+    "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100"
+   ],
+   [
+    "4G Network",
+    "HSPA, LTE"
+   ],
+   [
+    "SIM Card",
+    "Dual SIM"
+   ],
+   [
+    "Chipset",
+    "Mediatek Helio G100 Ultimate (6 nm)"
+   ],
+   [
+    "CPU (Processor)",
+    "Octa Core"
+   ],
+   [
+    "CPU Speed (GHz)",
+    "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)"
+   ],
+   [
+    "GPU",
+    "Mali-G52 MC2"
+   ],
+   [
+    "RAM",
+    "6 GB"
+   ],
+   [
+    "Display Size",
+    "6.7 inches"
+   ],
+   [
+    "Display Type",
+    "6.78 inches, 720 x 1576 pixels, 19.5:9 ratio (~256 ppi density) IPS LCD, 120Hz, 700 nits (HBM)"
+   ],
+   [
+    "Internal Storage",
+    "128 GB"
+   ],
+   [
+    "Operating System",
+    "Android"
+   ],
+   [
+    "OS version",
+    "Android 16, up to 3 major Android upgrades, XOS 16"
+   ],
+   [
+    "Primary Camera",
+    "50 MP, f/1.9, (wide), AF Auxiliary lens Dual-LED flash, HDR, panorama"
+   ],
+   [
+    "Secondary Camera",
+    "8 MP, f/2.0, (wide) Dual-LED flash"
+   ],
+   [
+    "Video Resolutions",
+    "1440p@30fps, 1080p@30fps"
+   ],
+   [
+    "Connectivity",
+    "WLAN : Wi-Fi 802.11 a/b/g/n/ac, dual-band Bluetooth : 5.4, A2DP, LE Positioning : GPS Infrared port : Yes Radio : FM radio USB : USB Type-C 2.0, OTG"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Battery",
+    "6000 mAh 45W wired, 50% in 25 min 10W reverse wired Bypass charging"
+   ],
+   [
+    "warranty",
+    "2 Years"
+   ]
+  ]
+ },
+ "2b-infinix-hot-70-8gb-ram-256gb-thermo-orange.html": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "Infinix"
+   ],
+   [
+    "Color",
+    "Orange"
+   ],
+   [
+    "MPN",
+    "4894947122002"
+   ],
+   [
+    "Network 2G",
+    "GSM 850 / 900 / 1800 / 1900"
+   ],
+   [
+    "Network 3G",
+    "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100"
+   ],
+   [
+    "4G Network",
+    "HSPA, LTE"
+   ],
+   [
+    "SIM Card",
+    "Dual SIM"
+   ],
+   [
+    "Chipset",
+    "Mediatek Helio G100 Ultimate (6 nm)"
+   ],
+   [
+    "CPU (Processor)",
+    "Octa Core"
+   ],
+   [
+    "CPU Speed (GHz)",
+    "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)"
+   ],
+   [
+    "GPU",
+    "Mali-G52 MC2"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Display Size",
+    "6.7 inches"
+   ],
+   [
+    "Display Type",
+    "6.78 inches, 720 x 1576 pixels, 19.5:9 ratio (~256 ppi density) IPS LCD, 120Hz, 700 nits (HBM)"
+   ],
+   [
+    "Internal Storage",
+    "256 GB"
+   ],
+   [
+    "Operating System",
+    "Android"
+   ],
+   [
+    "OS version",
+    "Android 16, up to 3 major Android upgrades, XOS 16"
+   ],
+   [
+    "Primary Camera",
+    "50 MP, f/1.9, (wide), AF Auxiliary lens Dual-LED flash, HDR, panorama"
+   ],
+   [
+    "Secondary Camera",
+    "8 MP, f/2.0, (wide) Dual-LED flash"
+   ],
+   [
+    "Video Resolutions",
+    "1440p@30fps, 1080p@30fps"
+   ],
+   [
+    "Connectivity",
+    "WLAN : Wi-Fi 802.11 a/b/g/n/ac, dual-band Bluetooth : 5.4, A2DP, LE Positioning : GPS Infrared port : Yes Radio : FM radio USB : USB Type-C 2.0, OTG"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Battery",
+    "6000 mAh 45W wired, 50% in 25 min 10W reverse wired Bypass charging"
+   ],
+   [
+    "warranty",
+    "2 Years"
+   ]
+  ]
+ },
+ "btech-519A15650DD42DD2777C": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Xiaomi"
+   ],
+   [
+    "Display Type",
+    "IPS LCD"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Without SIM"
+   ],
+   [
+    "Operating System Type",
+    "Android 13"
+   ],
+   [
+    "Model Name",
+    "Redmi Pad SE"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11, Bluetooth 5"
+   ],
+   [
+    "Number Of Cores",
+    "Octa"
+   ],
+   [
+    "Screen Size",
+    "11 Inch"
+   ],
+   [
+    "Front Camera",
+    "5 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "8 megapixels"
+   ]
+  ]
+ },
+ "btech-07721F04CC61A8223030": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Dell"
+   ],
+   [
+    "Port Type",
+    "VGA and DisplayPort"
+   ],
+   [
+    "Display Resolution",
+    "1600x900"
+   ],
+   [
+    "Resolution Type",
+    "HD"
+   ],
+   [
+    "Dimensions",
+    "18.6 in x 6.7 in x 14.5 in (with stand)"
+   ],
+   [
+    "Connectivity",
+    "1 VGA, 1 DisplayPort 1.2"
+   ],
+   [
+    "Model Number",
+    "E2020H"
+   ],
+   [
+    "Compatibility",
+    "Multi devices"
+   ],
+   [
+    "Connection Type",
+    "Wired"
+   ],
+   [
+    "Refresh Rate",
+    "60 Hertz"
+   ],
+   [
+    "Response Time",
+    "5 Millisecond"
+   ]
+  ]
+ },
+ "btech-2C9F983232A7FD67F559": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Dell"
+   ],
+   [
+    "Dimensions",
+    "395.75 x492.86 x286.48 mm"
+   ],
+   [
+    "Model Number",
+    "SE2225HM"
+   ],
+   [
+    "Connectivity",
+    "1 HDMI port, 1 VGA port"
+   ],
+   [
+    "Connection Type",
+    "Wired"
+   ],
+   [
+    "Refresh Rate",
+    "100 Hertz"
+   ],
+   [
+    "Response Time",
+    "5 Millisecond"
+   ]
+  ]
+ },
+ "btech-0629AEC83B00A9E65D0B": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Philips"
+   ],
+   [
+    "Wattage",
+    "1700 Watt"
+   ],
+   [
+    "Capacity",
+    "6.2 Liter"
+   ],
+   [
+    "Model Name",
+    "2000 Series"
+   ],
+   [
+    "Model Number",
+    "NA230-00"
+   ]
+  ]
+ },
+ "btech-1SPHBLFSHR204116L001": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Philips"
+   ],
+   [
+    "Pulse Function",
+    "Yes"
+   ],
+   [
+    "Capacity",
+    "1 Liter"
+   ],
+   [
+    "Wattage",
+    "450 Watt"
+   ],
+   [
+    "Material",
+    "Plastic"
+   ],
+   [
+    "Dimensions",
+    "16.4D x 37.3W x 19.2H cm"
+   ],
+   [
+    "Model Number",
+    "HR2041/16"
+   ],
+   [
+    "Super Features",
+    "ProBlend System"
+   ],
+   [
+    "Included Attachments",
+    "Mill"
+   ],
+   [
+    "Speed Settings",
+    "1"
+   ],
+   [
+    "Number Of Attachments",
+    "1"
+   ]
+  ]
+ },
+ "btech-1BSAASSBHUB11BLKL007": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "MPN",
+    "Band 11"
+   ],
+   [
+    "Device Type",
+    "Smart Bands"
+   ],
+   [
+    "Brand",
+    "Huawei"
+   ],
+   [
+    "Model",
+    "Huawei Band 11 - Black"
+   ],
+   [
+    "Display Size",
+    "1.62 inches"
+   ],
+   [
+    "Battery Time",
+    "Up to 14 Days"
+   ],
+   [
+    "Color",
+    "Black"
+   ],
+   [
+    "Support",
+    "SPO2, Heart Rate, Workout, BT Calls"
+   ],
+   [
+    "warranty",
+    "1 Year"
+   ]
+  ]
+ },
+ "btech-A4AB4CAF2D3645BF98A0": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "MPN",
+    "Band 11"
+   ],
+   [
+    "Device Type",
+    "Smart Bands"
+   ],
+   [
+    "Brand",
+    "Huawei"
+   ],
+   [
+    "Model",
+    "Huawei Band 11 - Green"
+   ],
+   [
+    "Display Size",
+    "1.62 inches"
+   ],
+   [
+    "Battery Time",
+    "Up to 14 Days"
+   ],
+   [
+    "Color",
+    "Green"
+   ],
+   [
+    "Support",
+    "SPO2, Heart Rate, Workout, BT Calls"
+   ],
+   [
+    "warranty",
+    "1 Year"
+   ]
+  ]
+ },
+ "btech-1BSAASSBHU11PRBKL007": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Huawei"
+   ],
+   [
+    "Display Type",
+    "AMOLED"
+   ],
+   [
+    "Material",
+    "Aluminium alloy case"
+   ],
+   [
+    "Dimensions",
+    "43.5 × 28.2 × 8.99 mm"
+   ],
+   [
+    "Model Name",
+    "Band 11 Pro"
+   ],
+   [
+    "Connectivity",
+    "Bluetooth 6"
+   ]
+  ]
+ },
+ "carrefour-679638": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Display diagonal",
+    "55 Inch"
+   ],
+   [
+    "Display resolution",
+    "3840 x 2160"
+   ],
+   [
+    "HD type",
+    "Ultra HD"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "Smart TV",
+    "Yes"
+   ]
+  ]
+ },
+ "2b-fresh-washing-machine-9-kgs-front-loading-full-automatic-inverter-direct-drive-b": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Child Lock",
+    "Yes"
+   ],
+   [
+    "Dimensions",
+    "60 x 85 x 55 cm"
+   ],
+   [
+    "Model Number",
+    "WW90CGC0EDABAS"
+   ],
+   [
+    "RPM",
+    "1400"
+   ]
+  ]
+ },
+ "btech-350D7F09FF874EFA3C73": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-1MFRWMHFT14000NDL001": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Fresh"
+   ],
+   [
+    "Model Name",
+    "FWT14000ND"
+   ],
+   [
+    "RPM",
+    "1350"
+   ]
+  ]
+ },
+ "btech-8BDA1E68DD1714F19A7B": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-8B1F8B7E54071B334256": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-04364452075F0B8E7926": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Port Type",
+    "VGA and HDMI"
+   ],
+   [
+    "Resolution Type",
+    "FHD"
+   ],
+   [
+    "Display Resolution",
+    "1920x1080"
+   ],
+   [
+    "Model Name",
+    "Essential Monitor S3"
+   ],
+   [
+    "Connectivity",
+    "HDMI, VGA"
+   ],
+   [
+    "Model Number",
+    "LS24F330EAUXEN"
+   ],
+   [
+    "Connection Type",
+    "Wired"
+   ],
+   [
+    "Refresh Rate",
+    "100 Hertz"
+   ],
+   [
+    "Response Time",
+    "5 Millisecond"
+   ]
+  ]
+ },
+ "2b-lenovo-legion-h500-pro-gaming-headset-ps4-ps-5-pc-mac-mobile-nintendo-switch-xbo": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "Lenovo"
+   ],
+   [
+    "MPN",
+    "GXD0T69864"
+   ],
+   [
+    "Part Number",
+    "GXD0T69864"
+   ],
+   [
+    "Model",
+    "Lenovo Legion H500 Pro Gaming Headset PS4 - PS 5 - PC - Mac - Mobile - Nintendo Switch - Xbox - GXD0T69864 - Iron Gray"
+   ],
+   [
+    "Connectivity",
+    "Wired"
+   ],
+   [
+    "Color",
+    "Gray"
+   ],
+   [
+    "Connectivity Type",
+    "3.5mm"
+   ],
+   [
+    "warranty",
+    "1 Year"
+   ]
+  ]
+ },
+ "compumarts-somic-gs401pro-wireless-gaming-headset-with-microphone-bluetooth-5-2-wireless-he": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-CA4D156A944F66F433B1": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "2b-sony-dualsense-wireless-controller-for-playstation-5-silver.html": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Device Type",
+    "Gamepads & Controllers"
+   ],
+   [
+    "Brand",
+    "Sony"
+   ],
+   [
+    "Color",
+    "Silver"
+   ],
+   [
+    "Model",
+    "Sony DualSense Wireless Controller For PlayStation 5 - Silver"
+   ],
+   [
+    "Connectivity",
+    "Bluetooth"
+   ],
+   [
+    "Material",
+    "Plastic"
+   ],
+   [
+    "Function",
+    "\"PlayStation\", \"PlayStation Family Mark\", \"PS5 logo\", \"PS5\", \"DualSense\" and \"DUALSHOCK\" are registered trademarks or trademarks of Sony Interactive Entertainment Inc. \"SONY\" is a registered trademark of Sony Corporation."
+   ],
+   [
+    "Compatible with",
+    "PlayeStation 5"
+   ],
+   [
+    "Other",
+    "Color : Sterling Silver, Wireless : Yes, Headset Jack : Yes, Battery Type : Lithium-ion polymer, Number of Batteries Required : 1"
+   ]
+  ]
+ },
+ "carrefour-1836147000754": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-1836147000723": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-1836147000755": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-1698542003089": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-2251257000152": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-1C3D200DDAAE733E12E2": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-1BAPOMSMIP17PM51L003": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-457EAFF5ADCC8CDBF64B": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-E89728F7D78B44C3861E": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "compumarts-apple-iphone-15-pro-max-5g": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "compumarts",
+  "specs": [
+   [
+    "Back Facing Camera",
+    "48MP"
+   ],
+   [
+    "Battery Life",
+    "Up to 29 Hours"
+   ],
+   [
+    "Front Facing Camera",
+    "12MP"
+   ],
+   [
+    "Mobile Storage",
+    "256 GB"
+   ],
+   [
+    "Operating System",
+    "iOS"
+   ],
+   [
+    "Other Features",
+    "Fast Charge"
+   ],
+   [
+    "Security Features",
+    "Facial recognition"
+   ],
+   [
+    "SIM",
+    "Dual SIM"
+   ],
+   [
+    "SIM Size",
+    "Nano-SIM and eSIM"
+   ],
+   [
+    "Cellular",
+    "5G"
+   ],
+   [
+    "iPhone Model",
+    "iPhone 15 Pro Max"
+   ],
+   [
+    "What's In The Box",
+    "USB‑C Charge Cable"
+   ],
+   [
+    "Display Feature",
+    "Dolby Vision"
+   ],
+   [
+    "Display Resolution",
+    "Super Retina XDR"
+   ],
+   [
+    "Screen Type",
+    "OLED"
+   ],
+   [
+    "Screen Size (Display)",
+    "6.7\""
+   ],
+   [
+    "Pixel Density",
+    "460 ppi"
+   ],
+   [
+    "Screen Resolution",
+    "2796 x 1290px"
+   ],
+   [
+    "Touch Screen",
+    "Yes"
+   ],
+   [
+    "Refresh Rate",
+    "120Hz"
+   ],
+   [
+    "Power Source",
+    "Battery"
+   ],
+   [
+    "Battery Type",
+    "Lithium-ion"
+   ],
+   [
+    "Width",
+    "76.7 mm"
+   ],
+   [
+    "Depth",
+    "8.25 mm"
+   ],
+   [
+    "Height",
+    "159.9 mm"
+   ],
+   [
+    "Weight",
+    "0.221 kg"
+   ]
+  ]
+ },
+ "btech-1BAPOMSMIP17BK00L007": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-1BAPOMSMIP17WH00L001": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-1BAPOMSMIP17BL00L006": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-8B60D6F7E9F5D42A4AAB": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-5D52B175E8C0ADE50720": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Apple"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "Super Retina XDR OLED"
+   ],
+   [
+    "Charging Type",
+    "Wired / Wireless"
+   ],
+   [
+    "Number of Sim",
+    "Single SIM"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Display Resolution",
+    "1179×2556"
+   ],
+   [
+    "Operating System Type",
+    "iOS"
+   ],
+   [
+    "Dimensions",
+    "147.6 x 71.6 x 7.8 mm"
+   ],
+   [
+    "Model Name",
+    "iPhone 16"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, hotspot, Bluetooth 5.3, A2DP, LE, Positioning GPS, GLONASS, GALILEO, BDS, QZSS, USB Type-C 2, DisplayPort"
+   ],
+   [
+    "Chipset Manufacturer",
+    "Apple"
+   ],
+   [
+    "Video Capture Format",
+    "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+   ],
+   [
+    "Processor Manufacturer",
+    "Apple A18 (3 nm)"
+   ],
+   [
+    "Screen Size",
+    "6.1 Inch"
+   ],
+   [
+    "Front Camera",
+    "12 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "48 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "3561 mAh"
+   ]
+  ]
+ },
+ "2b-apple-iphone-16-plus-256gb-pink.html": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "Apple"
+   ],
+   [
+    "Color",
+    "Pink"
+   ],
+   [
+    "MPN",
+    "A3291P"
+   ],
+   [
+    "Network 2G",
+    "GSM 900 / 1800 / 1900"
+   ],
+   [
+    "Network 3G",
+    "HSDPA 900 / 1900 / 2100"
+   ],
+   [
+    "4G Network",
+    "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps"
+   ],
+   [
+    "SIM Card",
+    "Single SIM"
+   ],
+   [
+    "Chipset",
+    "Apple A18 (3 nm)"
+   ],
+   [
+    "CPU (Processor)",
+    "Hexa Core"
+   ],
+   [
+    "CPU Speed (GHz)",
+    "Hexa-core (2x4.04 GHz + 4x2.20 GHz)"
+   ],
+   [
+    "GPU",
+    "Apple GPU (5-core graphics)"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Display Size",
+    "6.7 inches"
+   ],
+   [
+    "Display Type",
+    "6.7 inches 1290 x 2796 pixels, 19.5:9 ratio (~460 ppi density) Ceramic Shield glass (2024 gen) Super Retina XDR OLED, HDR10, Dolby Vision, 1000 nits (typ), 2000 nits (HBM)"
+   ],
+   [
+    "Internal Storage",
+    "256 GB"
+   ],
+   [
+    "Operating System",
+    "iOS"
+   ],
+   [
+    "OS version",
+    "iOS 18, upgradable to iOS 18.1"
+   ],
+   [
+    "Primary Camera",
+    "Dual: 48 MP, f/1.6, 26mm (wide) + 12 MP, f/2.2, 13mm, 120˚ (ultrawide) Dual-LED dual-tone flash, HDR (photo/panorama)"
+   ],
+   [
+    "Secondary Camera",
+    "12 MP, f/1.9, 23mm (wide), 1/3.6\", PDAF"
+   ],
+   [
+    "Video Resolutions",
+    "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+   ],
+   [
+    "Connectivity",
+    "WLAN: Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band, hotspot Bluetooth: 5.3, A2DP, LE Positioning: GPS, GLONASS, GALILEO, BDS, QZSS Radio: No USB: USB Type-C 2.0, DisplayPort"
+   ],
+   [
+    "Sensors",
+    "Face ID, accelerometer, gyro, proximity, compass, barometer, Ultra Wideband (UWB) support (gen2 chip), Emergency SOS, Messages and Find My via satellite"
+   ],
+   [
+    "Battery",
+    "Li-Ion 4674 mAh, non-removable Wired, PD2.0, 50% in 30 min (advertised) 4.5W reverse wired"
+   ],
+   [
+    "warranty",
+    "2 Years"
+   ]
+  ]
+ },
+ "2b-apple-iphone-16-plus-256gb-teal-official-warranty.html": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "Apple"
+   ],
+   [
+    "Color",
+    "Teal"
+   ],
+   [
+    "MPN",
+    "A3291O"
+   ],
+   [
+    "Network 2G",
+    "GSM 900 / 1800 / 1900"
+   ],
+   [
+    "Network 3G",
+    "HSDPA 900 / 1900 / 2100"
+   ],
+   [
+    "4G Network",
+    "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps"
+   ],
+   [
+    "SIM Card",
+    "Single SIM"
+   ],
+   [
+    "Chipset",
+    "Apple A18 (3 nm)"
+   ],
+   [
+    "CPU (Processor)",
+    "Hexa Core"
+   ],
+   [
+    "CPU Speed (GHz)",
+    "Hexa-core (2x4.04 GHz + 4x2.20 GHz)"
+   ],
+   [
+    "GPU",
+    "Apple GPU (5-core graphics)"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Display Size",
+    "6.7 inches"
+   ],
+   [
+    "Display Type",
+    "6.7 inches 1290 x 2796 pixels, 19.5:9 ratio (~460 ppi density) Ceramic Shield glass (2024 gen) Super Retina XDR OLED, HDR10, Dolby Vision, 1000 nits (typ), 2000 nits (HBM)"
+   ],
+   [
+    "Internal Storage",
+    "256 GB"
+   ],
+   [
+    "Operating System",
+    "iOS"
+   ],
+   [
+    "OS version",
+    "iOS 18, upgradable to iOS 18.1"
+   ],
+   [
+    "Primary Camera",
+    "Dual: 48 MP, f/1.6, 26mm (wide) + 12 MP, f/2.2, 13mm, 120˚ (ultrawide) Dual-LED dual-tone flash, HDR (photo/panorama)"
+   ],
+   [
+    "Secondary Camera",
+    "12 MP, f/1.9, 23mm (wide), 1/3.6\", PDAF"
+   ],
+   [
+    "Video Resolutions",
+    "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+   ],
+   [
+    "Connectivity",
+    "WLAN: Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band"
+   ],
+   [
+    "Sensors",
+    "Face ID, accelerometer, gyro, proximity, compass, barometer, Ultra Wideband (UWB) support (gen2 chip), Emergency SOS, Messages and Find My via satellite"
+   ],
+   [
+    "Battery",
+    "Li-Ion 4674 mAh, non-removable Wired, PD2.0, 50% in 30 min (advertised) 4.5W reverse wired"
+   ],
+   [
+    "warranty",
+    "2 Years"
+   ]
+  ]
+ },
+ "2b-apple-iphone-16-plus-256gb-black-official-warranty.html": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "Apple"
+   ],
+   [
+    "Color",
+    "Black"
+   ],
+   [
+    "MPN",
+    "A3291OB256"
+   ],
+   [
+    "Network 2G",
+    "GSM 900 / 1800 / 1900"
+   ],
+   [
+    "Network 3G",
+    "HSDPA 900 / 1900 / 2100"
+   ],
+   [
+    "4G Network",
+    "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps"
+   ],
+   [
+    "SIM Card",
+    "Single SIM"
+   ],
+   [
+    "Chipset",
+    "Apple A18 (3 nm)"
+   ],
+   [
+    "CPU (Processor)",
+    "Hexa Core"
+   ],
+   [
+    "CPU Speed (GHz)",
+    "Hexa-core (2x4.04 GHz + 4x2.20 GHz)"
+   ],
+   [
+    "GPU",
+    "Apple GPU (5-core graphics)"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Display Size",
+    "6.7 inches"
+   ],
+   [
+    "Display Type",
+    "6.7 inches 1290 x 2796 pixels, 19.5:9 ratio (~460 ppi density) Ceramic Shield glass (2024 gen) Super Retina XDR OLED, HDR10, Dolby Vision, 1000 nits (typ), 2000 nits (HBM)"
+   ],
+   [
+    "Internal Storage",
+    "256 GB"
+   ],
+   [
+    "Operating System",
+    "iOS"
+   ],
+   [
+    "OS version",
+    "iOS 18, upgradable to iOS 18.1"
+   ],
+   [
+    "Primary Camera",
+    "Dual: 48 MP, f/1.6, 26mm (wide) + 12 MP, f/2.2, 13mm, 120˚ (ultrawide) Dual-LED dual-tone flash, HDR (photo/panorama)"
+   ],
+   [
+    "Secondary Camera",
+    "12 MP, f/1.9, 23mm (wide), 1/3.6\", PDAF"
+   ],
+   [
+    "Video Resolutions",
+    "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+   ],
+   [
+    "Connectivity",
+    "WLAN: Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band, hotspot Bluetooth: 5.3, A2DP, LE Positioning: GPS, GLONASS, GALILEO, BDS, QZSS Radio: No USB: USB Type-C 2.0, DisplayPort"
+   ],
+   [
+    "Sensors",
+    "Face ID, accelerometer, gyro, proximity, compass, barometer, Ultra Wideband (UWB) support (gen2 chip), Emergency SOS, Messages and Find My via satellite"
+   ],
+   [
+    "Battery",
+    "Li-Ion 4674 mAh, non-removable Wired, PD2.0, 50% in 30 min (advertised) 4.5W reverse wired"
+   ],
+   [
+    "warranty",
+    "2 Years"
+   ]
+  ]
+ },
+ "btech-99E52BE8400AE916AE82": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "Dynamic LTPO AMOLED 2X"
+   ],
+   [
+    "Charging Type",
+    "Wired / Wireless"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Audio Jack Type",
+    "Type-C"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Memory Card Slot",
+    "No"
+   ],
+   [
+    "Display Resolution",
+    "3120x1440"
+   ],
+   [
+    "Operating System Type",
+    "Android 15"
+   ],
+   [
+    "Dimensions",
+    "162.8 x 77.6 x 8.2 mm"
+   ],
+   [
+    "Model Name",
+    "Galaxy S25 Ultra"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct, dBluetooth 5.4, A2DP, LEPositioning GPS, GLONASS, BDS, GALILEO, QZSSUSB Type-C 3.2, DisplayPort 1.2, OTG"
+   ],
+   [
+    "Zoom Capability",
+    "3x optical zoom, 5x optical zoom"
+   ],
+   [
+    "Chipset Manufacturer",
+    "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm), Octa Core"
+   ],
+   [
+    "Processor Manufacturer",
+    "Qualcomm Snapdragon"
+   ],
+   [
+    "Screen Size",
+    "6.9 Inch"
+   ],
+   [
+    "Front Camera",
+    "12 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "200 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "5000 mAh"
+   ],
+   [
+    "Water Resistance Level",
+    "1.5 Meter"
+   ]
+  ]
+ },
+ "btech-1BSAOMSMGALS25U1L007": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-A3824ECA1414698E0BBE": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "Dynamic LTPO AMOLED 2X"
+   ],
+   [
+    "Charging Type",
+    "Wired / Wireless"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Audio Jack Type",
+    "Type-C"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Memory Card Slot",
+    "No"
+   ],
+   [
+    "Display Resolution",
+    "3120x1440"
+   ],
+   [
+    "Operating System Type",
+    "Android 15"
+   ],
+   [
+    "Dimensions",
+    "162.8 x 77.6 x 8.2 mm"
+   ],
+   [
+    "Model Name",
+    "Galaxy S25 Ultra"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct, dBluetooth 5.4, A2DP, LEPositioning GPS, GLONASS, BDS, GALILEO, QZSSUSB Type-C 3.2, DisplayPort 1.2, OTG"
+   ],
+   [
+    "Zoom Capability",
+    "3x optical zoom, 5x optical zoom"
+   ],
+   [
+    "Chipset Manufacturer",
+    "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm), Octa Core"
+   ],
+   [
+    "Processor Manufacturer",
+    "Qualcomm Snapdragon"
+   ],
+   [
+    "Screen Size",
+    "6.9 Inch"
+   ],
+   [
+    "Front Camera",
+    "12 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "200 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "5000 mAh"
+   ],
+   [
+    "Water Resistance Level",
+    "1.5 Meter"
+   ]
+  ]
+ },
+ "btech-1BSAOMSMGALS25U1L006": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Display Type",
+    "AMOLED"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Network",
+    "4G LTE"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Display Resolution",
+    "3120x1440"
+   ],
+   [
+    "Operating System Type",
+    "Android 15"
+   ],
+   [
+    "Model Name",
+    "Galaxy S25 Ultra"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e/7Bluetooth 5.4, Wi-Fi DirectUSB Type-C 3.2, DisplayPort 1.2GPS, OTG"
+   ],
+   [
+    "Dimensions",
+    "162.8 x 77.6 x 8.2 mm"
+   ],
+   [
+    "Zoom Capability",
+    "3x optical zoom, 5x optical zoom"
+   ],
+   [
+    "Video Capture Format",
+    "up to 4K@30/60fps"
+   ],
+   [
+    "Processor Manufacturer",
+    "Qualcomm"
+   ],
+   [
+    "Battery Capacity",
+    "5000 mAh"
+   ],
+   [
+    "Screen Size",
+    "6.9 Inch"
+   ],
+   [
+    "Front Camera",
+    "12 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "200 megapixels"
+   ]
+  ]
+ },
+ "btech-1BSAOMSMGALS25U1L008": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-DB2F5ECA80A8CF73BCC9": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "Dynamic LTPO AMOLED 2X"
+   ],
+   [
+    "Charging Type",
+    "Wired / Wireless"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Audio Jack Type",
+    "Type-C"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Memory Card Slot",
+    "No"
+   ],
+   [
+    "Display Resolution",
+    "3120x1440"
+   ],
+   [
+    "Operating System Type",
+    "Android 15"
+   ],
+   [
+    "Dimensions",
+    "162.8 x 77.6 x 8.2 mm"
+   ],
+   [
+    "Model Name",
+    "Galaxy S25 Ultra"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct, dBluetooth 5.4, A2DP, LEPositioning GPS, GLONASS, BDS, GALILEO, QZSSUSB Type-C 3.2, DisplayPort 1.2, OTG"
+   ],
+   [
+    "Zoom Capability",
+    "3x optical zoom, 5x optical zoom"
+   ],
+   [
+    "Chipset Manufacturer",
+    "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm), Octa Core"
+   ],
+   [
+    "Processor Manufacturer",
+    "Qualcomm Snapdragon"
+   ],
+   [
+    "Screen Size",
+    "6.9 Inch"
+   ],
+   [
+    "Front Camera",
+    "12 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "200 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "5000 mAh"
+   ],
+   [
+    "Water Resistance Level",
+    "1.5 Meter"
+   ]
+  ]
+ },
+ "btech-59050F17A6CF51E77DC1": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "Dynamic LTPO AMOLED 2X"
+   ],
+   [
+    "Charging Type",
+    "Wired / Wireless"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Audio Jack Type",
+    "Type-C"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Memory Card Slot",
+    "No"
+   ],
+   [
+    "Display Resolution",
+    "3120x1440"
+   ],
+   [
+    "Operating System Type",
+    "Android 15"
+   ],
+   [
+    "Dimensions",
+    "162.8 x 77.6 x 8.2 mm"
+   ],
+   [
+    "Model Name",
+    "Galaxy S25 Ultra"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct, dBluetooth 5.4, A2DP, LEPositioning GPS, GLONASS, BDS, GALILEO, QZSSUSB Type-C 3.2, DisplayPort 1.2, OTG"
+   ],
+   [
+    "Zoom Capability",
+    "3x optical zoom, 5x optical zoom"
+   ],
+   [
+    "Chipset Manufacturer",
+    "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm), Octa Core"
+   ],
+   [
+    "Processor Manufacturer",
+    "Qualcomm Snapdragon"
+   ],
+   [
+    "Screen Size",
+    "6.9 Inch"
+   ],
+   [
+    "Front Camera",
+    "12 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "200 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "5000 mAh"
+   ],
+   [
+    "Water Resistance Level",
+    "1.5 Meter"
+   ]
+  ]
+ },
+ "2b-samsung-galaxy-s25-ultra-12gb-ram-1tb-silver.html": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Color",
+    "Silver"
+   ],
+   [
+    "MPN",
+    "SM-S938W-1TS"
+   ],
+   [
+    "Network 2G",
+    "GSM 900 / 1800 / 1900"
+   ],
+   [
+    "Network 3G",
+    "HSDPA 900 / 1900 / 2100"
+   ],
+   [
+    "4G Network",
+    "HSPA, LTE (up to 7CA), 5G"
+   ],
+   [
+    "SIM Card",
+    "Dual SIM"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)"
+   ],
+   [
+    "CPU (Processor)",
+    "Octa Core"
+   ],
+   [
+    "CPU Speed (GHz)",
+    "Octa-core (2x4.47 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)"
+   ],
+   [
+    "GPU",
+    "Adreno 830"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Display Size",
+    "6.9 inches"
+   ],
+   [
+    "Display Type",
+    "6.9 inches, 1440 x 3120 pixels Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak) Corning Gorilla Armor 2"
+   ],
+   [
+    "Internal Storage",
+    "1TB"
+   ],
+   [
+    "Operating System",
+    "Android"
+   ],
+   [
+    "OS version",
+    "Android 15, up to 7 major Android upgrades, One UI 7"
+   ],
+   [
+    "Primary Camera",
+    "Quad: 200 MP, f/1.7, 24mm (wide) + 10 MP, f/2.4, 67mm (telephoto) + 50 MP, f/3.4, 111mm (periscope telephoto) + 50 MP, f/1.9, 120˚ (ultrawide)"
+   ],
+   [
+    "Secondary Camera",
+    "12 MP, f/2.2, 26mm (wide) HDR, HDR10+"
+   ],
+   [
+    "Video Resolutions",
+    "8K@24/30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, 10-bit HDR, HDR10+, stereo sound rec., gyro-EIS"
+   ],
+   [
+    "Connectivity",
+    "WLAN: Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct Bluetooth: 5.4, A2DP, LE Positioning: GPS, GLONASS, BDS, GALILEO, QZSS Radio: No USB: USB Type-C 3.2, DisplayPort 1.2, OTG"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer, Samsung DeX, Samsung Wireless DeX (desktop experience support), Ultra Wideband (UWB) support, Circle to Search"
+   ],
+   [
+    "Battery",
+    "Li-Ion 5000 mAh, 45W wired, PD3.0, 65% in 30 min 15W wireless (Qi2 Ready) 4.5W reverse wireless"
+   ],
+   [
+    "warranty",
+    "1 Year"
+   ]
+  ]
+ },
+ "carrefour-1698542000150": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-678328": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Processor model",
+    "Qualcomm SM8850-1-AD Snapdragon 8 Elite Gen 5"
+   ],
+   [
+    "Processor frequency",
+    "3.62"
+   ],
+   [
+    "Battery capacity",
+    "5000"
+   ],
+   [
+    "Color",
+    "Black"
+   ],
+   [
+    "Internal storage capacity",
+    "512"
+   ],
+   [
+    "Internal RAM in GB",
+    "12"
+   ],
+   [
+    "Display diagonal",
+    "6.9"
+   ],
+   [
+    "Display resolution",
+    "1440 x 3120"
+   ],
+   [
+    "Touchscreen",
+    "Yes"
+   ],
+   [
+    "Built-in flash",
+    "Yes"
+   ],
+   [
+    "Second camera",
+    "Yes"
+   ],
+   [
+    "Main camera resolution - numeric",
+    "200"
+   ],
+   [
+    "Bluetooth",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "SIM card type",
+    "Nano-SIM"
+   ],
+   [
+    "4G",
+    "Yes"
+   ],
+   [
+    "SIM card capability",
+    "Dual SIM"
+   ],
+   [
+    "Operating system installed",
+    "Android 16"
+   ],
+   [
+    "USB port",
+    "Yes"
+   ]
+  ]
+ },
+ "carrefour-677912": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Processor model",
+    "Qualcomm SM8850-1-AD Snapdragon 8 Elite Gen 5"
+   ],
+   [
+    "Processor frequency",
+    "3.62"
+   ],
+   [
+    "Battery capacity",
+    "5000"
+   ],
+   [
+    "Color",
+    "Sky Blue"
+   ],
+   [
+    "Internal storage capacity",
+    "256"
+   ],
+   [
+    "Internal RAM in GB",
+    "12"
+   ],
+   [
+    "Display diagonal",
+    "6.9"
+   ],
+   [
+    "Display resolution",
+    "1440 x 3120"
+   ],
+   [
+    "Touchscreen",
+    "Yes"
+   ],
+   [
+    "Built-in flash",
+    "Yes"
+   ],
+   [
+    "Second camera",
+    "Yes"
+   ],
+   [
+    "Main camera resolution - numeric",
+    "200"
+   ],
+   [
+    "Bluetooth",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "SIM card type",
+    "Nano-SIM"
+   ],
+   [
+    "4G",
+    "Yes"
+   ],
+   [
+    "SIM card capability",
+    "Dual SIM"
+   ],
+   [
+    "Operating system installed",
+    "Android 16"
+   ],
+   [
+    "USB port",
+    "Yes"
+   ]
+  ]
+ },
+ "btech-11A48F53F2A717428A7F": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-36CE91290497EB5F0BD4": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-2CFF04D9BC7CE2281D45": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-1698542000395": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-689671": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Processor model",
+    "Exynos 2500"
+   ],
+   [
+    "Processor family",
+    "Samsung Exynos"
+   ],
+   [
+    "Processor frequency",
+    "1.8"
+   ],
+   [
+    "Battery technology",
+    "Li-Ion"
+   ],
+   [
+    "Battery capacity",
+    "4900"
+   ],
+   [
+    "Color",
+    "Graphite"
+   ],
+   [
+    "Compatible memory cards",
+    "No"
+   ],
+   [
+    "Internal storage capacity",
+    "256"
+   ],
+   [
+    "Internal RAM in GB",
+    "8"
+   ],
+   [
+    "Display diagonal",
+    "6.7"
+   ],
+   [
+    "Display resolution",
+    "1080 x 2340 pixels"
+   ],
+   [
+    "Touchscreen",
+    "Yes"
+   ],
+   [
+    "Orientation sensor",
+    "Yes"
+   ],
+   [
+    "Built-in flash",
+    "Yes"
+   ],
+   [
+    "Auto focus",
+    "Yes"
+   ],
+   [
+    "Second camera",
+    "Yes"
+   ],
+   [
+    "Main camera resolution - numeric",
+    "50"
+   ],
+   [
+    "Bluetooth",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "3G",
+    "Yes"
+   ],
+   [
+    "SIM card type",
+    "Nano-SIM + eSIM"
+   ],
+   [
+    "4G",
+    "Yes"
+   ],
+   [
+    "3G standards",
+    "HSDPA"
+   ],
+   [
+    "2G standards",
+    "GSM"
+   ],
+   [
+    "SIM card capability",
+    "Dual SIM"
+   ],
+   [
+    "Operating system installed",
+    "Android"
+   ],
+   [
+    "Operating system version",
+    "17"
+   ],
+   [
+    "GPS - satellite",
+    "Yes"
+   ],
+   [
+    "USB port",
+    "Yes"
+   ],
+   [
+    "Video call",
+    "Yes"
+   ]
+  ]
+ },
+ "btech-31410327F1CC61D9745D": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Network",
+    "4G"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "Super AMOLED"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Operating System Type",
+    "Android 15"
+   ],
+   [
+    "Audio Jack Type",
+    "Type-C"
+   ],
+   [
+    "Screen Size",
+    "6.7 Inch"
+   ],
+   [
+    "Front Camera",
+    "12 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "5000 mAh"
+   ],
+   [
+    "Dimensions",
+    "162.9 x 78.2 x 7.4 mm"
+   ],
+   [
+    "Model Name",
+    "Galaxy A36"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi DirectBluetooth 5.4, A2DP, LEPositioning GPS, GALILEO, GLONASS, BDS, QZSSUSB Type-C 2, OTG"
+   ],
+   [
+    "Chipset Manufacturer",
+    "Qualcomm Snapdragon"
+   ],
+   [
+    "Video Capture Format",
+    "4K @ 30fps, 1080p@30/60fps, gyro-EIS"
+   ],
+   [
+    "Processor Manufacturer",
+    "Qualcomm Snapdragon"
+   ]
+  ]
+ },
+ "btech-7D7C3BCEA25DA7E838BA": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-1BSAOMSMGA164B00L007": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-1698542000185": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-B8837A7A02335235E6E1": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Xiaomi"
+   ],
+   [
+    "Network",
+    "4G LTE"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "AMOLED"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Memory Card Slot",
+    "No"
+   ],
+   [
+    "Display Resolution",
+    "1220x2712"
+   ],
+   [
+    "Operating System Type",
+    "Xiaomi HyperOS"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Dimensions",
+    "162.3 x 74.4 x 8.4 mm"
+   ],
+   [
+    "Model Name",
+    "Redmi Note 14 Pro"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi, Bluetooth 5.3, GPS, GALILEO, GLONASS, QZSS, BDS, Infrared port, USB Type-C 2, OTG"
+   ],
+   [
+    "Chipset Manufacturer",
+    "Mediatek"
+   ],
+   [
+    "Video Capture Format",
+    "4K @ 24/30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+   ],
+   [
+    "Processor Manufacturer",
+    "Mediatek"
+   ],
+   [
+    "Screen Size",
+    "6.67 Inch"
+   ],
+   [
+    "Front Camera",
+    "32 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "200 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "5500 mAh"
+   ]
+  ]
+ },
+ "2b-xiaomi-redmi-note-14-pro-plus-12gb-ram-512gb-black.html": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "Xiaomi"
+   ],
+   [
+    "Color",
+    "Black"
+   ],
+   [
+    "MPN",
+    "24094RAD4GB-512"
+   ],
+   [
+    "Network 2G",
+    "GSM 900 / 1800 / 1900"
+   ],
+   [
+    "Network 3G",
+    "HSDPA 900 / 1900 / 2100"
+   ],
+   [
+    "4G Network",
+    "HSPA, LTE, 5G"
+   ],
+   [
+    "SIM Card",
+    "Dual SIM"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM7635 Snapdragon 7s Gen 3 (4 nm)"
+   ],
+   [
+    "CPU (Processor)",
+    "Octa Core"
+   ],
+   [
+    "CPU Speed (GHz)",
+    "Octa-core (1x2.5 GHz Cortex-A720 & 3x2.4 GHz Cortex-A720 & 4x1.8 GHz Cortex-A520)"
+   ],
+   [
+    "GPU",
+    "Adreno 710 (940 MHz)"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Display Size",
+    "6.67 inches"
+   ],
+   [
+    "Display Type",
+    "6.67 inches, 1220 x 2712 pixels, 20:9 ratio (~446 ppi density) AMOLED, 68B colors, 120Hz, HDR10+, Dolby Vision, 3000 nits (peak)"
+   ],
+   [
+    "Internal Storage",
+    "512 GB"
+   ],
+   [
+    "Operating System",
+    "Android"
+   ],
+   [
+    "OS version",
+    "Android 14, up to 3 major Android upgrades, HyperOS"
+   ],
+   [
+    "Primary Camera",
+    "Triple: 200 MP, f/1.7, 23mm (wide) + 8 MP, f/2.2, 15mm, 120˚ (ultrawide) + 2 MP, f/2.4, (macro) LED flash, HDR, panorama"
+   ],
+   [
+    "Secondary Camera",
+    "20 MP, f/2.2, 21mm (wide) HDR, panorama"
+   ],
+   [
+    "Video Resolutions",
+    "4K@24/30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+   ],
+   [
+    "Connectivity",
+    "WLAN: Wi-Fi 802.11 a/b/g/n/ac/6/6e, dual-band, Wi-Fi Direct (/6e is market/region dependent) Bluetooth: 5.4, A2DP, LE Positioning: GPS (L1+L5), GALILEO, GLONASS, QZSS, BDS Infrared port: Yes USB: USB Type-C 2.0, OTG"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity, Circle to Search"
+   ],
+   [
+    "Battery",
+    "5110 mAh, 120W wired"
+   ],
+   [
+    "warranty",
+    "18 Months"
+   ]
+  ]
+ },
+ "2b-xiaomi-redmi-note-14-pro-plus-12gb-ram-256gb-purple.html": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "Xiaomi"
+   ],
+   [
+    "Color",
+    "Purple"
+   ],
+   [
+    "MPN",
+    "24094RAD4GP"
+   ],
+   [
+    "Network 2G",
+    "GSM 850 / 900 / 1800 / 1900"
+   ],
+   [
+    "Network 3G",
+    "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100"
+   ],
+   [
+    "4G Network",
+    "HSPA, LTE, 5G"
+   ],
+   [
+    "SIM Card",
+    "Dual SIM"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM7635 Snapdragon 7s Gen 3 (4 nm)"
+   ],
+   [
+    "CPU (Processor)",
+    "Octa Core"
+   ],
+   [
+    "CPU Speed (GHz)",
+    "Octa-core (1x2.5 GHz Cortex-A720 & 3x2.4 GHz Cortex-A720 & 4x1.8 GHz Cortex-A520)"
+   ],
+   [
+    "GPU",
+    "Adreno 710 (940 MHz)"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Display Size",
+    "6.67 inches"
+   ],
+   [
+    "Display Type",
+    "6.67 inches, 1220 x 2712 pixels, 20:9 ratio (~446 ppi density) AMOLED, 68B colors, 120Hz, HDR10+, Dolby Vision, 3000 nits (peak)"
+   ],
+   [
+    "Internal Storage",
+    "256 GB"
+   ],
+   [
+    "Operating System",
+    "Android"
+   ],
+   [
+    "OS version",
+    "Android 14, up to 3 major Android upgrades, HyperOS"
+   ],
+   [
+    "Primary Camera",
+    "Triple: 200 MP, f/1.7, 23mm (wide) + 8 MP, f/2.2, 15mm, 120˚ (ultrawide) + 2 MP, f/2.4, (macro) LED flash, HDR, panorama"
+   ],
+   [
+    "Secondary Camera",
+    "20 MP, f/2.2, 21mm (wide) HDR, panorama"
+   ],
+   [
+    "Video Resolutions",
+    "4K@24/30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+   ],
+   [
+    "Connectivity",
+    "WLAN: Wi-Fi 802.11 a/b/g/n/ac/6/6e, dual-band, Wi-Fi Direct (/6e is market/region dependent) Bluetooth: 5.4, A2DP, LE Positioning: GPS (L1+L5), GALILEO, GLONASS, QZSS, BDS Infrared port: Yes USB: USB Type-C 2.0, OTG"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity, Circle to Search"
+   ],
+   [
+    "Battery",
+    "5110 mAh, 120W wired"
+   ],
+   [
+    "warranty",
+    "18 Months"
+   ]
+  ]
+ },
+ "2b-xiaomi-redmi-note-14-pro-plus-12gb-ram-256gb-black.html": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "Xiaomi"
+   ],
+   [
+    "Color",
+    "Black"
+   ],
+   [
+    "MPN",
+    "24094RAD4GB"
+   ],
+   [
+    "Network 2G",
+    "GSM 900 / 1800 / 1900"
+   ],
+   [
+    "Network 3G",
+    "HSDPA 900 / 1900 / 2100"
+   ],
+   [
+    "4G Network",
+    "HSPA, LTE, 5G"
+   ],
+   [
+    "SIM Card",
+    "Dual SIM"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM7635 Snapdragon 7s Gen 3 (4 nm)"
+   ],
+   [
+    "CPU (Processor)",
+    "Octa Core"
+   ],
+   [
+    "CPU Speed (GHz)",
+    "Octa-core (1x2.5 GHz Cortex-A720 & 3x2.4 GHz Cortex-A720 & 4x1.8 GHz Cortex-A520)"
+   ],
+   [
+    "GPU",
+    "Adreno 710 (940 MHz)"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Display Size",
+    "6.67 inches"
+   ],
+   [
+    "Display Type",
+    "6.67 inches, 1220 x 2712 pixels, 20:9 ratio (~446 ppi density) AMOLED, 68B colors, 120Hz, HDR10+, Dolby Vision, 3000 nits (peak)"
+   ],
+   [
+    "Internal Storage",
+    "256 GB"
+   ],
+   [
+    "Operating System",
+    "Android"
+   ],
+   [
+    "OS version",
+    "Android 14, up to 3 major Android upgrades, HyperOS"
+   ],
+   [
+    "Primary Camera",
+    "Triple: 200 MP, f/1.7, 23mm (wide) + 8 MP, f/2.2, 15mm, 120˚ (ultrawide) + 2 MP, f/2.4, (macro) LED flash, HDR, panorama"
+   ],
+   [
+    "Secondary Camera",
+    "20 MP, f/2.2, 21mm (wide) HDR, panorama"
+   ],
+   [
+    "Video Resolutions",
+    "4K@24/30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+   ],
+   [
+    "Connectivity",
+    "WLAN: Wi-Fi 802.11 a/b/g/n/ac/6/6e, dual-band, Wi-Fi Direct (/6e is market/region dependent) Bluetooth: 5.4, A2DP, LE Positioning: GPS (L1+L5), GALILEO, GLONASS, QZSS, BDS Infrared port: Yes USB: USB Type-C 2.0, OTG"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity, Circle to Search"
+   ],
+   [
+    "Battery",
+    "5110 mAh, 120W wired"
+   ],
+   [
+    "warranty",
+    "18 Months"
+   ]
+  ]
+ },
+ "carrefour-1698542000351": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-1698542000189": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-1698542000313": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-1698542000411": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-208D8863322EBA2819A9": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Apple"
+   ],
+   [
+    "Noise Cancellation",
+    "Yes"
+   ],
+   [
+    "Model Name",
+    "AirPods Pro 2nd Generation"
+   ],
+   [
+    "Connectivity",
+    "Wireless via Bluetooth"
+   ]
+  ]
+ },
+ "btech-A2931A1FCEB2E8BF6399": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Generic"
+   ],
+   [
+    "Noise Cancellation",
+    "Yes"
+   ],
+   [
+    "Model Name",
+    "AirPods Pro 3"
+   ],
+   [
+    "Connectivity",
+    "Bluetooth"
+   ],
+   [
+    "Super Features",
+    "with Active Noise Cancellation"
+   ]
+  ]
+ },
+ "btech-1E5D57D1F9978561AC46": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Logitech"
+   ],
+   [
+    "Dimensions",
+    "176 x 95 x 189 mm"
+   ],
+   [
+    "Model Name",
+    "PRO X 2 LightSpeed"
+   ],
+   [
+    "Material",
+    "Aluminum materials and a steel frame."
+   ],
+   [
+    "Connectivity",
+    "Bluetooth"
+   ]
+  ]
+ },
+ "btech-09CF9ED8CAB0CD0CD64F": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Purity"
+   ],
+   [
+    "Fuel Type",
+    "Electricity"
+   ],
+   [
+    "Dimensions",
+    "External (width-length-height): 29x51x5, Internal (width-length): 24.5x47"
+   ],
+   [
+    "Model Number",
+    "HPT302BLE PRO"
+   ],
+   [
+    "Knobs Position",
+    "Front"
+   ],
+   [
+    "Mounting System",
+    "Built In"
+   ]
+  ]
+ },
+ "carrefour-2251257000097": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-2251257000076": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-2251257000027": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "compumarts-anker-liberty-air-2-pro-earphone-wireless-a3951051-pink": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "compumarts-samsung-galaxy-buds-pro-2-2022-sm-r510-gray": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "compumarts",
+  "specs": [
+   [
+    "Brand",
+    "SAMSUNG"
+   ],
+   [
+    "Color",
+    "Gray"
+   ],
+   [
+    "Ear Placement",
+    "In Ear"
+   ],
+   [
+    "Form Factor",
+    "In Ear"
+   ],
+   [
+    "Impedance",
+    "16 Ohm"
+   ],
+   [
+    "Noise Control",
+    "Active Noise Cancellation"
+   ],
+   [
+    "Headphones Jack",
+    "wireless"
+   ],
+   [
+    "Model Name",
+    "Samsung Galaxy Buds Pro 2"
+   ],
+   [
+    "Connectivity Technology",
+    "Wireless"
+   ],
+   [
+    "Wireless Communication Technology",
+    "Bluetooth , Wi-Fi 6"
+   ],
+   [
+    "Special Feature",
+    "ANC, Microphone Included"
+   ],
+   [
+    "Included Components",
+    "Cable, Ear Cushions, Wireless Charging Case"
+   ],
+   [
+    "Age Range (Description)",
+    "Adult"
+   ],
+   [
+    "Material",
+    "Polycarbonate (PC)"
+   ],
+   [
+    "Specific Uses For Product",
+    "Personal"
+   ],
+   [
+    "Compatible Devices",
+    "Universal"
+   ],
+   [
+    "Control Type",
+    "Media Control"
+   ],
+   [
+    "Cable Feature",
+    "Without Cable"
+   ],
+   [
+    "Water Resistance Level",
+    "Water Resistant"
+   ],
+   [
+    "Unit Count",
+    "1.0 Count"
+   ],
+   [
+    "Control Method",
+    "Touch"
+   ],
+   [
+    "Number of Items",
+    "1"
+   ],
+   [
+    "Is Autographed",
+    "No"
+   ],
+   [
+    "Manufacturer",
+    "Samsung"
+   ],
+   [
+    "Package Dimensions",
+    "3.86 x 3.43 x 1.65 inches"
+   ],
+   [
+    "Item Weight",
+    "5 ounces"
+   ]
+  ]
+ },
+ "compumarts-logitech-pro-2-lightspeed-wireless-gaming-mouse-black-2-4ghz-hero-2-44000-dpi-eg": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "compumarts",
+  "specs": [
+   [
+    "MODEL",
+    "PRO 2 LIGHTSPEED"
+   ],
+   [
+    "COLOR",
+    "BLACK"
+   ],
+   [
+    "CONNECTIVITY",
+    "2.4GHZ"
+   ],
+   [
+    "SENSOR",
+    "HERO 2"
+   ],
+   [
+    "RESOLUTION",
+    "100 – 44,000 DPI"
+   ],
+   [
+    "BUTTONS",
+    "4-8"
+   ],
+   [
+    "MAX ACCELERATION",
+    ">88 G (Tested on Logitech G640 Gaming Mouse Pad)"
+   ],
+   [
+    "MAX SPEED",
+    ">888 IPS (Tested on Logitech G640 Gaming Mouse Pad)"
+   ],
+   [
+    "SMOOTHING/ACCELERATION/FILTERING",
+    "Zero"
+   ],
+   [
+    "MAX REPORT RATE",
+    "1000Hz (1ms)"
+   ],
+   [
+    "DEFAULT LIGHTING",
+    "60 hours"
+   ],
+   [
+    "NO LIGHTING",
+    "95 hours"
+   ],
+   [
+    "HEIGHT",
+    "4.92 in (125 mm)"
+   ],
+   [
+    "WIDTH",
+    "2.50 in (63.5 mm)"
+   ],
+   [
+    "DEPTH",
+    "1.57 in (40 mm)"
+   ],
+   [
+    "WEIGHT",
+    "2.82 oz (80 g)"
+   ],
+   [
+    "COMPATIBILITY",
+    "PC with Windows® 10 or later, USB 2.0 port required"
+   ]
+  ]
+ },
+ "btech-1BAPASSBAPAP4000L001": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Apple"
+   ],
+   [
+    "Noise Cancellation",
+    "No"
+   ],
+   [
+    "Model Name",
+    "AirPods 4"
+   ],
+   [
+    "Dimensions",
+    "46.2 x 50.1 x 21.2 mm"
+   ],
+   [
+    "Connectivity",
+    "Wireless"
+   ]
+  ]
+ },
+ "carrefour-670090": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-1BSAASMCBUDS3000L020": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Noise Cancellation",
+    "Yes"
+   ],
+   [
+    "Model Name",
+    "Galaxy Buds3 FE"
+   ],
+   [
+    "Connectivity",
+    "Bluetooth"
+   ],
+   [
+    "Model Number",
+    "SM-R420NZAAEUA"
+   ],
+   [
+    "Super Features",
+    "Active Noise Cancellation"
+   ],
+   [
+    "Battery Capacity",
+    "515 mAh"
+   ]
+  ]
+ },
+ "btech-1BSAASMCBUDS3000L007": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Noise Cancellation",
+    "Yes"
+   ],
+   [
+    "Model Name",
+    "Galaxy Buds3 FE"
+   ],
+   [
+    "Connectivity",
+    "Bluetooth"
+   ],
+   [
+    "Model Number",
+    "SM-R420NZAAEUA"
+   ],
+   [
+    "Super Features",
+    "Active Noise Cancellation"
+   ],
+   [
+    "Battery Capacity",
+    "515 mAh"
+   ]
+  ]
+ },
+ "btech-0F5738E3F017CC193204": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Noise Cancellation",
+    "Yes"
+   ],
+   [
+    "Model Name",
+    "Galaxy Buds 3 Pro"
+   ],
+   [
+    "Connectivity",
+    "Bluetooth 5.4"
+   ],
+   [
+    "Model Number",
+    "SM-R630"
+   ]
+  ]
+ },
+ "btech-1BSAOMSMGA186SI0L008": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-1BSAOMSMGA186BK0L007": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-1BSAOMSMGA2782BLL007": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-689674": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-689675": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-2251857001515": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-CDE785A9EA97D955210E": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Jbl"
+   ],
+   [
+    "Dimensions",
+    "8.75 x 10.25 x 10.5 inches"
+   ],
+   [
+    "Model Name",
+    "Tune 520BT"
+   ],
+   [
+    "Connectivity",
+    "Wireless via Bluetooth 5.3"
+   ]
+  ]
+ },
+ "btech-99CE9B25E782BE0D6B61": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Jbl"
+   ],
+   [
+    "Dimensions",
+    "8.75 x 10.25 x 10.5 inches"
+   ],
+   [
+    "Model Name",
+    "Tune 520BT"
+   ],
+   [
+    "Connectivity",
+    "Wireless via Bluetooth 5.3"
+   ]
+  ]
+ },
+ "btech-7312380E53F073E35BFE": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Jbl"
+   ],
+   [
+    "Dimensions",
+    "8.75 x 10.25 x 10.5 inches"
+   ],
+   [
+    "Model Name",
+    "Tune 520BT"
+   ],
+   [
+    "Connectivity",
+    "Wireless via Bluetooth 5.3"
+   ]
+  ]
+ },
+ "carrefour-1827747001146": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-1827747000296": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-691089": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-B27C16BF2D4F2ED22791": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Anker"
+   ],
+   [
+    "Port Type",
+    "USB"
+   ],
+   [
+    "Wattage",
+    "200 Watt"
+   ],
+   [
+    "Model Name",
+    "Prime"
+   ],
+   [
+    "Connectivity",
+    "3 Ports ( USB-C 1, USB-C 2, USB-A )"
+   ],
+   [
+    "Model Number",
+    "A1336011"
+   ],
+   [
+    "Connection Type",
+    "Wired"
+   ],
+   [
+    "Number of Charging Ports",
+    "3"
+   ]
+  ]
+ },
+ "btech-139E3A283E7E6ABBC764": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Connectivity",
+    "2× USB ports (including USB-C in/out) - Built-in USB-C cable"
+   ],
+   [
+    "Connection Type",
+    "Wired"
+   ],
+   [
+    "Wattage",
+    "22 Watt"
+   ],
+   [
+    "Number of Charging Ports",
+    "2"
+   ]
+  ]
+ },
+ "btech-364D137EF85B3286D411": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Anker"
+   ],
+   [
+    "Port Type",
+    "Multi Ports"
+   ],
+   [
+    "Model Number",
+    "A110EP21"
+   ],
+   [
+    "Connectivity",
+    "USB, USB-C ports, and USB-C Cable"
+   ],
+   [
+    "Connection Type",
+    "Wired"
+   ],
+   [
+    "Wattage",
+    "22 Watt"
+   ],
+   [
+    "Number of Charging Ports",
+    "2"
+   ]
+  ]
+ },
+ "btech-065649EBB3F59AF06FE0": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-55F0B003240641640AB6": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Voltage",
+    "5 Volt"
+   ],
+   [
+    "Wattage",
+    "7 Watt"
+   ],
+   [
+    "Connectivity",
+    "Type-C port, Wireless"
+   ],
+   [
+    "Connection Type",
+    "Magnetic Wireless"
+   ],
+   [
+    "Number of Charging Ports",
+    "1"
+   ]
+  ]
+ },
+ "carrefour-1827747000496": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-2251257000186": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-685263": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "compumarts-baseus-20000mah-power-bank-20w-p10022804113-00": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-FE19404B9C9B0A04EE15": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-A809443ADB7157116EB4": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Model Number",
+    "EP-TA895XBEGWW"
+   ]
+  ]
+ },
+ "btech-1BSAASMCNBEGEU00L007": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-1BSAASMCNBEGWW00L007": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Port Type",
+    "Multi Ports"
+   ],
+   [
+    "Dimensions",
+    "7 x 5 x 4 cm"
+   ]
+  ]
+ },
+ "carrefour-1698542000062": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-2251257000074": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-658121": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Display diagonal",
+    "55 Inch"
+   ],
+   [
+    "Display resolution",
+    "3840 x 2160"
+   ],
+   [
+    "HD type",
+    "Ultra HD"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "Smart TV",
+    "Yes"
+   ]
+  ]
+ },
+ "carrefour-633076": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Power consumption - standby",
+    "0.5"
+   ],
+   [
+    "Display diagonal",
+    "55"
+   ],
+   [
+    "Display resolution",
+    "3840 x 2160"
+   ],
+   [
+    "OLED technology",
+    "Yes"
+   ],
+   [
+    "HD type",
+    "4K"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "USB 2.0 ports quantity",
+    "2"
+   ],
+   [
+    "Ethernet LAN - RJ-45 ports",
+    "1"
+   ],
+   [
+    "HDMI ports quantity",
+    "3"
+   ],
+   [
+    "VESA mounting",
+    "Yes"
+   ],
+   [
+    "Smart TV",
+    "Yes"
+   ]
+  ]
+ },
+ "carrefour-656990": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Power consumption - standby",
+    "0.5"
+   ],
+   [
+    "Display diagonal",
+    "55"
+   ],
+   [
+    "Response time",
+    "120"
+   ],
+   [
+    "Display resolution",
+    "3840 x 2160"
+   ],
+   [
+    "OLED technology",
+    "Yes"
+   ],
+   [
+    "HD type",
+    "4K Ultra HD"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "Built-in speaker",
+    "Yes"
+   ],
+   [
+    "USB 2.0 ports quantity",
+    "2"
+   ],
+   [
+    "HDMI ports quantity",
+    "4"
+   ],
+   [
+    "Smart TV",
+    "Yes"
+   ]
+  ]
+ },
+ "btech-F662D83E11B3F8D9613A": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-F6FE06D29764E3D7E828": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Xiaomi"
+   ],
+   [
+    "Resolution Type",
+    "4K"
+   ],
+   [
+    "Dimensions",
+    "29.4 x 15.4 mm"
+   ]
+  ]
+ },
+ "btech-19BE3CFE7CD2D63620DF": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-670836": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-662731": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Display diagonal",
+    "65-inch"
+   ],
+   [
+    "Display resolution",
+    "3840 x 2160"
+   ],
+   [
+    "OLED technology",
+    "No"
+   ],
+   [
+    "HD type",
+    "UHD"
+   ],
+   [
+    "Ethernet LAN",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "Built-in speaker",
+    "Yes"
+   ],
+   [
+    "Number of loudspeakers",
+    "3"
+   ],
+   [
+    "Ethernet LAN - RJ-45 ports",
+    "1"
+   ],
+   [
+    "USB 3.0 - 3.1 Gen 1 Type-A ports quantity",
+    "1"
+   ],
+   [
+    "HDMI ports quantity",
+    "4"
+   ],
+   [
+    "Internet TV",
+    "Yes"
+   ],
+   [
+    "Smart TV",
+    "Yes"
+   ]
+  ]
+ },
+ "carrefour-662727": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Display diagonal",
+    "55-inch"
+   ],
+   [
+    "Display resolution",
+    "3840 x 2160"
+   ],
+   [
+    "OLED technology",
+    "No"
+   ],
+   [
+    "HD type",
+    "UHD"
+   ],
+   [
+    "Ethernet LAN",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "Built-in speaker",
+    "Yes"
+   ],
+   [
+    "Number of loudspeakers",
+    "2"
+   ],
+   [
+    "Ethernet LAN - RJ-45 ports",
+    "1"
+   ],
+   [
+    "USB 3.0 - 3.1 Gen 1 Type-A ports quantity",
+    "2"
+   ],
+   [
+    "HDMI ports quantity",
+    "2"
+   ],
+   [
+    "Internet TV",
+    "Yes"
+   ],
+   [
+    "Smart TV",
+    "Yes"
+   ]
+  ]
+ },
+ "btech-1BLNLPI383RR01EDL007": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-E81F38673538B551D03E": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-1BLNLPI7S50035EDL020": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "2b-lenovo-ideapad-slim-3-15irh10-laptop-intelr-coretm-i5-13420h-16gb-512gb-ssd-inte": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "Lenovo"
+   ],
+   [
+    "Color",
+    "Blue"
+   ],
+   [
+    "MPN",
+    "83K100QPED"
+   ],
+   [
+    "Part Number",
+    "83K100QPED"
+   ],
+   [
+    "Model",
+    "Lenovo IdeaPad Slim 3 15IRH10"
+   ],
+   [
+    "Processor",
+    "Intel Core i5"
+   ],
+   [
+    "Processor Generation",
+    "13th Generation"
+   ],
+   [
+    "Processor Information",
+    "13th Gen Intel® Core™ i5-13420H 12M Cache, up to 4.60 GHz"
+   ],
+   [
+    "RAM",
+    "16 GB"
+   ],
+   [
+    "RAM Information",
+    "16 GB DDR5"
+   ],
+   [
+    "Hard Disk Capacity",
+    "512 GB"
+   ],
+   [
+    "Hard Disk Type",
+    "512GB M.2 2242 PCIe® 4.0x4 NVMe® SSD"
+   ],
+   [
+    "Graphics Card Details",
+    "Integrated Intel® UHD Graphics"
+   ],
+   [
+    "Display Type",
+    "15.3\" WUXGA 60Hz"
+   ],
+   [
+    "warranty",
+    "2 Years"
+   ],
+   [
+    "Speaker",
+    "Stereo Speakers"
+   ],
+   [
+    "I/O Ports",
+    "2x USB-A (USB 3.2 Gen 1), 1x USB-C® (USB 3.2 Gen 1) with Power Delivery 3.0 & DisplayPort™ 1.2, 1x HDMI® 1.4, 1x Headphone / microphone combo jack (3.5mm), 1x SD card reader, 1x Power connector"
+   ],
+   [
+    "Operating System",
+    "Free Dos"
+   ]
+  ]
+ },
+ "2b-lenovo-ideapad-slim-3-14iwc11-laptop-intelr-coretm-5-315-8gb-512gb-ssd-intelr-gr": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "Lenovo"
+   ],
+   [
+    "Color",
+    "Gray"
+   ],
+   [
+    "MPN",
+    "83RQ00DWED"
+   ],
+   [
+    "Part Number",
+    "83RQ00DWED"
+   ],
+   [
+    "Model",
+    "Lenovo IdeaPad Slim 3 14IWC11"
+   ],
+   [
+    "Processor",
+    "Intel® Core™ 5"
+   ],
+   [
+    "Processor Information",
+    "Intel® Core™ 5 315, 6C (2P + 4LPE) / 6T, Max Turbo up to 4.4Ghz, 6MB Intel® Smart Cache"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "RAM Information",
+    "8GB DDR5-5600"
+   ],
+   [
+    "Hard Disk Capacity",
+    "512 GB"
+   ],
+   [
+    "Hard Disk Type",
+    "512GB SSD M.2 2242 PCIe® 4.0x4 NVMe®"
+   ],
+   [
+    "Graphics Card Details",
+    "Intel® Graphics"
+   ],
+   [
+    "Display Type",
+    "14\" WUXGA (1920x1200)"
+   ],
+   [
+    "Display Size",
+    "14 inches"
+   ],
+   [
+    "warranty",
+    "3 Years"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi® 6, 802.11ax 2x2 + BT5.3"
+   ],
+   [
+    "Speaker",
+    "Stereo Speakers"
+   ],
+   [
+    "I/O Ports",
+    "2x USB-A (USB 5Gbps), 1x USB-C® (USB 5Gbps), with USB PD 45-65W and DisplayPort™ 1.2, 1x HDMI® 1.4, 1x Headphone / microphone combo jack (3.5mm), 1x SD card reader, 1x Round tip power connector"
+   ],
+   [
+    "Operating System",
+    "Windows 11"
+   ]
+  ]
+ },
+ "carrefour-689900": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Processor model",
+    "AMD Athlon Silver 10"
+   ],
+   [
+    "Processor family",
+    "AMD"
+   ],
+   [
+    "Processor frequency",
+    "3.5"
+   ],
+   [
+    "Internal memory type",
+    "Soldered LPDDR5-5500"
+   ],
+   [
+    "Internal memory",
+    "8"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "Display diagonal",
+    "15.6"
+   ],
+   [
+    "Display resolution",
+    "1920x1080"
+   ],
+   [
+    "Touchscreen",
+    "No"
+   ],
+   [
+    "HDMI ports quantity",
+    "1"
+   ],
+   [
+    "USB 3.0 - 3.1 Gen 1 Type-A ports quantity",
+    "2"
+   ],
+   [
+    "Total storage capacity",
+    "256"
+   ],
+   [
+    "On-board graphics adapter model",
+    "AMD Radeon 610M"
+   ],
+   [
+    "Front camera",
+    "Yes"
+   ]
+  ]
+ },
+ "carrefour-689001": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-689002": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-689003": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-689004": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Processor model",
+    "Intel Core Ultra 7 255H"
+   ],
+   [
+    "Processor family",
+    "Intel"
+   ],
+   [
+    "Processor frequency",
+    "5.1"
+   ],
+   [
+    "Internal memory type",
+    "SODIMM DDR5-5600"
+   ],
+   [
+    "Internal memory",
+    "16"
+   ],
+   [
+    "Bluetooth",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "Display diagonal",
+    "16"
+   ],
+   [
+    "Display resolution",
+    "1920x1200"
+   ],
+   [
+    "Touchscreen",
+    "No"
+   ],
+   [
+    "HDMI ports quantity",
+    "1"
+   ],
+   [
+    "USB 3.0 - 3.1 Gen 1 Type-A ports quantity",
+    "2"
+   ],
+   [
+    "Total storage capacity",
+    "512"
+   ],
+   [
+    "On-board graphics adapter model",
+    "Intel Arc 140T"
+   ],
+   [
+    "Front camera",
+    "Yes"
+   ]
+  ]
+ },
+ "carrefour-686441": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "compumarts-lenovo-ideapad-5-pro-16imh9-laptop-intel-core-ultra-5-125h-16gb-512gb-ssd-nvidia": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "compumarts",
+  "specs": [
+   [
+    "CPU",
+    "Intel® Core™ Ultra 5 125H (14 Cores / 18 Threads, up to 4.5GHz)"
+   ],
+   [
+    "GPU",
+    "NVIDIA® GeForce RTX™ 3050 6GB GDDR6"
+   ],
+   [
+    "MEMORY",
+    "16GB Soldered LPDDR5x-7467 (Dual-channel)"
+   ],
+   [
+    "STORAGE",
+    "512GB SSD M.2 2242 PCIe 4.0x4 NVMe (Dual M.2 Slots available)"
+   ],
+   [
+    "DISPLAY",
+    "16\" 2K (2048x1280) OLED, 400nits, 120Hz, 100% DCI-P3, HDR True Black 500"
+   ],
+   [
+    "OS",
+    "Windows 11 Home"
+   ]
+  ]
+ },
+ "compumarts-lenovo-ideapad-slim-3i-83k100g3lk-i7-13620h-16gb-512gb-egypt": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "compumarts",
+  "specs": [
+   [
+    "CPU",
+    "Intel Core™ i7-13620H, 10C (6P + 4E) / 16T, P-core up to 4.9GHz, E-core up to 3.6GHz, 24MB Intel® Smart Cache"
+   ],
+   [
+    "GPU",
+    "Integrated Intel® UHD Graphics"
+   ],
+   [
+    "MEMORY",
+    "8GB Soldered DDR5-4800 + 8GB SODIMM DDR5-4800"
+   ],
+   [
+    "STORAGE",
+    "512GB SSD M.2 2242 PCIe® 4.0x4 NVMe®"
+   ],
+   [
+    "DISPLAY",
+    "15.3\" WUXGA (1920x1200) IPS 300nits Anti-glare, 45% NTSC, 60Hz"
+   ],
+   [
+    "BATTERY",
+    "50Wh"
+   ]
+  ]
+ },
+ "btech-29AACA252945C037F8B1": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-38734AA250668D0C85B9": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-2D6917576CE54D63EB1B": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-F6FDAE6DBF925A2CE493": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "2b-hp-victus-15-fa2103ne-laptop-intelr-coretm-5-210h-12gb-512gb-ssd-nvidiar-geforce": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "HP"
+   ],
+   [
+    "Color",
+    "Mica Silver"
+   ],
+   [
+    "Part Number",
+    "DW0S8EA"
+   ],
+   [
+    "Model",
+    "HP Victus 15-fa2103ne"
+   ],
+   [
+    "Processor",
+    "Intel® Core™ 5"
+   ],
+   [
+    "Processor Information",
+    "Intel® Core™ 5 210H (up to 4.8 GHz with Intel® Turbo Boost Technology, 12 MB L3 cache, 8 cores, 12 threads)"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "RAM Information",
+    "12 GB DDR5"
+   ],
+   [
+    "Hard Disk Capacity",
+    "512 GB"
+   ],
+   [
+    "Hard Disk Type",
+    "512 GB PCIe® Gen4 NVMe™ M.2 SSD"
+   ],
+   [
+    "Graphics Card",
+    "NVIDIA® GeForce RTX 3050"
+   ],
+   [
+    "Graphics Card Details",
+    "NVIDIA® GeForce RTX™ 3050 6GB GDDR6"
+   ],
+   [
+    "Display Type",
+    "15.6\" FHD (1920 x 1080)"
+   ],
+   [
+    "Display Size",
+    "15.6 inches"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 6 (2x2) and Bluetooth® 5.4 wireless card"
+   ],
+   [
+    "Speaker",
+    "Stereo Speakers"
+   ],
+   [
+    "I/O Ports",
+    "1 USB Type-A 5Gbps signaling rate (HP Sleep and Charge), 1 USB Type-A 5Gbps signaling rate, 1 AC smart pin, 1 HDMI-out 2.1, 1 headphone/microphone combo, 1 RJ-45, 1 USB Type-C® 5Gbps signaling rate"
+   ],
+   [
+    "Operating System",
+    "Windows 11"
+   ]
+  ]
+ },
+ "compumarts-hp-victus-15-fa2787nr-i7-13620h-rtx-5060-egypt": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "compumarts",
+  "specs": [
+   [
+    "CPU",
+    "Intel® Core™ i7-13620H"
+   ],
+   [
+    "GPU",
+    "NVIDIA® GeForce RTX™ 5060"
+   ],
+   [
+    "MEMORY",
+    "16 GB DDR5 (1 x 16 GB)"
+   ],
+   [
+    "STORAGE",
+    "512 GB PCIe® Gen4 NVMe™ M.2 SSD"
+   ],
+   [
+    "DISPLAY",
+    "15.6\" diagonal FHD display"
+   ],
+   [
+    "OS",
+    "Windows 11 Home"
+   ]
+  ]
+ },
+ "compumarts-hp-victu-gaming-laptop-intel-core-i5-13420h-ram-16gb-512-gb-nvidia-geforce-rtx-4": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "compumarts",
+  "specs": [
+   [
+    "CPU",
+    "Intel® Core™ i5-13420H (13th Gen)"
+   ],
+   [
+    "CPU CORES / THREADS",
+    "8 cores (4 Performance + 4 Efficient), 12 threads"
+   ],
+   [
+    "MAX TURBO FREQUENCY",
+    "Up to 4.6 GHz"
+   ],
+   [
+    "CHIPSET",
+    "Intel® Integrated SoC"
+   ],
+   [
+    "MEMORY",
+    "16 GB DDR4"
+   ],
+   [
+    "MEMORY TYPE",
+    "DDR4-3200 MHz"
+   ],
+   [
+    "MEMORY SLOTS",
+    "2× SODIMM (upgradeable on most models)"
+   ],
+   [
+    "MAXIMUM MEMORY SUPPORTED",
+    "Up to 32 GB (varies by configuration)"
+   ],
+   [
+    "GPU",
+    "NVIDIA® GeForce® RTX 4050 Laptop GPU"
+   ],
+   [
+    "GPU MEMORY",
+    "6 GB GDDR6 dedicated VRAM"
+   ],
+   [
+    "INTEGRATED GRAPHICS",
+    "Intel® UHD Graphics"
+   ],
+   [
+    "STORAGE",
+    "512 GB PCIe® NVMe™ M.2 SSD"
+   ],
+   [
+    "STORAGE EXPANSION",
+    "Additional M.2 slot (model dependent)"
+   ],
+   [
+    "DISPLAY SIZE",
+    "15.6 inches"
+   ],
+   [
+    "DISPLAY TYPE",
+    "FHD IPS, Anti-glare"
+   ],
+   [
+    "RESOLUTION",
+    "1920 × 1080"
+   ],
+   [
+    "REFRESH RATE",
+    "144 Hz"
+   ],
+   [
+    "BRIGHTNESS",
+    "~250–300 nits (varies by model)"
+   ],
+   [
+    "ASPECT RATIO",
+    "16:9"
+   ],
+   [
+    "TOUCHSCREEN",
+    "No"
+   ],
+   [
+    "WIRELESS",
+    "Wi-Fi 6 + Bluetooth® 5.3"
+   ],
+   [
+    "ETHERNET",
+    "RJ-45 LAN port available"
+   ],
+   [
+    "PORTS",
+    "USB Type-A, USB Type-C, HDMI, RJ-45, Headphone/Mic combo, AC adapter"
+   ],
+   [
+    "KEYBOARD",
+    "Full-size backlit gaming keyboard with numeric keypad"
+   ],
+   [
+    "WEBCAM",
+    "720p or 1080p HD camera with dual microphones"
+   ],
+   [
+    "AUDIO",
+    "Dual speakers, HP Audio tuning"
+   ],
+   [
+    "OS",
+    "Windows 11 Home"
+   ],
+   [
+    "BATTERY TYPE",
+    "3-cell / 4-cell Li-ion (≈ 52–70 Wh depending on model)"
+   ],
+   [
+    "FAST CHARGING",
+    "Supported"
+   ],
+   [
+    "WEIGHT",
+    "Around 2.2 – 2.3 kg"
+   ]
+  ]
+ },
+ "compumarts-hp-victus-15-fa2352tx-gaming-laptop-core-i7-13620h-16gb-ddr5-512gb-ssd-rtx-5050-": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "compumarts",
+  "specs": [
+   [
+    "MODEL",
+    "HP Victus 15-fa2352TX Gaming Laptop"
+   ],
+   [
+    "CPU",
+    "Core i7-13620H (13th Gen)"
+   ],
+   [
+    "GPU",
+    "8GB NVIDIA GeForce RTX 5050"
+   ],
+   [
+    "MEMORY",
+    "16GB DDR5"
+   ],
+   [
+    "STORAGE",
+    "512GB SSD"
+   ],
+   [
+    "DISPLAY",
+    "15.6 Inch"
+   ],
+   [
+    "DISPLAY RESOLUTION",
+    "Full HD (1920 × 1080)"
+   ],
+   [
+    "REFRESH RATE",
+    "144Hz"
+   ],
+   [
+    "OS",
+    "DOS"
+   ],
+   [
+    "COLOR",
+    "Mica Silver"
+   ],
+   [
+    "CONDITION",
+    "Brand New"
+   ]
+  ]
+ },
+ "compumarts-hp-victus-15-fa2392tx-intel-core-i7-13620h-rtx-4050-6gb-16gb-ddr4-512gb-nvme-gen": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "compumarts",
+  "specs": [
+   [
+    "CPU",
+    "Intel® Core™ i7-13620H (up to 4.9 GHz with Intel® Turbo Boost Technology, 24 MB L3 cache, 10 cores, 16 threads)"
+   ],
+   [
+    "GPU",
+    "NVIDIA® GeForce RTX™ 4050 Laptop GPU (6 GB GDDR6 dedicated)"
+   ],
+   [
+    "MEMORY",
+    "16 GB DDR4-3200 MT/s (1 x 16 GB)"
+   ],
+   [
+    "STORAGE",
+    "512 GB PCIe® Gen4 NVMe™ M.2 SSD"
+   ],
+   [
+    "DISPLAY",
+    "15.6\" diagonal, FHD (1920 x 1080), 144 Hz, IPS, micro-edge, anti-glare, 300 nits, 62.5% sRGB"
+   ],
+   [
+    "OS",
+    "FreeDOS 3.0"
+   ]
+  ]
+ },
+ "compumarts-hp-victus-15-rtx-4050-i5-gaming-laptop": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "compumarts",
+  "specs": [
+   [
+    "CPU",
+    "Intel Core i5-13420H (8 Cores, 12 Threads, up to 4.6GHz)"
+   ],
+   [
+    "GPU",
+    "NVIDIA GeForce RTX 4050"
+   ],
+   [
+    "MEMORY",
+    "16GB DDR4 3200MHz (2×8GB)"
+   ],
+   [
+    "STORAGE",
+    "512GB SSD"
+   ],
+   [
+    "DISPLAY",
+    "15.6\""
+   ],
+   [
+    "OS",
+    "Windows"
+   ]
+  ]
+ },
+ "btech-411C6D11DB79C30E5A33": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-0B6824910310BFECAC74": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "compumarts-products-asus-tuf-a16-fa608pm-ryzen9-rtx5060": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "compumarts",
+  "specs": [
+   [
+    "Processor",
+    "AMD Ryzen 9 8940HX, up to 5.3GHz, 16 cores and 32 threads"
+   ],
+   [
+    "Graphics",
+    "NVIDIA GeForce RTX 5060 Laptop GPU with 8GB GDDR7 and up to 115W graphics power"
+   ],
+   [
+    "Memory",
+    "16GB DDR5-5600 SO-DIMM, expandable up to 64GB"
+   ],
+   [
+    "Storage",
+    "512GB PCIe 4.0 NVMe M.2 SSD"
+   ],
+   [
+    "Display",
+    "16-inch WUXGA (1920 x 1200) IPS-level anti-glare display, 165Hz, 16:10 aspect ratio"
+   ],
+   [
+    "Display Features",
+    "G-SYNC, MUX Switch, NVIDIA Advanced Optimus, 100% sRGB"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 6E, Bluetooth 5.4, HDMI 2.1 FRL, RJ45 LAN, USB Type-A and USB Type-C"
+   ],
+   [
+    "Keyboard",
+    "RGB backlit Chiclet keyboard with dedicated Copilot key"
+   ],
+   [
+    "Camera and Audio",
+    "1080p FHD IR camera with Windows Hello, Dolby Atmos, AI noise-canceling microphone technology"
+   ],
+   [
+    "Battery",
+    "90Wh, 4-cell lithium-ion battery"
+   ],
+   [
+    "Power Adapter",
+    "280W AC adapter"
+   ],
+   [
+    "Operating System",
+    "Windows 11 Home"
+   ],
+   [
+    "Weight",
+    "2.20 kg (4.85 lbs)"
+   ],
+   [
+    "Dimensions",
+    "35.4 x 26.9 x 1.79–2.73 cm"
+   ]
+  ]
+ },
+ "compumarts-asus-tuf-a14-ryzen-ai-rtx5060-2-5k-165hz-laptop-egypt": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "compumarts",
+  "specs": [
+   [
+    "Model",
+    "ASUS TUF Gaming A14 FA401KM-RG014W"
+   ],
+   [
+    "Part Number",
+    "90NR0KG1-M00170"
+   ],
+   [
+    "Processor",
+    "AMD Ryzen AI 7 350 — 8 cores, 16 threads, up to 5.0GHz"
+   ],
+   [
+    "AI Engine",
+    "AMD XDNA NPU — up to 50 TOPS"
+   ],
+   [
+    "Graphics",
+    "NVIDIA GeForce RTX 5060 Laptop GPU — 8GB GDDR7"
+   ],
+   [
+    "Memory",
+    "16GB LPDDR5X-7500 onboard, dual-channel; not upgradeable"
+   ],
+   [
+    "Storage",
+    "1TB PCIe 4.0 NVMe SSD; 2 M.2 slots total, with the secondary slot operating at PCIe 4.0 x2"
+   ],
+   [
+    "Display",
+    "14″ IPS-level, 2560 × 1600, 165Hz, 16:10, anti-glare, 100% sRGB"
+   ],
+   [
+    "Graphics Switching",
+    "NVIDIA G-SYNC, MUX Switch and NVIDIA Advanced Optimus"
+   ],
+   [
+    "Keyboard & Camera",
+    "Single-colour backlit keyboard; FHD IR camera with Windows Hello"
+   ],
+   [
+    "Audio",
+    "Dual speakers, Dolby Atmos and AI noise cancellation"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 6E and Bluetooth"
+   ],
+   [
+    "Ports",
+    "USB4 Type-C with DisplayPort and Power Delivery; USB-C with DisplayPort; 2 × USB-A; HDMI 2.1 FRL; microSD UHS-II reader; 3.5mm combo audio"
+   ],
+   [
+    "Battery & Power",
+    "73Wh battery; 200W AC adapter"
+   ],
+   [
+    "Operating System",
+    "Windows 11 Home"
+   ],
+   [
+    "Weight",
+    "Approximately 1.46kg"
+   ],
+   [
+    "Included Accessory",
+    "TUF backpack"
+   ]
+  ]
+ },
+ "btech-1BAPLPSMMBAM4000L008": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-56B68218EA93F40D021F": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Frost System Type",
+    "NoFrost"
+   ],
+   [
+    "Model Number",
+    "RT40A3010SA-MR"
+   ],
+   [
+    "Mounting System",
+    "Free Standing"
+   ],
+   [
+    "Interior Light Type",
+    "LED Light"
+   ],
+   [
+    "Number Of Shelves",
+    "3"
+   ]
+  ]
+ },
+ "btech-4E6CA8E003BB49AB4FC7": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Frost System Type",
+    "NoFrost"
+   ],
+   [
+    "Inverter Motor",
+    "Yes"
+   ],
+   [
+    "Dimensions",
+    "716 x 1780 x 912 mm"
+   ],
+   [
+    "Model Number",
+    "RS70F65QATMR"
+   ],
+   [
+    "Shelves Material",
+    "Tempered Glass"
+   ],
+   [
+    "Number Of Shelves",
+    "4"
+   ]
+  ]
+ },
+ "btech-F34FB76F30665562BCF3": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Inverter Motor",
+    "Yes"
+   ],
+   [
+    "Frost System Type",
+    "NoFrost"
+   ],
+   [
+    "Energy Efficiency Class",
+    "A"
+   ],
+   [
+    "Dimensions",
+    "595 x 1853 x 595 mm"
+   ],
+   [
+    "Model Number",
+    "RB34C671ES9/MR"
+   ],
+   [
+    "Mounting System",
+    "Free Standing"
+   ],
+   [
+    "Number Of Shelves",
+    "4"
+   ]
+  ]
+ },
+ "btech-A278C2602772B93A2BF6": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Inverter Motor",
+    "No"
+   ],
+   [
+    "Frost System Type",
+    "NoFrost"
+   ],
+   [
+    "Energy Efficiency Class",
+    "A++"
+   ],
+   [
+    "Model Number",
+    "RB34T632FS9/MR"
+   ],
+   [
+    "Dimensions",
+    "1853 x 595 x 658 mm"
+   ]
+  ]
+ },
+ "btech-BB912E3EC98977D6B241": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Inverter Motor",
+    "Yes"
+   ],
+   [
+    "Frost System Type",
+    "NoFrost"
+   ],
+   [
+    "Energy Efficiency Class",
+    "A"
+   ],
+   [
+    "Dimensions",
+    "595 x 1853 x 595 mm"
+   ],
+   [
+    "Model Number",
+    "RB34C672EB1/MR"
+   ],
+   [
+    "Mounting System",
+    "Free Standing"
+   ],
+   [
+    "Number Of Shelves",
+    "4"
+   ]
+  ]
+ },
+ "carrefour-659715": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Capacity In Liter",
+    "340"
+   ],
+   [
+    "No Frost - fridge",
+    "Yes"
+   ],
+   [
+    "Dimensions WxDxH",
+    "595 x 1853 x 595 mm"
+   ]
+  ]
+ },
+ "carrefour-659714": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-30645908581680F0E193": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Sharp"
+   ],
+   [
+    "Frost System Type",
+    "NoFrost"
+   ],
+   [
+    "Energy Efficiency Class",
+    "A"
+   ],
+   [
+    "Dimensions",
+    "167 x 70 x 72 cm"
+   ],
+   [
+    "Model Number",
+    "SJ-58C(BE)"
+   ],
+   [
+    "Interior Light Type",
+    "LED"
+   ]
+  ]
+ },
+ "btech-E5617F85ABCB2E5CCE27": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Sharp"
+   ],
+   [
+    "Inverter Motor",
+    "No"
+   ],
+   [
+    "Energy Efficiency Class",
+    "A"
+   ],
+   [
+    "Dimensions",
+    "1770 x 800 x 740 mm"
+   ],
+   [
+    "Model Number",
+    "SJ-GV69G-RD"
+   ],
+   [
+    "Interior Light Type",
+    "LED Light"
+   ]
+  ]
+ },
+ "btech-445562F2AE76FEC088A2": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Sharp"
+   ],
+   [
+    "Inverter Motor",
+    "No"
+   ],
+   [
+    "Frost System Type",
+    "NoFrost"
+   ],
+   [
+    "Dimensions",
+    "645 x 680 x 1670 mm"
+   ],
+   [
+    "Model Number",
+    "SJ-48C(ST)"
+   ],
+   [
+    "Number Of Shelves",
+    "3"
+   ]
+  ]
+ },
+ "btech-B80152046974DD52C3CF": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Sharp"
+   ],
+   [
+    "Inverter Motor",
+    "No"
+   ],
+   [
+    "Frost System Type",
+    "NoFrost"
+   ],
+   [
+    "Dimensions",
+    "1670 x 700 x 720 mm"
+   ],
+   [
+    "Model Number",
+    "SJ-58C(BK)"
+   ],
+   [
+    "Number Of Shelves",
+    "3"
+   ]
+  ]
+ },
+ "2b-sharp-refrigerator-385-l-digital-no-frost-black-sj-pc48a-bk.html": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "Sharp"
+   ],
+   [
+    "Country of Manufacture",
+    "Egypt"
+   ],
+   [
+    "MPN",
+    "SJ-PC48A(BK)"
+   ],
+   [
+    "Device Type",
+    "Refrigerators"
+   ],
+   [
+    "Refrigerator/ Deep Freezer Style",
+    "Top Freezer"
+   ],
+   [
+    "Cooling System",
+    "No Frost"
+   ],
+   [
+    "Capacity",
+    "385 Liter"
+   ],
+   [
+    "Color",
+    "Black"
+   ],
+   [
+    "warranty",
+    "5 Years"
+   ]
+  ]
+ },
+ "carrefour-974019129242": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-CAD225A16D4EDDE0DAB7": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-75FBE03DA9EDE80590E4": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Fresh"
+   ],
+   [
+    "Model Number",
+    "50013520"
+   ],
+   [
+    "Dimensions",
+    "950 × 500 × 535 mm"
+   ]
+  ]
+ },
+ "btech-D66314A987CEB3113770": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Fresh"
+   ],
+   [
+    "Child Lock",
+    "Yes"
+   ],
+   [
+    "Start Delay Option",
+    "Yes"
+   ],
+   [
+    "Dimensions",
+    "48 x 52 x 88 cm"
+   ],
+   [
+    "Model Number",
+    "500022310"
+   ]
+  ]
+ },
+ "carrefour-1698542001319": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-1698542001257": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-1698542001251": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-71E86BA0259C04AF419D": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Inverter Motor",
+    "No"
+   ],
+   [
+    "Child Lock",
+    "Yes"
+   ],
+   [
+    "RPM",
+    "700"
+   ],
+   [
+    "Dimensions",
+    "104x58x60.7cm"
+   ],
+   [
+    "Model Number",
+    "WA11DG5410BDAS"
+   ]
+  ]
+ },
+ "btech-10062B9D6D42EF0ADA10": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Child Lock",
+    "Yes"
+   ],
+   [
+    "Inverter Motor",
+    "Yes"
+   ],
+   [
+    "Dimensions",
+    "600 x 850 x 550‎ mm"
+   ],
+   [
+    "Model Number",
+    "WW80CGC0EDABAS"
+   ],
+   [
+    "RPM",
+    "1400"
+   ]
+  ]
+ },
+ "btech-95AD9A643E855D93C967": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Inverter Motor",
+    "Yes"
+   ],
+   [
+    "Number of Programs",
+    "8"
+   ],
+   [
+    "RPM",
+    "1400"
+   ],
+   [
+    "Dimensions",
+    "850x600x600mm"
+   ],
+   [
+    "Model Number",
+    "WW11B1534DAP"
+   ]
+  ]
+ },
+ "btech-2C8711696C752A527F76": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Child Lock",
+    "Yes"
+   ],
+   [
+    "Inverter Motor",
+    "Yes"
+   ],
+   [
+    "Steam Function",
+    "Yes"
+   ],
+   [
+    "Model Number",
+    "WW11B1534DABAS"
+   ],
+   [
+    "Dimensions",
+    "85x 60 x 60 cm"
+   ],
+   [
+    "RPM",
+    "1400"
+   ]
+  ]
+ },
+ "carrefour-575608": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Loading type",
+    "Front Loading"
+   ],
+   [
+    "Dimensions WxDxH",
+    "650*578*878 mm"
+   ],
+   [
+    "Washing capacity",
+    "8"
+   ]
+  ]
+ },
+ "carrefour-654413": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Loading type",
+    "Top"
+   ],
+   [
+    "Case design",
+    "Free-standing"
+   ],
+   [
+    "Dimensions WxDxH",
+    "601 x 630 x 1000"
+   ],
+   [
+    "Washing capacity",
+    "13"
+   ],
+   [
+    "Child lock",
+    "Yes"
+   ]
+  ]
+ },
+ "carrefour-656975": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Loading type",
+    "Front load"
+   ],
+   [
+    "Built-in display",
+    "Yes"
+   ],
+   [
+    "Dimensions WxDxH",
+    "600 x 581 x 850 mm"
+   ],
+   [
+    "Washing capacity",
+    "8"
+   ],
+   [
+    "Maximum spin speed",
+    "1200"
+   ],
+   [
+    "Energy efficiency class",
+    "A"
+   ],
+   [
+    "Annual energy consumption washing",
+    "120"
+   ],
+   [
+    "Child lock",
+    "Yes"
+   ]
+  ]
+ },
+ "carrefour-656973": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Loading type",
+    "Front load"
+   ],
+   [
+    "Built-in display",
+    "Yes"
+   ],
+   [
+    "Dimensions WxDxH",
+    "600 x 581 x 850 mm"
+   ],
+   [
+    "Washing capacity",
+    "8"
+   ],
+   [
+    "Maximum spin speed",
+    "1200"
+   ],
+   [
+    "Energy efficiency class",
+    "A"
+   ],
+   [
+    "Annual energy consumption washing",
+    "120"
+   ],
+   [
+    "Child lock",
+    "Yes"
+   ]
+  ]
+ },
+ "btech-C2F43204F30BE4B31BED": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-660477": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Capacity",
+    "3 HP"
+   ],
+   [
+    "Cooling capacity",
+    "22400"
+   ],
+   [
+    "Cooling energy efficiency - EER, W/W",
+    "11.5"
+   ],
+   [
+    "Air conditioner functions",
+    "Cooling and Heating"
+   ],
+   [
+    "Dimensions WxDxH",
+    "1052 x 316 x 249"
+   ]
+  ]
+ },
+ "carrefour-633160": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-F0641C82E5AA2B0D3BA6": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-6221047008932": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-2263858000026": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-2263858000004": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-1698542000872": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-1188F7C168B489757C48": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "2b-oppo-reno16f-5g-12gb-ram-256gb-pop-white.html": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "Oppo"
+   ],
+   [
+    "Color",
+    "Violet"
+   ],
+   [
+    "MPN",
+    "CPH2859/8/TV"
+   ],
+   [
+    "Network 2G",
+    "GSM 850 / 900 / 1800 / 1900"
+   ],
+   [
+    "Network 3G",
+    "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100"
+   ],
+   [
+    "4G Network",
+    "HSPA, LTE, 5G"
+   ],
+   [
+    "SIM Card",
+    "Dual SIM"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 7300 Energy (4 nm)"
+   ],
+   [
+    "CPU (Processor)",
+    "Octa Core"
+   ],
+   [
+    "CPU Speed (GHz)",
+    "Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)"
+   ],
+   [
+    "GPU",
+    "Mali-G615 MC2"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Display Size",
+    "6.5 inches"
+   ],
+   [
+    "Display Type",
+    "6.57 inches, 1080 x 2372 pixels (~397 ppi density) AMOLED, 1B colors, 120Hz, 600 nits (typ), 1400 nits (HBM)"
+   ],
+   [
+    "Internal Storage",
+    "256 GB"
+   ],
+   [
+    "Operating System",
+    "Android"
+   ],
+   [
+    "OS version",
+    "Android 16, ColorOS 16"
+   ],
+   [
+    "Primary Camera",
+    "50 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF + 50 MP, f/2.8, 92mm (telephoto), 1/3.13\", 0.56µm, PDAF + 8 MP, f/2.2, 15mm, 116˚ (ultrawide)"
+   ],
+   [
+    "Secondary Camera",
+    "50 MP, f/2.0, 18mm, 100˚ (ultrawide), 1/2.88\", 0.61µm, AF"
+   ],
+   [
+    "Video Resolutions",
+    "4K@30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+   ],
+   [
+    "Connectivity",
+    "WLAN: Wi-Fi 802.11 a/b/g/n/ac/6, dual-band Bluetooth: 5.4, A2DP, LE, aptX HD Positioning: GPS, GLONASS, GALILEO, BDS, QZSS Infrared port: Yes USB: USB Type-C 2.0, OTG"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 7000 mAh 80W wired, 55W PPS, 13.5W PD/QC, 100% in 62 min Reverse wired"
+   ],
+   [
+    "warranty",
+    "1 Year"
+   ]
+  ]
+ },
+ "2b-oppo-reno16-5g-12gb-ram-256gb-pop-white.html": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "Oppo"
+   ],
+   [
+    "Color",
+    "White"
+   ],
+   [
+    "MPN",
+    "CPH2865/PW"
+   ],
+   [
+    "Network 2G",
+    "GSM 850 / 900 / 1800 / 1900"
+   ],
+   [
+    "Network 3G",
+    "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100"
+   ],
+   [
+    "4G Network",
+    "HSPA, LTE, 5G"
+   ],
+   [
+    "SIM Card",
+    "Dual SIM"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM7750-AB Snapdragon 7 Gen 4 (4 nm)"
+   ],
+   [
+    "CPU (Processor)",
+    "Octa Core"
+   ],
+   [
+    "CPU Speed (GHz)",
+    "Octa-core (1x2.8 GHz Cortex-720 & 4x2.4 GHz Cortex-720 & 3x1.8 GHz Cortex-520)"
+   ],
+   [
+    "GPU",
+    "Adreno 722"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Display Size",
+    "6.3 inches"
+   ],
+   [
+    "Display Type",
+    "6.32 inches, 1216 x 2640 pixels, 19.5:9 ratio (~460 ppi density) AMOLED, 1B colors, 120Hz, 3840Hz PWM, HDR10+, 600 nits (typ), 1800 nits (HBM), 3600 nits (peak)"
+   ],
+   [
+    "Internal Storage",
+    "256 GB"
+   ],
+   [
+    "Operating System",
+    "Android"
+   ],
+   [
+    "OS version",
+    "Android 16, ColorOS 16"
+   ],
+   [
+    "Primary Camera",
+    "50 MP, f/1.8, 26mm (wide), 1/1.95\", 0.8µm, PDAF + 50 MP, f/2.8, 80mm (telephoto) + 50 MP, f/2.0, 16mm, 116˚ (ultrawide)"
+   ],
+   [
+    "Secondary Camera",
+    "50 MP, f/2.0, 18mm, 100˚ (ultrawide), 1/2.75\", 0.64µm, AF Panorama, HDR"
+   ],
+   [
+    "Video Resolutions",
+    "4K@30/60fps, 1080p@30/60/120fps, gyro-EIS, HDR, OIS"
+   ],
+   [
+    "Connectivity",
+    "WLAN: Wi-Fi 802.11 a/b/g/n/ac/6, dual-band Bluetooth: 5.4, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5 Positioning: GPS, GLONASS, GALILEO, BDS, QZSS Infrared port: Yes USB: USB Type-C 2.0, OTG"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 6700 mAh 80W wired, 55W PPS, 13.5W PD/QC, 100% in 59 min Reverse wired"
+   ],
+   [
+    "warranty",
+    "1 Year"
+   ]
+  ]
+ },
+ "carrefour-1698542000452": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-1698542000226": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-1BHOOMSMHX9E86PGL017": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Honor"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "AMOLED"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Display Resolution",
+    "2788×1280"
+   ],
+   [
+    "Operating System Type",
+    "MagicOS 10"
+   ],
+   [
+    "Gift",
+    "HONOR CHOICE Earbuds X7 Lite (Color May Vary)"
+   ],
+   [
+    "Dimensions",
+    "H×W×D: 162.2×77×8.08 mm"
+   ],
+   [
+    "Model Name",
+    "X9e Pro"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 6E (802.11 ax) and 802.11 a/b/g/n/ac, Bluetooth 6, USB: Type-C, USB 2, OTG, GPS/AGPS/Glonass/BeiDou/Galileo/QZSS/BDS"
+   ],
+   [
+    "Zoom Capability",
+    "15X Digital zoom"
+   ],
+   [
+    "Chipset Manufacturer",
+    "Qualcomm Snapdragon 6 Gen 5, Octa-core"
+   ],
+   [
+    "Video Capture Format",
+    "Support 4K pixels"
+   ],
+   [
+    "Processor Manufacturer",
+    "Qualcomm Snapdragon 6 Gen 5, Octa-core"
+   ],
+   [
+    "Screen Size",
+    "6.8 Inch"
+   ],
+   [
+    "Front Camera",
+    "16 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "108 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "11000 mAh"
+   ]
+  ]
+ },
+ "btech-1BHOOMSMHX9E86BGL007": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Honor"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "AMOLED"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Display Resolution",
+    "2788×1280"
+   ],
+   [
+    "Operating System Type",
+    "MagicOS 10"
+   ],
+   [
+    "Gift",
+    "HONOR CHOICE Earbuds X7 Lite (Color May Vary)"
+   ],
+   [
+    "Dimensions",
+    "H×W×D: 162.2×77×8.08 mm"
+   ],
+   [
+    "Model Name",
+    "X9e Pro"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 6E (802.11 ax) and 802.11 a/b/g/n/ac, Bluetooth 6, USB: Type-C, USB 2, OTG, GPS/AGPS/Glonass/BeiDou/Galileo/QZSS/BDS"
+   ],
+   [
+    "Zoom Capability",
+    "15X Digital zoom"
+   ],
+   [
+    "Chipset Manufacturer",
+    "Qualcomm Snapdragon 6 Gen 5, Octa-core"
+   ],
+   [
+    "Video Capture Format",
+    "Support 4K pixels"
+   ],
+   [
+    "Processor Manufacturer",
+    "Qualcomm Snapdragon 6 Gen 5, Octa-core"
+   ],
+   [
+    "Screen Size",
+    "6.8 Inch"
+   ],
+   [
+    "Front Camera",
+    "16 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "108 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "11000 mAh"
+   ]
+  ]
+ },
+ "btech-283E0BDB56B4203D93F3": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Honor"
+   ],
+   [
+    "Display Type",
+    "AMOLED"
+   ],
+   [
+    "Display Resolution",
+    "2640x1200"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Operating System Type",
+    "Android 15"
+   ],
+   [
+    "Audio Jack Type",
+    "Type-C"
+   ],
+   [
+    "Dimensions",
+    "Height: 161.9mm, Width: 76.1mm, Depth: 7.76mm"
+   ],
+   [
+    "Model Name",
+    "X9d"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 6 (802.11 ax) and 802.11 a/b/g/n/ac, 2.4GHz and 5GHz Wi-Fi Direct & Wi-Fi Hotspot, BT5.2, Type-C, USB 2, GPS"
+   ],
+   [
+    "Chipset Manufacturer",
+    "Qualcomm Snapdragon 6 Gen 4, Octa-core"
+   ],
+   [
+    "Video Capture Format",
+    "3840*2160 pixels"
+   ],
+   [
+    "Processor Manufacturer",
+    "Qualcomm Snapdragon 6 Gen 4, Octa-core"
+   ],
+   [
+    "Zoom Capability",
+    "10X Digital zoom"
+   ],
+   [
+    "Screen Size",
+    "6.79 Inch"
+   ],
+   [
+    "Front Camera",
+    "16 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "108 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "8300 mAh"
+   ]
+  ]
+ },
+ "2b-infinix-note-60-pro-12gb-ram-256gb-orange.html": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "Infinix"
+   ],
+   [
+    "Color",
+    "Orange"
+   ],
+   [
+    "MPN",
+    "X6878/O"
+   ],
+   [
+    "Network 2G",
+    "GSM 850 / 900 / 1800 / 1900"
+   ],
+   [
+    "Network 3G",
+    "HSDPA 850 / 900 / 2100"
+   ],
+   [
+    "4G Network",
+    "HSPA, LTE, 5G"
+   ],
+   [
+    "SIM Card",
+    "Dual SIM"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM7635-AC Snapdragon 7s Gen 4 (4 nm)"
+   ],
+   [
+    "CPU (Processor)",
+    "Octa Core"
+   ],
+   [
+    "CPU Speed (GHz)",
+    "Octa-core (1x2.7 GHz Cortex-A720 & 3x2.4 GHz Cortex-A720 & 4x1.8 GHz Cortex-A520)"
+   ],
+   [
+    "GPU",
+    "Adreno 810"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Display Size",
+    "6.7 inches"
+   ],
+   [
+    "Display Type",
+    "6.78 inches, 1208 x 2644 pixels, 19.5:9 ratio (~429 ppi density) AMOLED, 144Hz, 2304Hz PWM, 700 nits (typ), 1600 nits (HBM), 4500 nits (peak)"
+   ],
+   [
+    "Internal Storage",
+    "256 GB"
+   ],
+   [
+    "Operating System",
+    "Android"
+   ],
+   [
+    "OS version",
+    "Android 16, up to 3 major Android upgrades, XOS 16"
+   ],
+   [
+    "Primary Camera",
+    "Dual: 50 MP, f/1.6, 27mm (wide), 1/1.95\", 0.8µm, PDAF (9cm - ∞), OIS + 8 MP, f/2.2, 15mm, 112˚ (ultrawide), 1/4.0\", 1.12µm"
+   ],
+   [
+    "Secondary Camera",
+    "13 MP, f/2.2, 24mm (wide), 1/3.1\", 1.12µm"
+   ],
+   [
+    "Video Resolutions",
+    "4K@30fps, 1080p@30/60/120fps"
+   ],
+   [
+    "Connectivity",
+    "WLAN : Wi-Fi 802.11 a/b/g/n/ac/6, dual-band Bluetooth : 5.4, A2DP, LE GPS : Yes Infrared port: Yes Radio: FM radio USB : USB Type-C 2.0, OTG"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, heart rate, SpO2"
+   ],
+   [
+    "Battery",
+    "6000 mAh 90W wired, 50% in 14 min, 100% in 35 min 30W wireless 7.5W reverse wired 5W reverse wireless"
+   ],
+   [
+    "warranty",
+    "2 Years"
+   ]
+  ]
+ },
+ "2b-infinix-note-60-pro-12gb-ram-256gb-black.html": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "Infinix"
+   ],
+   [
+    "Color",
+    "Black"
+   ],
+   [
+    "MPN",
+    "X6878/B"
+   ],
+   [
+    "Network 2G",
+    "GSM 850 / 900 / 1800 / 1900"
+   ],
+   [
+    "Network 3G",
+    "HSDPA 850 / 900 / 2100"
+   ],
+   [
+    "4G Network",
+    "HSPA, LTE, 5G"
+   ],
+   [
+    "SIM Card",
+    "Dual SIM"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM7635-AC Snapdragon 7s Gen 4 (4 nm)"
+   ],
+   [
+    "CPU (Processor)",
+    "Octa Core"
+   ],
+   [
+    "CPU Speed (GHz)",
+    "Octa-core (1x2.7 GHz Cortex-A720 & 3x2.4 GHz Cortex-A720 & 4x1.8 GHz Cortex-A520)"
+   ],
+   [
+    "GPU",
+    "Adreno 810"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Display Size",
+    "6.7 inches"
+   ],
+   [
+    "Display Type",
+    "6.78 inches, 1208 x 2644 pixels, 19.5:9 ratio (~429 ppi density) AMOLED, 144Hz, 2304Hz PWM, 700 nits (typ), 1600 nits (HBM), 4500 nits (peak)"
+   ],
+   [
+    "Internal Storage",
+    "256 GB"
+   ],
+   [
+    "Operating System",
+    "Android"
+   ],
+   [
+    "OS version",
+    "Android 16, up to 3 major Android upgrades, XOS 16"
+   ],
+   [
+    "Primary Camera",
+    "Dual: 50 MP, f/1.6, 27mm (wide), 1/1.95\", 0.8µm, PDAF (9cm - ∞), OIS + 8 MP, f/2.2, 15mm, 112˚ (ultrawide), 1/4.0\", 1.12µm"
+   ],
+   [
+    "Secondary Camera",
+    "13 MP, f/2.2, 24mm (wide), 1/3.1\", 1.12µm"
+   ],
+   [
+    "Video Resolutions",
+    "4K@30fps, 1080p@30/60/120fps"
+   ],
+   [
+    "Connectivity",
+    "WLAN : Wi-Fi 802.11 a/b/g/n/ac/6, dual-band Bluetooth : 5.4, A2DP, LE GPS : Yes Infrared port: Yes Radio: FM radio USB : USB Type-C 2.0, OTG"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, heart rate, SpO2"
+   ],
+   [
+    "Battery",
+    "6000 mAh 90W wired, 50% in 14 min, 100% in 35 min 30W wireless 7.5W reverse wired 5W reverse wireless"
+   ],
+   [
+    "warranty",
+    "2 Years"
+   ]
+  ]
+ },
+ "btech-332603319892EF55D11A": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-9885FA8E536B7E211D59": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-1BINMOBIH70DB128L006": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "2b-infinix-hot-70-8gb-ram-256gb-dive-blue.html": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "Infinix"
+   ],
+   [
+    "Color",
+    "Blue"
+   ],
+   [
+    "MPN",
+    "4894947121845"
+   ],
+   [
+    "Network 2G",
+    "GSM 850 / 900 / 1800 / 1900"
+   ],
+   [
+    "Network 3G",
+    "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100"
+   ],
+   [
+    "4G Network",
+    "HSPA, LTE"
+   ],
+   [
+    "SIM Card",
+    "Dual SIM"
+   ],
+   [
+    "Chipset",
+    "Mediatek Helio G100 Ultimate (6 nm)"
+   ],
+   [
+    "CPU (Processor)",
+    "Octa Core"
+   ],
+   [
+    "CPU Speed (GHz)",
+    "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)"
+   ],
+   [
+    "GPU",
+    "Mali-G52 MC2"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Display Size",
+    "6.7 inches"
+   ],
+   [
+    "Display Type",
+    "6.78 inches, 720 x 1576 pixels, 19.5:9 ratio (~256 ppi density) IPS LCD, 120Hz, 700 nits (HBM)"
+   ],
+   [
+    "Internal Storage",
+    "256 GB"
+   ],
+   [
+    "Operating System",
+    "Android"
+   ],
+   [
+    "OS version",
+    "Android 16, up to 3 major Android upgrades, XOS 16"
+   ],
+   [
+    "Primary Camera",
+    "50 MP, f/1.9, (wide), AF Auxiliary lens Dual-LED flash, HDR, panorama"
+   ],
+   [
+    "Secondary Camera",
+    "8 MP, f/2.0, (wide) Dual-LED flash"
+   ],
+   [
+    "Video Resolutions",
+    "1440p@30fps, 1080p@30fps"
+   ],
+   [
+    "Connectivity",
+    "WLAN : Wi-Fi 802.11 a/b/g/n/ac, dual-band Bluetooth : 5.4, A2DP, LE Positioning : GPS Infrared port : Yes Radio : FM radio USB : USB Type-C 2.0, OTG"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Battery",
+    "6000 mAh 45W wired, 50% in 25 min 10W reverse wired Bypass charging"
+   ],
+   [
+    "warranty",
+    "2 Years"
+   ]
+  ]
+ },
+ "carrefour-685240": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Processor model",
+    "Unisoc T7300"
+   ],
+   [
+    "Processor frequency",
+    "2"
+   ],
+   [
+    "Battery capacity",
+    "8100"
+   ],
+   [
+    "Color",
+    "Blue"
+   ],
+   [
+    "Internal storage capacity",
+    "256"
+   ],
+   [
+    "Internal RAM in GB",
+    "8"
+   ],
+   [
+    "Display diagonal",
+    "6.83"
+   ],
+   [
+    "Display resolution",
+    "1260 x 2800"
+   ],
+   [
+    "Touchscreen",
+    "Yes"
+   ],
+   [
+    "Built-in flash",
+    "Yes"
+   ],
+   [
+    "Main camera resolution - numeric",
+    "50"
+   ],
+   [
+    "Bluetooth",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "SIM card type",
+    "Nano-SIM"
+   ],
+   [
+    "4G",
+    "Yes"
+   ],
+   [
+    "SIM card capability",
+    "Dual SIM"
+   ],
+   [
+    "Operating system installed",
+    "Android 16"
+   ],
+   [
+    "GPS - satellite",
+    "Yes"
+   ],
+   [
+    "USB port",
+    "Yes"
+   ]
+  ]
+ },
+ "carrefour-685237": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Processor model",
+    "Unisoc T7300"
+   ],
+   [
+    "Processor frequency",
+    "2"
+   ],
+   [
+    "Battery capacity",
+    "8100"
+   ],
+   [
+    "Color",
+    "Blue"
+   ],
+   [
+    "Internal storage capacity",
+    "256"
+   ],
+   [
+    "Internal RAM in GB",
+    "6"
+   ],
+   [
+    "Display diagonal",
+    "6.83"
+   ],
+   [
+    "Display resolution",
+    "1260 x 2800"
+   ],
+   [
+    "Touchscreen",
+    "Yes"
+   ],
+   [
+    "Built-in flash",
+    "Yes"
+   ],
+   [
+    "Main camera resolution - numeric",
+    "50"
+   ],
+   [
+    "Bluetooth",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "SIM card type",
+    "Nano-SIM"
+   ],
+   [
+    "4G",
+    "Yes"
+   ],
+   [
+    "SIM card capability",
+    "Dual SIM"
+   ],
+   [
+    "Operating system installed",
+    "Android 16"
+   ],
+   [
+    "GPS - satellite",
+    "Yes"
+   ],
+   [
+    "USB port",
+    "Yes"
+   ]
+  ]
+ },
+ "btech-1BAPTBVGIPA16B00L006": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Apple"
+   ],
+   [
+    "Operating System Type",
+    "iPadOS 18"
+   ],
+   [
+    "Dimensions",
+    "248.6 x 179.5 x 7 mm"
+   ],
+   [
+    "Model Name",
+    "iPad 2025 11th Gen"
+   ],
+   [
+    "Connectivity",
+    "Digital compass, iBeacon microlocation, Wi-Fi 6 (802.11ax) with 2x2 MIMO, USB-C, Simultaneous dual band and Bluetooth 5.3"
+   ],
+   [
+    "Screen Size",
+    "11 Inch"
+   ],
+   [
+    "Front Camera",
+    "12 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "12 megapixels"
+   ]
+  ]
+ },
+ "btech-1BAPTBVGIPA16SILL008": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-1BAPTBVGIPA16P00L013": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-778E565BA5EFB32E7947": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Apple"
+   ],
+   [
+    "Display Type",
+    "LED"
+   ],
+   [
+    "Network",
+    "Without Sim"
+   ],
+   [
+    "Sim Type",
+    "Without Sim"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Model Name",
+    "iPad Air"
+   ],
+   [
+    "Model Number",
+    "MYFN2AB/A"
+   ],
+   [
+    "Connectivity",
+    "Bluetooth 5.3, USB-C"
+   ],
+   [
+    "Number Of Cores",
+    "8"
+   ],
+   [
+    "Screen Size",
+    "11 Inch"
+   ],
+   [
+    "Front Camera",
+    "12 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "12 megapixels"
+   ]
+  ]
+ },
+ "carrefour-2251857001277": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-2251857001626": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-2251257000050": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-1737043000772": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-2251857001373": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "compumarts-8bitdo-pro-2-bluetooth-controller-for-switch-pc-android-steam-deck-gaming-contro": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "compumarts",
+  "specs": [
+   [
+    "Category Specification Details Apple Compatibility",
+    "iPhone, iPad, macOS and Apple TV (Officially Supported)"
+   ],
+   [
+    "Device Compatibility",
+    "Apple, Switch, PC, Android, Steam Deck and Raspberry Pi"
+   ],
+   [
+    "Rear Buttons",
+    "2 pro-level back Buttons"
+   ],
+   [
+    "Software Support",
+    "Ultimate software available on PC, Android and iOS"
+   ],
+   [
+    "Control Features",
+    "Custom profile switching, enhanced grip & 4-Way mode switching button"
+   ],
+   [
+    "Connectivity & Hardware",
+    "Wireless Bluetooth, rumble vibration, motion controls (for Switch only), USB-C"
+   ],
+   [
+    "Battery",
+    "20 hour rechargeable battery"
+   ]
+  ]
+ },
+ "btech-29C3E36AD743FEB0114F": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano SIM and eSIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "TFT"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Single SIM"
+   ],
+   [
+    "Operating System Type",
+    "Android 16"
+   ],
+   [
+    "Dimensions",
+    "257.1 × 168.7 × 6.9mm"
+   ],
+   [
+    "Model Name",
+    "Galaxy Tab A11+"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11a/b/g/n/ac, 5G, Bluetooth 5.3, USB 2, GPS"
+   ],
+   [
+    "Model Number",
+    "SM-X236BZSEMEA"
+   ],
+   [
+    "Processor Manufacturer",
+    "Mediatek MT8775"
+   ],
+   [
+    "Screen Size",
+    "11 Inch"
+   ],
+   [
+    "Front Camera",
+    "5 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "8 megapixels"
+   ]
+  ]
+ },
+ "btech-9D6F14845A7E9ED856C5": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano SIM and eSIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "TFT"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Single SIM"
+   ],
+   [
+    "Operating System Type",
+    "Android 16"
+   ],
+   [
+    "Dimensions",
+    "257.1 × 168.7 × 6.9mm"
+   ],
+   [
+    "Model Name",
+    "Galaxy Tab A11+"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11a/b/g/n/ac, 5G, Bluetooth 5.3, USB 2, GPS"
+   ],
+   [
+    "Model Number",
+    "SM-X236BZSEMEA"
+   ],
+   [
+    "Processor Manufacturer",
+    "Mediatek MT8775"
+   ],
+   [
+    "Screen Size",
+    "11 Inch"
+   ],
+   [
+    "Front Camera",
+    "5 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "8 megapixels"
+   ]
+  ]
+ },
+ "btech-9DB0F995B40D8B1AD5E0": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano SIM and eSIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "TFT"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Single SIM"
+   ],
+   [
+    "Operating System Type",
+    "Android 16"
+   ],
+   [
+    "Dimensions",
+    "257.1 × 168.7 × 6.9mm"
+   ],
+   [
+    "Model Name",
+    "Galaxy Tab A11+"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11a/b/g/n/ac, 5G, Bluetooth 5.3, USB 2, GPS"
+   ],
+   [
+    "Model Number",
+    "SM-X236BZSEMEA"
+   ],
+   [
+    "Processor Manufacturer",
+    "Mediatek MT8775"
+   ],
+   [
+    "Screen Size",
+    "11 Inch"
+   ],
+   [
+    "Front Camera",
+    "5 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "8 megapixels"
+   ]
+  ]
+ },
+ "btech-AFB8FAB2B31853148F00": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "Dynamic AMOLED 2X"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Single SIM"
+   ],
+   [
+    "Memory Card Slot",
+    "Yes"
+   ],
+   [
+    "Operating System Type",
+    "Android 15"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Dimensions",
+    "253.8 x 165.3 x 5.5 mm"
+   ],
+   [
+    "Model Name",
+    "Galaxy Tab S11"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct, Bluetooth 5.4, A2DP, LE, GPS, GLONASS, BDS, GALILEO, Network: 5G, USB Type-C 3.2, magnetic connector"
+   ],
+   [
+    "Number Of Cores",
+    "8"
+   ],
+   [
+    "Screen Size",
+    "11 Inch"
+   ],
+   [
+    "Front Camera",
+    "12 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "13 megapixels"
+   ]
+  ]
+ },
+ "2b-samsung-galaxy-tab-a11-plus-5g-8gb-ram-256gb-silver.html": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Color",
+    "Silver"
+   ],
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "MPN",
+    "SM-X230/8/S"
+   ],
+   [
+    "Network 3G",
+    "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - cellular model only"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 7300 (4 nm)"
+   ],
+   [
+    "CPU Speed (GHz)",
+    "Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)"
+   ],
+   [
+    "GPU",
+    "Mali-G615 MC2"
+   ],
+   [
+    "RAM",
+    "6 GB"
+   ],
+   [
+    "Display Size",
+    "11 inches"
+   ],
+   [
+    "Display Type",
+    "11 inches, 1200 x 1920 pixels, 16:10 ratio (~206 ppi density) TFT LCD, 90Hz Mohs level 5"
+   ],
+   [
+    "Internal Storage",
+    "128 GB"
+   ],
+   [
+    "Operating System",
+    "Android"
+   ],
+   [
+    "OS version",
+    "Android 16, up to 7 major OS updates, One UI 8"
+   ],
+   [
+    "Primary Camera",
+    "8 MP, AF"
+   ],
+   [
+    "Secondary Camera",
+    "5 MP"
+   ],
+   [
+    "Video Resolutions",
+    "1080p@30fps"
+   ],
+   [
+    "Connectivity",
+    "WLAN : Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct Bluetooth : 5.3, A2DP, LE GPS : GPS, GLONASS, GALILEO, BDS, QZSS - cellular model only USB : USB Type-C 2.0"
+   ],
+   [
+    "Sensors",
+    "Accelerometer, gyro, proximity (accessories only), compass, Samsung DeX (desktop experience support)"
+   ],
+   [
+    "Battery",
+    "Li-Po 7040 mAh 25W wired"
+   ],
+   [
+    "warranty",
+    "1 Year"
+   ]
+  ]
+ },
+ "2b-samsung-galaxy-tab-a11-plus-5g-6gb-ram-128gb-silver.html": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Color",
+    "Silver"
+   ],
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "MPN",
+    "SM-X230/6/S"
+   ],
+   [
+    "Network 3G",
+    "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - cellular model only"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 7300 (4 nm)"
+   ],
+   [
+    "CPU Speed (GHz)",
+    "Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)"
+   ],
+   [
+    "GPU",
+    "Mali-G615 MC2"
+   ],
+   [
+    "RAM",
+    "6 GB"
+   ],
+   [
+    "Display Size",
+    "11 inches"
+   ],
+   [
+    "Display Type",
+    "11 inches, 1200 x 1920 pixels, 16:10 ratio (~206 ppi density) TFT LCD, 90Hz Mohs level 5"
+   ],
+   [
+    "Internal Storage",
+    "128 GB"
+   ],
+   [
+    "Operating System",
+    "Android"
+   ],
+   [
+    "OS version",
+    "Android 16, up to 7 major OS updates, One UI 8"
+   ],
+   [
+    "Primary Camera",
+    "8 MP, AF"
+   ],
+   [
+    "Secondary Camera",
+    "5 MP"
+   ],
+   [
+    "Video Resolutions",
+    "1080p@30fps"
+   ],
+   [
+    "Connectivity",
+    "WLAN : Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct Bluetooth : 5.3, A2DP, LE GPS : GPS, GLONASS, GALILEO, BDS, QZSS - cellular model only USB : USB Type-C 2.0"
+   ],
+   [
+    "Sensors",
+    "Accelerometer, gyro, proximity (accessories only), compass, Samsung DeX (desktop experience support)"
+   ],
+   [
+    "Battery",
+    "Li-Po 7040 mAh 25W wired"
+   ],
+   [
+    "warranty",
+    "1 Year"
+   ]
+  ]
+ },
+ "2b-samsung-galaxy-tab-a11-plus-5g-6gb-ram-128gb-gray.html": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Color",
+    "Gray"
+   ],
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "MPN",
+    "SM-X230/6/G"
+   ],
+   [
+    "Network 3G",
+    "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - cellular model only"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 7300 (4 nm)"
+   ],
+   [
+    "CPU Speed (GHz)",
+    "Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)"
+   ],
+   [
+    "GPU",
+    "Mali-G615 MC2"
+   ],
+   [
+    "RAM",
+    "6 GB"
+   ],
+   [
+    "Display Size",
+    "11 inches"
+   ],
+   [
+    "Display Type",
+    "11 inches, 1200 x 1920 pixels, 16:10 ratio (~206 ppi density) TFT LCD, 90Hz Mohs level 5"
+   ],
+   [
+    "Internal Storage",
+    "128 GB"
+   ],
+   [
+    "Operating System",
+    "Android"
+   ],
+   [
+    "OS version",
+    "Android 16, up to 7 major OS updates, One UI 8"
+   ],
+   [
+    "Primary Camera",
+    "8 MP, AF"
+   ],
+   [
+    "Secondary Camera",
+    "5 MP"
+   ],
+   [
+    "Video Resolutions",
+    "1080p@30fps"
+   ],
+   [
+    "Connectivity",
+    "WLAN : Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct Bluetooth : 5.3, A2DP, LE GPS : GPS, GLONASS, GALILEO, BDS, QZSS - cellular model only USB : USB Type-C 2.0"
+   ],
+   [
+    "Sensors",
+    "Accelerometer, gyro, proximity (accessories only), compass, Samsung DeX (desktop experience support)"
+   ],
+   [
+    "Battery",
+    "Li-Po 7040 mAh 25W wired"
+   ],
+   [
+    "warranty",
+    "1 Year"
+   ]
+  ]
+ },
+ "2b-samsung-galaxy-tab-a11-plus-5g-8gb-ram-256gb-gray.html": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Color",
+    "Gray"
+   ],
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "MPN",
+    "SM-X230/8/G"
+   ],
+   [
+    "Network 3G",
+    "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - cellular model only"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 7300 (4 nm)"
+   ],
+   [
+    "CPU Speed (GHz)",
+    "Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)"
+   ],
+   [
+    "GPU",
+    "Mali-G615 MC2"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Display Size",
+    "11 inches"
+   ],
+   [
+    "Display Type",
+    "11 inches, 1200 x 1920 pixels, 16:10 ratio (~206 ppi density) TFT LCD, 90Hz Mohs level 5"
+   ],
+   [
+    "Internal Storage",
+    "256 GB"
+   ],
+   [
+    "Operating System",
+    "Android"
+   ],
+   [
+    "OS version",
+    "Android 16, up to 7 major OS updates, One UI 8"
+   ],
+   [
+    "Primary Camera",
+    "8 MP, AF"
+   ],
+   [
+    "Secondary Camera",
+    "5 MP"
+   ],
+   [
+    "Video Resolutions",
+    "1080p@30fps"
+   ],
+   [
+    "Connectivity",
+    "WLAN : Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct Bluetooth : 5.3, A2DP, LE GPS : GPS, GLONASS, GALILEO, BDS, QZSS - cellular model only USB : USB Type-C 2.0"
+   ],
+   [
+    "Sensors",
+    "Accelerometer, gyro, proximity (accessories only), compass, Samsung DeX (desktop experience support)"
+   ],
+   [
+    "Battery",
+    "Li-Po 7040 mAh 25W wired"
+   ],
+   [
+    "warranty",
+    "1 Year"
+   ]
+  ]
+ },
+ "carrefour-664323": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Processor model",
+    "Mediatek Helio G99"
+   ],
+   [
+    "Processor frequency",
+    "2"
+   ],
+   [
+    "Battery capacity",
+    "5000"
+   ],
+   [
+    "Color",
+    "Grey"
+   ],
+   [
+    "Compatible memory cards",
+    "microSDXC"
+   ],
+   [
+    "Internal storage capacity",
+    "256"
+   ],
+   [
+    "Internal RAM in GB",
+    "8"
+   ],
+   [
+    "Display diagonal",
+    "6.7"
+   ],
+   [
+    "Display resolution",
+    "1080 x 2340"
+   ],
+   [
+    "Touchscreen",
+    "Yes"
+   ],
+   [
+    "Built-in flash",
+    "Yes"
+   ],
+   [
+    "Second camera",
+    "Yes"
+   ],
+   [
+    "Main camera resolution - numeric",
+    "50"
+   ],
+   [
+    "Bluetooth",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "SIM card type",
+    "Nano-SIM"
+   ],
+   [
+    "4G",
+    "Yes"
+   ],
+   [
+    "SIM card capability",
+    "Dual SIM"
+   ],
+   [
+    "Operating system installed",
+    "Android 15"
+   ],
+   [
+    "GPS - satellite",
+    "Yes"
+   ],
+   [
+    "USB port",
+    "Yes"
+   ]
+  ]
+ },
+ "btech-8E5B1B08DDC961AD0B19": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Xiaomi"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano SIM and eSIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "IPS LCD"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Operating System Type",
+    "Xiaomi HyperOS 2"
+   ],
+   [
+    "Model Name",
+    "Redmi Pad 2 Pro"
+   ],
+   [
+    "Connectivity",
+    "WLAN: Wi-Fi 802.11, dual-band, Wi-Fi Direct - USB Type-C 2, OTG - Bluetooth 5.4 - Positioning: GPS, GLONASS, GALILEO, BDS, QZSS"
+   ],
+   [
+    "Model Number",
+    "25099RP13G"
+   ],
+   [
+    "Number Of Cores",
+    "Octa-core"
+   ],
+   [
+    "Screen Size",
+    "12.1 Inch"
+   ],
+   [
+    "Front Camera",
+    "8 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "13 megapixels"
+   ]
+  ]
+ },
+ "carrefour-6932554442941": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-8EB2290582A21CBCAED9": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Port Type",
+    "HDMI"
+   ],
+   [
+    "Display Resolution",
+    "1920x1080"
+   ],
+   [
+    "Resolution Type",
+    "FHD"
+   ],
+   [
+    "Connectivity",
+    "HDMI and D-sub"
+   ],
+   [
+    "Model Number",
+    "LF27T350FHMXEG"
+   ],
+   [
+    "Compatibility",
+    "Multi devices"
+   ],
+   [
+    "Connection Type",
+    "Wired"
+   ],
+   [
+    "Refresh Rate",
+    "75 Hertz"
+   ],
+   [
+    "Response Time",
+    "5 Millisecond"
+   ]
+  ]
+ },
+ "btech-8DBDE511F5A1E056138C": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Port Type",
+    "Multi Ports"
+   ],
+   [
+    "Resolution Type",
+    "FHD"
+   ],
+   [
+    "Refresh Rate",
+    "75 Hertz"
+   ],
+   [
+    "Response Time",
+    "5 Millisecond"
+   ],
+   [
+    "Model Number",
+    "LF24T350FHMXZN"
+   ],
+   [
+    "Dimensions",
+    "Without stand (WxHxD) 539.2 x 322.8 x 39.4 mm"
+   ],
+   [
+    "Connectivity",
+    "HDMI and D-sub ports"
+   ]
+  ]
+ },
+ "btech-54761BB27E4698DD8D66": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Port Type",
+    "Multi Ports"
+   ],
+   [
+    "Resolution Type",
+    "QHD"
+   ],
+   [
+    "Display Resolution",
+    "2560x1440"
+   ],
+   [
+    "Refresh Rate",
+    "180 Hertz"
+   ],
+   [
+    "Response Time",
+    "1 Millisecond"
+   ],
+   [
+    "Color Brightness",
+    "350 Lumen"
+   ],
+   [
+    "Model Number",
+    "LS32FG502EMXEG"
+   ],
+   [
+    "Dimensions",
+    "With Stand: 714.2 x 581.9 x 263.5 mm - Without Stand: 714.2 x 418.4 x 70 mm"
+   ],
+   [
+    "Connectivity",
+    "1 × HDMI 2 Port - 1 × DisplayPort 1.2 - HDCP Support - Headset Port"
+   ],
+   [
+    "Connection Type",
+    "Wired"
+   ]
+  ]
+ },
+ "2b-samsung-32-uhd-monitor-with-intelligent-eye-care-60hz-ls32a700nwmxzn.html": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "MPN",
+    "LS32A700NWMXZN"
+   ],
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Model",
+    "LS32A700NWMXZN"
+   ],
+   [
+    "Design",
+    "Flat"
+   ],
+   [
+    "Monitor Type",
+    "Office"
+   ],
+   [
+    "Display Size",
+    "32 inches"
+   ],
+   [
+    "Display Type",
+    "LED"
+   ],
+   [
+    "Resolution",
+    "4K UHD"
+   ],
+   [
+    "Refresh Rate",
+    "60HZ"
+   ],
+   [
+    "Brightness",
+    "300 cd/㎡"
+   ],
+   [
+    "Contrast Ratio",
+    "2500:1(Typ)"
+   ],
+   [
+    "Response Time",
+    "5 ms"
+   ],
+   [
+    "warranty",
+    "3 Years"
+   ]
+  ]
+ },
+ "2b-samsung-odyssey-neo-g9-49-dqhd-curved-monitor-240hz-ls49ag950nmxzn.html": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "MPN",
+    "LS49AG950NM"
+   ],
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Model",
+    "LS49AG950NMXZN"
+   ],
+   [
+    "Design",
+    "Curved"
+   ],
+   [
+    "Monitor Type",
+    "Gaming"
+   ],
+   [
+    "Display Size",
+    "49 inches"
+   ],
+   [
+    "Resolution",
+    "2K"
+   ],
+   [
+    "Refresh Rate",
+    "240HZ"
+   ],
+   [
+    "Brightness",
+    "420 cd/m²"
+   ],
+   [
+    "Display Colors",
+    "1.07 Billion Colors"
+   ],
+   [
+    "Contrast Ratio",
+    "2500:1 (Typical)"
+   ],
+   [
+    "Response Time",
+    "1ms, minimizing motion blur and ghosting in gaming."
+   ],
+   [
+    "warranty",
+    "3 Years"
+   ]
+  ]
+ },
+ "compumarts-samsung-odyssey-g5-g50f-32-qhd-180hz-monitor-egypt": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "compumarts",
+  "specs": [
+   [
+    "DISPLAY",
+    "32\""
+   ],
+   [
+    "RESOLUTION",
+    "QHD (2560 x 1440)"
+   ],
+   [
+    "REFRESH RATE",
+    "180Hz"
+   ],
+   [
+    "PANEL",
+    "IPS"
+   ],
+   [
+    "RESPONSE TIME",
+    "1ms"
+   ]
+  ]
+ },
+ "compumarts-samsung-odyssey-g5-s27cg552em-27-inch-va-qhd-curved-gaming-monitor-165hz": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "compumarts-products-samsung-ls34c650vamxue-34-uwqhd-curved-monitor-100hz-1": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "compumarts",
+  "specs": [
+   [
+    "DISPLAY",
+    "34 Inch"
+   ],
+   [
+    "SPEED",
+    "100Hz"
+   ],
+   [
+    "PORTS",
+    "1x Display Port 1.2, 1x HDMI 2.0, 1x USB-C (90W Charging), Ethernet (LAN)"
+   ],
+   [
+    "CONNECTIVITY",
+    "2x USB 3.0 Downstream, 1x USB-B Upstream"
+   ]
+  ]
+ },
+ "compumarts-samsung-s3-24inch-120hz-gaming-monitor": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "compumarts",
+  "specs": [
+   [
+    "Series",
+    "Samsung Essential S3 S32GF"
+   ],
+   [
+    "Display",
+    "24-inch flat IPS, 16:9"
+   ],
+   [
+    "Resolution",
+    "Full HD — 1920 × 1080"
+   ],
+   [
+    "Refresh Rate",
+    "Up to 120Hz"
+   ],
+   [
+    "Response Time",
+    "5ms GtG"
+   ],
+   [
+    "Brightness / Contrast",
+    "250 cd/m² typical / 1000:1 typical"
+   ],
+   [
+    "Viewing Angles",
+    "178° horizontal / 178° vertical"
+   ],
+   [
+    "Connectivity",
+    "2 × HDMI 1.4"
+   ],
+   [
+    "Stand / Mount",
+    "Tilt adjustment / VESA 100 × 100mm"
+   ],
+   [
+    "Audio",
+    "No built-in speakers or headphone output"
+   ],
+   [
+    "Color",
+    "Black"
+   ]
+  ]
+ },
+ "compumarts-products-samsung-odyssey-g5-g55c-27-inch-qhd-165hz-va-curved-gaming-monitor-ls27": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "compumarts-samsung-32-inch-g55c-va-2k-qhd-165hz-refresh-rate-1ms-curved-gaming-monitor": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "compumarts",
+  "specs": [
+   [
+    "DISPLAY",
+    "32\" QHD (2560 x 1440) VA Panel, 1000R Curvature"
+   ],
+   [
+    "SPEED",
+    "165Hz Refresh Rate, 1ms (MPRT) Response Time"
+   ],
+   [
+    "CONNECTIVITY",
+    "1x HDMI 2.0, 1x DisplayPort 1.2, Headphone Jack"
+   ]
+  ]
+ },
+ "compumarts-samsung-27-odyssey-oled-g6-g60sd-series-gaming-monitor-with-qhd-360hz-0-03ms-amd": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "compumarts-lenovo-legion-r32qc-30-curved-qhd-180hz-gaming-monitor": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "compumarts",
+  "specs": [
+   [
+    "DISPLAY",
+    "31.5 inch"
+   ],
+   [
+    "RESOLUTION",
+    "2560 x 1440"
+   ],
+   [
+    "REFRESH RATE",
+    "180 Hz"
+   ],
+   [
+    "CONNECTIVITY",
+    "2 x HDMI 2.1*(TMDS), 1 x DP 1.4( (HBR2)), 1 x Audio Out (3.5 mm)"
+   ]
+  ]
+ },
+ "compumarts-samsung-odyssey-oled-g8-g80sd-32-4k-uhd-240hz-0-03ms-oled-gaming-monitor": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-C814B8BDB9AEFC1738AE": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Dell"
+   ],
+   [
+    "Dimensions",
+    "21.17 x 6.02 x 16.25 inches"
+   ],
+   [
+    "Model Number",
+    "S2421HN"
+   ],
+   [
+    "Refresh Rate",
+    "75 Hertz"
+   ],
+   [
+    "Response Time",
+    "4 Millisecond"
+   ]
+  ]
+ },
+ "btech-241979F5642386966D64": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Dell"
+   ],
+   [
+    "Port Type",
+    "Multi Ports"
+   ],
+   [
+    "Resolution Type",
+    "FHD"
+   ],
+   [
+    "Display Resolution",
+    "1920x1080"
+   ],
+   [
+    "Connectivity",
+    "1× DisplayPort 1.2 (HDCP 1.4), 1× VGA connector, 1 x Power Cable"
+   ],
+   [
+    "Model Number",
+    "E2425H"
+   ],
+   [
+    "Connection Type",
+    "Wired"
+   ],
+   [
+    "Refresh Rate",
+    "75 Hertz"
+   ],
+   [
+    "Response Time",
+    "5 Millisecond"
+   ]
+  ]
+ },
+ "btech-3B74FB6DBC5EA8FC03B7": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Dell"
+   ],
+   [
+    "Port Type",
+    "Multi Ports"
+   ],
+   [
+    "Resolution Type",
+    "FHD"
+   ],
+   [
+    "Display Resolution",
+    "1920x1080"
+   ],
+   [
+    "Dimensions",
+    "57 x 35 x 12 cm"
+   ],
+   [
+    "Connectivity",
+    "1× DisplayPort 1.2 (HDCP 1.4), 1× VGA connector, 1 x Power Cable"
+   ],
+   [
+    "Model Number",
+    "E2225H"
+   ],
+   [
+    "Connection Type",
+    "Wired"
+   ],
+   [
+    "Refresh Rate",
+    "75 Hertz"
+   ],
+   [
+    "Response Time",
+    "5 Millisecond"
+   ]
+  ]
+ },
+ "btech-612FD7E9834194F84840": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Dell"
+   ],
+   [
+    "Port Type",
+    "HDMI"
+   ],
+   [
+    "Resolution Type",
+    "FHD"
+   ],
+   [
+    "Display Resolution",
+    "1920x1080"
+   ],
+   [
+    "Dimensions",
+    "17.65 x 60.96 x 45.21 cm"
+   ],
+   [
+    "Connectivity",
+    "2 HDMI Ports"
+   ],
+   [
+    "Model Number",
+    "S2725H"
+   ],
+   [
+    "Connection Type",
+    "Wired"
+   ],
+   [
+    "Refresh Rate",
+    "100 Hertz"
+   ],
+   [
+    "Response Time",
+    "4 Millisecond"
+   ]
+  ]
+ },
+ "2b-dell-pro-22-led-monitor-fhd-100hz-e2225hm.html": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "MPN",
+    "E2225HM"
+   ],
+   [
+    "Brand",
+    "Dell"
+   ],
+   [
+    "Model",
+    "E2225HM"
+   ],
+   [
+    "Design",
+    "Flat"
+   ],
+   [
+    "Monitor Type",
+    "Office"
+   ],
+   [
+    "Display Size",
+    "22 inches"
+   ],
+   [
+    "Display Type",
+    "LED"
+   ],
+   [
+    "Resolution",
+    "FHD"
+   ],
+   [
+    "Refresh Rate",
+    "100Hz"
+   ],
+   [
+    "Brightness",
+    "250 cd/m2"
+   ],
+   [
+    "Contrast Ratio",
+    "3000:1"
+   ],
+   [
+    "Response Time",
+    "5ms GTG (Fast) 8ms GTG"
+   ],
+   [
+    "I/O Ports",
+    "Video port, 1 HDMI port (HDCP 1.4) (Supports up to FHD 1920 x 1080 100 Hz as per specified in HDMI 1.4), 1 DisplayPort 1.2 (HDCP 1.4) port (Supports up to FHD 1920 x 1080 100 Hz ), 1 VGA port"
+   ],
+   [
+    "warranty",
+    "1 Year"
+   ]
+  ]
+ },
+ "compumarts-dell-e2723h-27-inch-full-hd-1920x1080-va-led-monitor-60hz-displayport-vga-epeat-": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "compumarts",
+  "specs": [
+   [
+    "MODEL",
+    "Dell LED Monitor 27\" – Model No. E2723H"
+   ],
+   [
+    "DISPLAY TYPE",
+    "LED-backlit LCD monitor / TFT active matrix"
+   ],
+   [
+    "DISPLAY SIZE",
+    "27\""
+   ],
+   [
+    "PANEL",
+    "VA"
+   ],
+   [
+    "ASPECT RATIO",
+    "16:9"
+   ],
+   [
+    "RESOLUTION",
+    "Full HD (1080p) 1920 x 1080 at 60 Hz"
+   ],
+   [
+    "PIXEL PITCH",
+    "0.3114 mm"
+   ],
+   [
+    "PIXEL PER INCH",
+    "81"
+   ],
+   [
+    "BRIGHTNESS",
+    "300 cd/m²"
+   ],
+   [
+    "CONTRAST RATIO",
+    "3000:1 / 3000:1 (dynamic)"
+   ],
+   [
+    "COLOR SUPPORT",
+    "16.7 million colors"
+   ],
+   [
+    "COLOR GAMUT",
+    "72% (CIE 1931), 83% (CIE 1976)"
+   ],
+   [
+    "RESPONSE TIME",
+    "8 ms (gray-to-gray normal); 5 ms (gray-to-gray fast)"
+   ],
+   [
+    "VIEWING ANGLE",
+    "178°"
+   ],
+   [
+    "SCREEN COATING",
+    "Anti-glare"
+   ],
+   [
+    "BACKLIGHT",
+    "LED backlight"
+   ],
+   [
+    "FEATURES",
+    "Wide Viewing Angle"
+   ],
+   [
+    "BUILT-IN SPEAKER",
+    "No"
+   ],
+   [
+    "INTERFACES",
+    "VGA; DisplayPort 1.2"
+   ],
+   [
+    "ADJUSTMENT",
+    "Tilt"
+   ],
+   [
+    "TILT ANGLE",
+    "-5°/+21°"
+   ],
+   [
+    "VESA MOUNTING",
+    "100 x 100 mm"
+   ],
+   [
+    "MISCELLANEOUS FEATURES",
+    "Security lock slot (cable lock sold separately), VESA interface support"
+   ],
+   [
+    "INCLUDED ACCESSORIES",
+    "VESA screw cover"
+   ],
+   [
+    "CABLES INCLUDED",
+    "1 x DisplayPort cable"
+   ],
+   [
+    "INPUT VOLTAGE",
+    "AC 100-240 V (50/60 Hz)"
+   ],
+   [
+    "POWER CONSUMPTION (ON MODE)",
+    "17 W"
+   ],
+   [
+    "POWER CONSUMPTION (MAX)",
+    "30 Watt"
+   ],
+   [
+    "POWER CONSUMPTION STAND BY",
+    "0.3 Watt"
+   ],
+   [
+    "POWER CONSUMPTION SLEEP",
+    "0.3 Watt"
+   ]
+  ]
+ },
+ "compumarts-dell-se2725hm-27-inch-fhd-ips-100hz-monitor-egypt": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "compumarts",
+  "specs": [
+   [
+    "DISPLAY",
+    "27 Inch"
+   ],
+   [
+    "SPEED",
+    "100Hz‎"
+   ],
+   [
+    "COLOR",
+    "Black"
+   ],
+   [
+    "PORTS",
+    "(1x HDMI 1.4 + 1x VGA)"
+   ]
+  ]
+ },
+ "compumarts-dell-se2425hm-24-inch-full-hd-ips-100hz-monitor-egypt": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "compumarts",
+  "specs": [
+   [
+    "SIZE",
+    "23.8\""
+   ],
+   [
+    "RESOLUTION",
+    "1920 x 1080"
+   ],
+   [
+    "REFRESH RATE",
+    "100 Hz"
+   ],
+   [
+    "PANEL",
+    "In-plane Switching (IPS) Technology"
+   ],
+   [
+    "RESPONSE TIME",
+    "5 ms"
+   ],
+   [
+    "BRIGHTNESS",
+    "250 cd/m2"
+   ],
+   [
+    "PORTS",
+    "1 HDMI port (HDCP 1.4) (Supports up to FHD 1920 x 1080 100 Hz as per specified in HDMI 1.4) - 1 VGA port"
+   ]
+  ]
+ },
+ "compumarts-dell-e2725h-27-inch-full-hd-va-75hz-monitor-egypt": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "compumarts",
+  "specs": [
+   [
+    "SIZE",
+    "27\""
+   ],
+   [
+    "RESOLUTION",
+    "1920 x 1080"
+   ],
+   [
+    "REFRESH RATE",
+    "75 Hz"
+   ],
+   [
+    "PANEL",
+    "Vertical Alignment (VA)"
+   ],
+   [
+    "RESPONSE TIME",
+    "5 ms"
+   ],
+   [
+    "BRIGHTNESS",
+    "300 cd/m2 (typical)"
+   ],
+   [
+    "PORTS",
+    "- One DisplayPort 1.2 connector(HDCP 1.4) (Supports up to FHD 1920 x 1080, 75 Hz as per specified in DisplayPort 1.2) - One VGA connector"
+   ]
+  ]
+ },
+ "compumarts-dell-pro-24-e2425hm-23-8-ips-fhd-100hz-monitor-egypt": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "compumarts",
+  "specs": [
+   [
+    "Category Specification Details Screen Size Class",
+    "24\""
+   ],
+   [
+    "Viewable Screen Size",
+    "23.8\""
+   ],
+   [
+    "Screen Mode",
+    "Full HD"
+   ],
+   [
+    "Panel Technology",
+    "In-plane Switching (IPS) Technology"
+   ],
+   [
+    "Response Time Details",
+    "8ms GTG; 5ms GTG (Fast)"
+   ],
+   [
+    "Aspect Ratio",
+    "16:09"
+   ],
+   [
+    "Pixel Pitch",
+    "0.2745 mm x 0.2745 mm"
+   ],
+   [
+    "Horizontal Viewing Angle",
+    "178°"
+   ],
+   [
+    "Vertical Viewing Angle",
+    "178°"
+   ],
+   [
+    "Mount Type",
+    "Panel Mount"
+   ],
+   [
+    "Backlight Technology",
+    "LED Edgelight System"
+   ],
+   [
+    "HDCP Supported",
+    "Yes"
+   ],
+   [
+    "Tilt Angle",
+    "-5° to 21°"
+   ],
+   [
+    "Features",
+    "Mercury-free, Arsenic-free Glass, PVC Free, BFR Free, Cable Lock Slot, Security Lock, Anti-glare, Eye Comfort Technology"
+   ],
+   [
+    "Stand Adjustments",
+    "Tilt"
+   ],
+   [
+    "Stand Included",
+    "Yes"
+   ],
+   [
+    "Glass Hardness",
+    "3H"
+   ],
+   [
+    "Operation Hours",
+    "12 Hours/7 Days"
+   ],
+   [
+    "Maximum Resolution",
+    "1920 x 1080"
+   ],
+   [
+    "Standard Refresh Rate",
+    "100 Hz"
+   ],
+   [
+    "Color Supported",
+    "16.7 Million Colors"
+   ],
+   [
+    "Native Contrast Ratio",
+    "1,000:1"
+   ],
+   [
+    "Brightness",
+    "250 cd/m2"
+   ],
+   [
+    "Color Gamut",
+    "72% NTSC (CIE 1931)"
+   ],
+   [
+    "Maximum Preset Resolution",
+    "1920 x 1080 at 100Hz"
+   ],
+   [
+    "Pixel Per Inch (PPI)",
+    "93"
+   ],
+   [
+    "Connectivity / Ports",
+    "1 HDMI port (HDCP 1.4) (Supports up to FHD 1920 x 1080 100 Hz); 1 DisplayPort 1.2 (HDCP 1.4) port (Supports up to FHD 1920 x 1080 100 Hz); 1 VGA port"
+   ],
+   [
+    "Operating Temperature",
+    "32°F (0°C) to 104°F (40°C)"
+   ],
+   [
+    "Operating Humidity",
+    "10% to 80% (Non-condensing)"
+   ],
+   [
+    "Altitude",
+    "Operating: 16404 ft; Non-operating: 40000 ft"
+   ]
+  ]
+ },
+ "btech-7ADF822BEC26AD61E042": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Philips"
+   ],
+   [
+    "Wattage",
+    "1500 Watt"
+   ],
+   [
+    "Capacity",
+    "4.2 Liter"
+   ],
+   [
+    "Dimensions",
+    "36.8D x 27.3W x 29.3H cm"
+   ],
+   [
+    "Model Number",
+    "NA120/00"
+   ]
+  ]
+ },
+ "btech-9A3D01AE39E7A03918EC": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Philips"
+   ],
+   [
+    "Capacity",
+    "6.2 Liter"
+   ],
+   [
+    "Model Number",
+    "NA23000"
+   ]
+  ]
+ },
+ "btech-F93B9DFE7D4EFAC7EC1D": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Philips"
+   ],
+   [
+    "Wattage",
+    "1400 Watt"
+   ],
+   [
+    "Capacity",
+    "4.1 Liter"
+   ],
+   [
+    "Model Number",
+    "HD9252-91"
+   ]
+  ]
+ },
+ "btech-0F3972BFC989CBEB47B2": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Philips"
+   ],
+   [
+    "Wattage",
+    "1700 Watt"
+   ],
+   [
+    "Capacity",
+    "5.6 Liter"
+   ],
+   [
+    "Model Number",
+    "HD9257-80"
+   ],
+   [
+    "Material",
+    "Plastic"
+   ]
+  ]
+ },
+ "btech-F1B138952276F77464E1": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Philips"
+   ],
+   [
+    "Wattage",
+    "2225 Watt"
+   ],
+   [
+    "Capacity",
+    "1.4 kg"
+   ],
+   [
+    "Model Number",
+    "HD9863-91"
+   ]
+  ]
+ },
+ "2b-philips-digital-air-fryer-3000-series-7-2-liter-2000-watt-black-na342.html": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Country of Manufacture",
+    "China"
+   ],
+   [
+    "MPN",
+    "NA342"
+   ],
+   [
+    "Model",
+    "NA342"
+   ],
+   [
+    "Brand",
+    "Philips"
+   ],
+   [
+    "Device Type",
+    "Fryer and Rice Cooker"
+   ],
+   [
+    "Color",
+    "Black"
+   ],
+   [
+    "Capacity",
+    "7.2 Liter"
+   ],
+   [
+    "Power",
+    "2000 Watt"
+   ],
+   [
+    "warranty",
+    "1 Year"
+   ]
+  ]
+ },
+ "2b-philips-air-fryer-slim-6-2-liter-1700-watt-rapid-air-technology-touch-screen-bla": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Country of Manufacture",
+    "Egypt"
+   ],
+   [
+    "MPN",
+    "NA230"
+   ],
+   [
+    "Model",
+    "NA230"
+   ],
+   [
+    "Brand",
+    "Philips"
+   ],
+   [
+    "Device Type",
+    "Fryer and Rice Cooker"
+   ],
+   [
+    "Color",
+    "Black"
+   ],
+   [
+    "Capacity",
+    "6.2 Liter"
+   ],
+   [
+    "Power",
+    "1700 Watt"
+   ],
+   [
+    "warranty",
+    "1 Year"
+   ]
+  ]
+ },
+ "carrefour-8710103952169": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-668969": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-621751": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-2F2F5232C0AC71A9C914": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Tefal"
+   ],
+   [
+    "Wattage",
+    "1500 Watt"
+   ],
+   [
+    "Capacity",
+    "1.2 kg"
+   ],
+   [
+    "Model Number",
+    "FZ727825"
+   ]
+  ]
+ },
+ "btech-08758B976A30B38E51B2": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Tefal"
+   ],
+   [
+    "Wattage",
+    "1700 Watt"
+   ],
+   [
+    "Capacity",
+    "6.5 Liter"
+   ],
+   [
+    "Model Number",
+    "FW201815"
+   ]
+  ]
+ },
+ "btech-554CB4B406C4249BC443": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Tefal"
+   ],
+   [
+    "Capacity",
+    "5 Liter"
+   ],
+   [
+    "Model Name",
+    "Easy Fry Max"
+   ]
+  ]
+ },
+ "btech-1STFFYAFEY8018EGL007": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Tefal"
+   ],
+   [
+    "Capacity",
+    "6.5 Liter"
+   ],
+   [
+    "Model Name",
+    "Easy Fry & Grill XXL"
+   ],
+   [
+    "Model Number",
+    "EY8018EG"
+   ]
+  ]
+ },
+ "btech-152AC9F89030AD5127F0": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Tefal"
+   ],
+   [
+    "Wattage",
+    "1500 Watt"
+   ],
+   [
+    "Capacity",
+    "4.2 Liter"
+   ],
+   [
+    "Material",
+    "Mixed materials"
+   ],
+   [
+    "Model Number",
+    "EY401D27"
+   ]
+  ]
+ },
+ "btech-CC412A292DBEA13A4C80": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Tefal"
+   ],
+   [
+    "Wattage",
+    "1400 Watt"
+   ],
+   [
+    "Capacity",
+    "1 kg"
+   ],
+   [
+    "Model Name",
+    "Actifry"
+   ],
+   [
+    "Model Number",
+    "FZ710029"
+   ]
+  ]
+ },
+ "2b-tefal-digital-air-fryer-5-liters-1600-watt-ey2458e2-black.html": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Country of Manufacture",
+    "Egypt"
+   ],
+   [
+    "MPN",
+    "EY2458EG"
+   ],
+   [
+    "Model",
+    "EY2458E2"
+   ],
+   [
+    "Brand",
+    "Tefal"
+   ],
+   [
+    "Device Type",
+    "Fryer and Rice Cooker"
+   ],
+   [
+    "Color",
+    "Black"
+   ],
+   [
+    "Capacity",
+    "5 Liter"
+   ],
+   [
+    "Power",
+    "1600 Watt"
+   ],
+   [
+    "warranty",
+    "1 Year"
+   ],
+   [
+    "More Features",
+    "Advanced hot air technology, 10 auto cooking programs, Digital touch screen, Dishwasher safe"
+   ]
+  ]
+ },
+ "carrefour-691750": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-662994": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-677942": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Dishwasher proof",
+    "Yes"
+   ],
+   [
+    "Non-stick inner bowl",
+    "Yes"
+   ],
+   [
+    "Suitable for",
+    "Fries, Chicken, Steak, Fish, Dessert, Pizza, Nuggets, Vegetables, Shrimp And Bacon"
+   ],
+   [
+    "Number of power levels",
+    "10"
+   ],
+   [
+    "Capacity",
+    "5"
+   ]
+  ]
+ },
+ "carrefour-627199": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-625255": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-E5FC79141EF68AE4BC37": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Xiaomi"
+   ],
+   [
+    "Dimensions",
+    "389 x 287 x 317mm"
+   ],
+   [
+    "Model Number",
+    "MAF10"
+   ],
+   [
+    "Material",
+    "Non-Stick Coat"
+   ],
+   [
+    "Wattage",
+    "1800 Watt"
+   ],
+   [
+    "Capacity",
+    "6.5 Liter"
+   ]
+  ]
+ },
+ "btech-7687344848B361DB3FEB": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Xiaomi"
+   ],
+   [
+    "Capacity",
+    "6.5 Liter"
+   ],
+   [
+    "Wattage",
+    "1700 Watt"
+   ],
+   [
+    "Model Name",
+    "MI"
+   ]
+  ]
+ },
+ "btech-ECA63EA6154B9D2D0491": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Xiaomi"
+   ],
+   [
+    "Model Name",
+    "XXL"
+   ],
+   [
+    "Model Number",
+    "MAF08"
+   ],
+   [
+    "Dimensions",
+    "300 × 379 × 280mm"
+   ],
+   [
+    "Wattage",
+    "1500 Watt"
+   ],
+   [
+    "Capacity",
+    "6 Liter"
+   ]
+  ]
+ },
+ "btech-4898F8E0BAA61EE52B9F": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Xiaomi"
+   ],
+   [
+    "Model Number",
+    "MAF-D1001"
+   ],
+   [
+    "Material",
+    "Non-stick"
+   ],
+   [
+    "Wattage",
+    "2700 Watt"
+   ],
+   [
+    "Capacity",
+    "10 Liter"
+   ]
+  ]
+ },
+ "btech-6A5F14F0AB0CDB495DB1": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Xiaomi"
+   ],
+   [
+    "Dimensions",
+    "160 × 70 × 212 mm"
+   ],
+   [
+    "Model Name",
+    "H101"
+   ],
+   [
+    "Power Source",
+    "Electricity"
+   ],
+   [
+    "Speed Settings",
+    "2"
+   ]
+  ]
+ },
+ "btech-BB8E03628EC0DF5E739E": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Xiaomi"
+   ],
+   [
+    "Dimensions",
+    "160 × 70 × 212 mm"
+   ],
+   [
+    "Model Name",
+    "H101"
+   ],
+   [
+    "Power Source",
+    "Electricity"
+   ],
+   [
+    "Speed Settings",
+    "2"
+   ]
+  ]
+ },
+ "carrefour-664837": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-656960": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Dishwasher proof",
+    "Yes"
+   ],
+   [
+    "Suitable for",
+    "Fries, Chicken, Steak, Fish, Dessert, Pizza, Nuggets, Vegetables, Shrimp and Bacon"
+   ],
+   [
+    "Auto power off",
+    "Yes"
+   ],
+   [
+    "Power",
+    "1400"
+   ],
+   [
+    "Capacity",
+    "4.5"
+   ]
+  ]
+ },
+ "btech-FBBE985234D9CEEB3188": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Philips"
+   ],
+   [
+    "Model Name",
+    "ProMix"
+   ],
+   [
+    "Model Number",
+    "HR2531/00"
+   ],
+   [
+    "Material",
+    "Plastic and Metal"
+   ],
+   [
+    "Included Attachments",
+    "beaker"
+   ],
+   [
+    "Bowl Capacity",
+    "500 Milliliter"
+   ],
+   [
+    "Number Of Attachments",
+    "1"
+   ]
+  ]
+ },
+ "btech-195384034615F0A59454": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Philips"
+   ],
+   [
+    "Wattage",
+    "1200 Watt"
+   ],
+   [
+    "Material",
+    "Glass"
+   ],
+   [
+    "Dimensions",
+    "(D x W x H): 16.6 x 30.5 x 34.6 cm"
+   ],
+   [
+    "Model Name",
+    "Series 5000"
+   ],
+   [
+    "Model Number",
+    "HR3033/00"
+   ],
+   [
+    "Number Of Attachments",
+    "2"
+   ],
+   [
+    "Speed Settings",
+    "3"
+   ]
+  ]
+ },
+ "btech-2047B2DC7A96BCA38F73": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Philips"
+   ],
+   [
+    "Pulse Function",
+    "Yes"
+   ],
+   [
+    "Wattage",
+    "800 Watt"
+   ],
+   [
+    "Capacity",
+    "1.5 Liter"
+   ],
+   [
+    "Material",
+    "Plastic SAN, Metal, stainless steel"
+   ],
+   [
+    "Model Name",
+    "Series 5000"
+   ],
+   [
+    "Model Number",
+    "HR2224/00"
+   ],
+   [
+    "Speed Settings",
+    "3"
+   ]
+  ]
+ },
+ "btech-67D8821AB6DEDF314D93": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Nespresso"
+   ],
+   [
+    "Coffee Beans Form",
+    "Capsules"
+   ],
+   [
+    "Milk Frother",
+    "Yes"
+   ],
+   [
+    "Model Name",
+    "Lattissima One"
+   ],
+   [
+    "Model Number",
+    "F121EUWH"
+   ]
+  ]
+ },
+ "btech-F02FEA36B718A3613682": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Nespresso"
+   ],
+   [
+    "Coffee Beans Form",
+    "Capsules"
+   ],
+   [
+    "Model Name",
+    "Lattissima One"
+   ],
+   [
+    "Model Number",
+    "F121EUBK"
+   ],
+   [
+    "Wattage / Power",
+    "1450 Watt"
+   ],
+   [
+    "Capacity",
+    "1 Liter"
+   ]
+  ]
+ },
+ "btech-3227A7F6D26EF2F21BC7": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Nespresso"
+   ],
+   [
+    "Coffee Beans Form",
+    "Capsules"
+   ],
+   [
+    "Dimensions",
+    "23x12X32.1 cm"
+   ],
+   [
+    "Model Name",
+    "Inissia"
+   ],
+   [
+    "Model Number",
+    "C40-EU-RE-NE5"
+   ],
+   [
+    "Wattage / Power",
+    "1260 Watt"
+   ],
+   [
+    "Capacity",
+    "700 milliliter"
+   ],
+   [
+    "Number Of Cups",
+    "1"
+   ]
+  ]
+ },
+ "2b-nespresso-inissia-coffee-machine-0-7-liters-19-bar-red-c40-eu-re-ne.html": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Country of Manufacture",
+    "Ukraine"
+   ],
+   [
+    "MPN",
+    "C40EURENE"
+   ],
+   [
+    "Model",
+    "C40-EU-RE-NE"
+   ],
+   [
+    "Brand",
+    "Nespresso"
+   ],
+   [
+    "Device Type",
+    "Kettles and Coffee Machine"
+   ],
+   [
+    "Color",
+    "Red"
+   ],
+   [
+    "Capacity",
+    "0.7 Liter"
+   ],
+   [
+    "warranty",
+    "2 Years"
+   ]
+  ]
+ },
+ "2b-nespresso-inissia-coffee-machine-0-7liter-19-bar-1260-watt-black-d40-eu-bk-ne.ht": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Country of Manufacture",
+    "Ukraine"
+   ],
+   [
+    "MPN",
+    "D40EUBKNE"
+   ],
+   [
+    "Model",
+    "D40-EU-BK-NE"
+   ],
+   [
+    "Brand",
+    "Nespresso"
+   ],
+   [
+    "Device Type",
+    "Kettles and Coffee Machine"
+   ],
+   [
+    "Capacity",
+    "0.7 Liter"
+   ],
+   [
+    "warranty",
+    "2 Years"
+   ]
+  ]
+ },
+ "2b-nespresso-pixie-c62-espresso-150-capsules-coffee-machine-0-7-liter-19-bar-pressu": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Country of Manufacture",
+    "Switzerland"
+   ],
+   [
+    "MPN",
+    "C062-EU-TI-NE"
+   ],
+   [
+    "Model",
+    "C062-EU-TI-NE"
+   ],
+   [
+    "Brand",
+    "Nespresso"
+   ],
+   [
+    "Device Type",
+    "Kettles and Coffee Machine"
+   ],
+   [
+    "Color",
+    "Titanium"
+   ],
+   [
+    "Capacity",
+    "0.7 Liter"
+   ],
+   [
+    "warranty",
+    "2 Years"
+   ]
+  ]
+ },
+ "2b-nespresso-mini-essenza-coffee-machine-0-6-liter-19-bar-1310-watts-black-c30-eu-b": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Country of Manufacture",
+    "Ukraine"
+   ],
+   [
+    "MPN",
+    "C30-EU-BK-NE2"
+   ],
+   [
+    "Model",
+    "C30-EU-BK-NE2"
+   ],
+   [
+    "Brand",
+    "Nespresso"
+   ],
+   [
+    "Device Type",
+    "Kettles and Coffee Machine"
+   ],
+   [
+    "Color",
+    "Black"
+   ],
+   [
+    "Capacity",
+    "0.6 Liter"
+   ],
+   [
+    "warranty",
+    "2 Years"
+   ],
+   [
+    "More Features",
+    "Compact and minimalist design, Automatic shut-off after 9 minutes, 6 Used capsule container capacity, Programmable selections"
+   ]
+  ]
+ },
+ "2b-nespresso-lattissima-one-coffee-machine-with-milk-1-l-19-bar-silky-black-f121-eu": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Country of Manufacture",
+    "Italy"
+   ],
+   [
+    "MPN",
+    "F121-EU-BK-NE"
+   ],
+   [
+    "Model",
+    "F121-EU-BK-NE"
+   ],
+   [
+    "Brand",
+    "Nespresso"
+   ],
+   [
+    "Device Type",
+    "Kettles and Coffee Machine"
+   ],
+   [
+    "Capacity",
+    "0.6 Liter"
+   ],
+   [
+    "Power",
+    "1450 watt"
+   ],
+   [
+    "warranty",
+    "2 Years"
+   ]
+  ]
+ },
+ "2b-nespresso-lattissima-one-coffee-machine-milk-1-l-19-bar-silky-white-f121-eu-wh-n": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Country of Manufacture",
+    "Italy"
+   ],
+   [
+    "MPN",
+    "F121-EU-WH-NE"
+   ],
+   [
+    "Model",
+    "F121-EU-WH-NE"
+   ],
+   [
+    "Brand",
+    "Nespresso"
+   ],
+   [
+    "Device Type",
+    "Kettles and Coffee Machine"
+   ],
+   [
+    "Color",
+    "Black"
+   ],
+   [
+    "Capacity",
+    "0.6 Liter"
+   ],
+   [
+    "Power",
+    "1450 watt"
+   ],
+   [
+    "warranty",
+    "2 Years"
+   ]
+  ]
+ },
+ "carrefour-647702": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-588834": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-607358": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-588835": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-607359": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-655339": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-C1D86E146AA364F4DB0E": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-AB2D3ED113EEF33AF1D8": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-DBB0CB6D8DB4ED5DAAE0": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-592B9B95DEE2A0F933D9": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-EE65E5EB9626DE96697B": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-71B1C888E5D2A8F74AEB": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Apple"
+   ],
+   [
+    "Model Name",
+    "Series 11"
+   ],
+   [
+    "Connectivity",
+    "Wi‑Fi, Bluetooth 5.3, GPS"
+   ],
+   [
+    "Memory Storage",
+    "64 GB"
+   ],
+   [
+    "Water Resistance Level",
+    "50 Meter"
+   ]
+  ]
+ },
+ "btech-A620365B2CC2B0F59A32": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Apple"
+   ],
+   [
+    "Model Name",
+    "Series 11"
+   ],
+   [
+    "Connectivity",
+    "Wi‑Fi, Bluetooth 5.3, GPS"
+   ],
+   [
+    "Memory Storage",
+    "64 GB"
+   ],
+   [
+    "Water Resistance Level",
+    "50 Meter"
+   ]
+  ]
+ },
+ "2b-apple-watch-series-11-ultra-3-49mm-black.html": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "MPN",
+    "A3281"
+   ],
+   [
+    "Device Type",
+    "Smart Watches"
+   ],
+   [
+    "Brand",
+    "Apple"
+   ],
+   [
+    "Model",
+    "Apple Watch Series 11 Ultra 3 49mm - Black"
+   ],
+   [
+    "Display Size",
+    "49 mm"
+   ],
+   [
+    "Battery Time",
+    "Up to 72 Hours"
+   ],
+   [
+    "Color",
+    "Black"
+   ],
+   [
+    "Support",
+    "SPO2, Heart Rate, Workout, BT Calls"
+   ],
+   [
+    "warranty",
+    "6 Months"
+   ]
+  ]
+ },
+ "btech-C4402C11DDD6927C82B3": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Display Type",
+    "Super AMOLED"
+   ],
+   [
+    "Model Name",
+    "Galaxy Watch8"
+   ],
+   [
+    "Connectivity",
+    "Bluetooth 5.3, wifi, GPS"
+   ],
+   [
+    "Memory Storage",
+    "32 GB"
+   ],
+   [
+    "Battery Capacity",
+    "435 mAh"
+   ]
+  ]
+ },
+ "btech-1BSAASMOL330NZSAL008": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Display Type",
+    "Super AMOLED"
+   ],
+   [
+    "Model Name",
+    "Galaxy Watch8"
+   ],
+   [
+    "Connectivity",
+    "Bluetooth 5.3, wifi, GPS"
+   ],
+   [
+    "Memory Storage",
+    "32 GB"
+   ],
+   [
+    "Battery Capacity",
+    "435 mAh"
+   ]
+  ]
+ },
+ "btech-1BSAASMOL500NZWAL001": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Display Type",
+    "Super AMOLED"
+   ],
+   [
+    "Model Name",
+    "Galaxy Watch8 Classic"
+   ],
+   [
+    "Connectivity",
+    "Bluetooth, Wifi"
+   ],
+   [
+    "Dimensions",
+    "46 x 46.4 x 10.6mm"
+   ],
+   [
+    "Battery Capacity",
+    "445 mAh"
+   ],
+   [
+    "Memory Storage",
+    "64 GB"
+   ]
+  ]
+ },
+ "btech-F0414457276FC4B07823": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Display Type",
+    "Super AMOLED"
+   ],
+   [
+    "Model Name",
+    "Galaxy Watch8 Classic"
+   ],
+   [
+    "Connectivity",
+    "Bluetooth, Wifi"
+   ],
+   [
+    "Dimensions",
+    "46 x 46.4 x 10.6mm"
+   ],
+   [
+    "Battery Capacity",
+    "445 mAh"
+   ],
+   [
+    "Memory Storage",
+    "64 GB"
+   ]
+  ]
+ },
+ "btech-9B9249AE8B1A6A8743E5": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Display Type",
+    "Super AMOLED"
+   ],
+   [
+    "Dimensions",
+    "(HxWxD) 47.4 x 47.1 x 12.1 mm"
+   ],
+   [
+    "Model Name",
+    "Galaxy Watch Ultra"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi, Bluetooth v5.3, GPS, Glonass, Beidou, Galileo, NFC"
+   ],
+   [
+    "Water Resistance Level",
+    "100 Meter"
+   ]
+  ]
+ },
+ "btech-1A1B84B4613FDE888804": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Display Type",
+    "Super AMOLED"
+   ],
+   [
+    "Dimensions",
+    "(HxWxD) 47.4 x 47.1 x 12.1 mm"
+   ],
+   [
+    "Model Name",
+    "Galaxy Watch Ultra"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi, Bluetooth v5.3, GPS, Glonass, Beidou, Galileo, NFC"
+   ],
+   [
+    "Water Resistance Level",
+    "100 Meter"
+   ]
+  ]
+ },
+ "carrefour-689679": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Battery technology",
+    "Lithium-Ion"
+   ],
+   [
+    "Battery capacity",
+    "390"
+   ],
+   [
+    "Battery life",
+    "40"
+   ],
+   [
+    "Auto standby",
+    "No"
+   ],
+   [
+    "Display diagonal",
+    "1.3"
+   ],
+   [
+    "Built-in microphone",
+    "Yes"
+   ],
+   [
+    "Display resolution",
+    "438 x 438 pixels"
+   ],
+   [
+    "FM radio",
+    "No"
+   ],
+   [
+    "Built-in speaker",
+    "Yes"
+   ],
+   [
+    "Touchscreen",
+    "Yes"
+   ],
+   [
+    "Protection features",
+    "Sapphire Crystal"
+   ],
+   [
+    "Built-in camera",
+    "No"
+   ],
+   [
+    "Mobile operating systems supported",
+    "Android"
+   ],
+   [
+    "Display type",
+    "AMOLED"
+   ],
+   [
+    "Bluetooth version",
+    "Bluetooth 6.0"
+   ],
+   [
+    "USB port",
+    "No"
+   ],
+   [
+    "Bluetooth",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "Headphone connectivity",
+    "Bluetooth"
+   ],
+   [
+    "Shape",
+    "Round"
+   ],
+   [
+    "Band colour",
+    "Silver"
+   ],
+   [
+    "Band size",
+    "44"
+   ]
+  ]
+ },
+ "carrefour-2251857000576": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-1737043000343": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-2251257000029": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-2251257000149": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "carrefour-2251257000146": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-1BSAASMOMIB6BK00L007": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Xiaomi"
+   ],
+   [
+    "Model Name",
+    "Mi Smart Band 6"
+   ],
+   [
+    "Model Number",
+    "BHR4951GL"
+   ],
+   [
+    "Compatibility",
+    "Android 5 Or iOS 10 and above"
+   ]
+  ]
+ },
+ "btech-7CBB691A69FAA9B409A0": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-1BSAASSBHUB11WHTL001": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
+ },
+ "btech-1BSAASSBHU11PGRNL005": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Huawei"
+   ],
+   [
+    "Display Type",
+    "AMOLED"
+   ],
+   [
+    "Material",
+    "Aluminium alloy case"
+   ],
+   [
+    "Dimensions",
+    "43.5 × 28.2 × 8.99 mm"
+   ],
+   [
+    "Model Name",
+    "Band 11 Pro"
+   ],
+   [
+    "Connectivity",
+    "Bluetooth 6"
+   ]
+  ]
+ },
+ "btech-1BWEWEARAIRFIT00L007": {
+  "t": "2026-11-15T18:32+00:00",
+  "source": null,
+  "specs": []
  }
 }
