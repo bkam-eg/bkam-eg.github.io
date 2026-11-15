@@ -18,6 +18,7 @@ from zoneinfo import ZoneInfo
 ROOT = Path(__file__).resolve().parent.parent
 SITE = "https://s3rahakam.github.io"
 DATA = ROOT / "products.json"
+SPECS = ROOT / "specs.json"  # من fetch_specs.py
 
 # أسماء أقسام إنجليزي للرابط (الرابط العربي بيبقى طويل ومش مقروء لما يتنسخ)
 CAT_SLUG = {"موبايلات": "mobiles", "تابلت": "tablets", "لابتوب": "laptops", "تلفزيونات": "tvs",
@@ -113,7 +114,16 @@ def offer_url(p, o, stores):
     return (s.get("search") or "https://www.google.com/search?q=") + re.sub(r"\s+", "+", p.get("search") or p["name"])
 
 
-def product_page(p, stores, related, updated_ar, updated_iso):
+def specs_html(spec, stores):
+    if not spec or not spec.get("specs"):
+        return ""
+    rows = "".join(f'<tr><th dir="auto">{e(k)}</th><td dir="auto">{e(v)}</td></tr>' for k, v in spec["specs"])
+    src = stores.get(spec.get("source"), {}).get("name", spec.get("source") or "")
+    return (f'<section class="specs"><h2>المواصفات</h2><table>{rows}</table>'
+            f'<p class="hint">المواصفات منقولة من صفحة المنتج في {e(src)}، واتأكد منها في المتجر قبل الشراء.</p></section>')
+
+
+def product_page(p, stores, related, updated_ar, updated_iso, spec=None):
     name = p["name"]
     sname = short_name(name)
     lo, hi = price_range(p)
@@ -157,6 +167,7 @@ def product_page(p, stores, related, updated_ar, updated_iso):
 <p class="hint">الأسعار مرتبة من الأرخص. اتأكد من السعر واللون والمساحة في صفحة المتجر قبل ما تشتري.</p>
 </div>
 </article>
+{specs_html(spec, stores)}
 {f'<section class="related"><h2>منتجات تانية في {e(p["category"])}</h2><ul>{rel}</ul></section>' if rel else ''}
 """
     ld = {"@context": "https://schema.org", "@type": "Product", "name": name, "category": p["category"],
@@ -194,6 +205,10 @@ def category_page(cat, items, updated_ar):
 
 def main():
     data = json.loads(DATA.read_text(encoding="utf-8"))
+    try:
+        specs = json.loads(SPECS.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        specs = {}
     products = data["products"]
     stores = data["stores"]
     updated_iso = data.get("updated") or datetime.utcnow().isoformat(timespec="minutes")
@@ -224,7 +239,7 @@ def main():
     for p in products:
         same = [r for r in by_cat[p["category"]] if r is not p]
         same.sort(key=lambda r: (-len({o["store"] for o in live(r)}), abs(price_range(r)[0] - price_range(p)[0])))
-        html_text = product_page(p, stores, same[:8], updated_ar, updated_iso)
+        html_text = product_page(p, stores, same[:8], updated_ar, updated_iso, specs.get(p["id"]))
         (ROOT / "p" / f"{p['page']}.html").write_text(html_text, encoding="utf-8")
 
     for cat, items in by_cat.items():

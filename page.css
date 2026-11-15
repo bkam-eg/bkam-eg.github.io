@@ -45,6 +45,12 @@ h1 bdi{unicode-bidi:isolate}
 .pill.old{background:#fff3df;color:var(--warn)}
 .hint{color:var(--muted);font-size:13px;margin:14px 0 0}
 .related{margin:26px 0}
+.specs{margin:26px 0 0}
+.specs table{width:100%;border-collapse:collapse;background:var(--surface);border:1px solid var(--line);border-radius:12px;overflow:hidden;font-size:14px}
+.specs th,.specs td{padding:9px 14px;border-bottom:1px solid var(--line);vertical-align:top;overflow-wrap:anywhere}
+.specs tr:last-child th,.specs tr:last-child td{border-bottom:0}
+.specs th{width:36%;font-weight:500;color:var(--muted);background:var(--bg);text-align:start}
+.specs tr:nth-child(even) td{background:color-mix(in srgb,var(--bg) 35%,var(--surface))}
 .related ul,.clist{list-style:none;padding:0;margin:0;display:grid;gap:6px}
 .related li,.clist li{display:flex;gap:12px;align-items:center;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:10px 14px}
 .related li a,.clist li a{flex:1;text-decoration:none;color:var(--fg);overflow-wrap:anywhere}
