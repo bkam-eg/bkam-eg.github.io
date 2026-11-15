@@ -1,6 +1,6 @@
 {
   "demo": false,
-  "updated": "2026-11-15T16:37+00:00",
+  "updated": "2026-11-15T17:42+00:00",
   "stores": {
     "noon": {
       "name": "نون",
@@ -40,6 +40,45 @@
   },
   "products": [
     {
+      "brand": "Sony",
+      "id": "btech-6A5974AD270EB5F398C9",
+      "name": "Sony DualSense Wireless Wireless Controller , White",
+      "category": "بلايستيشن",
+      "search": "DualSense controller",
+      "images": [
+        "https://media.btech.com/catalogs/5/0/d/8/50d8dabc813619869cf366483fbf20cdfaad76be_71y_ugujl5l._sl1500__1__1_.jpeg",
+        "https://cdn.mafrservices.com/pim-content/EGY/media/product/711719541080/1731411600/711719541080_main.jpeg?im=Resize=(300,300)",
+        "https://f.nooncdn.com/p/pzsku/Z9ABAD5D803041004E9CFZ/45/_/1780467519/7a4bce63-7931-4f54-85ac-df5a85a91f78.jpg",
+        "https://media.btech.com/catalogs/3/9/d/a/39dafe96e8a35c58040e5222b30c016692fcc008_50d8dabc813619869cf366483fbf20cdfaad76be_71y_ugujl5l._sl1500__1__1_.jpeg",
+        "https://cdn.mafrservices.com/pim-content/EGY/media/product/1836147000713/1790772861/1836147000713_main.jpeg?im=Resize=(300,300)",
+        "https://cdn.mafrservices.com/pim-content/EGY/media/product/1836147000732/1790772862/1836147000732_main.jpeg?im=Resize=(300,300)"
+      ],
+      "offers": [
+        {
+          "store": "btech",
+          "price": 3800,
+          "old_price": 3800,
+          "url": "https://btech.com/en/s?q=DualSense+controller",
+          "in_stock": true
+        },
+        {
+          "store": "carrefour",
+          "price": 3800,
+          "old_price": null,
+          "url": "https://www.carrefouregypt.com/mafegy/en/sony-playstation-access/sony-dualsense-wireless-controller-for-playstation-5-white/p/1836147000713?offer=offer_1013118361&sid=DEFAULT&sellerId=18361",
+          "in_stock": true
+        },
+        {
+          "store": "noon",
+          "price": 3450,
+          "old_price": 4565,
+          "url": "https://www.noon.com/egypt-en/dualsense-wireless-controller-for-playstation-5-white/N40633049A/p/?o=ae1603b6a8de4f9e",
+          "in_stock": true
+        }
+      ],
+      "page": "sony-dualsense-wireless-controller-white-e1a48a"
+    },
+    {
       "brand": "Apple",
       "id": "btech-1BAPOMSMIP17PMORL003",
       "name": "Apple iPhone 17 Pro Max , 256 GB , 12 GB , 5G , Dual-SIM - Cosmic Orange",
@@ -73,7 +112,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/smartphones/apple-mobile-iphone-17-pro-max-256gb-12gb-ram-5g-cosmic-orange/p/1698542000459?offer=offer_1505516985&sid=DEFAULT&sellerId=16985",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "apple-iphone-17-pro-max-256-gb-12-5g-842079"
     },
     {
       "brand": "",
@@ -109,7 +149,7 @@
           "in_stock": true
         }
       ],
-      "page": "apple-iphone-17-pro-max-256gb-nano-sim-esim-02a664"
+      "page": "apple-iphone-17-pro-max-256gb-cosmic-orange-official-ac5730"
     },
     {
       "brand": "Samsung",
@@ -146,7 +186,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-a56-8-256/p/655782?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-galaxy-a56-256-gb-8-4g-lte-dual-8a4d99"
     },
     {
       "brand": "Samsung",
@@ -183,7 +224,8 @@
           "url": "https://2b.com.eg/en/samsung-galaxy-a57-5g-8gb-ram-256gb-dark-blue.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-galaxy-a57-256-gb-8-5g-dual-sim-b30397"
     },
     {
       "brand": "Samsung",
@@ -219,7 +261,8 @@
           "url": "https://2b.com.eg/en/samsung-galaxy-a57-5g-12gb-ram-256gb-gray.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-galaxy-a57-256-gb-12-5g-dual-sim-0a26aa"
     },
     {
       "brand": "Samsung",
@@ -255,7 +298,8 @@
           "url": "https://2b.com.eg/en/samsung-galaxy-a37-5g-8gb-ram-256gb-white.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-galaxy-a37-256-gb-8-5g-dual-sim-21055b"
     },
     {
       "brand": "Xiaomi",
@@ -295,7 +339,7 @@
           "in_stock": true
         }
       ],
-      "page": "jbl-tune-530bt-wireless-on-ear-headphones-blue-549d48"
+      "page": "xiaomi-redmi-note-15-pro-plus-256-gb-12-1912d8"
     },
     {
       "brand": "Jbl",
@@ -339,7 +383,8 @@
           "url": "https://2b.com.eg/en/jbl-tune-530bt-wireless-on-ear-headphone-beige.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "jbl-tune-530bt-wireless-on-ear-headphones-beige-45b0ca"
     },
     {
       "brand": "Anker",
@@ -374,7 +419,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/power-banks/energizer-20000mah-power-bank-22-5w-fast-charging-usb-c-power-delivery-dual-usb-a-portable-charger-ue20011pq/p/4713309812743?offer=offer_1010518004&sid=DEFAULT&sellerId=18004",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "anker-zolo-wired-power-bank-with-built-in-cable-730231"
     },
     {
       "brand": "Logitech",
@@ -409,7 +455,8 @@
           "url": "https://www.compumarts.com/products/logitech-g102-light-gaming-customizable-lighting",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "logitech-g102-wired-gaming-mouse-black-025695"
     },
     {
       "brand": "Logitech",
@@ -444,7 +491,8 @@
           "url": "https://www.compumarts.com/products/logitech-g502-hero-gaming-mouse",
           "in_stock": false
         }
-      ]
+      ],
+      "page": "logitech-hero-gaming-mouse-black-g502-a21227"
     },
     {
       "brand": "Samsung",
@@ -482,7 +530,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/lifestyle-tv/samsung-the-frame-tv-qa-55ls03-f/p/658106?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-55-inch-smart-tv-4k-uhd-oled-built-b76dfa"
     },
     {
       "brand": "Samsung",
@@ -518,7 +567,7 @@
           "in_stock": true
         }
       ],
-      "page": "jbl-tune-530bt-wireless-on-ear-headphones-black-2cf84d"
+      "page": "samsung-55-inch-smart-tv-4k-uhd-micro-rgb-f2aca0"
     },
     {
       "brand": "Lenovo",
@@ -554,7 +603,7 @@
           "in_stock": true
         }
       ],
-      "page": "lenovo-laptop-ideapad-slim-3-15irh10-intel-core-i7-148f5e"
+      "page": "lenovo-ideapad-slim-3-15irh10-laptop-intel-core-i7-3c749e"
     },
     {
       "brand": "Lenovo",
@@ -589,7 +638,8 @@
           "url": "https://2b.com.eg/en/lenovo-ideapad-slim-3-15irh10-laptop-intelr-coretm-i5-13420h-16gb-512gb-ssd-intelr-uhd-graphics-15-3-wuxga-60hz-cosmic-blue.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "lenovo-ideapad-slim-3-15irh10-laptop-intel-core-i5-0ce17c"
     },
     {
       "brand": "",
@@ -625,7 +675,8 @@
           "url": "https://btech.com/en/s?q=Lenovo+IdeaPad+Slim+3+15IRU8+Laptop",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "lenovo-ideapad-slim-3-15iru8-laptop-intel-core-i3-b5db62"
     },
     {
       "brand": "Asus",
@@ -661,7 +712,7 @@
           "in_stock": false
         }
       ],
-      "page": "lenovo-laptop-ideapad-slim-3-15irh10-intel-core-i7-b6a3ab"
+      "page": "asus-tuf-gaming-f16-fx608jhi-tu655w-laptop-intel-core-dcaa21"
     },
     {
       "brand": "Asus",
@@ -702,7 +753,8 @@
           "url": "https://www.compumarts.com/products/hp-victus-15-fa2031ne-i7-14650hx-rtx-4050-egypt",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "asus-tuf-gaming-f16-fx608jmi-tu657w-laptop-intel-core-8047fa"
     },
     {
       "brand": "",
@@ -732,12 +784,13 @@
         },
         {
           "store": "btech",
-          "price": 71999,
+          "price": 67999,
           "old_price": 71999,
           "url": "https://btech.com/en/s?q=ASUS+TUF+Gaming+F16+FX607VU+RL167W+Laptop",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "asus-tuf-gaming-f16-fx607vu-rl167w-laptop-intel-core-b8245e"
     },
     {
       "brand": "",
@@ -773,7 +826,8 @@
           "url": "https://btech.com/en/p/d3d1c335-53c4-412d-8971-0db30c00e26c",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "fresh-washing-machine-9-kgs-inverter-front-loading-full-2a8902"
     },
     {
       "brand": "Sharp",
@@ -812,7 +866,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/air-conditioners/sharp-split-air-conditioner-sharp-3-hp-cool-heat-inverter-ay-xp24bme/p/6221127450477?offer=offer_1157516985&sid=DEFAULT&sellerId=16985",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "sharp-split-air-conditioner-3-horsepower-only-cooling-white-f30d84"
     },
     {
       "brand": "Carrier",
@@ -850,7 +905,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/air-conditioners/carrier-optimax-split-air-conditioner-1-5-hp-cooling-only-white-53khct-12/p/2283159000035?offer=offer_1001322907&sid=DEFAULT&sellerId=22907",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "carrier-x-cool-split-air-conditioner-1-5-horsepower-887bb6"
     },
     {
       "brand": "",
@@ -926,26 +982,24 @@
     },
     {
       "brand": "Honor",
-      "id": "btech-A1469BF6CAE8D0BCB2D2",
-      "name": "Honor X9d , 256 GB , 12 GB , 5G , Dual-SIM - Reddish Brown",
+      "id": "btech-68371A109F57506DAFAC",
+      "name": "Honor X9d , 256 GB , 12 GB , 5G , Dual-SIM - Forest Green",
       "category": "موبايلات",
       "search": "Honor X9",
       "images": [
-        "https://media.btech.com/catalogs/d/8/f/9/d8f9edfcea6a603f45deabbfdea66c2ef721ca25_Martin_Identity_Pictures_Reddish_Brown________HQ_PNG_RGB_20250721_1_.jpg",
+        "https://media.btech.com/catalogs/e/f/d/5/efd5b32e004599e4680a7d4c37fdc63e0fc17d4f_Martin_Identity_Pictures_Forest_Green________HQ_PNG_RGB_20250721_1_.jpg",
         "https://2b.com.eg/media/catalog/product/cache/45bcba66b667d1ca52af48b101a5f0cb/h/o/honor-x9d-green.13.jpg",
         "https://cdn.mafrservices.com/pim-content/EGY/media/product/1698542000178/1793105688/1698542000178_main.jpeg?im=Resize=(300,300)",
-        "https://media.btech.com/catalogs/0/f/2/2/0f22ba4283cd3711332d901adc00c29b4642dabb_Martin_Identity_Pictures_Midnight_Black________HQ_PNG_RGB_20250721_1_.jpg",
-        "https://2b.com.eg/media/catalog/product/cache/45bcba66b667d1ca52af48b101a5f0cb/h/o/honor-x9d-black.9.jpg",
-        "https://cdn.mafrservices.com/pim-content/EGY/media/product/1698542000265/1793105692/1698542000265_main.jpeg?im=Resize=(300,300)",
-        "https://2b.com.eg/media/catalog/product/cache/45bcba66b667d1ca52af48b101a5f0cb/h/o/honor-x9d-brown.13.jpg",
+        "https://media.btech.com/catalogs/d/8/f/9/d8f9edfcea6a603f45deabbfdea66c2ef721ca25_Martin_Identity_Pictures_Reddish_Brown________HQ_PNG_RGB_20250721_1_.jpg",
+        "https://2b.com.eg/media/catalog/product/cache/45bcba66b667d1ca52af48b101a5f0cb/h/o/honor-x9d-gold.8.jpg",
         "https://cdn.mafrservices.com/pim-content/EGY/media/product/1698542000264/1793105690/1698542000264_main.jpeg?im=Resize=(300,300)"
       ],
       "offers": [
         {
           "store": "btech",
-          "price": 25500,
-          "old_price": 25500,
-          "url": "https://btech.com/en/s?q=Honor+X9",
+          "price": 26888,
+          "old_price": 26888,
+          "url": "https://btech.com/en/p/664d17ed-64a5-43c2-a744-edfeee3971d0",
           "in_stock": true
         },
         {
@@ -962,25 +1016,29 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/smartphones/honor-mobile-x9d-256gb-12gb-ram-5g-forest-green/p/1698542000178?offer=offer_1503116985&sid=DEFAULT&sellerId=16985",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "honor-x9d-256-gb-12-5g-dual-sim-forest-39f1a2"
     },
     {
       "brand": "",
-      "id": "2b-honor-x9d-5g-12gb-ram-256gb-sunrise-gold.html",
-      "name": "Honor X9d 5G - 12GB RAM - 256GB - Sunrise Gold",
+      "id": "2b-honor-x9d-5g-12gb-ram-256gb-midnight-black.html",
+      "name": "Honor X9d 5G - 12GB RAM - 256GB - Midnight Black",
       "category": "موبايلات",
       "search": "Honor X9",
       "images": [
-        "https://2b.com.eg/media/catalog/product/cache/45bcba66b667d1ca52af48b101a5f0cb/h/o/honor-x9d-gold.8.jpg",
+        "https://2b.com.eg/media/catalog/product/cache/45bcba66b667d1ca52af48b101a5f0cb/h/o/honor-x9d-black.9.jpg",
         "https://cdn.mafrservices.com/pim-content/EGY/media/product/692068/1793529000/692068_main.jpg?im=Resize=(300,300)",
-        "https://media.btech.com/catalogs/c/4/5/4/c4547d9bbb8bc3c6e842bae670631db39dc36b8a_Martin_Identity_Pictures_Sunrise_Gold________HQ_PNG_RGB_20250721_1_.jpg"
+        "https://media.btech.com/catalogs/0/f/2/2/0f22ba4283cd3711332d901adc00c29b4642dabb_Martin_Identity_Pictures_Midnight_Black________HQ_PNG_RGB_20250721_1_.jpg",
+        "https://2b.com.eg/media/catalog/product/cache/45bcba66b667d1ca52af48b101a5f0cb/h/o/honor-x9d-brown.13.jpg",
+        "https://cdn.mafrservices.com/pim-content/EGY/media/product/1698542000265/1793105692/1698542000265_main.jpeg?im=Resize=(300,300)",
+        "https://media.btech.com/catalogs/d/8/f/9/d8f9edfcea6a603f45deabbfdea66c2ef721ca25_Martin_Identity_Pictures_Reddish_Brown________HQ_PNG_RGB_20250721_1_.jpg"
       ],
       "offers": [
         {
           "store": "2b",
           "price": 26199,
           "old_price": 36199,
-          "url": "https://2b.com.eg/en/honor-x9d-5g-12gb-ram-256gb-sunrise-gold.html",
+          "url": "https://2b.com.eg/en/honor-x9d-5g-12gb-ram-256gb-midnight-black.html",
           "in_stock": true
         },
         {
@@ -994,10 +1052,11 @@
           "store": "btech",
           "price": 25500,
           "old_price": 25500,
-          "url": "https://btech.com/en/p/2e3dc458-b66e-4030-803c-549077e4f28d",
+          "url": "https://btech.com/en/p/d87d12ef-f1a1-4438-8f49-243bfd764cef",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "honor-x9d-5g-12gb-ram-256gb-midnight-black-4b8357"
     },
     {
       "brand": "Infinix",
@@ -1034,7 +1093,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/smartphones/infinix-mobile-note-edge-x6887-256gb-8gb-ram-5g-lunar-titanium/p/1698542000270?offer=offer_1510916985&sid=DEFAULT&sellerId=16985",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "infinix-note-edge-256-gb-8-5g-dual-sim-9e22b9"
     },
     {
       "brand": "Infinix",
@@ -1075,7 +1135,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/smartphones/infinix-mobile-note-60-x6879-256gb-8gb-ram-5g-midnight-black/p/1698542000308?offer=offer_1514916985&sid=DEFAULT&sellerId=16985",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "infinix-note-60-256-gb-8-5g-dual-sim-5bc0e2"
     },
     {
       "brand": "",
@@ -1110,7 +1171,8 @@
           "url": "https://btech.com/en/s?q=Infinix+Note+Edge+RAM",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "infinix-note-edge-8gb-ram-256gb-black-80d1c7"
     },
     {
       "brand": "Infinix",
@@ -1146,7 +1208,8 @@
           "url": "https://2b.com.eg/en/infinix-hot-70-4gb-ram-128gb-night-pulse.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "infinix-hot-70-128-gb-4-4g-lte-dual-33f49e"
     },
     {
       "brand": "",
@@ -1183,7 +1246,8 @@
           "url": "https://btech.com/en/s?q=Infinix+Hot+70+RAM",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "infinix-hot-70-8gb-ram-256gb-silver-dancer-e887b2"
     },
     {
       "brand": "",
@@ -1218,7 +1282,8 @@
           "url": "https://2b.com.eg/en/vivo-y31d-6gb-ram-256gb-gold.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "vivo-y31d-6-75-inch-256gb-6gb-dual-sim-087d45"
     },
     {
       "brand": "",
@@ -1253,7 +1318,8 @@
           "url": "https://2b.com.eg/en/vivo-y500-6gb-ram-256gb-white.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "vivo-y500-6-83-inch-256gb-6gb-dual-sim-930718"
     },
     {
       "brand": "",
@@ -1288,7 +1354,8 @@
           "url": "https://2b.com.eg/en/vivo-y500-8gb-ram-256gb-white.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "vivo-y500-6-83-inch-256gb-8gb-dual-sim-b33872"
     },
     {
       "brand": "",
@@ -1323,65 +1390,8 @@
           "url": "https://btech.com/en/p/samsung-essential-s3-27-inch-fhd-ips-monitor-100hz-black-ls27d302gauxen",
           "in_stock": true
         }
-      ]
-    },
-    {
-      "brand": "",
-      "id": "2b-lenovo-legion-h500-pro-gaming-headset-ps4-ps-5-pc-mac-mobile-nintendo-switch-xbo",
-      "name": "Lenovo Legion H500 Pro Gaming Headset PS4 - PS 5 - PC - Mac - Mobile - Nintendo Switch - Xbox - GXD0T69864 - Iron Gray",
-      "category": "بلايستيشن",
-      "search": "PS5 Pro",
-      "images": [
-        "https://2b.com.eg/media/catalog/product/cache/45bcba66b667d1ca52af48b101a5f0cb/h/p/hpb45.jpg",
-        "https://m.media-amazon.com/images/I/61vkVObTLbL._AC_UL320_.jpg"
       ],
-      "offers": [
-        {
-          "store": "2b",
-          "price": 5999,
-          "old_price": 7979,
-          "url": "https://2b.com.eg/en/lenovo-legion-h500-pro-gaming-headset-ps4-ps-5-pc-mac-mobile-nintendo-switch-xbox-gxd0t69864-iron-gray.html",
-          "in_stock": true
-        },
-        {
-          "store": "amazon",
-          "price": 5700,
-          "old_price": null,
-          "url": "https://www.amazon.eg/dp/B07SCPBC1B",
-          "in_stock": true
-        }
-      ]
-    },
-    {
-      "brand": "Sony",
-      "id": "btech-1BSOASSBPS5JOY00L000",
-      "name": "Sony DualSense Wireless Controller , White",
-      "category": "بلايستيشن",
-      "search": "DualSense controller",
-      "images": [
-        "https://media.btech.com/catalogs/3/9/d/a/39dafe96e8a35c58040e5222b30c016692fcc008_50d8dabc813619869cf366483fbf20cdfaad76be_71y_ugujl5l._sl1500__1__1_.jpeg",
-        "https://cdn.mafrservices.com/pim-content/EGY/media/product/1836147000713/1790772861/1836147000713_main.jpeg?im=Resize=(300,300)",
-        "https://media.btech.com/catalogs/5/0/d/8/50d8dabc813619869cf366483fbf20cdfaad76be_71y_ugujl5l._sl1500__1__1_.jpeg",
-        "https://cdn.mafrservices.com/pim-content/EGY/media/product/711719541080/1731411600/711719541080_main.jpeg?im=Resize=(300,300)",
-        "https://cdn.mafrservices.com/pim-content/EGY/media/product/1836147000732/1790772862/1836147000732_main.jpeg?im=Resize=(300,300)"
-      ],
-      "offers": [
-        {
-          "store": "btech",
-          "price": 3800,
-          "old_price": 3800,
-          "url": "https://btech.com/en/s?q=DualSense+controller",
-          "in_stock": true
-        },
-        {
-          "store": "carrefour",
-          "price": 3800,
-          "old_price": null,
-          "url": "https://www.carrefouregypt.com/mafegy/en/sony-playstation-access/sony-dualsense-wireless-controller-for-playstation-5-white/p/1836147000713?offer=offer_1013118361&sid=DEFAULT&sellerId=18361",
-          "in_stock": true
-        }
-      ],
-      "page": "sony-playstation-5-pro-console-2tb-official-ksa-version-f88ed1"
+      "page": "samsung-27-inch-fhd-essential-s30gd-led-100hz-monitor-d657b2"
     },
     {
       "brand": "Sony",
@@ -1438,7 +1448,7 @@
           "in_stock": true
         }
       ],
-      "page": "sony-dualsense-controller-silver-08e479"
+      "page": "sony-dualsense-wireless-controller-grey-3a88c6"
     },
     {
       "brand": "Sony",
@@ -1465,7 +1475,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/gaming-leasure/sony-dualsense-wireless-ps5-controller-official-version-purple/p/1836147000747?offer=offer_1075118361&sid=DEFAULT&sellerId=18361",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "sony-dualsense-wireless-controller-purple-4a773b"
     },
     {
       "brand": "Sony",
@@ -1493,7 +1504,7 @@
           "in_stock": true
         }
       ],
-      "page": "sony-dualsense-wireless-controller-volcanic-red-bf7976"
+      "page": "sony-dualsense-wireless-controller-blue-3e7a7d"
     },
     {
       "brand": "Sony",
@@ -1557,7 +1568,7 @@
           "in_stock": true
         }
       ],
-      "page": "ea-fc-26-standard-edition-ps5-uae-version-playstation-60e339"
+      "page": "apple-iphone-17-pro-max-256-gb-12-5g-772891"
     },
     {
       "brand": "Apple",
@@ -1585,7 +1596,7 @@
           "in_stock": true
         }
       ],
-      "page": "apple-iphone-17-pro-max-256-gb-esim-only-e3ba76"
+      "page": "apple-iphone-17-pro-max-512-gb-12-5g-4bdce2"
     },
     {
       "brand": "Apple",
@@ -1613,7 +1624,7 @@
           "in_stock": true
         }
       ],
-      "page": "apple-iphone-17-256gb-nano-sim-esim-black-5g-d5933a"
+      "page": "apple-iphone-17-pro-max-512-gb-12-5g-f76586"
     },
     {
       "brand": "Apple",
@@ -1641,37 +1652,40 @@
           "in_stock": true
         }
       ],
-      "page": "apple-iphone-17-256gb-nano-sim-esim-mist-blue-36bad1"
+      "page": "apple-iphone-17-pro-256-gb-12-5g-dual-d8f919"
     },
     {
       "brand": "Apple",
-      "id": "btech-1BAPOMSMIP162Y00L007",
-      "name": "Apple iPhone 16 , 128 GB , 8 GB , 5G , Dual-SIM - Black",
+      "id": "btech-1BAPOMSMIP162Y00L042",
+      "name": "Apple iPhone 16 , 128 GB , 8 GB , 5G , Single SIM - Ultramarine",
       "category": "موبايلات",
       "search": "iPhone 16",
       "images": [
-        "https://media.btech.com/catalogs/9/7/f/7/97f7e7e2fd0a474a4ca478c7994ddea90cdb1d0c_iPhone_16_Black_PDP_Image_Position_1__en_ME.jpg",
-        "https://2b.com.eg/media/catalog/product/cache/45bcba66b667d1ca52af48b101a5f0cb/a/p/apple-iphone-16-black-1_2.jpg",
         "https://media.btech.com/catalogs/4/7/b/f/47bf073d72a6bcb100b0b79b5f5c62032c110dee_iPhone_16_Ultramarine_PDP_Image_Position_1__en_ME.jpg",
         "https://2b.com.eg/media/catalog/product/cache/45bcba66b667d1ca52af48b101a5f0cb/a/p/apple-iphone-16-ultramarine-1_1_1_mhtpp2u81ihmxkkj.jpg",
-        "https://media.btech.com/catalogs/5/3/c/0/53c04168b14e73444ce35bccdd9a45e7ebabefd7_iPhone_16_Black_PDP_Image_Position_1__en_ME.jpg"
+        "https://media.btech.com/catalogs/9/7/f/7/97f7e7e2fd0a474a4ca478c7994ddea90cdb1d0c_iPhone_16_Black_PDP_Image_Position_1__en_ME.jpg",
+        "https://2b.com.eg/media/catalog/product/cache/45bcba66b667d1ca52af48b101a5f0cb/a/p/apple-iphone-16-black-1_2.jpg",
+        "https://media.btech.com/catalogs/1/8/6/5/1865ef220b73404cdd0f439345e28962bc775742_iPhone_16_Teal_PDP_Image_Position_1__en_ME.jpg",
+        "https://2b.com.eg/media/catalog/product/cache/45bcba66b667d1ca52af48b101a5f0cb/a/p/apple-iphone-16-teal-1_1_vhjujy2fmwl5l5xt.jpg",
+        "https://media.btech.com/catalogs/f/a/b/c/fabcee987fa0605e1617ab7bef3b813bcec39d32_iPhone_16_Ultramarine_PDP_Image_Position_1__en_ME.jpg"
       ],
       "offers": [
         {
           "store": "btech",
           "price": 57999,
           "old_price": 61999,
-          "url": "https://btech.com/en/p/912fed84-22c5-4ec1-85ad-75149a656ca0",
+          "url": "https://btech.com/en/s?q=iPhone+16",
           "in_stock": true
         },
         {
           "store": "2b",
           "price": 73299,
           "old_price": 101249,
-          "url": "https://2b.com.eg/en/apple-iphone-16-128gb-black-official-warranty.html",
+          "url": "https://2b.com.eg/en/apple-iphone-16-128gb-ultramarine-official-warranty.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "apple-iphone-16-128-gb-8-5g-single-sim-242552"
     },
     {
       "brand": "Apple",
@@ -1698,63 +1712,8 @@
           "url": "https://2b.com.eg/en/apple-iphone-16-128gb-white-official-warranty.html",
           "in_stock": true
         }
-      ]
-    },
-    {
-      "brand": "Apple",
-      "id": "btech-F0E3BCC6036A7DFD59B5",
-      "name": "Apple iPhone 16 , 128 GB , 8 GB , 5G , Single SIM - Teal",
-      "category": "موبايلات",
-      "search": "iPhone 16",
-      "images": [
-        "https://media.btech.com/catalogs/1/8/6/5/1865ef220b73404cdd0f439345e28962bc775742_iPhone_16_Teal_PDP_Image_Position_1__en_ME.jpg",
-        "https://2b.com.eg/media/catalog/product/cache/45bcba66b667d1ca52af48b101a5f0cb/a/p/apple-iphone-16-teal-1_1_vhjujy2fmwl5l5xt.jpg"
       ],
-      "offers": [
-        {
-          "store": "btech",
-          "price": 65010,
-          "old_price": 65010,
-          "url": "https://btech.com/en/p/apple-iphone16-128gb-5g-teal",
-          "in_stock": true
-        },
-        {
-          "store": "2b",
-          "price": 73299,
-          "old_price": 101249,
-          "url": "https://2b.com.eg/en/apple-iphone-16-128gb-teal-official-warranty.html",
-          "in_stock": true
-        }
-      ],
-      "page": "apple-iphone-17-256gb-nano-sim-esim-white-5g-09b129"
-    },
-    {
-      "brand": "Apple",
-      "id": "btech-A6851B961B894CD26D09",
-      "name": "Apple iPhone 16 , 128 GB , 8 GB , 5G , Single SIM - Blue",
-      "category": "موبايلات",
-      "search": "iPhone 16",
-      "images": [
-        "https://media.btech.com/catalogs/f/a/b/c/fabcee987fa0605e1617ab7bef3b813bcec39d32_iPhone_16_Ultramarine_PDP_Image_Position_1__en_ME.jpg",
-        "https://2b.com.eg/media/catalog/product/cache/45bcba66b667d1ca52af48b101a5f0cb/a/p/apple-iphone-16-ultramarine-1_1_1_mhtpp2u81ihmxkkj.jpg"
-      ],
-      "offers": [
-        {
-          "store": "btech",
-          "price": 71164,
-          "old_price": 71164,
-          "url": "https://btech.com/en/p/apple-iphone-16-128gb-5g-ultramarine",
-          "in_stock": true
-        },
-        {
-          "store": "2b",
-          "price": 73299,
-          "old_price": 101249,
-          "url": "https://2b.com.eg/en/apple-iphone-16-128gb-ultramarine-official-warranty.html",
-          "in_stock": true
-        }
-      ],
-      "page": "apple-iphone-16-128-gb-8-5g-single-sim-adb5a1"
+      "page": "apple-iphone-16-128-gb-6-5g-single-sim-b28f73"
     },
     {
       "brand": "Samsung",
@@ -1782,7 +1741,7 @@
           "in_stock": true
         }
       ],
-      "page": "samsung-galaxy-a16-128-gb-4-4g-lte-dual-50e8bd"
+      "page": "samsung-galaxy-s25-ultra-1-tb-12-gb-4g-c74bfd"
     },
     {
       "brand": "Xiaomi",
@@ -1810,7 +1769,7 @@
           "in_stock": true
         }
       ],
-      "page": "xiaomi-redmi-note-17-pro-max-5g-dual-sim-049453"
+      "page": "xiaomi-redmi-note-14-pro-plus-256-gb-12-266fad"
     },
     {
       "brand": "Xiaomi",
@@ -1837,7 +1796,8 @@
           "url": "https://2b.com.eg/en/xiaomi-redmi-note-15-pro-plus-5g-12gb-ram-512gb-glacier-blue.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "xiaomi-redmi-note-15-pro-plus-512-gb-12-197f8b"
     },
     {
       "brand": "Xiaomi",
@@ -1864,7 +1824,8 @@
           "url": "https://2b.com.eg/en/xiaomi-redmi-note-17-pro-5g-8gb-ram-256gb-black.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "xiaomi-redmi-note-17-pro-256-gb-8-5g-33e9e3"
     },
     {
       "brand": "Xiaomi",
@@ -1892,7 +1853,7 @@
           "in_stock": true
         }
       ],
-      "page": "xiaomi-redmi-note-17-pro-dual-sim-5g-satin-55268f"
+      "page": "xiaomi-redmi-note-17-pro-256-gb-12-5g-1eac40"
     },
     {
       "brand": "Apple",
@@ -1919,7 +1880,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/wireless-earbuds/apple-airpods-pro-3-wireless-earbuds-bluetooth-headphones-active-noise-cancellation-hearing-test-hearing-aid-hearing-protection-features-high-fidelity-sound-h2-chip-usb-c-charging-white/p/1827747000702?offer=offer_1024022512&sid=DEFAULT&sellerId=22512",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "apple-airpods-pro-3-earbuds-with-active-noise-cancellation-f8194a"
     },
     {
       "brand": "Logitech",
@@ -1947,7 +1909,7 @@
           "in_stock": true
         }
       ],
-      "page": "generic-pro-air-pods-compatible-with-android-iphone-white-93a338"
+      "page": "logitech-pro-x-superlight-2-wireless-gaming-mouse-white-7ff425"
     },
     {
       "brand": "Apple",
@@ -2003,7 +1965,7 @@
           "in_stock": true
         }
       ],
-      "page": "samsung-galaxy-buds3-fe-active-noise-cancellation-grey-54a0c2"
+      "page": "samsung-galaxy-buds-3-pro-earbuds-silver-sm-r630-7831bc"
     },
     {
       "brand": "Samsung",
@@ -2031,7 +1993,7 @@
           "in_stock": true
         }
       ],
-      "page": "samsung-galaxy-buds3-fe-active-noise-cancellation-black-3f8870"
+      "page": "samsung-galaxy-a18-128-gb-4-4g-dual-sim-1a8e79"
     },
     {
       "brand": "Jbl",
@@ -2086,7 +2048,8 @@
           "url": "https://2b.com.eg/en/anker-power-bank-20000mah-87w-builtin-usbc-cable-a1383h11-black.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "anker-powercore-20k-wired-power-bank-20000-mah-2-e18ce1"
     },
     {
       "brand": "Anker",
@@ -2114,7 +2077,7 @@
           "in_stock": true
         }
       ],
-      "page": "generic-anker-20000mah-power-bank-with-dual-built-in-89e2b6"
+      "page": "anker-usb-a-c-power-bank-20000-mah-3-0e66c3"
     },
     {
       "brand": "Samsung",
@@ -2142,7 +2105,7 @@
           "in_stock": true
         }
       ],
-      "page": "samsung-usb-c-wall-charger-25w-ep-t2510nbegww-black-7fa22f"
+      "page": "samsung-wall-charger-1-ports-type-c-45-watt-aff7d7"
     },
     {
       "brand": "Samsung",
@@ -2169,7 +2132,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/chargers-cables-convertors/jnuobi-jc-25a-charger-25w/p/689654?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-wall-charger-25-watt-5-volt-black-06bb61"
     },
     {
       "brand": "Logitech",
@@ -2197,7 +2161,7 @@
           "in_stock": true
         }
       ],
-      "page": "generic-logitech-g102-light-sync-gaming-mouse-with-customizable-b1c97e"
+      "page": "logitech-g102-wired-gaming-mouse-white-716920"
     },
     {
       "brand": "Logitech",
@@ -2225,7 +2189,7 @@
           "in_stock": false
         }
       ],
-      "page": "generic-logitech-g502-x-plus-lightspeed-wireless-rgb-gaming-dd0b4b"
+      "page": "logitech-g502-x-plus-wireless-gaming-mouse-black-910-dcda5a"
     },
     {
       "brand": "Logitech",
@@ -2253,7 +2217,7 @@
           "in_stock": false
         }
       ],
-      "page": "generic-logitech-g502-x-wired-mouse-black-c2ec08"
+      "page": "logitech-g502-x-wired-gaming-mouse-white-grey-3151ed"
     },
     {
       "brand": "",
@@ -2281,7 +2245,7 @@
           "in_stock": true
         }
       ],
-      "page": "generic-logitech-g-g502-x-lightspeed-wireless-gaming-mouse-7a4a03"
+      "page": "logitech-g502-x-wireless-gaming-mouse-ewr2-934-910-5ee5a2"
     },
     {
       "brand": "Samsung",
@@ -2312,7 +2276,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/uhd-tv/tcl-led-tv-55p6k-sm-rc-4k-frameless/p/662724?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-55-inch-smart-tv-4k-led-built-in-6e47f6"
     },
     {
       "brand": "Samsung",
@@ -2340,7 +2305,7 @@
           "in_stock": true
         }
       ],
-      "page": "samsung-55-inch-mini-led-4k-smart-tv-advanced-afda71"
+      "page": "samsung-55-inch-smart-tv-4k-mini-led-built-defd9c"
     },
     {
       "brand": "Samsung",
@@ -2368,7 +2333,7 @@
           "in_stock": true
         }
       ],
-      "page": "haier-55-inch-4k-uhd-qled-smart-tv-with-f26cdb"
+      "page": "samsung-55-inch-smart-tv-4k-uhd-neo-qled-023ce1"
     },
     {
       "brand": "LG",
@@ -2429,7 +2394,8 @@
           "url": "https://2b.com.eg/en/xiaomi-tv-32-inch-led-hd-smart-built-in-receiver-google-tv-tv-a-32.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "xiaomi-32-inch-smart-tv-hd-led-built-in-8747d2"
     },
     {
       "brand": "Xiaomi",
@@ -2456,7 +2422,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/small-smart-tvs/skyline-43-inch-full-hd-smart-frameless-led-tv-black-43sf01/p/6224008804062?offer=offer_1001322809&sid=DEFAULT&sellerId=22809",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "xiaomi-43-inch-smart-tv-fhd-led-built-in-e5fed6"
     },
     {
       "brand": "Xiaomi",
@@ -2483,7 +2450,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/digital-receiver/xiaomi-tv-box-s-3rd-gen-4k-uhd-google-tv-2gb-ram-32gb-storage-memory-dolby-vision-and-atmos-wifi-6-hdmi-2-1-fast-streaming-compact-and-powerful-tv-box-s-3rd-gen-mdz-32-aa-black/p/1827747001130?offer=offer_1031418277&sid=DEFAULT&sellerId=18277",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "xiaomi-s-3rd-gen-tv-box-4k-uhd-black-4d6251"
     },
     {
       "brand": "Tcl",
@@ -2512,7 +2480,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/qled-qned-tv/tcl-qled-tv-43s5k-sm-rc-fhd-framele/p/662723?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "tcl-43-inch-smart-tv-fhd-qled-built-in-906c45"
     },
     {
       "brand": "Tcl",
@@ -2539,7 +2508,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/uhd-tv/lg-50-inch-smart-tv-4k-uhd-led-built-in-receiver-50ua801c0lc/p/6222048413770?offer=offer_1169216985&sid=DEFAULT&sellerId=16985",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "tcl-50-inch-smart-tv-4k-uhd-qled-built-d4f70d"
     },
     {
       "brand": "Hp",
@@ -2566,7 +2536,8 @@
           "url": "https://2b.com.eg/en/hp-victus-15-fb3031ne-laptop-amd-ryzentm-7-7445hs-12gb-512gb-ssd-nvidiar-geforce-rtxtm-3050-6gb-15-6-fhd-144hz-win11-silver.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "hp-victus-15-fb3021ne-gaming-laptop-amd-ryzen-7-7e1e47"
     },
     {
       "brand": "Hp",
@@ -2594,7 +2565,7 @@
           "in_stock": true
         }
       ],
-      "page": "generic-hp-victus-15-fa2392tx-gaming-laptop-intel-core-2ed430"
+      "page": "hp-victus-15-fa2013dx-gaming-laptop-intel-core-i5-383174"
     },
     {
       "brand": "Asus",
@@ -2621,7 +2592,8 @@
           "url": "https://www.compumarts.com/products/asus-tuf-a15-fa506ncq-ryzen-7-rtx-3050-16gb-512gb-gaming-laptop",
           "in_stock": false
         }
-      ]
+      ],
+      "page": "asus-tuf-gaming-a15-fa506ncq-hn167w-laptop-amd-ryzen-422b29"
     },
     {
       "brand": "Apple",
@@ -2651,7 +2623,7 @@
           "in_stock": true
         }
       ],
-      "page": "generic-asus-tuf-gaming-16-fx610jh-tu655w-laptop-intel-8ce6b5"
+      "page": "apple-macbook-air-laptop-m4-chip-with-10-core-651c8b"
     },
     {
       "brand": "Apple",
@@ -2679,7 +2651,7 @@
           "in_stock": true
         }
       ],
-      "page": "apple-new-2026-macbook-air-mdh74-13-inch-display-7c51f6"
+      "page": "apple-macbook-air-laptop-m4-chip-with-10-core-b61f67"
     },
     {
       "brand": "Fresh",
@@ -2707,7 +2679,7 @@
           "in_stock": true
         }
       ],
-      "page": "generic-sharp-split-air-conditioner-1-5-hp-cooling-d41a43"
+      "page": "fresh-top-load-half-automatic-washing-machine-10-kg-9977df"
     },
     {
       "brand": "Fresh",
@@ -2735,7 +2707,7 @@
           "in_stock": true
         }
       ],
-      "page": "samsung-galaxy-tab-a11-plus-wifi-gray-8gb-ram-ca711c"
+      "page": "fresh-front-load-washing-machine-8-kg-black-500016432-f5f676"
     },
     {
       "brand": "Fresh",
@@ -2763,7 +2735,7 @@
           "in_stock": true
         }
       ],
-      "page": "huawei-band-11-pro-smart-1-62-inch-blue-2424e9"
+      "page": "fresh-fwt14000nd-top-load-half-automatic-washing-machine-14-9305b4"
     },
     {
       "brand": "Samsung",
@@ -2820,7 +2792,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/air-conditioners/sharp-split-air-conditioner-2-25-hp-cooling-only-powerful-jet-tropical-white-ah-a18zse/p/2283159000016?offer=offer_1003222907&sid=DEFAULT&sellerId=22907",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "sharp-split-air-conditioner-2-25-horsepower-only-cooling-e03533"
     },
     {
       "brand": "Sharp",
@@ -2847,7 +2820,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/air-conditioners/sharp-ac-fan-ah-xp24uhe/p/592849?offer=offer_1159316985&sid=DEFAULT&sellerId=16985",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "sharp-split-air-conditioner-3-horsepower-only-cooling-silver-b5fdfe"
     },
     {
       "brand": "Carrier",
@@ -2874,34 +2848,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/air-conditioners/carrier-split-air-conditioner-2-25-hp-cool-heat-white-42qhct18n-708f/p/1698542000882?offer=offer_1424416985&sid=DEFAULT&sellerId=16985",
           "in_stock": true
         }
-      ]
-    },
-    {
-      "brand": "Oppo",
-      "id": "btech-7CA195CADC6DE1910D7D",
-      "name": "Oppo Reno 15 , 256 GB , 12 GB , 5G , Dual-SIM - Twilight Blue",
-      "category": "موبايلات",
-      "search": "Oppo Reno",
-      "images": [
-        "https://media.btech.com/catalogs/a/f/3/1/af31e5358473a7ed18fec8c4230965d299b1d3a8_Screenshot_2026_01_18_101357.png",
-        "https://cdn.mafrservices.com/pim-content/EGY/media/product/1698542000439/1793105685/1698542000439_main.jpeg?im=Resize=(300,300)"
       ],
-      "offers": [
-        {
-          "store": "btech",
-          "price": 38777,
-          "old_price": 38777,
-          "url": "https://btech.com/en/s?q=Oppo+Reno",
-          "in_stock": true
-        },
-        {
-          "store": "carrefour",
-          "price": 33095,
-          "old_price": null,
-          "url": "https://www.carrefouregypt.com/mafegy/en/smartphones/oppo-mobile-reno-15-256gb-12gb-ram-5g-twilight-blue/p/1698542000439?offer=offer_1487716985&sid=DEFAULT&sellerId=16985",
-          "in_stock": true
-        }
-      ]
+      "page": "carrier-x-cool-split-air-conditioner-2-25-horsepower-37ea90"
     },
     {
       "brand": "Oppo",
@@ -2930,7 +2878,36 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/smartphones/oppo-reno16-5g-12-256-white/p/686355?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "oppo-reno-16-256-gb-12-5g-dual-sim-11890e"
+    },
+    {
+      "brand": "Oppo",
+      "id": "btech-7CA195CADC6DE1910D7D",
+      "name": "Oppo Reno 15 , 256 GB , 12 GB , 5G , Dual-SIM - Twilight Blue",
+      "category": "موبايلات",
+      "search": "Oppo Reno",
+      "images": [
+        "https://media.btech.com/catalogs/a/f/3/1/af31e5358473a7ed18fec8c4230965d299b1d3a8_Screenshot_2026_01_18_101357.png",
+        "https://cdn.mafrservices.com/pim-content/EGY/media/product/1698542000439/1793105685/1698542000439_main.jpeg?im=Resize=(300,300)"
+      ],
+      "offers": [
+        {
+          "store": "btech",
+          "price": 38777,
+          "old_price": 38777,
+          "url": "https://btech.com/en/s?q=Oppo+Reno",
+          "in_stock": true
+        },
+        {
+          "store": "carrefour",
+          "price": 33095,
+          "old_price": null,
+          "url": "https://www.carrefouregypt.com/mafegy/en/smartphones/oppo-mobile-reno-15-256gb-12gb-ram-5g-twilight-blue/p/1698542000439?offer=offer_1487716985&sid=DEFAULT&sellerId=16985",
+          "in_stock": true
+        }
+      ],
+      "page": "oppo-reno-15-256-gb-12-5g-dual-sim-6ea2b7"
     },
     {
       "brand": "Oppo",
@@ -2957,7 +2934,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/smartphones/oppo-mobile-reno-15-256gb-12gb-ram-5g-aurora-white/p/1698542000355?offer=offer_1497916985&sid=DEFAULT&sellerId=16985",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "oppo-reno-15-256-gb-12-5g-dual-sim-8d1938"
     },
     {
       "brand": "Oppo",
@@ -2984,7 +2962,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/smartphones/oppo-mobile-reno-15-512gb-12gb-ram-5g-twilight-blue/p/1698542000440?offer=offer_1505916985&sid=DEFAULT&sellerId=16985",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "oppo-reno-15-512-gb-12-5g-dual-sim-1f9be7"
     },
     {
       "brand": "Realme",
@@ -3012,7 +2991,8 @@
           "url": "https://2b.com.eg/en/realme-15-pro-5g-12gb-ram-256gb-flowing-silver.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "realme-15-pro-256-gb-12-5g-dual-sim-4146e5"
     },
     {
       "brand": "Realme",
@@ -3040,7 +3020,8 @@
           "url": "https://2b.com.eg/en/realme-15-pro-5g-12gb-ram-256gb-velvet-green.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "realme-15-pro-256-gb-12-5g-dual-sim-dc0364"
     },
     {
       "brand": "Realme",
@@ -3067,7 +3048,8 @@
           "url": "https://2b.com.eg/en/realme-16-pro-12gb-ram-256gb-grey.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "realme-16-pro-256-gb-12-5g-dual-sim-92572b"
     },
     {
       "brand": "Realme",
@@ -3094,7 +3076,8 @@
           "url": "https://2b.com.eg/en/realme-16-pro-12gb-ram-256gb-gold.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "realme-16-pro-256-gb-12-5g-dual-sim-3261bc"
     },
     {
       "brand": "",
@@ -3123,7 +3106,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/smartphones/infinix-hot70-128-6gb/p/683875?offer=offer_1203416985&sid=DEFAULT&sellerId=16985",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "infinix-hot-70-6gb-ram-128gb-dive-blue-244b7a"
     },
     {
       "brand": "",
@@ -3150,7 +3134,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/smartphones/infinix-mobile-hot-70-256gb-8gb-ram-4g-thermo-orange/p/1698542000202?offer=offer_1491616985&sid=DEFAULT&sellerId=16985",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "infinix-hot-70-8gb-ram-256gb-thermo-orange-74a2ba"
     },
     {
       "brand": "Xiaomi",
@@ -3177,7 +3162,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/tablets/xiaomi-redmi-pad-se-tablet-11-inch-256gb-8gb-ram-wi-fi-only-graphite-grey/p/6941812756447?offer=offer_1054916985&sid=DEFAULT&sellerId=16985",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "xiaomi-redmi-pad-se-tablet-256-gb-8-graphite-692aa4"
     },
     {
       "brand": "Samsung",
@@ -3205,7 +3191,8 @@
           "url": "https://www.compumarts.com/products/samsung-essential-s3-ls24d302gauxen",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-essential-monitor-s3-24-inch-fhd-flat-100-5a2e25"
     },
     {
       "brand": "Dell",
@@ -3233,7 +3220,7 @@
           "in_stock": true
         }
       ],
-      "page": "samsung-27-inch-fhd-essential-s30gd-led-100hz-monitor-d657b2"
+      "page": "dell-20-inch-hd-monitor-60-hertz-5-millisecond-a5fade"
     },
     {
       "brand": "Dell",
@@ -3288,7 +3275,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/air-fryer/philips-air-fryerna230-00-1700w/p/643386?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "philips-2000-series-air-fryer-6-2-liter-1700-f5ee61"
     },
     {
       "brand": "Philips",
@@ -3344,7 +3332,7 @@
           "in_stock": true
         }
       ],
-      "page": "sony-playstation-5-slim-console-international-version-disc-with-4f6cba"
+      "page": "huawei-band-11-smart-1-62-inch-black-a38bb8"
     },
     {
       "brand": "Huawei",
@@ -3372,7 +3360,7 @@
           "in_stock": true
         }
       ],
-      "page": "sony-playstation-5-slim-console-international-version-digital-edition-2e6046"
+      "page": "huawei-band-11-smart-1-62-inch-green-grey-58a1fd"
     },
     {
       "brand": "Huawei",
@@ -3400,46 +3388,149 @@
           "in_stock": true
         }
       ],
-      "page": "sony-playstation-5-slim-disc-console-ksa-version-with-360c9e"
+      "page": "huawei-band-11-pro-smart-1-62-inch-black-0c3f95"
     },
     {
-      "brand": "",
-      "id": "2b-sony-playstation-5-standard-slim.html",
-      "name": "Sony Playstation 5 Standard Slim  (1 year warranty)",
+      "brand": "Sony",
+      "id": "noon-N70022609V",
+      "name": "PlayStation 5 Slim Console (International Version) Disc Version With Controller - New Model 2023",
       "category": "بلايستيشن",
       "search": "PS5 Slim",
       "images": [
-        "https://2b.com.eg/media/catalog/product/cache/45bcba66b667d1ca52af48b101a5f0cb/g/m/gm511-min_1_3.jpg"
+        "https://f.nooncdn.com/p/pzsku/ZC16790565664993C16C6Z/45/_/1780467076/64f3c076-a87b-451e-8e59-6ac258f179cf.jpg"
       ],
       "offers": [
         {
-          "store": "2b",
-          "price": 48999,
-          "old_price": 68999,
-          "url": "https://2b.com.eg/en/sony-playstation-5-standard-slim.html",
+          "store": "noon",
+          "price": 45449,
+          "old_price": 49000,
+          "url": "https://www.noon.com/egypt-en/playstation-5-slim-console-international-version-disc-version-with-controller-new-model-2023/N70022609V/p/?o=fcdd1483ab51046f",
+          "in_stock": true
+        }
+      ],
+      "page": "sony-playstation-5-slim-console-international-version-disc-with-4f6cba"
+    },
+    {
+      "brand": "Sony",
+      "id": "noon-N70022612V",
+      "name": "PlayStation 5 Slim Console (International Version) Digital Edition With Controller",
+      "category": "بلايستيشن",
+      "search": "PS5 Slim",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZBD978A7CA7F6ADCFD83DZ/45/_/1784203569/cc82c090-636a-4d34-a7b7-b21352110432.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 43560,
+          "old_price": 43560,
+          "url": "https://www.noon.com/egypt-en/playstation-5-slim-console-international-version-digital-edition-with-controller/N70022612V/p/?o=ed03bd0600ae447e",
+          "in_stock": true
+        }
+      ],
+      "page": "sony-playstation-5-slim-console-international-version-digital-edition-2e6046"
+    },
+    {
+      "brand": "Sony",
+      "id": "noon-N70449966V",
+      "name": "PlayStation 5 Slim Disc Console KSA Version with Extra Controller and EA FC 27 Game",
+      "category": "بلايستيشن",
+      "search": "PS5 Slim",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z4DF2FB4FD579B8A22573Z/45/_/1790236986/c9042d22-843d-4564-95ab-f73b5f45d2f9.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 53460,
+          "old_price": 53460,
+          "url": "https://www.noon.com/egypt-en/playstation-5-slim-disc-console-ksa-version-with-extra-controller-and-ea-fc-27-game/N70449966V/p/?o=b04d5c30718f94fd",
+          "in_stock": true
+        }
+      ],
+      "page": "sony-playstation-5-slim-disc-console-ksa-version-with-360c9e"
+    },
+    {
+      "brand": "Sony",
+      "id": "noon-N70022611V",
+      "name": "PlayStation 5 Disc Version Slim Console With Controller (UAE Version)",
+      "category": "بلايستيشن",
+      "search": "PS5 Slim",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZD18189D7AC45F5C2EE54Z/45/_/1780466819/7b46575e-f66a-4147-bcd7-0dc9bf21df1a.jpg",
+        "https://f.nooncdn.com/p/pzsku/ZC0A80D5C52171CCFF2BAZ/45/_/1780466878/f8e52b19-b1fe-4bdb-862c-f79642cb6ec5.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 45540,
+          "old_price": 45540,
+          "url": "https://www.noon.com/egypt-en/playstation-5-disc-version-slim-console-with-controller-uae-version/N70022611V/p/?o=d0f3f24bfe093a9e",
           "in_stock": true
         }
       ],
       "page": "sony-playstation-5-disc-version-slim-console-with-controller-500224"
     },
     {
-      "brand": "",
-      "id": "amazon-B0DQTKFWC3",
-      "name": "KIWIHOME Fan for PS5 Pro, Quiet, with Auto-Speed Control, USB 3.0",
+      "brand": "Sony",
+      "id": "noon-N70027875V",
+      "name": "PlayStation 5 Slim Console Disc Version With Extra Black Controller",
       "category": "بلايستيشن",
-      "search": "PS5 Pro",
+      "search": "PS5 Slim",
       "images": [
-        "https://m.media-amazon.com/images/I/71bn1e07vVL._AC_UL320_.jpg"
+        "https://f.nooncdn.com/p/pzsku/ZEF22C6CE868071E22FA1Z/45/_/1780466826/02ea9415-6ed8-4ea7-9892-1fd4c81d15af.jpg",
+        "https://f.nooncdn.com/p/pzsku/Z72A54E2675887C13CB40Z/45/_/1780466875/dae104cc-5dfb-4a4a-99a1-9bcce46afae4.jpg"
       ],
       "offers": [
         {
-          "store": "amazon",
-          "price": 650,
-          "old_price": 217,
-          "url": "https://www.amazon.eg/dp/B0DQTKFWC3",
+          "store": "noon",
+          "price": 49500,
+          "old_price": 49500,
+          "url": "https://www.noon.com/egypt-en/playstation-5-slim-console-disc-version-with-extra-black-controller/N70027875V/p/?o=ba95d3a87d4ac87f",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "sony-playstation-5-slim-console-disc-version-with-extra-7486c1"
+    },
+    {
+      "brand": "Sony",
+      "id": "noon-N70030460V",
+      "name": "PlayStation 5 Slim Disc (2023) - International Version",
+      "category": "بلايستيشن",
+      "search": "PS5 Slim",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z775AE7E36EAA0FF85F48Z/45/_/1780466909/87615940-d004-481e-a04e-e1b29a86fa1f.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 45396,
+          "old_price": 45396,
+          "url": "https://www.noon.com/egypt-en/playstation-5-slim-disc-2023-international-version/N70030460V/p/?o=ef6982b92e7d1a3e",
+          "in_stock": true
+        }
+      ],
+      "page": "sony-playstation-5-slim-disc-2023-international-version-05727d"
+    },
+    {
+      "brand": "",
+      "id": "2b-lenovo-legion-h500-pro-gaming-headset-ps4-ps-5-pc-mac-mobile-nintendo-switch-xbo",
+      "name": "Lenovo Legion H500 Pro Gaming Headset PS4 - PS 5 - PC - Mac - Mobile - Nintendo Switch - Xbox - GXD0T69864 - Iron Gray",
+      "category": "بلايستيشن",
+      "search": "PS5 Pro",
+      "images": [
+        "https://2b.com.eg/media/catalog/product/cache/45bcba66b667d1ca52af48b101a5f0cb/h/p/hpb45.jpg"
+      ],
+      "offers": [
+        {
+          "store": "2b",
+          "price": 5999,
+          "old_price": 7979,
+          "url": "https://2b.com.eg/en/lenovo-legion-h500-pro-gaming-headset-ps4-ps-5-pc-mac-mobile-nintendo-switch-xbox-gxd0t69864-iron-gray.html",
+          "in_stock": true
+        }
+      ],
+      "page": "lenovo-legion-h500-pro-gaming-headset-ps4-ps-5-cb67b6"
     },
     {
       "brand": "SOMIC",
@@ -3458,7 +3549,8 @@
           "url": "https://www.compumarts.com/products/somic-gs401pro-wireless-gaming-headset-with-microphone-bluetooth-5-2-wireless-headphone-low-latency-with-45hrs-battery-stereo-sound-for-pc-ps4-ps5-switch-smartphone-for-xbox-only-work-in-wired",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "somic-gs401pro-wireless-gaming-headset-with-microphone-bluetooth-5-0fb922"
     },
     {
       "brand": "Generic",
@@ -3477,7 +3569,8 @@
           "url": "https://btech.com/en/s?q=DualSense+controller",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "generic-dualsense-wireless-controller-cosmic-red-713803"
     },
     {
       "brand": "",
@@ -3497,7 +3590,7 @@
           "in_stock": true
         }
       ],
-      "page": "sony-playstation-5-pro-international-version-console-with-controller-b701c2"
+      "page": "sony-dualsense-wireless-controller-for-playstation-5-silver-b9eae7"
     },
     {
       "brand": "",
@@ -3639,7 +3732,7 @@
           "in_stock": true
         }
       ],
-      "page": "sony-playstation-5-disc-slim-console-with-extra-white-1feee2"
+      "page": "fc-26-standard-edition-ps5-uae-version-playstation-5-d333f2"
     },
     {
       "brand": "Apple",
@@ -3658,7 +3751,8 @@
           "url": "https://btech.com/en/s?q=iPhone+17+Pro+Max",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "apple-iphone-17-pro-max-256-gb-12-5g-c3dc99"
     },
     {
       "brand": "Apple",
@@ -3677,7 +3771,8 @@
           "url": "https://btech.com/en/s?q=iPhone+17+Pro+Max",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "apple-iphone-17-pro-max-512-gb-12-5g-d3a68e"
     },
     {
       "brand": "Apple",
@@ -3696,7 +3791,8 @@
           "url": "https://btech.com/en/s?q=iPhone+17+Pro+Max",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "apple-iphone-17-pro-max-1-terabyte-12-gb-af7b2c"
     },
     {
       "brand": "Apple",
@@ -3715,7 +3811,8 @@
           "url": "https://btech.com/en/s?q=iPhone+17+Pro+Max",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "apple-iphone-17-pro-max-2-terabyte-12-gb-525159"
     },
     {
       "brand": "Apple",
@@ -3734,7 +3831,8 @@
           "url": "https://www.compumarts.com/products/apple-iphone-15-pro-max-5g",
           "in_stock": false
         }
-      ]
+      ],
+      "page": "apple-iphone-15-pro-max-5g-5df3f7"
     },
     {
       "brand": "Apple",
@@ -3755,7 +3853,8 @@
           "url": "https://btech.com/en/s?q=iPhone+17",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "apple-iphone-17-256-gb-8-5g-dual-sim-201dea"
     },
     {
       "brand": "Apple",
@@ -3774,7 +3873,8 @@
           "url": "https://btech.com/en/s?q=iPhone+17",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "apple-iphone-17-256-gb-8-5g-dual-sim-73c458"
     },
     {
       "brand": "Apple",
@@ -3793,7 +3893,8 @@
           "url": "https://btech.com/en/s?q=iPhone+17",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "apple-iphone-17-256-gb-8-5g-dual-sim-57c026"
     },
     {
       "brand": "Apple",
@@ -3813,7 +3914,7 @@
           "in_stock": true
         }
       ],
-      "page": "apple-iphone-17e-256gb-black-5g-nano-sim-esim-7fb0f6"
+      "page": "apple-iphone-17-pro-512-gb-12-5g-dual-962765"
     },
     {
       "brand": "Apple",
@@ -3822,7 +3923,9 @@
       "category": "موبايلات",
       "search": "iPhone 16",
       "images": [
-        "https://media.btech.com/catalogs/3/c/6/c/3c6c624fcec4f66930cf561b080be0fb30fcebb3_iPhone_16_Ultramarine_PDP_Image_Position_1__en_ME.jpg"
+        "https://media.btech.com/catalogs/3/c/6/c/3c6c624fcec4f66930cf561b080be0fb30fcebb3_iPhone_16_Ultramarine_PDP_Image_Position_1__en_ME.jpg",
+        "https://media.btech.com/catalogs/1/e/2/e/1e2e61f26979e66e4e3f528f07801ee8a1b38943_iPhone_16_Black_PDP_Image_Position_1__en_ME.jpg",
+        "https://media.btech.com/catalogs/c/9/5/4/c9549288da55269dbeb50c9e44f5de208b20e477_iPhone_16_Teal_PDP_Image_Position_1__en_ME.jpg"
       ],
       "offers": [
         {
@@ -3834,25 +3937,6 @@
         }
       ],
       "page": "apple-iphone-16-256-gb-8-5g-single-sim-94ce48"
-    },
-    {
-      "brand": "Apple",
-      "id": "btech-6D4CAF54A9C91A717774",
-      "name": "Apple iPhone 16 , 128 GB , 8 GB , 5G , Single SIM - Pink",
-      "category": "موبايلات",
-      "search": "iPhone 16",
-      "images": [
-        "https://media.btech.com/catalogs/4/2/f/4/42f4c5e1cf1105b9f105c737c6eb35ff85191946_iPhone_16_Pink_PDP_Image_Position_1__en_ME.jpg"
-      ],
-      "offers": [
-        {
-          "store": "btech",
-          "price": 71730,
-          "old_price": 71730,
-          "url": "https://btech.com/en/p/apple-iphone-16-128gb-5g-pink",
-          "in_stock": true
-        }
-      ]
     },
     {
       "brand": "",
@@ -3933,7 +4017,7 @@
           "in_stock": true
         }
       ],
-      "page": "samsung-galaxy-a35-128-gb-8-5g-dual-sim-116124"
+      "page": "samsung-galaxy-s25-ultra-512-gb-12-5g-dual-0c6612"
     },
     {
       "brand": "Samsung",
@@ -3952,7 +4036,8 @@
           "url": "https://btech.com/en/s?q=Samsung+Galaxy+S25+Ultra",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-galaxy-s25-ultra-512-gb-12-5g-dual-35b4fc"
     },
     {
       "brand": "Samsung",
@@ -3971,26 +4056,8 @@
           "url": "https://btech.com/en/p/samsung-galaxy-s25-ultra-256gb-12gb-5g-dual-sim-titanium-black1",
           "in_stock": true
         }
-      ]
-    },
-    {
-      "brand": "Samsung",
-      "id": "btech-1BSAOMSMGALS25U1L008",
-      "name": "Samsung Galaxy S25 Ultra , 512 GB , 12 GB , 5G , Dual-SIM - Titanium White Silver",
-      "category": "موبايلات",
-      "search": "Samsung Galaxy S25 Ultra",
-      "images": [
-        "https://media.btech.com/catalogs/8/8/f/2/88f2c9967d15f018a4d64d69b3f557f21651288e_imgi_2_2b380280e667b051c0d8e34329ae6bbe5e614e88153a26d18347186c5721a416_1.jpg"
       ],
-      "offers": [
-        {
-          "store": "btech",
-          "price": 68360,
-          "old_price": 68360,
-          "url": "https://btech.com/en/s?q=Samsung+Galaxy+S25+Ultra",
-          "in_stock": true
-        }
-      ]
+      "page": "samsung-galaxy-s25-ultra-256-gb-12-5g-dual-73eb79"
     },
     {
       "brand": "Samsung",
@@ -4009,7 +4076,28 @@
           "url": "https://btech.com/en/p/samsung-galaxy-s25-ultra-512gb-12gb-4g-dual-sim-blue",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-galaxy-s25-ultra-512-gb-12-4g-lte-2134ef"
+    },
+    {
+      "brand": "Samsung",
+      "id": "btech-1BSAOMSMGALS25U1L008",
+      "name": "Samsung Galaxy S25 Ultra , 512 GB , 12 GB , 5G , Dual-SIM - Titanium White Silver",
+      "category": "موبايلات",
+      "search": "Samsung Galaxy S25 Ultra",
+      "images": [
+        "https://media.btech.com/catalogs/8/8/f/2/88f2c9967d15f018a4d64d69b3f557f21651288e_imgi_2_2b380280e667b051c0d8e34329ae6bbe5e614e88153a26d18347186c5721a416_1.jpg"
+      ],
+      "offers": [
+        {
+          "store": "btech",
+          "price": 68360,
+          "old_price": 68360,
+          "url": "https://btech.com/en/s?q=Samsung+Galaxy+S25+Ultra",
+          "in_stock": true
+        }
+      ],
+      "page": "samsung-galaxy-s25-ultra-512-gb-12-5g-dual-9e754d"
     },
     {
       "brand": "Samsung",
@@ -4028,7 +4116,8 @@
           "url": "https://btech.com/en/p/samsung-galaxy-s25-ultra-256gb-12gb-ram-5g-dual-sim-titanium-silverblue",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-galaxy-s25-ultra-256-gb-12-5g-dual-22a081"
     },
     {
       "brand": "Samsung",
@@ -4048,7 +4137,7 @@
           "in_stock": true
         }
       ],
-      "page": "samsung-galaxy-a34-256-gb-8-5g-dual-sim-db847c"
+      "page": "samsung-galaxy-s25-ultra-512-gb-12-5g-dual-dee9ae"
     },
     {
       "brand": "",
@@ -4069,7 +4158,7 @@
           "in_stock": true
         }
       ],
-      "page": "samsung-galaxy-a37-6-7-inch-256gb-8gb-dual-40bd94"
+      "page": "samsung-galaxy-s25-ultra-12gb-ram-1tb-silver-blue-1160a3"
     },
     {
       "brand": "",
@@ -4089,7 +4178,7 @@
           "in_stock": true
         }
       ],
-      "page": "samsung-galaxy-s26-fe-6-7-inch-256gb-8gb-0be516"
+      "page": "samsung-mobile-galaxy-s26-ultra-256gb-12gb-ram-5g-7a104b"
     },
     {
       "brand": "",
@@ -4129,7 +4218,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-s26-ultra5g12gb-256gb-blue/p/677912?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-galaxy-s26-ultra-6-9-inch-256gb-12gb-44e71f"
     },
     {
       "brand": "Samsung",
@@ -4148,7 +4238,8 @@
           "url": "https://btech.com/en/s?q=Samsung+Galaxy+A56",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-galaxy-a56-256-gb-12-5g-dual-sim-83bb5b"
     },
     {
       "brand": "Samsung",
@@ -4167,7 +4258,8 @@
           "url": "https://btech.com/en/s?q=Samsung+Galaxy+A56",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-galaxy-a56-128-gb-8-5g-dual-sim-26d454"
     },
     {
       "brand": "Samsung",
@@ -4186,7 +4278,8 @@
           "url": "https://btech.com/en/s?q=Samsung+Galaxy+A56",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-galaxy-a56-256-gb-12-5g-dual-sim-394520"
     },
     {
       "brand": "",
@@ -4205,7 +4298,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-mobile-galaxy-a57-512gb-12gb-ram-5g-awesome-navy/p/1698542000395?offer=offer_1497616985&sid=DEFAULT&sellerId=16985",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-mobile-galaxy-a57-512gb-12gb-ram-5g-awesome-1972cc"
     },
     {
       "brand": "",
@@ -4224,7 +4318,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-s26-fe-5g-8gb-256g-graphite/p/689671?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-galaxy-s26-fe-6-7-inch-256gb-8gb-0be516"
     },
     {
       "brand": "Samsung",
@@ -4245,7 +4340,8 @@
           "url": "https://btech.com/en/p/samsung-galaxy-a36-256gb-8gb-ram-4g-dual-sim-awesome-lemon",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-galaxy-a36-256-gb-8-5g-dual-sim-891f18"
     },
     {
       "brand": "Samsung",
@@ -4264,7 +4360,8 @@
           "url": "https://btech.com/en/s?q=Samsung+Galaxy+A36",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-galaxy-a36-256-gb-8-5g-dual-sim-26fb83"
     },
     {
       "brand": "Samsung",
@@ -4283,7 +4380,8 @@
           "url": "https://btech.com/en/s?q=Samsung+Galaxy+A36",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-galaxy-a16-128-gb-4-4g-lte-dual-c35f1e"
     },
     {
       "brand": "",
@@ -4303,7 +4401,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-mobile-galaxy-a37-256gb-12gb-ram-5g-awesome-white/p/1698542000185?offer=offer_1492216985&sid=DEFAULT&sellerId=16985",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-mobile-galaxy-a37-256gb-12gb-ram-5g-awesome-bf05d2"
     },
     {
       "brand": "Xiaomi",
@@ -4322,7 +4421,8 @@
           "url": "https://btech.com/en/p/xiaomi-redmi-note-14-pro-256gb-8gb-4g-lte-dual-sim-purple",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "xiaomi-redmi-note-14-pro-256-gb-8-4g-16b9c0"
     },
     {
       "brand": "",
@@ -4341,7 +4441,8 @@
           "url": "https://2b.com.eg/en/xiaomi-redmi-note-14-pro-plus-12gb-ram-512gb-black.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "xiaomi-redmi-note-14-pro-plus-12gb-ram-512gb-a6e982"
     },
     {
       "brand": "",
@@ -4360,7 +4461,8 @@
           "url": "https://2b.com.eg/en/xiaomi-redmi-note-14-pro-plus-12gb-ram-256gb-purple.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "xiaomi-redmi-note-14-pro-plus-12gb-ram-256gb-e90fa3"
     },
     {
       "brand": "",
@@ -4379,7 +4481,8 @@
           "url": "https://2b.com.eg/en/xiaomi-redmi-note-14-pro-plus-12gb-ram-256gb-black.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "xiaomi-redmi-note-14-pro-plus-12gb-ram-256gb-a8771f"
     },
     {
       "brand": "",
@@ -4398,7 +4501,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/smartphones/xiaomi-mobile-redmi-note-15-512gb-12gb-ram-5g-mist-purple/p/1698542000351?offer=offer_1494316985&sid=DEFAULT&sellerId=16985",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "xiaomi-mobile-redmi-note-15-512gb-12gb-ram-5g-735ccb"
     },
     {
       "brand": "",
@@ -4417,7 +4521,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/smartphones/xiaomi-mobile-redmi-note-15-512gb-12gb-ram-5g-glacier-blue/p/1698542000189?offer=offer_1513716985&sid=DEFAULT&sellerId=16985",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "xiaomi-mobile-redmi-note-15-512gb-12gb-ram-5g-6e8f41"
     },
     {
       "brand": "",
@@ -4436,7 +4541,28 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/smartphones/xiaomi-mobile-redmi-a7-pro-128gb-4gb-ram-4g-black/p/1698542000313?offer=offer_1500816985&sid=DEFAULT&sellerId=16985",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "xiaomi-mobile-redmi-a7-pro-128gb-4gb-ram-4g-561388"
+    },
+    {
+      "brand": "",
+      "id": "carrefour-1698542000411",
+      "name": "XIAOMI Mobile Redmi A7 Pro, 128GB, 4GB RAM, 4G, Mist Blue",
+      "category": "موبايلات",
+      "search": "Xiaomi Redmi Note 14 Pro",
+      "images": [
+        "https://cdn.mafrservices.com/pim-content/EGY/media/product/1698542000411/1793105696/1698542000411_main.jpeg?im=Resize=(300,300)"
+      ],
+      "offers": [
+        {
+          "store": "carrefour",
+          "price": 10164,
+          "old_price": null,
+          "url": "https://www.carrefouregypt.com/mafegy/en/smartphones/xiaomi-mobile-redmi-a7-pro-128gb-4gb-ram-4g-mist-blue/p/1698542000411?offer=offer_1519216985&sid=DEFAULT&sellerId=16985",
+          "in_stock": true
+        }
+      ],
+      "page": "xiaomi-mobile-redmi-a7-pro-128gb-4gb-ram-4g-81813f"
     },
     {
       "brand": "Apple",
@@ -4456,7 +4582,7 @@
           "in_stock": true
         }
       ],
-      "page": "samsung-galaxy-a57-6-7-inch-256gb-12gb-dual-d74bdb"
+      "page": "apple-airpods-pro-2nd-generation-white-5b5c1c"
     },
     {
       "brand": "Generic",
@@ -4476,7 +4602,27 @@
           "in_stock": true
         }
       ],
-      "page": "generic-pro-air-pods-generation-usa-white-6caf1e"
+      "page": "generic-airpods-pro-3-earbuds-with-active-noise-cancellation-d13f31"
+    },
+    {
+      "brand": "Logitech",
+      "id": "btech-1E5D57D1F9978561AC46",
+      "name": "Logitech PRO X 2 LightSpeed Wireless Gaming Headphones , Black",
+      "category": "سماعات",
+      "search": "AirPods Pro 2",
+      "images": [
+        "https://media.btech.com/catalogs/f/4/5/9/f45908ba418aae2f1e10612a0cc320d152dd2b3d_imgi_78_gallery_1_pro_x_2_lightspeed_gaming_headset_black.jpg"
+      ],
+      "offers": [
+        {
+          "store": "btech",
+          "price": 14400,
+          "old_price": 14400,
+          "url": "https://btech.com/en/p/1cc44813-a1be-4e38-a591-5d342c5e5850",
+          "in_stock": true
+        }
+      ],
+      "page": "logitech-pro-x-2-lightspeed-wireless-gaming-headphones-black-bd422a"
     },
     {
       "brand": "Purity",
@@ -4496,26 +4642,7 @@
           "in_stock": true
         }
       ],
-      "page": "generic-wireless-earphones-pro-2-type-c-anc-black-222950"
-    },
-    {
-      "brand": "Logitech",
-      "id": "btech-1E5D57D1F9978561AC46",
-      "name": "Logitech PRO X 2 LightSpeed Wireless Gaming Headphones , Black",
-      "category": "سماعات",
-      "search": "AirPods Pro 2",
-      "images": [
-        "https://media.btech.com/catalogs/f/4/5/9/f45908ba418aae2f1e10612a0cc320d152dd2b3d_imgi_78_gallery_1_pro_x_2_lightspeed_gaming_headset_black.jpg"
-      ],
-      "offers": [
-        {
-          "store": "btech",
-          "price": 14400,
-          "old_price": 14400,
-          "url": "https://btech.com/en/p/1cc44813-a1be-4e38-a591-5d342c5e5850",
-          "in_stock": true
-        }
-      ]
+      "page": "purity-electricity-built-in-hob-30-centimeter-2-burners-b5e977"
     },
     {
       "brand": "",
@@ -4534,7 +4661,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/wireless-earbuds/generic-pro-air-pods-compatible-with-android-iphone-white/p/2251257000097?offer=offer_1010322512&sid=DEFAULT&sellerId=22512",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "generic-pro-air-pods-compatible-with-android-iphone-white-61d749"
     },
     {
       "brand": "",
@@ -4553,7 +4681,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/wireless-earbuds/samsung-galaxy-buds-4-pro-2026-ai-true-wireless-bluetooth-earbuds-hi-res-audio-2-way-speaker-anc-2-0-optimized-comfort-ip57-live-translation-black/p/2251257000076?offer=offer_1008322512&sid=DEFAULT&sellerId=22512",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-galaxy-buds-4-pro-2026-ai-true-wireless-ec2257"
     },
     {
       "brand": "",
@@ -4572,7 +4701,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/wireless-earbuds/cmf-by-nothing-buds-pro-2-bluetooth-earbuds-chatgpt-integrated-tws-with-clear-voice-technology-2-0-50-db-smart-anc-up-to-11-hrs-battery-spatial-audio-effect-ip55-dark-grey-middle-east-version/p/2251257000027?offer=offer_1003922512&sid=DEFAULT&sellerId=22512",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "cmf-by-nothing-buds-pro-2-bluetooth-earbuds-chatgpt-c9da93"
     },
     {
       "brand": "ANKER",
@@ -4591,7 +4721,8 @@
           "url": "https://www.compumarts.com/products/anker-liberty-air-2-pro-earphone-wireless-a3951051-pink",
           "in_stock": false
         }
-      ]
+      ],
+      "page": "anker-liberty-air-2-pro-earphone-wireless-a3951051-pink-4f112d"
     },
     {
       "brand": "SAMSUNG",
@@ -4610,7 +4741,8 @@
           "url": "https://www.compumarts.com/products/samsung-galaxy-buds-pro-2-2022-sm-r510-gray",
           "in_stock": false
         }
-      ]
+      ],
+      "page": "samsung-galaxy-buds-pro-2-2022-sm-r510-gray-a29c82"
     },
     {
       "brand": "Logitech",
@@ -4629,7 +4761,8 @@
           "url": "https://www.compumarts.com/products/logitech-pro-2-lightspeed-wireless-gaming-mouse-black-2-4ghz-hero-2-44000-dpi-egypt",
           "in_stock": false
         }
-      ]
+      ],
+      "page": "logitech-pro-2-lightspeed-wireless-gaming-mouse-black-4ghz-e3ba6c"
     },
     {
       "brand": "Apple",
@@ -4689,7 +4822,7 @@
           "in_stock": true
         }
       ],
-      "page": "generic-eartips-for-galaxy-buds3-pro-memory-foam-replacement-e69852"
+      "page": "samsung-galaxy-buds3-fe-earbuds-active-noise-cancellation-gray-23de65"
     },
     {
       "brand": "Samsung",
@@ -4708,7 +4841,8 @@
           "url": "https://btech.com/en/p/9f5f09df-0023-475c-885f-614d329ec9d7",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-galaxy-buds3-fe-earbuds-active-noise-cancellation-black-2ba7dd"
     },
     {
       "brand": "Samsung",
@@ -4727,7 +4861,8 @@
           "url": "https://btech.com/en/p/samsung-galaxy-buds-3-pro-adaptive-noise-control-white",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-galaxy-buds-3-pro-earbuds-white-sm-r630-6f80eb"
     },
     {
       "brand": "Samsung",
@@ -4746,7 +4881,8 @@
           "url": "https://btech.com/en/s?q=Samsung+Galaxy+Buds3",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-galaxy-a18-128-gb-6-4g-dual-sim-dac499"
     },
     {
       "brand": "Samsung",
@@ -4765,7 +4901,8 @@
           "url": "https://btech.com/en/s?q=Samsung+Galaxy+Buds3",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-galaxy-a18-128-gb-6-4g-dual-sim-06695c"
     },
     {
       "brand": "Samsung",
@@ -4784,7 +4921,8 @@
           "url": "https://btech.com/en/s?q=Samsung+Galaxy+Buds3",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-galaxy-a27-128-gb-8-5g-dual-sim-ba89c7"
     },
     {
       "brand": "",
@@ -4803,7 +4941,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/smart-watches-wearables/samsung-galaxy-buds4-pro-black/p/689674?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-galaxy-buds4-pro-earbuds-black-7ea3f4"
     },
     {
       "brand": "",
@@ -4822,7 +4961,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/smart-watches-wearables/samsung-galaxy-buds4-pro-white/p/689675?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-galaxy-buds4-pro-earbuds-white-5c07b0"
     },
     {
       "brand": "",
@@ -4843,7 +4983,7 @@
           "in_stock": true
         }
       ],
-      "page": "miruchertter-earbuds-for-galaxy-buds3-pro-memory-foam-replacement-46e779"
+      "page": "samsung-galaxy-smarttag2-pack-of-4-2-black-white-7312ea"
     },
     {
       "brand": "Jbl",
@@ -4983,7 +5123,7 @@
           "in_stock": true
         }
       ],
-      "page": "anker-20000-mah-zolo-power-bank-20-000mah-22-d95e19"
+      "page": "anker-prime-wired-power-bank-20000-mah-3-ports-e6db70"
     },
     {
       "brand": "Anker",
@@ -5003,7 +5143,7 @@
           "in_stock": true
         }
       ],
-      "page": "anker-10000-mah-zolo-power-bank-10-000mah-22-44229a"
+      "page": "anker-zolo-wired-power-bank-black-a110e-bd1d2a"
     },
     {
       "brand": "Anker",
@@ -5023,7 +5163,7 @@
           "in_stock": true
         }
       ],
-      "page": "anker-5000-mah-nano-power-bank-ultra-slim-5-a40302"
+      "page": "anker-wired-power-bank-20000-mah-2-ports-galaxy-c2a391"
     },
     {
       "brand": "Anker",
@@ -5043,7 +5183,7 @@
           "in_stock": true
         }
       ],
-      "page": "anker-10000-mah-maggo-power-bank-ultra-slim-10-09d585"
+      "page": "anker-nano-wired-power-bank-10000-mah-2-ports-8c3b6f"
     },
     {
       "brand": "Anker",
@@ -5063,7 +5203,7 @@
           "in_stock": true
         }
       ],
-      "page": "anker-25000-mah-power-bank-25-000mah-165w-ultra-b749d0"
+      "page": "anker-maggo-622-magnetic-wireless-power-bank-5000-mah-9e237f"
     },
     {
       "brand": "",
@@ -5082,7 +5222,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/power-banks/anker-power-bank-powercore-10000mah-22-5w-portable-charger-with-usb-c-lanyard-cable/p/1827747000496?offer=offer_1025522512&sid=DEFAULT&sellerId=22512",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "anker-power-bank-powercore-10000mah-22-5w-portable-charger-1b3e56"
     },
     {
       "brand": "",
@@ -5101,7 +5242,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/power-banks/zolo-power-bank-20-000mah-22-5w-max-portable-charger-usb-c-in-and-out-fast-charging-battery-pack-slim-travel-essential-phone-power-bank-for-iphone-17-16-15-series-galaxy-white/p/2251257000186?offer=offer_1018422512&sid=DEFAULT&sellerId=22512",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "zolo-power-bank-20-000mah-22-5w-max-portable-017477"
     },
     {
       "brand": "",
@@ -5120,7 +5262,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/power-banks/anker-power-bank-10k-mah-mp816/p/685263?offer=offer_1025822512&sid=DEFAULT&sellerId=22512",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "anker-zolo-digital-wired-power-bank-with-built-in-d3a6ee"
     },
     {
       "brand": "Baseus",
@@ -5140,7 +5283,7 @@
           "in_stock": true
         }
       ],
-      "page": "anker-10000-mah-nano-power-bank-10-000mah-portable-7aed17"
+      "page": "baseus-20000mah-power-bank-20w-p10022804113-00-2b0ad0"
     },
     {
       "brand": "Samsung",
@@ -5160,7 +5303,7 @@
           "in_stock": true
         }
       ],
-      "page": "samsung-25w-pd-usb-c-super-fast-charger-black-54247c"
+      "page": "samsung-wall-charger-1-ports-type-c-25-watt-21065a"
     },
     {
       "brand": "Samsung",
@@ -5182,7 +5325,7 @@
           "in_stock": true
         }
       ],
-      "page": "generic-samsung-magnet-wireless-charger-qi2-25w-dark-gray-c94bc6"
+      "page": "samsung-wall-charger-type-c-45-watt-black-ep-843ad5"
     },
     {
       "brand": "Samsung",
@@ -5202,7 +5345,7 @@
           "in_stock": true
         }
       ],
-      "page": "generic-logitech-g502-x-plus-lightspeed-wireless-rgb-gaming-5f374d"
+      "page": "samsung-wall-charger-type-c-15-watt-black-a91eb8"
     },
     {
       "brand": "Samsung",
@@ -5222,7 +5365,7 @@
           "in_stock": true
         }
       ],
-      "page": "samsung-43-full-hd-smart-led-tv-hdr-purcolor-832f82"
+      "page": "samsung-wall-charger-multi-ports-35-watt-black-7cfd8f"
     },
     {
       "brand": "",
@@ -5242,7 +5385,7 @@
           "in_stock": true
         }
       ],
-      "page": "samsung-55-inch-crystal-uhd-smart-tv-u8000h-with-87243c"
+      "page": "samsung-wall-charger-type-c-45w-black-e5b8bd"
     },
     {
       "brand": "",
@@ -5262,7 +5405,7 @@
           "in_stock": true
         }
       ],
-      "page": "lg-55-nano-4k-uhd-ai-smart-tv-2026-aee3b9"
+      "page": "anker-nano-45w-type-c-charger-fast-charging-compact-164959"
     },
     {
       "brand": "",
@@ -5282,7 +5425,7 @@
           "in_stock": true
         }
       ],
-      "page": "hisense-55-inch-4k-uhd-vidaa-smart-tv-dolby-30fb80"
+      "page": "samsung-55-inch-4k-crystal-uhd-smart-tv-55u8000f-180c6c"
     },
     {
       "brand": "",
@@ -5450,7 +5593,7 @@
           "in_stock": true
         }
       ],
-      "page": "generic-tcl-television-43-inch-smart-tv-qled-hdr-56ecec"
+      "page": "tcl-65-inch-qled-ultra-hd-4k-smart-tv-66738a"
     },
     {
       "brand": "",
@@ -5470,7 +5613,7 @@
           "in_stock": true
         }
       ],
-      "page": "generic-remote-control-compatible-with-tcl-4k-smart-tvs-b0c0bd"
+      "page": "tcl-55-inch-qled-ultra-hd-4k-smart-tv-fc0adc"
     },
     {
       "brand": "Lenovo",
@@ -5491,7 +5634,7 @@
           "in_stock": true
         }
       ],
-      "page": "lenovo-ideapad-5-laptop-with-14-inch-wuxga-intel-cb3f7e"
+      "page": "lenovo-ideapad-slim-3i-15iwc11-laptop-intel-core-3-e8dbf3"
     },
     {
       "brand": "Lenovo",
@@ -5511,7 +5654,7 @@
           "in_stock": true
         }
       ],
-      "page": "lenovo-ideapad-5-laptop-with-14-inch-wuxga-intel-4aedcc"
+      "page": "lenovo-ideapad-slim-3-15iph11-laptop-intel-core-ultra-d6d363"
     },
     {
       "brand": "Lenovo",
@@ -5531,7 +5674,7 @@
           "in_stock": true
         }
       ],
-      "page": "generic-hp-victus-15-fa2013dx-laptop-with-6-inch-48725a"
+      "page": "lenovo-ideapad-slim-5-14iph11-laptop-intel-core-ultra-4aaf5c"
     },
     {
       "brand": "",
@@ -5551,7 +5694,7 @@
           "in_stock": true
         }
       ],
-      "page": "generic-hp-victus-15-fa2025nia-gaming-laptop-intel-core-5859e7"
+      "page": "lenovo-ideapad-slim-3-15irh10-laptop-intel-core-i5-323941"
     },
     {
       "brand": "",
@@ -5570,7 +5713,8 @@
           "url": "https://2b.com.eg/en/lenovo-ideapad-slim-3-14iwc11-laptop-intelr-coretm-5-315-8gb-512gb-ssd-intelr-graphics-14-wuxga-win11-luna-grey.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "lenovo-ideapad-slim-3-14iwc11-laptop-intel-core-5-79a4ee"
     },
     {
       "brand": "",
@@ -5589,7 +5733,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/notebooks-computers/lenovo-ip3-slim-82xq01b5ax/p/689900?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "lenovo-ideapad-slim-3-laptop-amd-athlon-silver-10-eb10ad"
     },
     {
       "brand": "",
@@ -5608,7 +5753,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/notebooks-computers/lenovo-21us002xed-core-5-210h16-512/p/689001?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "lenovo-thinkbook-laptop-intel-core-5-512gb-ssd-16gb-4f3dc6"
     },
     {
       "brand": "",
@@ -5627,7 +5773,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/notebooks-computers/lenovo21sk002ped-u5-225u-16-512-gb/p/689002?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "lenovo-thinkbook-laptop-intel-core-ultra-5-512gb-ssd-c73212"
     },
     {
       "brand": "",
@@ -5646,7 +5793,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/notebooks-computers/lenovo-21us003med-core-7-240h16-512/p/689003?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "lenovo-thinkbook-16-gen-9-laptop-intel-core-7-b1a851"
     },
     {
       "brand": "",
@@ -5665,7 +5813,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/notebooks-computers/lenovo-21sk001med-u7-255h-16-512-gb/p/689004?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "lenovo-thinkbook-16-gen-8-laptop-intel-core-ultra-34e121"
     },
     {
       "brand": "",
@@ -5684,7 +5833,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/notebooks-computers/lenovo-thinkbook-21sg002ked/p/686441?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "lenovo-intel-core-7-240h-laptop-14-inch-512gb-2a6e31"
     },
     {
       "brand": "Lenovo",
@@ -5703,7 +5853,8 @@
           "url": "https://www.compumarts.com/products/lenovo-ideapad-5-pro-16imh9-laptop-intel-core-ultra-5-125h-16gb-512gb-ssd-nvidia-geforce-rtx-3050-6gb-16-2k-oled-win11-arctic-grey",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "lenovo-laptop-ideapad-pro-5-161mh9-83d40030ed-intel-core-e5ed85"
     },
     {
       "brand": "Lenovo",
@@ -5722,7 +5873,8 @@
           "url": "https://www.compumarts.com/products/lenovo-ideapad-slim-3i-83k100g3lk-i7-13620h-16gb-512gb-egypt",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "lenovo-ideapad-slim-3i-15-3-laptop-i7-13620h-afda53"
     },
     {
       "brand": "Hp",
@@ -5741,7 +5893,8 @@
           "url": "https://btech.com/en/s?q=HP+Victus+laptop",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "hp-victus-15-fa1023nia-803c1ea-gaming-laptop-intel-core-4b3e40"
     },
     {
       "brand": "Hp",
@@ -5760,7 +5913,8 @@
           "url": "https://btech.com/en/s?q=HP+Victus+laptop",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "hp-victus-16-gaming-laptop-intel-core-i7-13700h-7a831b"
     },
     {
       "brand": "Hp",
@@ -5779,7 +5933,8 @@
           "url": "https://btech.com/en/s?q=HP+Victus+laptop",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "hp-victus-16-gaming-laptop-intel-core-i7-14700hx-88c16b"
     },
     {
       "brand": "Hp",
@@ -5798,7 +5953,8 @@
           "url": "https://btech.com/en/s?q=HP+Victus+laptop",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "hp-victus-15-fa1036ne-laptop-intel-core-i5-13500h-5d7e00"
     },
     {
       "brand": "",
@@ -5818,7 +5974,7 @@
           "in_stock": true
         }
       ],
-      "page": "generic-hp-victus-15-gaming-laptop-intel-core-i5-cc4b20"
+      "page": "hp-victus-15-fa2103ne-laptop-intel-core-5-210h-26a364"
     },
     {
       "brand": "HP",
@@ -5838,7 +5994,7 @@
           "in_stock": true
         }
       ],
-      "page": "hp-victus-15-fa2082wm-gaming-laptop-with-6-inch-88bb1c"
+      "page": "hp-victus-15-fa2787nr-gaming-laptop-core-i7-13620h-b8f771"
     },
     {
       "brand": "HP",
@@ -5857,7 +6013,8 @@
           "url": "https://www.compumarts.com/products/hp-victu-gaming-laptop-intel-core-i5-13420h-ram-16gb-512-gb-nvidia-geforce-rtx-4050-6gb-15-6-inch-144hz",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "hp-victus-15-fa2082wm-gaming-laptop-intel-core-i5-415bd6"
     },
     {
       "brand": "HP",
@@ -5876,7 +6033,8 @@
           "url": "https://www.compumarts.com/products/hp-victus-15-fa2352tx-gaming-laptop-core-i7-13620h-16gb-ddr5-512gb-ssd-rtx-5050-8gb-15-6-inch-fhd-144hz-dos-mica-silver-egypt",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "hp-victus-15-fa2352tx-gaming-laptop-core-i7-13620h-fd7998"
     },
     {
       "brand": "HP",
@@ -5895,7 +6053,8 @@
           "url": "https://www.compumarts.com/products/hp-victus-15-fa2392tx-intel-core-i7-13620h-rtx-4050-6gb-16gb-ddr4-512gb-nvme-gen4-15-6-fhd-144hz-gaming-laptop",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "hp-victus-gaming-laptop-15-fa2392tx-cf5g8pa-intel-core-aac880"
     },
     {
       "brand": "HP",
@@ -5904,7 +6063,7 @@
       "category": "لابتوب",
       "search": "HP Victus laptop",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/HP-Victus-15-fa1082wm-Gaming-Laptop_01.jpg?v=1775744228"
+        "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/HP-Victus-15-fa1082wm-Gaming-Laptop_01.jpg?v=1794761981"
       ],
       "offers": [
         {
@@ -5914,11 +6073,12 @@
           "url": "https://www.compumarts.com/products/hp-victus-15-rtx-4050-i5-gaming-laptop",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "hp-victus-15-fa1082wm-gaming-laptop-intel-i5-13420h-64ed5b"
     },
     {
       "brand": "Asus",
-      "id": "btech-A01322FB031FE92EA8CC",
+      "id": "btech-411C6D11DB79C30E5A33",
       "name": "Asus TUF Gaming A15 FA506NCG-HN857W Gaming Laptop ,AMD Ryzen 7 8845HS 15.6 Inch ,512 GB SSD ,8 GB ,NVIDIA GeForce RTX 3050 ,Windows 11 - Graphite Black",
       "category": "لابتوب",
       "search": "ASUS TUF Gaming laptop",
@@ -5928,12 +6088,13 @@
       "offers": [
         {
           "store": "btech",
-          "price": 50900,
-          "old_price": 50900,
+          "price": 44499,
+          "old_price": 44499,
           "url": "https://btech.com/en/s?q=ASUS+TUF+Gaming+laptop",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "asus-tuf-gaming-a15-fa506ncg-hn857w-laptop-amd-ryzen-fb94d7"
     },
     {
       "brand": "Asus",
@@ -5952,7 +6113,8 @@
           "url": "https://btech.com/en/s?q=ASUS+TUF+Gaming+laptop",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "asus-tuf-gaming-f16-fx607vjr-tu855w-laptop-intel-core-926774"
     },
     {
       "brand": "ASUS LAPTOP",
@@ -5972,7 +6134,8 @@
           "url": "https://www.compumarts.com/products/asus-tuf-gaming-a16-fa608pm-rv659w-rtx-5060-ryzen-9-8940hx-egypt",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "asus-laptop-tuf-gaming-a16-fa608pm-rv169w-ryzen-9-47cc92"
     },
     {
       "brand": "ASUS LAPTOP",
@@ -5992,7 +6155,7 @@
           "in_stock": true
         }
       ],
-      "page": "generic-asus-tuf-gaming-vg249q5r-23-8-full-hd-73d95c"
+      "page": "asus-laptop-tuf-gaming-a14-fa401km-rg014w-ryzen-ai-cfed36"
     },
     {
       "brand": "Apple",
@@ -6013,7 +6176,7 @@
           "in_stock": true
         }
       ],
-      "page": "apple-new-2025-macbook-air-mw123-13-inch-display-ef987c"
+      "page": "apple-macbook-air-2025-mw0w3-laptop-m4-chip-with-eaaab8"
     },
     {
       "brand": "Samsung",
@@ -6033,7 +6196,7 @@
           "in_stock": true
         }
       ],
-      "page": "generic-samsung-rt61m6211sg-mr-twin-cooling-plus-refrigerator-black-8cb1d0"
+      "page": "samsung-nofrost-top-freezer-refrigerator-396-liter-silver-rt40a3010sa-8646ab"
     },
     {
       "brand": "Samsung",
@@ -6054,7 +6217,7 @@
           "in_stock": true
         }
       ],
-      "page": "generic-samsung-rt30a3300sa-mr-metal-refrigerator-305l-silver-acb948"
+      "page": "samsung-nofrost-side-by-refrigerator-659-liter-inverter-motor-839fd0"
     },
     {
       "brand": "Samsung",
@@ -6073,7 +6236,8 @@
           "url": "https://btech.com/en/p/samsung-no-frost-refrigerator-340liters-silver-rb34c671es9-mr",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-nofrost-bottom-freezer-refrigerator-344-liter-inverter-motor-765493"
     },
     {
       "brand": "Samsung",
@@ -6092,7 +6256,8 @@
           "url": "https://btech.com/en/p/samsung-no-frost-fridge-341l-rb34t632fs9mr",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-nofrost-top-freezer-refrigerator-341-liter-inox-rb34t632fs9-3dae6e"
     },
     {
       "brand": "Samsung",
@@ -6111,7 +6276,8 @@
           "url": "https://btech.com/en/p/samsung-no-frost-refrigerator-340liters-black-rb34c672eb1-mr",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-nofrost-bottom-freezer-refrigerator-340-liter-inverter-motor-81804a"
     },
     {
       "brand": "",
@@ -6130,7 +6296,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/fridge-301l-to-350l/samsung-fridge-rb34c672eb1-mr340lbf/p/659715?offer=offer_1188716985&sid=DEFAULT&sellerId=16985",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-refrigerator-344-liter-bottom-freezer-no-frost-inverter-ddd304"
     },
     {
       "brand": "",
@@ -6150,7 +6317,7 @@
           "in_stock": true
         }
       ],
-      "page": "generic-samsung-rt40a3010sa-mr-no-frost-refrigerator-2-doors-b0a1b7"
+      "page": "samsung-refrigerator-344-liter-bottom-freezer-no-frost-inverter-9b035a"
     },
     {
       "brand": "Sharp",
@@ -6211,7 +6378,8 @@
           "url": "https://btech.com/en/p/sharp-refrigerator-no-frost-396l-sj-48c-st",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "sharp-nofrost-top-freezer-refrigerator-396-liter-inverter-motor-c30bf5"
     },
     {
       "brand": "Sharp",
@@ -6291,7 +6459,7 @@
           "in_stock": true
         }
       ],
-      "page": "generic-fresh-shatoura-5-kg-single-tub-washing-machine-924f29"
+      "page": "fresh-top-load-washing-machine-6-kg-silver-ftm-b7eb61"
     },
     {
       "brand": "Fresh",
@@ -6311,7 +6479,7 @@
           "in_stock": true
         }
       ],
-      "page": "fresh-washing-machine-with-squeezer-4-kg-fws400nd-multicolour-716d28"
+      "page": "fresh-top-load-washing-machine-8-kg-silver-50013520-231121"
     },
     {
       "brand": "Fresh",
@@ -6330,7 +6498,8 @@
           "url": "https://btech.com/en/p/fresh-top-load-washing-machine-6-liter-grey-500022310",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "fresh-top-load-washing-machine-6-liter-grey-500022310-6cbf50"
     },
     {
       "brand": "",
@@ -6357,7 +6526,8 @@
           "url": "https://btech.com/en/p/samsung-washing-machine-9kg-black-ww90cgc0edabas",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "fresh-washing-machine-9-kgs-front-loading-full-automatic-f158a2"
     },
     {
       "brand": "",
@@ -6376,7 +6546,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/washing-machine/fresh-semi-automatic-washing-machine-10-kg-single-tub-white-fws1000na/p/1698542001319?offer=offer_1322516985&sid=DEFAULT&sellerId=16985",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "fresh-semi-automatic-washing-machine-10-kg-single-tub-4f790c"
     },
     {
       "brand": "",
@@ -6395,7 +6566,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/washing-machine/fresh-front-load-washing-machine-8-kg-1200-rpm-inverter-steam-light-silver/p/1698542001257?offer=offer_1363816985&sid=DEFAULT&sellerId=16985",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "fresh-front-load-washing-machine-8-kg-1200-rpm-f492bf"
     },
     {
       "brand": "",
@@ -6415,7 +6587,7 @@
           "in_stock": true
         }
       ],
-      "page": "fresh-modena-twin-tub-semi-automatic-washing-machine-041693"
+      "page": "fresh-front-load-washing-machine-9-kg-1400-rpm-848e8e"
     },
     {
       "brand": "Samsung",
@@ -6535,7 +6707,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/washing-machine/toshiba-wm-tl-aw-dk1300kupeg/p/654413?offer=offer_1201716985&sid=DEFAULT&sellerId=16985",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "toshiba-top-loading-washing-machine-ultra-fine-bubble-great-5db062"
     },
     {
       "brand": "",
@@ -6595,7 +6768,7 @@
           "in_stock": true
         }
       ],
-      "page": "haier-digital-inverter-washing-machine-10-kg-1400-rpm-1b4ee6"
+      "page": "sharp-digital-split-air-conditioner-1-5-horsepower-only-3bfa5a"
     },
     {
       "brand": "",
@@ -6614,7 +6787,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/air-conditioners/sharp-ae-a24zhe-fa/p/660477?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "sharp-air-conditioner-cooling-and-heating-digital-with-plasmacluster-c0fc31"
     },
     {
       "brand": "",
@@ -6635,7 +6809,7 @@
           "in_stock": true
         }
       ],
-      "page": "sharp-split-air-conditioner-2-25-hp-cool-heat-c44409"
+      "page": "sharp-split-air-conditioner-1-5-hp-cooling-only-01c753"
     },
     {
       "brand": "Carrier",
@@ -6656,7 +6830,7 @@
           "in_stock": true
         }
       ],
-      "page": "carrier-x-cool-air-conditioner-1-5-hp-cooling-19628a"
+      "page": "carrier-x-cool-split-air-conditioner-3-horsepower-only-91fc03"
     },
     {
       "brand": "",
@@ -6675,7 +6849,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/air-conditioners/carrier-38khct12n-708-optimax-cooling-only-split-air-conditioner-1-5-hp/p/6221047008932?offer=offer_1026818304&sid=DEFAULT&sellerId=18304",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "carrier-38khct12n-708-optimax-cooling-only-split-air-conditioner-aa0a4c"
     },
     {
       "brand": "",
@@ -6694,7 +6869,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/air-conditioners/carrier-split-system-air-conditioner-cooling-and-heating-5-hp-53qhe-36/p/2263858000026?offer=offer_1000822638&sid=DEFAULT&sellerId=22638",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "carrier-split-system-air-conditioner-cooling-and-heating-5-0283ae"
     },
     {
       "brand": "",
@@ -6713,7 +6889,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/air-conditioners/carrier-optimax-38qhct12dn-708-split-cooling-and-heating-air-conditioner-for-ups-1-5-hp/p/2263858000004?offer=offer_1000222638&sid=DEFAULT&sellerId=22638",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "carrier-optimax-38qhct12dn-708-split-cooling-and-heating-air-d692d3"
     },
     {
       "brand": "",
@@ -6732,7 +6909,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/air-conditioners/carrier-split-air-conditioner-4-hp-cool-heat-white-42qhet30n-708f/p/1698542000872?offer=offer_1408116985&sid=DEFAULT&sellerId=16985",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "carrier-split-air-conditioner-4-hp-cool-heat-white-0319c2"
     },
     {
       "brand": "Oppo",
@@ -6752,7 +6930,7 @@
           "in_stock": true
         }
       ],
-      "page": "generic-oppo-reno15-f-dual-sim-256gb-12gb-ram-be761d"
+      "page": "oppo-reno-15-512-gb-12-5g-dual-sim-05abcd"
     },
     {
       "brand": "",
@@ -6775,7 +6953,7 @@
           "in_stock": true
         }
       ],
-      "page": "generic-oppo-reno16-f-dual-sim-twilight-violet-8gb-1c30fc"
+      "page": "oppo-reno16f-5g-12gb-ram-256gb-pop-white-b2163b"
     },
     {
       "brand": "",
@@ -6794,7 +6972,8 @@
           "url": "https://2b.com.eg/en/oppo-reno16-5g-12gb-ram-256gb-pop-white.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "oppo-reno16-5g-12gb-ram-256gb-pop-white-2be925"
     },
     {
       "brand": "",
@@ -6813,7 +6992,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/smartphones/oppo-mobile-reno-15f-256gb-8gb-ram-5g-twilight-blue/p/1698542000452?offer=offer_1508916985&sid=DEFAULT&sellerId=16985",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "oppo-mobile-reno-15f-256gb-8gb-ram-5g-twilight-77f33b"
     },
     {
       "brand": "",
@@ -6832,7 +7012,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/smartphones/oppo-mobile-reno-16f-256gb-8gb-ram-5g-pop-white/p/1698542000226?offer=offer_1488216985&sid=DEFAULT&sellerId=16985",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "oppo-mobile-reno-16f-256gb-8gb-ram-5g-pop-c2d536"
     },
     {
       "brand": "Honor",
@@ -6852,7 +7033,8 @@
           "url": "https://btech.com/en/p/honor-x9e-pro-256-gb-8-gb-5g-dual-sim-deep-purple-18",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "honor-x9e-pro-256-gb-8-5g-dual-sim-d7ddd7"
     },
     {
       "brand": "Honor",
@@ -6871,7 +7053,8 @@
           "url": "https://btech.com/en/p/honor-x9e-pro-256-gb-8-gb-5g-dual-sim-midnight-black-41",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "honor-x9e-pro-256-gb-8-5g-dual-sim-2f997c"
     },
     {
       "brand": "Honor",
@@ -6890,7 +7073,8 @@
           "url": "https://btech.com/en/p/f594dbc9-5d6a-4e9d-baf0-2e44e885f3ed",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "honor-x9d-256-gb-8-5g-dual-sim-midnight-21f1b5"
     },
     {
       "brand": "",
@@ -6909,7 +7093,8 @@
           "url": "https://2b.com.eg/en/infinix-note-60-pro-12gb-ram-256gb-orange.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "infinix-note-60-pro-12gb-ram-256gb-orange-10bb8b"
     },
     {
       "brand": "",
@@ -6929,7 +7114,7 @@
           "in_stock": true
         }
       ],
-      "page": "generic-golden-mask-compatible-with-honor-x9d-camera-lens-abcf56"
+      "page": "infinix-note-60-pro-12gb-ram-256gb-black-b0f577"
     },
     {
       "brand": "Infinix",
@@ -6950,7 +7135,7 @@
           "in_stock": true
         }
       ],
-      "page": "infinix-hot-70-ai-dual-sim-dive-blue-16gb-cbef84"
+      "page": "infinix-hot-60-128-gb-6-5g-dual-sim-7a7fe7"
     },
     {
       "brand": "Infinix",
@@ -6970,7 +7155,7 @@
           "in_stock": true
         }
       ],
-      "page": "infinix-hot-70-ai-dual-sim-silver-dancer-16gb-dea8cd"
+      "page": "infinix-hot-60-128-gb-6-5g-dual-sim-c36c30"
     },
     {
       "brand": "Infinix",
@@ -6990,7 +7175,7 @@
           "in_stock": true
         }
       ],
-      "page": "infinix-hot-70-ai-dual-sim-thermo-orange-16gb-6f22f3"
+      "page": "infinix-hot-70-128-gb-4-4g-lte-dual-c03ae9"
     },
     {
       "brand": "",
@@ -7009,7 +7194,8 @@
           "url": "https://2b.com.eg/en/infinix-hot-70-8gb-ram-256gb-dive-blue.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "infinix-hot-70-8gb-ram-256gb-dive-blue-545a07"
     },
     {
       "brand": "",
@@ -7028,7 +7214,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/smartphones/vivo-y500-8gb-256gb-blue/p/685240?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "vivo-y500-6-83-inch-256gb-8gb-dual-sim-401084"
     },
     {
       "brand": "",
@@ -7047,7 +7234,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/smartphones/vivo-y500-6gb-256gb-blue/p/685237?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "vivo-y500-6-83-inch-256gb-6gb-dual-sim-5bd861"
     },
     {
       "brand": "Apple",
@@ -7067,7 +7255,8 @@
           "url": "https://btech.com/en/p/87c72d16-c2df-45a8-83d6-57bbcfae17e8",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "apple-ipad-2025-11th-gen-tablet-128-gb-6-2d2d06"
     },
     {
       "brand": "Apple",
@@ -7086,7 +7275,8 @@
           "url": "https://btech.com/en/s?q=iPad",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "apple-ipad-2025-11th-gen-tablet-128-gb-6-095f6d"
     },
     {
       "brand": "Apple",
@@ -7105,7 +7295,8 @@
           "url": "https://btech.com/en/s?q=iPad",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "apple-ipad-2025-11th-gen-tablet-128-gb-6-73a81e"
     },
     {
       "brand": "Apple",
@@ -7125,7 +7316,8 @@
           "url": "https://btech.com/en/p/a514581c-c1a8-49e8-8e34-195bf9689970",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "apple-ipad-air-tablet-128-gb-8-without-sim-ca4441"
     },
     {
       "brand": "",
@@ -7144,7 +7336,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/tablets/apple-ipad-air-2026-8th-gen-m4-11-inch-wi-fi-256gb-blue-international-version/p/2251857001277?offer=offer_1026722512&sid=DEFAULT&sellerId=22512",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "apple-ipad-air-2026-8th-gen-m4-11-inch-94dde5"
     },
     {
       "brand": "",
@@ -7164,7 +7357,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/tablets/apple-ipad-2025-11th-generation-a16-11-inch-wi-fi-128gb-silver-international-version/p/2251857001626?offer=offer_1025022512&sid=DEFAULT&sellerId=22512",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "apple-ipad-2025-11th-generation-a16-11-inch-wi-7d9396"
     },
     {
       "brand": "",
@@ -7183,7 +7377,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/tablets/apple-11-inch-ipad-a16-11-inch-model-liquid-retina-display-128gb-wi-fi-6-12mp-front-12mp-back-camera-touch-id-all-day-battery-pink/p/2251257000050?offer=offer_1025122512&sid=DEFAULT&sellerId=22512",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "apple-11-inch-ipad-a16-model-liquid-retina-display-8e3b02"
     },
     {
       "brand": "",
@@ -7202,7 +7397,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/tablets/ipad-2025-11th-generation-a16-11-inch-wi-fi-128gb-blue-international-version/p/1737043000772?offer=offer_1025222512&sid=DEFAULT&sellerId=22512",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "ipad-2025-11th-generation-a16-11-inch-wi-fi-e956da"
     },
     {
       "brand": "",
@@ -7221,7 +7417,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/tablets/apple-ipad-2025-11th-generation-a16-11-inch-wi-fi-256gb-pink-international-version/p/2251857001373?offer=offer_1025322512&sid=DEFAULT&sellerId=22512",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "apple-ipad-2025-11th-generation-a16-11-inch-wi-20e770"
     },
     {
       "brand": "8BitDo",
@@ -7241,7 +7438,7 @@
           "in_stock": true
         }
       ],
-      "page": "generic-vinmooog-stylus-pen-for-tablet-compatible-with-samsung-cbb5f0"
+      "page": "8bitdo-pro-2-bluetooth-controller-for-switch-pc-android-54a6e4"
     },
     {
       "brand": "Samsung",
@@ -7261,7 +7458,7 @@
           "in_stock": true
         }
       ],
-      "page": "samsung-galaxy-tab-s11-ultra-ai-tablet-silver-wifi-d9ed94"
+      "page": "samsung-galaxy-tab-a11-tablet-128-gb-6-5g-547c64"
     },
     {
       "brand": "Samsung",
@@ -7281,7 +7478,7 @@
           "in_stock": true
         }
       ],
-      "page": "samsung-galaxy-tab-s11-ultra-ai-tablet-gray-5g-ce45b2"
+      "page": "samsung-galaxy-tab-a11-tablet-256-gb-8-5g-e8d32e"
     },
     {
       "brand": "Samsung",
@@ -7301,7 +7498,7 @@
           "in_stock": true
         }
       ],
-      "page": "samsung-galaxy-tab-s10-fe-silver-12gb-ram-256gb-fb6761"
+      "page": "samsung-galaxy-tab-a11-tablet-256-gb-8-5g-934ad8"
     },
     {
       "brand": "Samsung",
@@ -7320,7 +7517,8 @@
           "url": "https://btech.com/en/p/3a54e2f4-70a0-4cf6-95af-731d29aa2f56",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-galaxy-tab-s11-tablet-256-gb-12-5g-29076f"
     },
     {
       "brand": "",
@@ -7339,7 +7537,8 @@
           "url": "https://2b.com.eg/en/samsung-galaxy-tab-a11-plus-5g-8gb-ram-256gb-silver.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-galaxy-tab-a11-plus-5g-8gb-ram-256gb-71279a"
     },
     {
       "brand": "",
@@ -7358,7 +7557,8 @@
           "url": "https://2b.com.eg/en/samsung-galaxy-tab-a11-plus-5g-6gb-ram-128gb-silver.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-galaxy-tab-a11-plus-5g-6gb-ram-128gb-aa980f"
     },
     {
       "brand": "",
@@ -7377,7 +7577,8 @@
           "url": "https://2b.com.eg/en/samsung-galaxy-tab-a11-plus-5g-6gb-ram-128gb-gray.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-galaxy-tab-a11-plus-5g-6gb-ram-128gb-6c8be8"
     },
     {
       "brand": "",
@@ -7396,7 +7597,8 @@
           "url": "https://2b.com.eg/en/samsung-galaxy-tab-a11-plus-5g-8gb-ram-256gb-gray.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-galaxy-tab-a11-plus-5g-8gb-ram-256gb-98e7c3"
     },
     {
       "brand": "",
@@ -7416,7 +7618,7 @@
           "in_stock": true
         }
       ],
-      "page": "samsung-galaxy-tab-s10-fe-light-blue-12gb-ram-fda35c"
+      "page": "samsung-galaxy-a17-6-7-inch-256gb-8gb-dual-17e42d"
     },
     {
       "brand": "Xiaomi",
@@ -7456,7 +7658,7 @@
           "in_stock": true
         }
       ],
-      "page": "samsung-essential-monitor-s3-24-inch-fhd-flat-100-5a2e25"
+      "page": "xiaomi-redmi-pad-2-single-sim-4g-mint-green-fa6e03"
     },
     {
       "brand": "Samsung",
@@ -7495,7 +7697,8 @@
           "url": "https://btech.com/en/p/samsung-24inch-led-monitor-ips",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-24-inch-fhd-monitor-75-hertz-5-millisecond-e34c25"
     },
     {
       "brand": "Samsung",
@@ -7674,7 +7877,8 @@
           "url": "https://www.compumarts.com/products/samsung-32-inch-g55c-va-2k-qhd-165hz-refresh-rate-1ms-curved-gaming-monitor",
           "in_stock": false
         }
-      ]
+      ],
+      "page": "samsung-odyssey-g5-g55c-32-inch-qhd-165hz-curved-df91a4"
     },
     {
       "brand": "SAMSUNG",
@@ -7974,7 +8178,7 @@
           "in_stock": true
         }
       ],
-      "page": "philips-digital-air-fryer-6-2-liter-black-na23000-b2462e"
+      "page": "philips-digital-air-fryer-6-2-liter-black-na23000-4afc24"
     },
     {
       "brand": "Philips",
@@ -8013,7 +8217,8 @@
           "url": "https://btech.com/en/p/4b19fd11-ffa2-417e-89ee-2f899bd6a89c",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "philips-air-fryer-5-6-liter-1700-watt-black-6db80d"
     },
     {
       "brand": "Philips",
@@ -8172,7 +8377,8 @@
           "url": "https://btech.com/en/p/9b485d94-40d7-414d-9446-7f9ae5c5d276",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "tefal-air-fryer-6-5-liter-1700-watt-black-e81a3a"
     },
     {
       "brand": "Tefal",
@@ -8411,7 +8617,8 @@
           "url": "https://btech.com/en/p/76b0398f-ee98-447f-9baf-2be27c3333e0",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "xiaomi-mi-air-fryer-6-5-liter-1700-watt-5aa4dc"
     },
     {
       "brand": "Xiaomi",
@@ -8611,7 +8818,7 @@
           "in_stock": true
         }
       ],
-      "page": "nespresso-inissia-coffee-machine-by-international-version-0-7-3d2181"
+      "page": "nespresso-lattissima-one-espresso-machine-1-liter-white-f121euwh-fb9e1b"
     },
     {
       "brand": "Nespresso",
@@ -8631,7 +8838,7 @@
           "in_stock": true
         }
       ],
-      "page": "nespresso-espresso-citiz-coffee-machine-red-1-l-1260-c9c155"
+      "page": "nespresso-lattissima-one-espresso-machine-1-liter-black-f121eubk-6d3144"
     },
     {
       "brand": "Nespresso",
@@ -8651,7 +8858,7 @@
           "in_stock": true
         }
       ],
-      "page": "generic-apple-watch-series-12-gps-46mm-black-d7a8bd"
+      "page": "nespresso-inissia-espresso-machine-700-milliliter-number-of-cups-ac19fd"
     },
     {
       "brand": "",
@@ -8671,7 +8878,7 @@
           "in_stock": true
         }
       ],
-      "page": "generic-apple-watch-series-4-5-electroplated-ultra-thin-be517c"
+      "page": "nespresso-inissia-coffee-machine-0-7-liters-19-bar-dda3b0"
     },
     {
       "brand": "",
@@ -8690,7 +8897,8 @@
           "url": "https://2b.com.eg/en/nespresso-inissia-coffee-machine-0-7liter-19-bar-1260-watt-black-d40-eu-bk-ne.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "nespresso-inissia-coffee-machine-0-7liter-19-bar-1260-05877a"
     },
     {
       "brand": "",
@@ -8709,7 +8917,8 @@
           "url": "https://2b.com.eg/en/nespresso-pixie-c62-espresso-150-capsules-coffee-machine-0-7-liter-19-bar-pressure-titan-c062-eu-ti-ne.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "nespresso-pixie-c62-espresso-150-capsules-coffee-machine-0-d7466a"
     },
     {
       "brand": "",
@@ -8728,7 +8937,8 @@
           "url": "https://2b.com.eg/en/nespresso-mini-essenza-coffee-machine-0-6-liter-19-bar-1310-watts-black-c30-eu-bk-ne2.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "nespresso-mini-essenza-coffee-machine-0-6-liter-19-b1fae7"
     },
     {
       "brand": "",
@@ -8747,7 +8957,8 @@
           "url": "https://2b.com.eg/en/nespresso-lattissima-one-coffee-machine-with-milk-1-l-19-bar-silky-black-f121-eu-bk-ne.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "nespresso-lattissima-one-coffee-machine-with-milk-1-liter-a28a69"
     },
     {
       "brand": "",
@@ -8766,7 +8977,8 @@
           "url": "https://2b.com.eg/en/nespresso-lattissima-one-coffee-machine-milk-1-l-19-bar-silky-white-f121-eu-wh-ne.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "nespresso-lattissima-one-coffee-machine-milk-1-liter-19-7908d0"
     },
     {
       "brand": "",
@@ -8785,7 +8997,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/espresso-machine/one-life-espresso-maker-es90r-b-4-1/p/647702?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "one-life-espresso-machine-multi-capsule-coffee-maker-4-f9a2ce"
     },
     {
       "brand": "",
@@ -8804,7 +9017,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/coffee-machine-capsules/nespresso-coffe-mach-f121-eu-bk-ne/p/588834?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "nespresso-lattissima-coffee-machine-1-liter-black-f121-eu-d974bb"
     },
     {
       "brand": "",
@@ -8823,7 +9037,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/espresso-machine/nespresso-d40-eu-bk-ne-inissia-bk/p/607358?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "nespresso-inissia-coffee-machine-black-d40-eu-bk-ne-db71c2"
     },
     {
       "brand": "",
@@ -8842,7 +9057,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/coffee-machine-capsules/nespresso-coffe-mach-f121-eu-wh-ne/p/588835?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "nespresso-coffee-machine-1-liter-white-f121-eu-wh-1b68f7"
     },
     {
       "brand": "",
@@ -8861,7 +9077,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/espresso-machine/nespresso-c40-eu-re-ne-inissia-rd/p/607359?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "nespresso-inissia-coffee-machine-red-c40-eu-re-ne-14e001"
     },
     {
       "brand": "",
@@ -8880,7 +9097,8 @@
           "url": "https://www.carrefouregypt.com/mafegy/en/espresso-machine/nespresso-e-m-f541-eu-bk-ne-g-latti/p/655339?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "nespresso-gran-lattissima-coffee-machine-white-f541-eu-bk-343c6a"
     },
     {
       "brand": "Apple",
@@ -8899,7 +9117,8 @@
           "url": "https://btech.com/en/s?q=Apple+Watch+Series+11",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "apple-series-11-smart-watch-46-millimeter-jet-black-2ed7b8"
     },
     {
       "brand": "Apple",
@@ -8918,7 +9137,8 @@
           "url": "https://btech.com/en/s?q=Apple+Watch+Series+11",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "apple-series-11-smart-watch-46-millimeter-light-blush-2364f9"
     },
     {
       "brand": "Apple",
@@ -8937,7 +9157,8 @@
           "url": "https://btech.com/en/s?q=Apple+Watch+Series+11",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "apple-series-11-smart-watch-46-millimeter-stone-grey-7412ea"
     },
     {
       "brand": "Apple",
@@ -8956,7 +9177,8 @@
           "url": "https://btech.com/en/s?q=Apple+Watch+Series+11",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "apple-series-11-smart-watch-46-millimeter-space-grey-3c5d0a"
     },
     {
       "brand": "Apple",
@@ -8975,7 +9197,8 @@
           "url": "https://btech.com/en/s?q=Apple+Watch+Series+11",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "apple-series-11-smart-watch-46-millimeter-purple-fog-83c1db"
     },
     {
       "brand": "Apple",
@@ -8995,7 +9218,8 @@
           "url": "https://btech.com/en/p/f1b67ba3-100a-43e5-9263-1d9aa00068df",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "apple-series-11-smart-watch-42-millimeter-light-blush-a38e14"
     },
     {
       "brand": "Apple",
@@ -9014,7 +9238,8 @@
           "url": "https://btech.com/en/p/c02e5c92-0896-4d6b-bfd8-08f7410c3561",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "apple-series-11-smart-watch-42-millimeter-jet-black-c3e19e"
     },
     {
       "brand": "",
@@ -9033,27 +9258,29 @@
           "url": "https://2b.com.eg/en/apple-watch-series-11-ultra-3-49mm-black.html",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "apple-watch-series-11-ultra-3-49mm-black-b9a40b"
     },
     {
       "brand": "Samsung",
-      "id": "btech-C9DA844AFBE956238836",
-      "name": "Samsung Galaxy Watch8 Smart Watch , 40 Millimeter Graphite",
+      "id": "btech-C4402C11DDD6927C82B3",
+      "name": "Samsung Galaxy Watch8 Smart Watch , 40 Millimeter Silver",
       "category": "ساعات ذكية",
       "search": "Samsung Galaxy Watch8",
       "images": [
-        "https://media.btech.com/catalogs/e/4/b/4/e4b409ba32beb602e7581a80f0202a086af08e59_download.jpg",
-        "https://media.btech.com/catalogs/b/8/d/e/b8de9af07b7d4e74e49c331583c341fa64cc379b_download__12_.jpg"
+        "https://media.btech.com/catalogs/b/8/d/e/b8de9af07b7d4e74e49c331583c341fa64cc379b_download__12_.jpg",
+        "https://media.btech.com/catalogs/e/4/b/4/e4b409ba32beb602e7581a80f0202a086af08e59_download.jpg"
       ],
       "offers": [
         {
           "store": "btech",
           "price": 15839,
           "old_price": 15839,
-          "url": "https://btech.com/en/s?q=Samsung+Galaxy+Watch8",
+          "url": "https://btech.com/en/p/7a229fed-efe7-4351-972d-8a8742ca2680",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "samsung-galaxy-watch8-smart-watch-40-millimeter-silver-3a5e85"
     },
     {
       "brand": "Samsung",
@@ -9074,7 +9301,7 @@
           "in_stock": true
         }
       ],
-      "page": "generic-apple-watch-series-11-42-5258e9"
+      "page": "samsung-galaxy-watch8-smart-watch-44-millimeter-silver-2e5679"
     },
     {
       "brand": "Samsung",
@@ -9134,7 +9361,7 @@
           "in_stock": true
         }
       ],
-      "page": "samsung-galaxy-watch8-smart-watch-44-millimeter-silver-2e5679"
+      "page": "samsung-galaxy-watch-ultra-smart-1-8-inch-titanium-abc6d1"
     },
     {
       "brand": "Samsung",
@@ -9214,7 +9441,7 @@
           "in_stock": true
         }
       ],
-      "page": "samsung-galaxy-buds4-pro-earbuds-black-7ea3f4"
+      "page": "samsung-galaxy-watch-ultra-47mm-smartwatch-lte-health-monitoring-4c3728"
     },
     {
       "brand": "",
@@ -9234,7 +9461,7 @@
           "in_stock": true
         }
       ],
-      "page": "samsung-galaxy-buds4-pro-earbuds-white-5c07b0"
+      "page": "samsung-galaxy-watch7-ai-smart-watch-health-monitoring-fitness-ee7019"
     },
     {
       "brand": "",
@@ -9313,7 +9540,8 @@
           "url": "https://btech.com/en/s?q=Xiaomi+Smart+Band",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "huawei-band-11-smart-1-62-inch-purple-133ce9"
     },
     {
       "brand": "Huawei",
@@ -9333,7 +9561,7 @@
           "in_stock": true
         }
       ],
-      "page": "huawei-band-11-smart-1-62-inch-black-a38bb8"
+      "page": "huawei-band-11-smart-1-62-inch-white-grey-ca4f9e"
     },
     {
       "brand": "Huawei",
@@ -9372,21 +9600,22 @@
           "url": "https://btech.com/en/p/weofly-airfit-smart-band-black",
           "in_stock": true
         }
-      ]
+      ],
+      "page": "weofly-airfit-smart-band-black-3609a4"
     }
   ],
   "category_pages": {
+    "بلايستيشن": "playstation",
     "موبايلات": "mobiles",
     "سماعات": "headphones",
-    "لابتوب": "laptops",
-    "بلايستيشن": "playstation",
     "إكسسوارات موبايل": "mobile-accessories",
     "كمبيوتر": "computer",
     "تلفزيونات": "tvs",
+    "لابتوب": "laptops",
     "أجهزة منزلية": "home-appliances",
+    "شاشات كمبيوتر": "monitors",
     "تابلت": "tablets",
     "أجهزة مطبخ": "kitchen-appliances",
-    "ساعات ذكية": "smart-watches",
-    "شاشات كمبيوتر": "monitors"
+    "ساعات ذكية": "smart-watches"
   }
 }
