@@ -1,6 +1,6 @@
 {
   "demo": false,
-  "updated": "2026-11-15T01:37+00:00",
+  "updated": "2026-11-15T08:15+00:00",
   "stores": {
     "noon": {
       "name": "نون",
@@ -79,6 +79,178 @@
           "old_price": null,
           "url": "https://www.carrefouregypt.com/mafegy/en/smartphones/apple-iphone-17-pro-max-256-orange/p/666148?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
           "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-N70114948V",
+      "name": "Xiaomi TV 32 Inch HD Smart LED with Built-in Receiver & Google TV - L32M8P2EG Black",
+      "category": "شاشات",
+      "search": "Xiaomi TV",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZB71EC0171F4E711F2B0DZ/45/_/1780466823/ad512733-ac06-4b83-8ceb-caf286e504cc.jpg",
+        "https://media.btech.com/catalogs/d/8/c/6/d8c605893b02126cf60e12fb1c5b9df344c5fe63_a_2025_32_front.jpeg",
+        "https://2b.com.eg/media/catalog/product/cache/45bcba66b667d1ca52af48b101a5f0cb/t/v/tv615-1-min_1.jpg",
+        "https://cdn.mafrservices.com/pim-content/EGY/media/product/679623/1780395000/679623_main.jpg?im=Resize=(300,300)"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 8499,
+          "old_price": 8999,
+          "url": "https://www.noon.com/egypt-en/xiaomi-tv-32-inch-hd-smart-led-with-built-in-receiver-google-tv-l32m8p2eg-black/N70114948V/p/?o=a3ba5cd2f33bbd9a",
+          "in_stock": true
+        },
+        {
+          "store": "btech",
+          "price": 7499,
+          "old_price": 8209,
+          "url": "https://btech.com/en/s?q=Xiaomi+TV+32+Inch+HD+Smart+LED",
+          "in_stock": true
+        },
+        {
+          "store": "2b",
+          "price": 7799,
+          "old_price": 10899,
+          "url": "https://2b.com.eg/en/xiaomi-tv-32-inch-led-hd-smart-built-in-receiver-google-tv-tv-a-32.html",
+          "in_stock": true
+        },
+        {
+          "store": "carrefour",
+          "price": 8939,
+          "old_price": null,
+          "url": "https://www.carrefouregypt.com/mafegy/en/small-smart-tvs/tornado-led-tv-32ea6500e-sm-rc/p/679623?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Lenovo",
+      "id": "noon-N70381038V",
+      "name": "IdeaPad Slim 3 15IPH11 Laptop, Intel Core Ultra 5 322, 16GB RAM, 512GB, Intel Graphics, 15.3” WUXGA, DOS, Grey, 2 Years Warranty - 83UR003YED English/Arabic Luna Grey",
+      "category": "لابتوب",
+      "search": "Lenovo IdeaPad laptop",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZF80296354301FBD7785BZ/45/_/1782482812/6a173fdd-43b1-4bb4-a515-b2eec588238c.jpg",
+        "https://media.btech.com/catalogs/d/b/3/3/db3335431be476c3c8c3c56103d066c8d2c4b095_imgi_163_IdeaPad_Slim_3_15IPH11_CT1_05.jpg",
+        "https://2b.com.eg/media/catalog/product/cache/45bcba66b667d1ca52af48b101a5f0cb/z/l/zl620zl620_1.jpg",
+        "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/Lenovo-IdeaPad-Slim-3-15IPH11-Laptop-Intel-Core-Ultra-5-3_02_77d55ff0-d139-44ff-ac75-a323a5ac9904.jpg?v=1782316517"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 44154,
+          "old_price": 47900,
+          "url": "https://www.noon.com/egypt-en/ideapad-slim-3-15iph11-laptop-intel-core-ultra-5-322-16gb-ram-512gb-intel-graphics-15-3-wuxga-dos-grey-2-years-warranty-83ur003yed-english-arabic-luna-grey/N70381038V/p/?o=f199152caae7f32b",
+          "in_stock": true
+        },
+        {
+          "store": "btech",
+          "price": 46830,
+          "old_price": 46830,
+          "url": "https://btech.com/en/s?q=Lenovo+IdeaPad+Slim+3+15IPH11+Laptop",
+          "in_stock": true
+        },
+        {
+          "store": "2b",
+          "price": 52999,
+          "old_price": 71949,
+          "url": "https://2b.com.eg/en/lenovo-ideapad-slim-3-15iph11-laptop-intelr-coretm-ultra-7-355-16gb-512gb-ssd-intelr-graphics-15-3-wuxga-60hz-win11-luna-grey.html",
+          "in_stock": true
+        },
+        {
+          "store": "compumarts",
+          "price": 37777,
+          "old_price": null,
+          "url": "https://www.compumarts.com/products/lenovo-ideapad-slim-3-15iph11-intel-core-ultra-5-322-16gb-512gb-intel-graphics-15-3-wuxga-laptop",
+          "in_stock": false
+        }
+      ]
+    },
+    {
+      "brand": "Lenovo",
+      "id": "noon-N70284119V",
+      "name": "LAPTOP Lenovo Ideapad Slim 3 15IRH10 Laptop Intel Core i7 13620H RAM 16GB DDR5 4800 HDD 512GB SSD M2 NVME Intel UHD Graphics 15.3” WUXGA Blue + Bag Mouse -2 YEAR WARRENTY 83K100QRED English/Arabic Cosmic Blue",
+      "category": "لابتوب",
+      "search": "Lenovo IdeaPad laptop",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z1731C385E79B6497D272Z/45/_/1780913696/3a7289a7-f8ca-4852-be52-d873c578c9da.jpg",
+        "https://media.btech.com/catalogs/1/8/6/3/186305261d96d33186153d818b9501f77bf058c7_1__4_.jpg",
+        "https://2b.com.eg/media/catalog/product/cache/45bcba66b667d1ca52af48b101a5f0cb/z/l/zl485.jpg",
+        "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/83K100AXAD_01.jpg?v=1793124681"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 50999,
+          "old_price": 50999,
+          "url": "https://www.noon.com/egypt-en/laptop-lenovo-ideapad-slim-3-15irh10-laptop-intel-core-i7-13620h-ram-16gb-ddr5-4800-hdd-512gb-ssd-m2-nvme-intel-uhd-graphics-15-3-wuxga-blue-bag-mouse-2-year-warrenty-83k100qred-english-arabic-cosmic-blue/N70284119V/p/?o=f2c58142707f514f",
+          "in_stock": true
+        },
+        {
+          "store": "btech",
+          "price": 46830,
+          "old_price": 46830,
+          "url": "https://btech.com/en/s?q=LAPTOP+Lenovo+Ideapad+Slim+3+15IRH10+Laptop",
+          "in_stock": true
+        },
+        {
+          "store": "2b",
+          "price": 44999,
+          "old_price": 61649,
+          "url": "https://2b.com.eg/en/lenovo-ideapad-slim-3-15irh10-laptop-intelr-coretm-i5-13420h-16gb-512gb-ssd-intelr-uhd-graphics-15-3-wuxga-60hz-blue.html",
+          "in_stock": true
+        },
+        {
+          "store": "compumarts",
+          "price": 37999,
+          "old_price": null,
+          "url": "https://www.compumarts.com/products/lenovo-ideapad-slim-3-15irh10-i7-13620h-laptop-egypt",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Lenovo",
+      "id": "noon-N70284062V",
+      "name": "Laptop Lenovo IdeaPad Slim 3 15IRH10, Intel Core i7‑13620H, 16GB DDR5 RAM, 512GB SSD, 15.3‑inch WUXGA, DOS, Luna Grey (with Bag + Mouse) grey",
+      "category": "لابتوب",
+      "search": "Lenovo IdeaPad laptop",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z7F749ADA8FE3564E8F74Z/45/_/1780913032/77f8d1b8-3c42-4797-b862-4501c77a02b1.jpg",
+        "https://media.btech.com/catalogs/3/1/4/2/3142c343571197dcf1b3da5399c224c1a7b8e5c2_imgi_42_lenovo_ideapad_slim_3_15irh10_xxy4_w6.jpg",
+        "https://2b.com.eg/media/catalog/product/cache/45bcba66b667d1ca52af48b101a5f0cb/z/l/zl839-1_2.jpg",
+        "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/Lenovo-IdeaPad-Slim-3-15IRH10_01_a89ab8da-1efc-4547-be73-9a87e8b6e8d0.jpg?v=1794653583"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 50999,
+          "old_price": 50999,
+          "url": "https://www.noon.com/egypt-en/laptop-lenovo-ideapad-slim-3-15irh10-intel-core-i7-13620h-16gb-ddr5-ram-512gb-ssd-15-3-inch-wuxga-dos-luna-grey-with-bag-mouse-grey/N70284062V/p/?o=cc34aaeaefe4cdea",
+          "in_stock": true
+        },
+        {
+          "store": "btech",
+          "price": 41777,
+          "old_price": 41777,
+          "url": "https://btech.com/en/s?q=Laptop+Lenovo+IdeaPad+Slim+3+15IRH10",
+          "in_stock": true
+        },
+        {
+          "store": "2b",
+          "price": 47999,
+          "old_price": 65749,
+          "url": "https://2b.com.eg/en/lenovo-ideapad-slim-3-15irh10-laptop-intelr-coretm-i7-13620h-16gb-512gb-ssd-intelr-uhd-graphics-15-3-wuxga-60hz-grey.html",
+          "in_stock": true
+        },
+        {
+          "store": "compumarts",
+          "price": 41444,
+          "old_price": null,
+          "url": "https://www.compumarts.com/products/lenovo-ideapad-slim-3-15irh10-i7-13620h-oled-165hz-egypt",
+          "in_stock": false
         }
       ]
     },
@@ -385,7 +557,7 @@
       "search": "Samsung Galaxy S25 Ultra",
       "images": [
         "https://f.nooncdn.com/p/pzsku/Z677AAA986D1AD5CDDF4AZ/45/_/1772091175/4d1d584a-6fbf-4808-9fed-f3d8b4f191d8.jpg",
-        "https://media.btech.com/catalogs/2/9/e/0/29e0a3a151f84fb4daada5dd142f24c464cade53_9824edb022cd12cd19d16b5ba4d8fbc1f5ddcaa4b384697a93156aa8b8319f83.jpeg",
+        "https://media.btech.com/catalogs/c/8/7/b/c87b57567d5dc193b7f9fc116bf08573865d84f9_3b325b9febf142c246dc5e917f97583b54603d65f0128a6970697ce550258366.jpeg",
         "https://2b.com.eg/media/catalog/product/cache/45bcba66b667d1ca52af48b101a5f0cb/s/a/samsung-galaxy-s25-ultra-black-1_1_2.jpg",
         "https://f.nooncdn.com/p/pzsku/ZB834EA9D0A59B5898E92Z/45/_/1772091334/54c9a0c2-958e-49bc-8e78-a16d3f27ddfe.jpg",
         "https://f.nooncdn.com/p/pzsku/ZC35F7B4BF6AB9477976EZ/45/_/1772091240/83a6a19c-3c9f-470c-8134-92f4fcd7c86d.jpg",
@@ -406,9 +578,9 @@
         },
         {
           "store": "btech",
-          "price": 68360,
-          "old_price": 68360,
-          "url": "https://btech.com/en/s?q=Samsung+Galaxy+S25+Ultra+AI+Dual+SIM+Titanium",
+          "price": 71777,
+          "old_price": 71777,
+          "url": "https://btech.com/en/p/samsung-galaxy-s25-ultra-256gb-12gb-5g-dual-sim-titanium-black1",
           "in_stock": true
         },
         {
@@ -675,6 +847,182 @@
       ]
     },
     {
+      "brand": "Generic",
+      "id": "noon-N70184860V",
+      "name": "Xiaomi TV Box S 3rd Gen - 4K UHD, Google TV, 32GB Memory, Dolby Vision & Atmos, WiFi 6, HDMI 2.1, Fast Streaming, Compact and Powerful black",
+      "category": "شاشات",
+      "search": "Xiaomi TV",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZFDE1D620CE54FF56D3D5Z/45/_/1787131026/4d6a7ced-5be1-440d-9a6e-6cc196e94b52.jpg",
+        "https://media.btech.com/catalogs/a/a/f/6/aaf6563a500f49dc9963ba05d6e9c246566b215c_xiaomi_tv_box_s_3gen_4k_pfj4191eu_232gb.jpg",
+        "https://cdn.mafrservices.com/pim-content/EGY/media/product/2251857001360/1789980265/2251857001360_main.jpeg?im=Resize=(300,300)"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 5299,
+          "old_price": 5999,
+          "url": "https://www.noon.com/egypt-en/xiaomi-tv-box-s-3rd-gen-4k-uhd-google-tv-32gb-memory-dolby-vision-atmos-wifi-6-hdmi-2-1-fast-streaming-compact-and-powerful-black/N70184860V/p/?o=ce1a38c2e5ea348b",
+          "in_stock": true
+        },
+        {
+          "store": "btech",
+          "price": 5699,
+          "old_price": 5699,
+          "url": "https://btech.com/en/p/xiaomi-s-3rd-gen-tv-box-4k-uhd-32gb-2gb-ram-black-pfj4191eu",
+          "in_stock": true
+        },
+        {
+          "store": "carrefour",
+          "price": 4999,
+          "old_price": null,
+          "url": "https://www.carrefouregypt.com/mafegy/en/receiver-satellite-accessories/xiaomi-tv-box-s-3rd-gen-4k-uhd-google-tv-2gb-ram-32gb-storage-memory-dolby-vision-and-atmos-wifi-6-hdmi-2-1-fast-streaming-compact-and-powerful-tv-box-s-3rd-gen-mdz-32-aa-black/p/2251857001360?offer=offer_1019422512&sid=DEFAULT&sellerId=22512",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Lenovo",
+      "id": "noon-N70269990V",
+      "name": "Laptop Lenovo IdeaPad Slim 3 15IRH10 Core i5-13420H RAM 16G DDR5 4800 HDD 512GB SSD M.2 NVMe Integrated Intel UHD Graphics, Windows 11 Home 83K100FMED With MOUSE Lenovo & BAG - English/Arabic Luna Grey",
+      "category": "لابتوب",
+      "search": "Lenovo IdeaPad laptop",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZD7519A068F4DCB2F26B8Z/45/_/1780919204/09239420-50e2-4ecd-ace3-b918f7c24c5b.jpg",
+        "https://media.btech.com/catalogs/c/1/d/b/c1dbdd190fedde329842f31a68bf7cb5ff32bafe_1BLNLPI5K100FLEDL020.jpg",
+        "https://2b.com.eg/media/catalog/product/cache/45bcba66b667d1ca52af48b101a5f0cb/z/l/zl610-1.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 45510,
+          "old_price": 51500,
+          "url": "https://www.noon.com/egypt-en/laptop-lenovo-ideapad-slim-3-15irh10-core-i5-13420h-ram-16g-ddr5-4800-hdd-512gb-ssd-m-2-nvme-integrated-intel-uhd-graphics-windows-11-home-83k100fmed-with-mouse-lenovo-bag-english-arabic-luna-grey/N70269990V/p/?o=eac4ed811abb6f3f",
+          "in_stock": true
+        },
+        {
+          "store": "btech",
+          "price": 45430,
+          "old_price": 45430,
+          "url": "https://btech.com/en/s?q=Laptop+Lenovo+IdeaPad+Slim+3+15IRH10+Core",
+          "in_stock": true
+        },
+        {
+          "store": "2b",
+          "price": 44999,
+          "old_price": 62349,
+          "url": "https://2b.com.eg/en/lenovo-ideapad-slim-3-15irh10-laptop-intelr-coretm-i5-13420h-16gb-512gb-ssd-intelr-uhd-graphics-15-3-wuxga-60hz-luna-grey.html",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-N72920714V",
+      "name": "ASUS TUF  FX608JHI-TU657W Gaming F16 Gaming Laptop Intel Core i7-14650HX 512GB SSD 16GB DDR5 RAM NVIDIA GeForce RTX 5050 GDDR7 8GB 16\" Inch FHD+  (1920 x 1200, WUXGA), IPS-level, Anti-glare display, 144Hz - Windows 11 - Jaeger Gray Jaeger Gray",
+      "category": "لابتوب",
+      "search": "ASUS TUF Gaming laptop",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZE59DC55CAAC27794C5EBZ/45/_/1794447680/1f9f13e0-5824-4220-b246-088d0e50f663.jpg",
+        "https://media.btech.com/catalogs/c/4/3/5/c43511503a9a75b13ea9a9e72b91356fc4e8c1ff_asus_tuf_f16_fx608jhr_1.jpg",
+        "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/90NR0NB1-M00MT0_01.jpg?v=1792865132"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 80849,
+          "old_price": 85999,
+          "url": "https://www.noon.com/egypt-en/asus-tuf-fx608jhi-tu657w-gaming-f16-gaming-laptop-intel-core-i7-14650hx-512gb-ssd-16gb-ddr5-ram-nvidia-geforce-rtx-5050-gddr7-8gb-16-inch-fhd-1920-x-1200-wuxga-ips-level-anti-glare-display-144hz-windows-11-jaeger-gray-jaeger-gray/N72920714V/p/?o=b10c251b9e0939db",
+          "in_stock": true
+        },
+        {
+          "store": "btech",
+          "price": 81538,
+          "old_price": 83200,
+          "url": "https://btech.com/en/s?q=ASUS+TUF+FX608JHI+TU657W+Gaming+F16+Gaming",
+          "in_stock": true
+        },
+        {
+          "store": "compumarts",
+          "price": 75555,
+          "old_price": null,
+          "url": "https://www.compumarts.com/products/asus-tuf-f16-fx608jhi-tu657w-gaming-laptop-i7-14650hx-rtx-5050-egypt",
+          "in_stock": false
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-N72920716V",
+      "name": "Asus Tuf Gaming F16 FX607VJR-TU855W Gaming Laptop Intel Core 5-205H 512GB SSD 8GB DDR5 Ram NVIDIA GeForce RTX 3050 6GB GDDR6 16\" Inch FHD+ 1920 x 1200, WUXGA IPS-level Anti-glare(AG) display 144Hz Win11 - Jaeger Gray English Jaeger Gray",
+      "category": "لابتوب",
+      "search": "ASUS TUF Gaming laptop",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZC081972B170E9F7B3FD0Z/45/_/1794447678/27f20c89-9def-435b-ba51-f572f526c08b.jpg",
+        "https://media.btech.com/catalogs/4/3/c/f/43cf5108acf50b4803a93df390b99bfb67a1a0f3_tauffasusus_20lapt32.jpg",
+        "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/w1000_ec3782ec-0de5-4562-908b-c4d18bd9b17b.png?v=1793879459"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 52697,
+          "old_price": 55999,
+          "url": "https://www.noon.com/egypt-en/asus-tuf-gaming-f16-fx607vjr-tu855w-gaming-laptop-intel-core-5-205h-512gb-ssd-8gb-ddr5-ram-nvidia-geforce-rtx-3050-6gb-gddr6-16-inch-fhd-1920-x-1200-wuxga-ips-level-anti-glare-ag-display-144hz-win11-jaeger-gray-english-jaeger-gray/N72920716V/p/?o=e701c7fc39d6946e",
+          "in_stock": true
+        },
+        {
+          "store": "btech",
+          "price": 51555,
+          "old_price": 53250,
+          "url": "https://btech.com/en/s?q=Asus+Tuf+Gaming+F16+FX607VJR+TU855W+Gaming",
+          "in_stock": true
+        },
+        {
+          "store": "compumarts",
+          "price": 48999,
+          "old_price": null,
+          "url": "https://www.compumarts.com/products/asus-tuf-f16-fx607vjr-tu855w-core-5-205h-rtx-3050-8gb-512gb-144hz",
+          "in_stock": false
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-N70108933V",
+      "name": "SHARP Split Air Conditioner 2.25 HP Cool - Heat Powerful Jet White AY-A18ZSE AY-A18ZSE white",
+      "category": "أجهزة منزلية",
+      "search": "Sharp air conditioner",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z7C0990AF41770B553D40Z/45/_/1779344634/42f7f2a0-61a1-4897-9210-b59662163f35.jpg",
+        "https://media.btech.com/catalogs/f/2/d/6/f2d6671e1a3e73c257d91988996905b563e2ab6a_67f24001e3a5252604981cae52416c16362a3761aa04dda1626d8cd78630d66c.jpeg",
+        "https://cdn.mafrservices.com/pim-content/EGY/media/product/6221127450422/1791782040/6221127450422_main.jpeg?im=Resize=(300,300)",
+        "https://f.nooncdn.com/p/pzsku/Z43EFD774A91BB211826CZ/45/_/1779345506/0f5566d4-3df6-43fa-8dcf-1c5fbfce4af9.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 37999,
+          "old_price": 37999,
+          "url": "https://www.noon.com/egypt-en/sharp-split-air-conditioner-2-25-hp-cool-heat-powerful-jet-white-ay-a18zse-ay-a18zse-white/N70108933V/p/?o=b3d29db0b9e4002c",
+          "in_stock": true
+        },
+        {
+          "store": "btech",
+          "price": 33000,
+          "old_price": 33000,
+          "url": "https://btech.com/en/p/f5917c69-f926-470a-a11e-cb709c66c36a",
+          "in_stock": true
+        },
+        {
+          "store": "carrefour",
+          "price": 50841,
+          "old_price": null,
+          "url": "https://www.carrefouregypt.com/mafegy/en/air-conditioners/sharp-split-air-conditioner-sharp-2-25-hp-cool-heat-inverter-white-ay-xp18bme/p/6221127450422?offer=offer_1162616985&sid=DEFAULT&sellerId=16985",
+          "in_stock": true
+        }
+      ]
+    },
+    {
       "brand": "Sony",
       "id": "noon-N70114922V",
       "name": "PlayStation 5 Pro-Console – 2TB ( Official KSA Version )",
@@ -709,7 +1057,7 @@
       "search": "DualSense controller",
       "images": [
         "https://f.nooncdn.com/p/pzsku/Z9ABAD5D803041004E9CFZ/45/_/1780467519/7a4bce63-7931-4f54-85ac-df5a85a91f78.jpg",
-        "https://cdn.mafrservices.com/pim-content/EGY/media/product/1836147000732/1790772862/1836147000732_main.jpeg?im=Resize=(300,300)"
+        "https://cdn.mafrservices.com/pim-content/EGY/media/product/1836147000713/1790772861/1836147000713_main.jpeg?im=Resize=(300,300)"
       ],
       "offers": [
         {
@@ -721,9 +1069,9 @@
         },
         {
           "store": "carrefour",
-          "price": 3999,
+          "price": 3800,
           "old_price": null,
-          "url": "https://www.carrefouregypt.com/mafegy/en/sony-playstation-access/sony-dualsense-wireless-controller-for-playstation-5-white/p/1836147000732?offer=offer_1014218361&sid=DEFAULT&sellerId=18361",
+          "url": "https://www.carrefouregypt.com/mafegy/en/sony-playstation-access/sony-dualsense-wireless-controller-for-playstation-5-white/p/1836147000713?offer=offer_1013118361&sid=DEFAULT&sellerId=18361",
           "in_stock": true
         }
       ]
@@ -1530,6 +1878,763 @@
           "price": 7549,
           "old_price": 7999,
           "url": "https://www.compumarts.com/products/logitech-g502-x-lightspeed-wireless-gaming-mouse",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Samsung",
+      "id": "noon-N70373636V",
+      "name": "55-inch Mini LED 4K Smart TV, Advanced AI Picture Engine, HDR10+, Smart Tizen OS(2026),Black-UA55M70HAUXEG UA55M70HAUXEG black",
+      "category": "شاشات",
+      "search": "Samsung Smart TV 55",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZEEBF45FEAC87B196DBF5Z/45/_/1780570280/33acaef0-f8d2-43d5-bfa8-a6889dee9b06.jpg",
+        "https://cdn.mafrservices.com/pim-content/EGY/media/product/676578/1776327000/676578_main.jpg?im=Resize=(300,300)"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 23799,
+          "old_price": 37990,
+          "url": "https://www.noon.com/egypt-en/55-inch-mini-led-4k-smart-tv-advanced-ai-picture-engine-hdr10-smart-tizen-os-2026-black-ua55m70hauxeg-ua55m70hauxeg-black/N70373636V/p/?o=fec755b7a129eabc",
+          "in_stock": true
+        },
+        {
+          "store": "carrefour",
+          "price": 23666,
+          "old_price": null,
+          "url": "https://www.carrefouregypt.com/mafegy/en/qled-qned-tv/samsung-ledtvua55m70hauxeg/p/676578?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Haier",
+      "id": "noon-N70379494V",
+      "name": "55 Inch 4K UHD QLED Smart TV with Built-in Receiver H55S80GUX black",
+      "category": "شاشات",
+      "search": "Samsung Smart TV 55",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z2ED259A6AC218AE88554Z/45/_/1785288153/ae224de1-0d5f-4767-8faa-4b4449b44e9c.jpg",
+        "https://media.btech.com/catalogs/4/c/4/f/4c4f59bbd262b890b553fe05b0832b8d77544cb9_haier_tv_55_inch_4k_uhd_smart_qled_built_in_receiver_h55s80f_main.png"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 19899,
+          "old_price": 19899,
+          "url": "https://www.noon.com/egypt-en/55-inch-4k-uhd-qled-smart-tv-with-built-in-receiver-h55s80gux-black/N70379494V/p/?o=da5c1aae550231cb",
+          "in_stock": true
+        },
+        {
+          "store": "btech",
+          "price": 22999,
+          "old_price": 22999,
+          "url": "https://btech.com/en/s?q=Haier+55+Inch+4K+UHD+QLED+Smart+TV",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "TCL",
+      "id": "noon-N70167099V",
+      "name": "55-Inch P6K LED 4K UHD HDR Smart TV |Google TV, 60Hz, HDR 10, AiPQ Processor, Dolby Audio, MEMC, HDMI 2.1, Bluetooth 5.2, WiFi 5, Bezel-less Design, (2025 Model) 55P6K Black",
+      "category": "شاشات",
+      "search": "LG Smart TV 55",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z9A88128416D84103D2A2Z/45/_/1779345219/4539a032-eae5-4c68-80ae-5afa39a05a39.jpg",
+        "https://cdn.mafrservices.com/pim-content/EGY/media/product/662724/1759048805/662724_main.jpg?im=Resize=(300,300)"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 25199,
+          "old_price": 25199,
+          "url": "https://www.noon.com/egypt-en/55-inch-p6k-led-4k-uhd-hdr-smart-tv-google-tv-60hz-hdr-10-aipq-processor-dolby-audio-memc-hdmi-2-1-bluetooth-5-2-wifi-5-bezel-less-design-2025-model-55p6k-black/N70167099V/p/?o=c89170955bf02f7b",
+          "in_stock": true
+        },
+        {
+          "store": "carrefour",
+          "price": 20999,
+          "old_price": null,
+          "url": "https://www.carrefouregypt.com/mafegy/en/uhd-tv/tcl-led-tv-55p6k-sm-rc-4k-frameless/p/662724?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Toshiba",
+      "id": "noon-N70267274V",
+      "name": "55-Inch C350RP 4K UHD Smart LED TV With VIDAA U9 OS Dolby Vision Dolby Atmos REGZA Engine 55C350RP black",
+      "category": "شاشات",
+      "search": "LG Smart TV 55",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z30287332EA712131F722Z/45/_/1783519858/3056dc8f-9690-4659-b0ca-7645dfd5f6f9.jpg",
+        "https://cdn.mafrservices.com/pim-content/EGY/media/product/665433/1783341595/665433_main.jpg?im=Resize=(300,300)"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 19499,
+          "old_price": 22000,
+          "url": "https://www.noon.com/egypt-en/55-inch-c350rp-4k-uhd-smart-led-tv-with-vidaa-u9-os-dolby-vision-dolby-atmos-regza-engine-55c350rp-black/N70267274V/p/?o=c08a0c6797f2c57a",
+          "in_stock": true
+        },
+        {
+          "store": "carrefour",
+          "price": 21999,
+          "old_price": null,
+          "url": "https://www.carrefouregypt.com/mafegy/en/qled-qned-tv/toshiba-qled-tv-55m450rp-uhd-sm-rc/p/665433?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-N70253942V",
+      "name": "Xiaomi TV Stick 4K 2nd Gen MDZ-33-AA Black",
+      "category": "شاشات",
+      "search": "Xiaomi TV",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZC79A05F042B57FE9504EZ/45/_/1780466948/253ebf6e-459d-45e6-8dd5-970b63402dec.jpg",
+        "https://media.btech.com/catalogs/7/7/6/b/776b5541510e514213acf71ee108d192a962c96d_2adc1a1f402be80c7e8b4369f4a10e32_copy.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 4599,
+          "old_price": 5349,
+          "url": "https://www.noon.com/egypt-en/xiaomi-tv-stick-4k-2nd-gen-mdz-33-aa-black/N70253942V/p/?o=e494ebe2b961eedd",
+          "in_stock": true
+        },
+        {
+          "store": "btech",
+          "price": 8999,
+          "old_price": 8999,
+          "url": "https://btech.com/en/p/ad2d74ef-1fa5-4101-8742-52ccbf66ea6c",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-N70410543V",
+      "name": "HP Victus 15 fa2392TX Gaming Laptop Intel Core i7 13620H RTX 4050 6GB 16GB RAM 512GB SSD 15.6 FHD 144Hz Windows 11 Powerful Gaming Creator Laptop Fast Smooth Mica Silver Hot Deal Online Sale Mica Silver",
+      "category": "لابتوب",
+      "search": "HP Victus laptop",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZE045DD84D3CD71431B7AZ/45/_/1787659418/d8ae6a64-0de5-49df-a086-4dcc6378c0c7.jpg",
+        "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/Victus-Gaming-Laptop-15-fa2392TX-_CF5G8PA__01.jpg?v=1782461102"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 67889,
+          "old_price": 73640,
+          "url": "https://www.noon.com/egypt-en/hp-victus-15-fa2392tx-gaming-laptop-intel-core-i7-13620h-rtx-4050-6gb-16gb-ram-512gb-ssd-15-6-fhd-144hz-windows-11-powerful-gaming-creator-laptop-fast-smooth-mica-silver-hot-deal-online-sale-mica-silver/N70410543V/p/?o=b4ee81e3ce9c55da",
+          "in_stock": true
+        },
+        {
+          "store": "compumarts",
+          "price": 62222,
+          "old_price": null,
+          "url": "https://www.compumarts.com/products/hp-victus-15-fa2392tx-intel-core-i7-13620h-rtx-4050-6gb-16gb-ddr4-512gb-nvme-gen4-15-6-fhd-144hz-gaming-laptop",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "HP",
+      "id": "noon-N70255389V",
+      "name": "Victus 16-r0046ne Gaming Laptop – Intel Core i7-13700H – 16GB RAM – 1TB SSD – RTX 4050 6GB – 16.1\" FHD 144Hz – (81Q01EA) Performance Blue",
+      "category": "لابتوب",
+      "search": "HP Victus laptop",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z8D769EF28FDF7B2B98D5Z/45/_/1780306731/c245a601-b24b-4b55-a402-4c5061c8d6f8.jpg",
+        "https://media.btech.com/catalogs/0/6/6/c/066cd2f9fb66fd6350f84718b1940809fcabfc16_imgi_17_HP_Victus_16_R0046NE_removebg_preview.png"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 77300,
+          "old_price": 77300,
+          "url": "https://www.noon.com/egypt-en/victus-16-r0046ne-gaming-laptop-intel-core-i7-13700h-16gb-ram-1tb-ssd-rtx-4050-6gb-16-1-fhd-144hz-81q01ea-performance-blue/N70255389V/p/?o=d48b53c744b9ddbd",
+          "in_stock": true
+        },
+        {
+          "store": "btech",
+          "price": 87768,
+          "old_price": 87768,
+          "url": "https://btech.com/en/s?q=HP+Victus+16+r0046ne+Gaming+Laptop",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "ASUS",
+      "id": "noon-N70247915V",
+      "name": "FX608JMR-RV017W ASUS TUF Gaming F16 Laptop with 16 inch FHD / i7 Processor 14650HX  / 16 GB RAM / 1 Tera SSD / NVIDIA® GeForce RTX™ 5060 Laptop GPU / English/ Win11/Jaeger Gray English Jaeger Gray",
+      "category": "لابتوب",
+      "search": "ASUS TUF Gaming laptop",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZA0BB5BB639BE69846E57Z/45/_/1779791667/304b79a7-e612-4e21-ad79-b9964324d6f7.jpg",
+        "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/ASUS-TUF-Gaming-F16-_FX608JMR__01.jpg?v=1760534652"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 98653,
+          "old_price": 117600,
+          "url": "https://www.noon.com/egypt-en/fx608jmr-rv017w-asus-tuf-gaming-f16-laptop-with-16-inch-fhd-i7-processor-14650hx-16-gb-ram-1-tera-ssd-nvidia-geforce-rtx-5060-laptop-gpu-english-win11-jaeger-gray-english-jaeger-gray/N70247915V/p/?o=dca35b0296036b4b",
+          "in_stock": true
+        },
+        {
+          "store": "compumarts",
+          "price": 95555,
+          "old_price": null,
+          "url": "https://www.compumarts.com/products/asus-tuf-gaming-f16-i7-rtx5060",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-N72920749V",
+      "name": "Asus Tuf Gaming 16 FX610JH-TU655W Gaming Laptop Intel Core i5-14450HX 512GB SSD 16GB Ram DDR5-5600 NVIDIA GeForce RTX 5050 8GB GDDR7 16\" Inch FHD+ 1920 x 1200, WUXGA IPS-level 144Hz Win11 - Jaeger Gray English Jaeger Gray",
+      "category": "لابتوب",
+      "search": "ASUS TUF Gaming laptop",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z804DCD93E1B119608EA7Z/45/_/1794447744/318a4219-c832-4277-9fa4-5e1dc8bc0b29.jpg",
+        "https://media.btech.com/catalogs/a/a/5/4/aa540ffc41a30c5edd1340c7608230e37132f247_FX610JH_TU655WV.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 73206,
+          "old_price": 77999,
+          "url": "https://www.noon.com/egypt-en/asus-tuf-gaming-16-fx610jh-tu655w-gaming-laptop-intel-core-i5-14450hx-512gb-ssd-16gb-ram-ddr5-5600-nvidia-geforce-rtx-5050-8gb-gddr7-16-inch-fhd-1920-x-1200-wuxga-ips-level-144hz-win11-jaeger-gray-english-jaeger-gray/N72920749V/p/?o=ec8954c903870e3d",
+          "in_stock": true
+        },
+        {
+          "store": "btech",
+          "price": 78699,
+          "old_price": 78699,
+          "url": "https://btech.com/en/s?q=Asus+Tuf+Gaming+16+FX610JH+TU655W+Gaming",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Apple",
+      "id": "noon-N70298766V",
+      "name": "New 2026 MacBook Air MDH74 13 Inch Display |  M5 Air 10-Core CPU 8-Core GPU | 16GB RAM | 512GB SSD | macOS | English Keyboard International Version | Silver",
+      "category": "لابتوب",
+      "search": "MacBook Air M4",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZF405A1F74664C59D8793Z/45/_/1779094756/e3a0857b-2aa9-4101-819f-ef3fd004642c.jpg",
+        "https://media.btech.com/catalogs/a/e/9/2/ae9296299019dd6330928e2bc67e5b52d4053d8a_B8000003534T.jpeg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 78400,
+          "old_price": 87999,
+          "url": "https://www.noon.com/egypt-en/new-2026-macbook-air-mdh74-13-inch-display-m5-air-10-core-cpu-8-core-gpu-16gb-ram-512gb-ssd-macos-english-keyboard-international-version-silver/N70298766V/p/?o=fc2f7160fa86693c",
+          "in_stock": true
+        },
+        {
+          "store": "btech",
+          "price": 99999,
+          "old_price": 99999,
+          "url": "https://btech.com/en/s?q=Apple+New+2026+MacBook+Air+MDH74+13+Inch",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Apple",
+      "id": "noon-N70298796V",
+      "name": "New 2026 MacBook Air MDHE4 13 Inch Display |  M5 Air 10-Core CPU 8-Core GPU | 16GB RAM | 512GB SSD | macOS | English  Keyboard | International Version | Midnight",
+      "category": "لابتوب",
+      "search": "MacBook Air M4",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZFFB4409AFF2F401AB837Z/45/_/1779095085/5f9f3e90-1ed2-4a77-9315-ab45e42b1aed.jpg",
+        "https://media.btech.com/catalogs/2/0/6/0/20602d072d839c7be1a08247acd85792e2c221a0_B8000003535T.jpeg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 78302,
+          "old_price": 78302,
+          "url": "https://www.noon.com/egypt-en/new-2026-macbook-air-mdhe4-13-inch-display-m5-air-10-core-cpu-8-core-gpu-16gb-ram-512gb-ssd-macos-english-keyboard-international-version-midnight/N70298796V/p/?o=f666e97c5cc9325b",
+          "in_stock": true
+        },
+        {
+          "store": "btech",
+          "price": 99999,
+          "old_price": 99999,
+          "url": "https://btech.com/en/s?q=Apple+New+2026+MacBook+Air+MDHE4+13+Inch",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Apple",
+      "id": "noon-N70298810V",
+      "name": "New 2026 MacBook Air MDHH4 13 Inch Display |  M5 Air 10-Core CPU 8-Core GPU | 16GB RAM | 512GB SSD | macOS | English  Keyboard | International Version | Sky Blue",
+      "category": "لابتوب",
+      "search": "MacBook Air M4",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZC0ABFCF3102F80D30602Z/45/_/1779094715/298388f8-49db-4068-a1b0-4af5d31d79e9.jpg",
+        "https://media.btech.com/catalogs/9/4/c/6/94c64bb3f6dfa78e06f97d210668251f1d11b2e4_B8000003533T.jpeg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 78594,
+          "old_price": 78594,
+          "url": "https://www.noon.com/egypt-en/new-2026-macbook-air-mdhh4-13-inch-display-m5-air-10-core-cpu-8-core-gpu-16gb-ram-512gb-ssd-macos-english-keyboard-international-version-sky-blue/N70298810V/p/?o=ef50b0752c92a46b",
+          "in_stock": true
+        },
+        {
+          "store": "btech",
+          "price": 99999,
+          "old_price": 99999,
+          "url": "https://btech.com/en/s?q=Apple+New+2026+MacBook+Air+MDHH4+13+Inch",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Apple",
+      "id": "noon-N70298806V",
+      "name": "New 2026 MacBook Air MDHA4 13 Inch Display |  M5 Air 10-Core CPU 8-Core GPU | 16GB RAM | 512GB SSD | macOS | English  Keyboard | International Version | Starlight",
+      "category": "لابتوب",
+      "search": "MacBook Air M4",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZF33AD308ED7C8FEF62AFZ/45/_/1779094631/3e10b820-8dd7-4906-8363-7348ab0f9279.jpg",
+        "https://media.btech.com/catalogs/e/0/a/a/e0aa33c89a29b10a8a4985e325c0f9487a4112fd_B8000003532T.jpeg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 78400,
+          "old_price": 86000,
+          "url": "https://www.noon.com/egypt-en/new-2026-macbook-air-mdha4-13-inch-display-m5-air-10-core-cpu-8-core-gpu-16gb-ram-512gb-ssd-macos-english-keyboard-international-version-starlight/N70298806V/p/?o=c7e7b8e6f14559ec",
+          "in_stock": true
+        },
+        {
+          "store": "btech",
+          "price": 99999,
+          "old_price": 99999,
+          "url": "https://btech.com/en/s?q=Apple+New+2026+MacBook+Air+MDHA4+13+Inch",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Sharp",
+      "id": "btech-B80152046974DD52C3CF",
+      "name": "Sharp NoFrost Top Freezer Refrigerator , 449 Liter , Black - SJ-58C(BK)",
+      "category": "أجهزة منزلية",
+      "search": "Sharp refrigerator",
+      "images": [
+        "https://media.btech.com/catalogs/9/f/1/7/9f17f10b50a74eef43c2de41693f010fba03ca00_sj_58c_bk_1.jpeg",
+        "https://f.nooncdn.com/p/pzsku/ZE62DED008BB4A0EC9742Z/45/_/1788265129/a06748c7-9ff4-4bd8-bf69-2f11320cf4d3.jpg"
+      ],
+      "offers": [
+        {
+          "store": "btech",
+          "price": 46419,
+          "old_price": 46419,
+          "url": "https://btech.com/en/p/sharp-no-frost-refrigerator-449l-sj-58cbk",
+          "in_stock": true
+        },
+        {
+          "store": "noon",
+          "price": 21140,
+          "old_price": 21140,
+          "url": "https://www.noon.com/egypt-en/nofrost-top-freezer-refrigerator/ZE62DED008BB4A0EC9742Z/p/?o=b3ec5e9c4327188f",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Sharp",
+      "id": "btech-F245B14663478E9C9AAA",
+      "name": "Sharp NoFrost Top Freezer Refrigerator , 450 Liter , Beige - SJ-58C(BE)",
+      "category": "أجهزة منزلية",
+      "search": "Sharp refrigerator",
+      "images": [
+        "https://media.btech.com/catalogs/6/6/9/d/669d0fc88fcf4d6c4aa3af0c59c5e0b01f201d43_sharp_refrigerator_no_frost_450_liter_beige_sj_58c_be.jpg",
+        "https://f.nooncdn.com/p/pzsku/ZE62DED008BB4A0EC9742Z/45/_/1788265129/a06748c7-9ff4-4bd8-bf69-2f11320cf4d3.jpg"
+      ],
+      "offers": [
+        {
+          "store": "btech",
+          "price": 39725,
+          "old_price": 39725,
+          "url": "https://btech.com/en/p/sharp-nofrost-top-freezer-refrigerator-450-liter-beige-sj-58c-be",
+          "in_stock": true
+        },
+        {
+          "store": "noon",
+          "price": 21140,
+          "old_price": 21140,
+          "url": "https://www.noon.com/egypt-en/nofrost-top-freezer-refrigerator/ZE62DED008BB4A0EC9742Z/p/?o=b3ec5e9c4327188f",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Sharp",
+      "id": "btech-973209FF4FEABC4C4867",
+      "name": "Sharp NoFrost Top Freezer Refrigerator , 396 Liter , Stainless Steel - SJ-48C(ST)",
+      "category": "أجهزة منزلية",
+      "search": "Sharp refrigerator",
+      "images": [
+        "https://media.btech.com/catalogs/3/1/2/a/312a57de6e454ee50767ae2c3cdd153a54b99dcd_New_Project__56_.jpg",
+        "https://f.nooncdn.com/p/pzsku/ZE62DED008BB4A0EC9742Z/45/_/1788265129/a06748c7-9ff4-4bd8-bf69-2f11320cf4d3.jpg",
+        "https://media.btech.com/catalogs/8/6/6/d/866d94020b3d908a504016ad8424025ed8b0656b_sharp_refrigerator_2_door_black_450l_digital_no_frost_sj_pc58a_bk_1__2_1.jpg"
+      ],
+      "offers": [
+        {
+          "store": "btech",
+          "price": 31719,
+          "old_price": 31719,
+          "url": "https://btech.com/en/p/sharp-refrigerator-no-frost-396l-sj-pc48a-bk",
+          "in_stock": true
+        },
+        {
+          "store": "noon",
+          "price": 21140,
+          "old_price": 21140,
+          "url": "https://www.noon.com/egypt-en/nofrost-top-freezer-refrigerator/ZE62DED008BB4A0EC9742Z/p/?o=b3ec5e9c4327188f",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-ZA0F5F6113EEB2B125C9FZ",
+      "name": "Fresh washing machine 10 kg jumbo single tub elegant",
+      "category": "أجهزة منزلية",
+      "search": "Fresh washing machine",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZA0F5F6113EEB2B125C9FZ/45/_/1726086604/f5851afc-a9f7-4752-8d09-b4dcad1ddb18.jpg",
+        "https://cdn.mafrservices.com/pim-content/EGY/media/product/1698542001319/1793105123/1698542001319_main.jpeg?im=Resize=(300,300)"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 3972,
+          "old_price": 3972,
+          "url": "https://www.noon.com/egypt-en/fresh-washing-machine-10-kg-jumbo-single-tub-elegant/ZA0F5F6113EEB2B125C9FZ/p/?o=za0f5f6113eeb2b125c9fz-1",
+          "in_stock": true
+        },
+        {
+          "store": "carrefour",
+          "price": 4432,
+          "old_price": null,
+          "url": "https://www.carrefouregypt.com/mafegy/en/washing-machine/fresh-semi-automatic-washing-machine-10-kg-single-tub-white-fws1000na/p/1698542001319?offer=offer_1322516985&sid=DEFAULT&sellerId=16985",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Samsung",
+      "id": "noon-N70106608V",
+      "name": "Washing Machine Front Loading - 11 Kg - (local warranty) WW11B1534DABAS Black",
+      "category": "أجهزة منزلية",
+      "search": "Samsung washing machine",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZB5198A8F53749C8CA575Z/45/_/1772091273/eb9de886-0333-4db6-a8a9-4cb63e8508ed.jpg",
+        "https://media.btech.com/catalogs/a/4/1/2/a412d6436edf795a7bdc94227798cadc60ff2f53_71vgaeczoul._ac_sl1500_.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 35199,
+          "old_price": 39999,
+          "url": "https://www.noon.com/egypt-en/washing-machine-front-loading-11-kg-local-warranty-ww11b1534dabas-black/N70106608V/p/?o=a470b30f7dcb1cdb",
+          "in_stock": true
+        },
+        {
+          "store": "btech",
+          "price": 36999,
+          "old_price": 36999,
+          "url": "https://btech.com/en/p/78789103-7c3c-4c98-a286-48d446bd761a",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Samsung",
+      "id": "noon-N70060959V",
+      "name": "Front Load Washing Machine 1400 RPM/ 9 kg Steam inverter 9 kg WW90CGC0EDABAS Black",
+      "category": "أجهزة منزلية",
+      "search": "Samsung washing machine",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZDD0545FD7C513650143BZ/45/_/1772091259/9c2b722f-1d19-4c7b-a8f3-f870add50bbe.jpg",
+        "https://cdn.mafrservices.com/pim-content/EGY/media/product/679718/1780570802/679718_main.jpg?im=Resize=(300,300)"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 27172,
+          "old_price": 27172,
+          "url": "https://www.noon.com/egypt-en/front-load-washing-machine-1400-rpm-9-kg-steam-inverter-9-kg-ww90cgc0edabas-black/N70060959V/p/?o=b9cec4e3684cd89f",
+          "in_stock": true
+        },
+        {
+          "store": "carrefour",
+          "price": 22525,
+          "old_price": null,
+          "url": "https://www.carrefouregypt.com/mafegy/en/washing-machine/fresh-wm-w9dd1455g1-bl-9kg-22152/p/679718?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-N70148846V",
+      "name": "Samsung Washing Machine, Eco Bubble, 9KG, Inverter Motor, Inox- WW90T4040CX1AS 9 kg WW90T4040CX1AS Inox",
+      "category": "أجهزة منزلية",
+      "search": "Samsung washing machine",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z9E5AE70DE8A7C2A79B7BZ/45/_/1772091231/8c432d70-ebfd-4c4e-8113-d9b9351dbd00.jpg",
+        "https://cdn.mafrservices.com/sys-master-root/hd9/h4b/17303144038430/573696_main.jpg?im=Resize=(300,300)"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 27249,
+          "old_price": 28999,
+          "url": "https://www.noon.com/egypt-en/samsung-washing-machine-eco-bubble-9kg-inverter-motor-inox-ww90t4040cx1as-9-kg-ww90t4040cx1as-inox/N70148846V/p/?o=eb549121f6bad34d",
+          "in_stock": true
+        },
+        {
+          "store": "carrefour",
+          "price": 26999,
+          "old_price": null,
+          "url": "https://www.carrefouregypt.com/mafegy/en/washing-machine/samsung-wm-ww90t4040cx1as-9kg/p/573696?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-N70072138V",
+      "name": "SHARP Split Air Conditioner 1.5 HP Cool Powerful Jet AH-A12ZSE White",
+      "category": "أجهزة منزلية",
+      "search": "Sharp air conditioner",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z13431B9B73B9432AB384Z/45/_/1779345650/1dde5f47-ac0a-4099-9bca-ab1503a0b6f3.jpg",
+        "https://cdn.mafrservices.com/pim-content/EGY/media/product/633159/1782640578/633159_main.jpg?im=Resize=(300,300)"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 23700,
+          "old_price": 23700,
+          "url": "https://www.noon.com/egypt-en/sharp-split-air-conditioner-1-5-hp-cool-powerful-jet-ah-a12zse-white/N70072138V/p/?o=fd27550f59be5f3d",
+          "in_stock": true
+        },
+        {
+          "store": "carrefour",
+          "price": 29478,
+          "old_price": null,
+          "url": "https://www.carrefouregypt.com/mafegy/en/air-conditioners/sharp-ac-fan-ay-ap12zhe1-5-h-c-dig/p/633159?offer=offer_1161616985&sid=DEFAULT&sellerId=16985",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-N53370643A",
+      "name": "Sharp Split Air Conditioner 1.5 HP, Cooling, Digital, Plasma Cluster 40 kg AH-AP12YHE white",
+      "category": "أجهزة منزلية",
+      "search": "Sharp air conditioner",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z4DFFECD7A5E182BD598FZ/45/_/1779344677/11281272-b10b-407b-9cd5-28c8beb43865.jpg",
+        "https://media.btech.com/catalogs/a/6/9/f/a69f0c92381db755de64d34228eae3f59eb0c55c_B6000002657T.jpeg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 24099,
+          "old_price": 26999,
+          "url": "https://www.noon.com/egypt-en/sharp-split-air-conditioner-1-5-hp-cooling-digital-plasma-cluster-40-kg-ah-ap12yhe-white/N53370643A/p/?o=b795799f9a1440ab",
+          "in_stock": true
+        },
+        {
+          "store": "btech",
+          "price": 23520,
+          "old_price": 23999,
+          "url": "https://btech.com/en/p/sharp-split-air-conditioner-1-5-hp-cooling-white-ahap12zhe",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-N70072149V",
+      "name": "SHARP Split Air Conditioner 1.5 HP Cool Digital Plasmacluster AH-AP12ZHE White",
+      "category": "أجهزة منزلية",
+      "search": "Sharp air conditioner",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z6CEB215790EB6768230FZ/45/_/1779344781/e9f59a61-ff97-41b7-81b8-4a9503dc84fa.jpg",
+        "https://media.btech.com/catalogs/a/6/9/f/a69f0c92381db755de64d34228eae3f59eb0c55c_B6000002657T.jpeg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 24599,
+          "old_price": 25949,
+          "url": "https://www.noon.com/egypt-en/sharp-split-air-conditioner-1-5-hp-cool-digital-plasmacluster-ah-ap12zhe-white/N70072149V/p/?o=abe231a8d831599c",
+          "in_stock": true
+        },
+        {
+          "store": "btech",
+          "price": 23520,
+          "old_price": 23999,
+          "url": "https://btech.com/en/p/sharp-split-air-conditioner-1-5-hp-cooling-white-ahap12zhe",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-ZA8203EF4DCB73A664EC2Z",
+      "name": "Carrier X-Cool Inverter Air Conditioner, 1.5 HP, Cooling and Heating, 53QHEFT12DN8-708F",
+      "category": "أجهزة منزلية",
+      "search": "Carrier air conditioner",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZA8203EF4DCB73A664EC2Z/45/1758551922/5a874408-5e4c-4ccf-bd36-b95c931acb5f.jpg",
+        "https://cdn.mafrservices.com/pim-content/EGY/media/product/2263858000003/1791357242/2263858000003_main.jpeg?im=Resize=(300,300)"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 30999,
+          "old_price": 30999,
+          "url": "https://www.noon.com/egypt-en/carrier-x-cool-inverter-air-conditioner-1-5-hp-cooling-and-heating-53qheft12dn8-708f/ZA8203EF4DCB73A664EC2Z/p/?o=d7aa67b6ee7ca8ca",
+          "in_stock": true
+        },
+        {
+          "store": "carrefour",
+          "price": 29500,
+          "old_price": null,
+          "url": "https://www.carrefouregypt.com/mafegy/en/air-conditioners/carrier-xcool-inverter-air-conditioner-1-5-hp-cooling-heating-53qheft12dn8-708f/p/2263858000003?offer=offer_1003322638&sid=DEFAULT&sellerId=22638",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-ZB4591DD1DE661E43EC8EZ",
+      "name": "Carrier 1.5 HP Cool Only Air Conditioner - X-Cool 53KHEFT12N8-708F",
+      "category": "أجهزة منزلية",
+      "search": "Carrier air conditioner",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZB4591DD1DE661E43EC8EZ/45/_/1785160246/fbf2f1c7-0167-47fa-9a27-fa8c9ff23a7d.jpg",
+        "https://media.btech.com/catalogs/e/7/2/b/e72b6b04232003cb48c8a3ffa8aa27a036285786_765234754685765.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 22999,
+          "old_price": 25000,
+          "url": "https://www.noon.com/egypt-en/carrier-1-5-hp-cool-only-air-conditioner-x-cool-53kheft12n8-708f/ZB4591DD1DE661E43EC8EZ/p/?o=c3244449289d747e",
+          "in_stock": true
+        },
+        {
+          "store": "btech",
+          "price": 23449,
+          "old_price": 23449,
+          "url": "https://btech.com/en/p/a0abee78-c9c3-4e6b-981c-0a5c9c0eb49a",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-ZDF270001FB8667AE14DDZ",
+      "name": "Carrier XCool Split Inverter Air Conditioner, 2.25 HP, Cooling Only, White, Model 53KHEFT18DN8-708F",
+      "category": "أجهزة منزلية",
+      "search": "Carrier air conditioner",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZDF270001FB8667AE14DDZ/45/1764868570/9cac18e5-b3bc-42f3-a3e4-64b30d0445b8.jpg",
+        "https://media.btech.com/catalogs/7/9/9/b/799bee8e2512fdc4b4baf80f40bd9f9b6616b36b_acc92_1.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 41499,
+          "old_price": 41499,
+          "url": "https://www.noon.com/egypt-en/carrier-xcool-split-inverter-air-conditioner-2-25-hp-cooling-only-white-model-53kheft18dn8-708f/ZDF270001FB8667AE14DDZ/p/?o=c7bd02a4238499ae",
+          "in_stock": true
+        },
+        {
+          "store": "btech",
+          "price": 102296,
+          "old_price": 102296,
+          "url": "https://btech.com/en/p/carrier-invrtr-ac-5hp-cool-heat",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-ZD3071BF5A10DD7986B3CZ",
+      "name": "Carrier X-Cool 1.5 HP Cooling Only Split Air Conditioner, Model 38KHEFT12N",
+      "category": "أجهزة منزلية",
+      "search": "Carrier air conditioner",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZD3071BF5A10DD7986B3CZ/45/_/1793720777/0a5ca41c-5622-4fc1-bce8-d44b36d792b1.jpg",
+        "https://cdn.mafrservices.com/pim-content/EGY/media/product/677668/1781093804/677668_main.jpg?im=Resize=(300,300)"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 24137,
+          "old_price": 27000,
+          "url": "https://www.noon.com/egypt-en/carrier-x-cool-1-5-hp-cooling-only-split-air-conditioner-model-38kheft12n/ZD3071BF5A10DD7986B3CZ/p/?o=d1c141e00e68886a",
+          "in_stock": true
+        },
+        {
+          "store": "carrefour",
+          "price": 26419,
+          "old_price": null,
+          "url": "https://www.carrefouregypt.com/mafegy/en/air-conditioners/carrier-a-c-53kheft12n8-708f1-5hp-c/p/677668?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Carrier",
+      "id": "noon-Z7709056D08F82683DC69Z",
+      "name": "X Cool Air Conditioner, 1.5 HP Cooling Only, Smart Control (Wi-Fi), Ionizer Technology, Digital Display, Triple Purification System, T3SuperTropical Compressor, 42KHEFT12N8",
+      "category": "أجهزة منزلية",
+      "search": "Carrier air conditioner",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z7709056D08F82683DC69Z/45/_/1777273948/9f31dace-13cf-4e92-97f2-b9abcf752de8.jpg",
+        "https://cdn.mafrservices.com/pim-content/EGY/media/product/6221047009489/1789650259/6221047009489_main.jpeg?im=Resize=(300,300)"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 24640,
+          "old_price": 27000,
+          "url": "https://www.noon.com/egypt-en/x-cool-air-conditioner-1-5-hp-cooling-only-smart-control-wi-fi-ionizer-technology-digital-display-triple-purification-system-t3supertropical-compressor-42kheft12n8/Z7709056D08F82683DC69Z/p/?o=e88204057fdf757d",
+          "in_stock": true
+        },
+        {
+          "store": "carrefour",
+          "price": 39540,
+          "old_price": null,
+          "url": "https://www.carrefouregypt.com/mafegy/en/air-conditioners/carrier-x-cool-air-conditioner-2-25-hp-cooling-and-heating-smart-control-wi-fi-ionizer-technology-digital-display-triple-purification-system-t3supertropical-compressor/p/6221047009489?offer=offer_1063818304&sid=DEFAULT&sellerId=18304",
           "in_stock": true
         }
       ]
@@ -2345,26 +3450,6 @@
     },
     {
       "brand": "Samsung",
-      "id": "btech-7F4C046211BA43CC3DBF",
-      "name": "Samsung Galaxy Watch8 Smart Watch , 44 Millimeter Graphite",
-      "category": "ساعات ذكية",
-      "search": "Samsung Galaxy Watch8",
-      "images": [
-        "https://media.btech.com/catalogs/5/6/a/b/56ab71286dbc2758f1fa83d12acbfa8f381956f5_download.jpg",
-        "https://media.btech.com/catalogs/2/d/5/0/2d50c271fbf71b42b1638085d3858458935671f5_download__12_.jpg"
-      ],
-      "offers": [
-        {
-          "store": "btech",
-          "price": 12574,
-          "old_price": 12574,
-          "url": "https://btech.com/en/p/d219c3b7-fdee-4e3d-9176-a25b8d782b8c",
-          "in_stock": true
-        }
-      ]
-    },
-    {
-      "brand": "Samsung",
       "id": "btech-C9DA844AFBE956238836",
       "name": "Samsung Galaxy Watch8 Smart Watch , 40 Millimeter Graphite",
       "category": "ساعات ذكية",
@@ -2385,19 +3470,20 @@
     },
     {
       "brand": "Samsung",
-      "id": "btech-9B9249AE8B1A6A8743E5",
-      "name": "Samsung Galaxy Watch Ultra Smart Watch , 1.8 Inch Titanium Blue",
+      "id": "btech-7F4C046211BA43CC3DBF",
+      "name": "Samsung Galaxy Watch8 Smart Watch , 44 Millimeter Graphite",
       "category": "ساعات ذكية",
       "search": "Samsung Galaxy Watch8",
       "images": [
-        "https://media.btech.com/catalogs/a/c/7/b/ac7beb5aba15f376a010e9213094d3445e54f976_6556c3a3_e71c_41cd_a294_9e581402156c.jpg"
+        "https://media.btech.com/catalogs/5/6/a/b/56ab71286dbc2758f1fa83d12acbfa8f381956f5_download.jpg",
+        "https://media.btech.com/catalogs/2/d/5/0/2d50c271fbf71b42b1638085d3858458935671f5_download__12_.jpg"
       ],
       "offers": [
         {
           "store": "btech",
-          "price": 23999,
-          "old_price": 23999,
-          "url": "https://btech.com/en/p/727e3dd1-6cc2-4967-9b00-d8363e5cc77c",
+          "price": 12574,
+          "old_price": 12574,
+          "url": "https://btech.com/en/p/d219c3b7-fdee-4e3d-9176-a25b8d782b8c",
           "in_stock": true
         }
       ]
@@ -2417,6 +3503,25 @@
           "price": 23999,
           "old_price": 23999,
           "url": "https://btech.com/en/p/59963a72-25ca-4c2a-a323-4bbd8ecb4718",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Samsung",
+      "id": "btech-9B9249AE8B1A6A8743E5",
+      "name": "Samsung Galaxy Watch Ultra Smart Watch , 1.8 Inch Titanium Blue",
+      "category": "ساعات ذكية",
+      "search": "Samsung Galaxy Watch8",
+      "images": [
+        "https://media.btech.com/catalogs/a/c/7/b/ac7beb5aba15f376a010e9213094d3445e54f976_6556c3a3_e71c_41cd_a294_9e581402156c.jpg"
+      ],
+      "offers": [
+        {
+          "store": "btech",
+          "price": 23999,
+          "old_price": 23999,
+          "url": "https://btech.com/en/p/727e3dd1-6cc2-4967-9b00-d8363e5cc77c",
           "in_stock": true
         }
       ]
@@ -2742,6 +3847,748 @@
           "price": 7999,
           "old_price": 8999,
           "url": "https://www.noon.com/egypt-en/logitech-g502-x-plus-lightspeed-wireless-rgb-gaming-mouse-optical-mouse-with-lightforce-hybrid-switches-lightsync-rgb-hero-25k-gaming-sensor-compatible-with-pc-macos-windows-white-i-910-006173/N53350973A/p/?o=fb29419e6507fffb",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Samsung",
+      "id": "noon-N70215105V",
+      "name": "43″ Full HD Smart LED TV, HDR, PurColor, OTS Lite Sound, Samsung Knox Security, Tizen OS(2025) – UA43F6000FUXEG UA43F6000FUXEG Black",
+      "category": "شاشات",
+      "search": "Samsung Smart TV 55",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZA4D9FCED7C610FCBEE0CZ/45/_/1772180604/7bcd76e2-5db6-4a89-b7a6-7ed642d51f85.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 14950,
+          "old_price": 22000,
+          "url": "https://www.noon.com/egypt-en/43-full-hd-smart-led-tv-hdr-purcolor-ots-lite-sound-samsung-knox-security-tizen-os-2025-ua43f6000fuxeg-ua43f6000fuxeg-black/N70215105V/p/?o=e8757dd2fff11b7a",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Samsung",
+      "id": "noon-N70370908V",
+      "name": "55-inch Crystal UHD Smart TV U8000H with 4K resolution and Vision AI (2026) UA55U8000HUXEG black",
+      "category": "شاشات",
+      "search": "Samsung Smart TV 55",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z7D004585381733EC9233Z/45/_/1778671249/3d909750-edf6-423b-9a3e-fc956e9d8ca2.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 21750,
+          "old_price": 25000,
+          "url": "https://www.noon.com/egypt-en/55-inch-crystal-uhd-smart-tv-u8000h-with-4k-resolution-and-vision-ai-2026-ua55u8000huxeg-black/N70370908V/p/?o=f177a3e10d69282a",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "LG",
+      "id": "noon-N72642765V",
+      "name": "55\" NANO 4K UHD AI Smart TV 2026 – NanoCell | A7 AI Processor Gen9 | HDR10 Pro | webOS | AI Hub | VRR | GeForce NOW | LG Shield 55NU830B6LA.AFU black",
+      "category": "شاشات",
+      "search": "Samsung Smart TV 55",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z6A6AE43FFDBA680E8B23Z/45/_/1792584484/ccbd3438-0ef0-4092-a269-a09916de3753.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 23499,
+          "old_price": 23499,
+          "url": "https://www.noon.com/egypt-en/55-nano-4k-uhd-ai-smart-tv-2026-nanocell-a7-ai-processor-gen9-hdr10-pro-webos-ai-hub-vrr-geforce-now-lg-shield-55nu830b6la-afu-black/N72642765V/p/?o=f896148e3e59570d",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Hisense",
+      "id": "noon-N70102527V",
+      "name": "55 inch,4K, UHD, VIDAA Smart TV, 55-inch, Dolby Vision, Game Mode Plus, DTS Virtual X, TV Voice Control, Dual Volume Control 55A6N Black",
+      "category": "شاشات",
+      "search": "Samsung Smart TV 55",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z124CEA9FA6DC674F05CAZ/45/_/1779635493/a1b7fdfb-8648-417d-baef-f3024f6e6e72.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 17789,
+          "old_price": 17789,
+          "url": "https://www.noon.com/egypt-en/55-inch-4k-uhd-vidaa-smart-tv-55-inch-dolby-vision-game-mode-plus-dts-virtual-x-tv-voice-control-dual-volume-control-55a6n-black/N70102527V/p/?o=a53c8aaffa999a4a",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-N70400019V",
+      "name": "Xiaomi Smart Projector L1 Full HD LCD with Google TV, Auto Focus, Auto Keystone, Dolby Audio, Wi-Fi, BHR9417EU Grey",
+      "category": "شاشات",
+      "search": "Xiaomi TV",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZEEB0428791E0BEE8F248Z/45/_/1785142901/b2680bb3-65d8-4f6b-bd56-400a94b0b37c.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 10999,
+          "old_price": 11666,
+          "url": "https://www.noon.com/egypt-en/xiaomi-smart-projector-l1-full-hd-lcd-with-google-tv-auto-focus-auto-keystone-dolby-audio-wi-fi-bhr9417eu-grey/N70400019V/p/?o=dd728554f3a1263e",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-Z2C3D3E4DB90ED8A1BB2BZ",
+      "name": "Smart Voice Remote Control with Bluetooth Compatible with Xiaomi Mi Box / Mi TV Stick, with Dedicated Hotkeys for YouTube and Prime Video - Black",
+      "category": "شاشات",
+      "search": "Xiaomi TV",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z2C3D3E4DB90ED8A1BB2BZ/45/_/1782796009/02c6eb1b-38c4-4fcf-95c5-b27c0933f5a9.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 607,
+          "old_price": 965,
+          "url": "https://www.noon.com/egypt-en/smart-voice-remote-control-with-bluetooth-compatible-with-xiaomi-mi-box-mi-tv-stick-with-dedicated-hotkeys-for-youtube-and-prime-video-black/Z2C3D3E4DB90ED8A1BB2BZ/p/?o=ca775bb4e2bbaa6a",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-Z4EE52A0628CE32B1E9FFZ",
+      "name": "Remote for Mi Xiaomi TV with Voice Control – Bluetooth Remote Replacement, Compatible with Mi TV & Xiaomi Smart TVs",
+      "category": "شاشات",
+      "search": "Xiaomi TV",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z4EE52A0628CE32B1E9FFZ/45/_/1793186011/5194f823-48ec-4a1d-9ebb-eaa6d7ce74b9.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 449,
+          "old_price": 490,
+          "url": "https://www.noon.com/egypt-en/remote-for-mi-xiaomi-tv-with-voice-control-bluetooth-remote-replacement-compatible-with-mi-tv-xiaomi-smart-tvs/Z4EE52A0628CE32B1E9FFZ/p/?o=d494f13dbabbb32d",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-N70192886V",
+      "name": "TCL Television 43 Inch Smart TV QLED HDR 10 Google TV, Dolby Audio, Game Mode, Multiple Eye Care with Slim Design-43S5K (2025 Model) 43S5K BLACK",
+      "category": "شاشات",
+      "search": "TCL Smart TV",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZCB3FB6333E9E6220D8F1Z/45/_/1779344698/6e9f6aa0-83fc-4ec8-abfd-dd171f59c8f1.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 16974,
+          "old_price": 22492,
+          "url": "https://www.noon.com/egypt-en/tcl-television-43-inch-smart-tv-qled-hdr-10-google-tv-dolby-audio-game-mode-multiple-eye-care-with-slim-design-43s5k-2025-model-43s5k-black/N70192886V/p/?o=c837debe18ba0e6d",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-N70275950V",
+      "name": "TCL 43 Inch S5K QLED 2K Full HD Smart TV | Google TV | Ultra-wide Color Gamut | 60Hz | HDR10+, HDR10, HLG | Dolby Audio | Google Cast | Multiple Viewing Mode | Metallic Bezel-less Design - International Version 43S5K Black",
+      "category": "شاشات",
+      "search": "TCL Smart TV",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z336C2E0CC3B09AE9506FZ/45/_/1779344618/20dc9d11-8078-4bd4-a381-3fc564279c7d.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 16974,
+          "old_price": 22492,
+          "url": "https://www.noon.com/egypt-en/tcl-43-inch-s5k-qled-2k-full-hd-smart-tv-google-tv-ultra-wide-color-gamut-60hz-hdr10-hdr10-hlg-dolby-audio-google-cast-multiple-viewing-mode-metallic-bezel-less-design-international-version-43s5k-black/N70275950V/p/?o=b3a91a7727e8088a",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-Z3ED3C116999863D81861Z",
+      "name": "Replacement Remote Control for TCL Android Smart TVs with Netflix Button – Easy to Use and Reliable",
+      "category": "شاشات",
+      "search": "TCL Smart TV",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z3ED3C116999863D81861Z/45/_/1737919215/de6f6264-5192-4d6f-9498-eea9eaf672af.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 382,
+          "old_price": 425,
+          "url": "https://www.noon.com/egypt-en/replacement-remote-control-for-tcl-android-smart-tvs-with-netflix-button-easy-to-use-and-reliable/Z3ED3C116999863D81861Z/p/?o=z3ed3c116999863d81861z-1",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-ZB318C1FAED640549E471Z",
+      "name": "Comprehensive remote control for TCL Smart TVs - ideal replacement compatible with LCD/LED TVs (ready for direct operation)",
+      "category": "شاشات",
+      "search": "TCL Smart TV",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZB318C1FAED640549E471Z/45/_/1792881249/8c9084bf-b261-4564-8b24-0b4f4737a0a1.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 328,
+          "old_price": 345,
+          "url": "https://www.noon.com/egypt-en/comprehensive-remote-control-for-tcl-smart-tvs-ideal-replacement-compatible-with-lcd-led-tvs-ready-for-direct-operation/ZB318C1FAED640549E471Z/p/?o=f75fee2205dd918a",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-ZD0D40A256B24A58D675BZ",
+      "name": "SmartEdge Remote Control for TCL LED/LCD/HD/Smart TVs (RC311FMI1, RC311FMI3, RM-L1330) - Black",
+      "category": "شاشات",
+      "search": "TCL Smart TV",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZD0D40A256B24A58D675BZ/45/_/1794353547/653ca2d9-ac37-48b4-82a4-f0d7ff09e28c.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 225,
+          "old_price": 225,
+          "url": "https://www.noon.com/egypt-en/smartedge-remote-control-for-tcl-led-lcd-hd-smart-tvs-rc311fmi1-rc311fmi3-rm-l1330-black/ZD0D40A256B24A58D675BZ/p/?o=b74c7a3d2543c68f",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-ZD2E2B379968882D3D37BZ",
+      "name": "Remote control compatible with TCL 4K smart TVs, model RC901V FMR",
+      "category": "شاشات",
+      "search": "TCL Smart TV",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZD2E2B379968882D3D37BZ/45/_/1785631909/3d310230-825d-46a3-b4e3-a324d89e980c.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 399,
+          "old_price": 449,
+          "url": "https://www.noon.com/egypt-en/remote-control-compatible-with-tcl-4k-smart-tvs-model-rc901v-fmr/ZD2E2B379968882D3D37BZ/p/?o=a1dd06ac8ac3255c",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Lenovo",
+      "id": "noon-N70635746V",
+      "name": "IdeaPad 5  Laptop with 14 Inch WUXGA / Intel Core Ultra 5 325  / 16 Gigabyte / 1 Terabyte SSD / Integrated Intel Graphics Luna Grey",
+      "category": "لابتوب",
+      "search": "Lenovo IdeaPad laptop",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z8CD1650913B2C5C47AD2Z/45/_/1790764173/ec4d0bdd-0684-44cf-a3a9-522119d6f2af.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 72999,
+          "old_price": 72999,
+          "url": "https://www.noon.com/egypt-en/ideapad-5-laptop-with-14-inch-wuxga-intel-core-ultra-5-325-16-gigabyte-1-terabyte-ssd-integrated-intel-graphics-luna-grey/N70635746V/p/?o=adaede2aa73fcbce",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Lenovo",
+      "id": "noon-N70635747V",
+      "name": "IdeaPad 5  Laptop with 14 Inch WUXGA / Intel Core Ultra 7 355 / 16 Gigabyte / 1 Terabyte SSD / Integrated Intel Graphics Luna Grey",
+      "category": "لابتوب",
+      "search": "Lenovo IdeaPad laptop",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZD54531539E4C16F66B6EZ/45/_/1790764172/f6694501-5c9e-4c87-bf68-e98135da22ff.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 82999,
+          "old_price": 82999,
+          "url": "https://www.noon.com/egypt-en/ideapad-5-laptop-with-14-inch-wuxga-intel-core-ultra-7-355-16-gigabyte-1-terabyte-ssd-integrated-intel-graphics-luna-grey/N70635747V/p/?o=b12915450e21eb1d",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-N70250131V",
+      "name": "HP Victus 15-fa2013DX Laptop with 15.6 inch FHD / Intel Core i5-13420H / 8 GB RAM / 512 GB SSD / NVIDIA GeForce RTX 3050 / English/ Win11 //Mica Silver English Mica Silver",
+      "category": "لابتوب",
+      "search": "HP Victus laptop",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZE552C39BB2B18514FCBEZ/45/_/1780306557/e980e221-d1e0-4139-9aff-99b861b45efa.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 52935,
+          "old_price": 57130,
+          "url": "https://www.noon.com/egypt-en/hp-victus-15-fa2013dx-laptop-with-15-6-inch-fhd-intel-core-i5-13420h-8-gb-ram-512-gb-ssd-nvidia-geforce-rtx-3050-english-win11-mica-silver-english-mica-silver/N70250131V/p/?o=b05070aa7baa6ecb",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-N72162758V",
+      "name": "HP Victus 15-fa2025nia Gaming Laptop Intel Core i5-13420H 512GB SSD 8GB DDR4 Ram Nvidia GeForce RTX 2050  4 GB GDDR6 15.6\" Inch FHD, 144 Hz, IPS, micro-edge, antiglare, 300 nits, 62.5% sRGB (1920 x 1080) - DOS - Mica Silver English Mica Silver",
+      "category": "لابتوب",
+      "search": "HP Victus laptop",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z823917B948368AB1C96DZ/45/_/1792077333/68ecc818-cc9d-4089-88e3-82f4c0597268.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 48757,
+          "old_price": 51999,
+          "url": "https://www.noon.com/egypt-en/hp-victus-15-fa2025nia-gaming-laptop-intel-core-i5-13420h-512gb-ssd-8gb-ddr4-ram-nvidia-geforce-rtx-2050-4-gb-gddr6-15-6-inch-fhd-144-hz-ips-micro-edge-antiglare-300-nits-62-5-srgb-1920-x-1080-dos-mica-silver-english-mica-silver/N72162758V/p/?o=e99343a80306abac",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-N70410568V",
+      "name": "HP Victus 15 Gaming Laptop Intel Core i5 13420H RTX 3050 6GB 8GB RAM 512GB SSD 15.6 FHD 144Hz Blue 70WH Battery Gaming Creator Student Laptop Best Performance Deal Fast Powerful Smooth Ultra English/Arabic blue",
+      "category": "لابتوب",
+      "search": "HP Victus laptop",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z1A11973C179027DACB29Z/45/_/1787659474/fd5afbd4-eb68-4953-8386-cde320d35f68.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 52935,
+          "old_price": 57130,
+          "url": "https://www.noon.com/egypt-en/hp-victus-15-gaming-laptop-intel-core-i5-13420h-rtx-3050-6gb-8gb-ram-512gb-ssd-15-6-fhd-144hz-blue-70wh-battery-gaming-creator-student-laptop-best-performance-deal-fast-powerful-smooth-ultra-english-arabic-blue/N70410568V/p/?o=da95784875e51e5a",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "HP",
+      "id": "noon-N70275631V",
+      "name": "Victus 15-fa2082wm Gaming Laptop With 15.6 Inch Full HD (1920x1080) Display, Core i5-13420H Processor/16GB RAM DDR5/512GB SSD/6GB Nvidia GeForce RTX 4050 Graphics/Windows 11/ English/Arabic Black",
+      "category": "لابتوب",
+      "search": "HP Victus laptop",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z12BC3CDD9FA47E8A5A71Z/45/_/1780306573/a923c8bf-eccb-4cc6-b2b8-87a3d9ede2c1.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 62835,
+          "old_price": 67810,
+          "url": "https://www.noon.com/egypt-en/victus-15-fa2082wm-gaming-laptop-with-15-6-inch-full-hd-1920x1080-display-core-i5-13420h-processor-16gb-ram-ddr5-512gb-ssd-6gb-nvidia-geforce-rtx-4050-graphics-windows-11-english-arabic-black/N70275631V/p/?o=f1507ae9f4d4414e",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "ASUS",
+      "id": "noon-N70220997V",
+      "name": "(Upgraded Version) TUF Gaming F16 FX608JMR 16\" WUXGA Display 165Hz Gaming Laptop – Intel Core i7-14650HX 32GB DDR5 RAM 1TB PCIe SSD NVIDIA GeForce RTX 5060 8GB Windows 11 Home + MS Office 365 Free English Jasper English Jasper",
+      "category": "لابتوب",
+      "search": "ASUS TUF Gaming laptop",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z2B9BCED36A0901B619F3Z/45/_/1779791277/37bb78f5-4c44-40ae-a2c8-ac2d4da1abf7.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 100750,
+          "old_price": 109270,
+          "url": "https://www.noon.com/egypt-en/upgraded-version-tuf-gaming-f16-fx608jmr-16-wuxga-display-165hz-gaming-laptop-intel-core-i7-14650hx-32gb-ddr5-ram-1tb-pcie-ssd-nvidia-geforce-rtx-5060-8gb-windows-11-home-ms-office-365-free-english-jasper-english-jasper/N70220997V/p/?o=cecb4d3220f9a60b",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-N70338788V",
+      "name": "ASUS TUF Gaming VG249Q5R 23.8” Full HD Fast IPS Gaming Monitor, 200Hz, 0.3ms, FreeSync Premium/G-Sync Compatible, HDR10, 100% sRGB, ELMB, Shadow Boost, Flicker-Free, Low Blue Light, HDMI, DisplayPort, VESA Mountable, Black | 90LM0BT0-B01E71 Black",
+      "category": "لابتوب",
+      "search": "ASUS TUF Gaming laptop",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z66F2F8A2ECFB995584D3Z/45/_/1779791133/9e99feef-d3c4-4f90-b56c-9d503dbd2e31.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 6614,
+          "old_price": 7499,
+          "url": "https://www.noon.com/egypt-en/asus-tuf-gaming-vg249q5r-23-8-full-hd-fast-ips-gaming-monitor-200hz-0-3ms-freesync-premium-g-sync-compatible-hdr10-100-srgb-elmb-shadow-boost-flicker-free-low-blue-light-hdmi-displayport-vesa-mountable-black-90lm0bt0-b01e71-black/N70338788V/p/?o=bd24c74d31053b5e",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Apple",
+      "id": "noon-N70154925V",
+      "name": "New 2025 MacBook Air MW123 13-Inch Display, Apple M4 Chip 10-Core CPU 8-Core GPU Processor/16GB RAM/256GB SSD/macOS English/Arabic Midnight",
+      "category": "لابتوب",
+      "search": "MacBook Air M4",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZCB37D68485C714149ED4Z/45/_/1779093805/c3e07bbf-135f-4227-9db0-6506aa77164a.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 67996,
+          "old_price": 67996,
+          "url": "https://www.noon.com/egypt-en/new-2025-macbook-air-mw123-13-inch-display-apple-m4-chip-10-core-cpu-8-core-gpu-processor-16gb-ram-256gb-ssd-macos-english-arabic-midnight/N70154925V/p/?o=aeb7f811e8d67bbe",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Apple",
+      "id": "noon-N70154930V",
+      "name": "New 2025 MacBook Air MW0W3 13-Inch Display, Apple M4 Chip 10-Core CPU 8-Core GPU Processor/16GB RAM/256GB SSD/macOS English/Arabic Silver",
+      "category": "لابتوب",
+      "search": "MacBook Air M4",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZF1D650AEA028AAF612EEZ/45/_/1779094992/361e151f-5ae3-48bc-bb02-457be27f162b.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 67999,
+          "old_price": 71999,
+          "url": "https://www.noon.com/egypt-en/new-2025-macbook-air-mw0w3-13-inch-display-apple-m4-chip-10-core-cpu-8-core-gpu-processor-16gb-ram-256gb-ssd-macos-english-arabic-silver/N70154930V/p/?o=a2ce6b7021db356d",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-N70431646V",
+      "name": "Samsung RT61M6211SG/MR Twin Cooling Plus Refrigerator - Black - 25 Feet RT61M6211SG/MR Black Stainless",
+      "category": "أجهزة منزلية",
+      "search": "Samsung refrigerator",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z7BA4D3F67D4B61FCA93DZ/45/_/1788264879/36b1198f-83f1-434c-800f-7deba76449af.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 94499,
+          "old_price": 99707,
+          "url": "https://www.noon.com/egypt-en/samsung-rt61m6211sg-mr-twin-cooling-plus-refrigerator-black-25-feet-rt61m6211sg-mr-black-stainless/N70431646V/p/?o=e21290a2ebc8466c",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-N70049702V",
+      "name": "Samsung RT30A3300SA/MR Metal Refrigerator 305L RT30A3300SA/MR silver",
+      "category": "أجهزة منزلية",
+      "search": "Samsung refrigerator",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZE336A79B92C8640A37B2Z/45/_/1772091348/c82189b8-55f4-4512-9a0a-6cfe5205b9ec.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 29633,
+          "old_price": 32795,
+          "url": "https://www.noon.com/egypt-en/samsung-rt30a3300sa-mr-metal-refrigerator-305l-rt30a3300sa-mr-silver/N70049702V/p/?o=ee857155362ae9ed",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-N70249574V",
+      "name": "Samsung RT40A3010SA/MR No Frost Refrigerator, 2 Doors, Freezer On Top, Capacity 396 Litres - Silver RT40A3010SA/MR silver",
+      "category": "أجهزة منزلية",
+      "search": "Samsung refrigerator",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z7BE86042C25D79F34DBBZ/45/_/1772090846/c6f99143-d906-4725-9693-7c992a1fbf21.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 28485,
+          "old_price": 28485,
+          "url": "https://www.noon.com/egypt-en/samsung-rt40a3010sa-mr-no-frost-refrigerator-2-doors-freezer-on-top-capacity-396-litres-silver-rt40a3010sa-mr-silver/N70249574V/p/?o=c1fad3b68bb9f75d",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Sharp",
+      "id": "btech-30645908581680F0E193",
+      "name": "Sharp Top Freezer Refrigerator , 450 Liter , Red - SJ-GV58G-RD",
+      "category": "أجهزة منزلية",
+      "search": "Sharp refrigerator",
+      "images": [
+        "https://media.btech.com/catalogs/e/4/e/2/e4e20e5323b3723be4643f0f4e7ef3556c33942c_sharp_refrigerator_in_color_sj_gv58g_rd.jpeg"
+      ],
+      "offers": [
+        {
+          "store": "btech",
+          "price": 45999,
+          "old_price": 45999,
+          "url": "https://btech.com/en/p/sharp-nofrost-fridge-450l-inverter-sjgv58grd",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Sharp",
+      "id": "btech-E5617F85ABCB2E5CCE27",
+      "name": "Sharp Top Freezer Refrigerator , 538 Liter , Red - SJ-GV69G-RD",
+      "category": "أجهزة منزلية",
+      "search": "Sharp refrigerator",
+      "images": [
+        "https://media.btech.com/catalogs/0/2/b/8/02b86321f10997953e97bb353d444b29db7dd759_sharp_refrigerator_inverter_digital_no_frost_538_liter.jpeg"
+      ],
+      "offers": [
+        {
+          "store": "btech",
+          "price": 67499,
+          "old_price": 67499,
+          "url": "https://btech.com/en/p/sharp-fridge-538l-inverter-red-sjgv69grd",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "",
+      "id": "2b-sharp-refrigerator-385-l-digital-no-frost-black-sj-pc48a-bk.html",
+      "name": "Sharp Refrigerator 385 Liter  Digital No Frost - Black - SJ-PC48A(BK)",
+      "category": "أجهزة منزلية",
+      "search": "Sharp refrigerator",
+      "images": [
+        "https://2b.com.eg/media/catalog/product/cache/45bcba66b667d1ca52af48b101a5f0cb/h/a/ha782_1_1.jpg"
+      ],
+      "offers": [
+        {
+          "store": "2b",
+          "price": 36999,
+          "old_price": 44799,
+          "url": "https://2b.com.eg/en/sharp-refrigerator-385-l-digital-no-frost-black-sj-pc48a-bk.html",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "",
+      "id": "carrefour-974019129242",
+      "name": "Sharp Refrigerator, 640 Liter, No Frost, Inverter, Digital, Silver, SJ-SR765-SS3, (International )",
+      "category": "أجهزة منزلية",
+      "search": "Sharp refrigerator",
+      "images": [
+        "https://cdn.mafrservices.com/pim-content/EGY/media/product/974019129242/1791782645/974019129242_main.jpeg?im=Resize=(300,300)"
+      ],
+      "offers": [
+        {
+          "store": "carrefour",
+          "price": 76999,
+          "old_price": null,
+          "url": "https://www.carrefouregypt.com/mafegy/en/fridge-601l-to-700l/sharp-refrigerator-640-liter-no-frost-inverter-digital-silver-sj-sr765-ss3-international-/p/974019129242?offer=offer_1183816985&sid=DEFAULT&sellerId=16985",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-ZE010A2AE07A6C0B2E737Z",
+      "name": "Fresh Washing Machine Duetto - FWT500NA",
+      "category": "أجهزة منزلية",
+      "search": "Fresh washing machine",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZE010A2AE07A6C0B2E737Z/45/_/1736090150/4f0b94c8-8eef-44d0-a38a-31cf161a571b.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 5900,
+          "old_price": 9500,
+          "url": "https://www.noon.com/egypt-en/fresh-washing-machine-duetto-fwt500na/ZE010A2AE07A6C0B2E737Z/p/?o=ze010a2ae07a6c0b2e737z-1",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-Z22C36103CDD86E4ABC99Z",
+      "name": "Fresh BABY FWS300NA Washing Machine - 3Kg, White",
+      "category": "أجهزة منزلية",
+      "search": "Fresh washing machine",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z22C36103CDD86E4ABC99Z/45/1767809147/2fa114f0-7577-4932-a9f2-bd04ffd55fef.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 2399,
+          "old_price": 7500,
+          "url": "https://www.noon.com/egypt-en/fresh-baby-fws300na-washing-machine-3kg-white/Z22C36103CDD86E4ABC99Z/p/?o=z22c36103cdd86e4abc99z-1",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-Z184AC20D3D71EB72F9E6Z",
+      "name": "Fresh Shatoura 5 KG Single Tub Washing Machine, White, 5-Year Warranty",
+      "category": "أجهزة منزلية",
+      "search": "Fresh washing machine",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z184AC20D3D71EB72F9E6Z/45/_/1789993414/97c64a27-0c65-4701-a15b-97ce4b934eaa.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 3340,
+          "old_price": 5000,
+          "url": "https://www.noon.com/egypt-en/fresh-shatoura-5-kg-single-tub-washing-machine-white-5-year-warranty/Z184AC20D3D71EB72F9E6Z/p/?o=z184ac20d3d71eb72f9e6z-1",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Fresh",
+      "id": "noon-Z73E8E6D791C336BEE5BBZ",
+      "name": "Washing Machine With Squeezer 4 kg FWS400ND Multicolour",
+      "category": "أجهزة منزلية",
+      "search": "Fresh washing machine",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z73E8E6D791C336BEE5BBZ/45/1751981343/05a0c6ab-3e4b-4349-9f3a-e9c0007ad87b.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 2490,
+          "old_price": 2490,
+          "url": "https://www.noon.com/egypt-en/washing-machine-with-squeezer-4-kg-fws400nd-multicolour/Z73E8E6D791C336BEE5BBZ/p/?o=z73e8e6d791c336bee5bbz-1",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Fresh",
+      "id": "noon-Z67EE9F135013EF1F6751Z",
+      "name": "Modena Twin Tub Semi-Automatic Washing Machine",
+      "category": "أجهزة منزلية",
+      "search": "Fresh washing machine",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z67EE9F135013EF1F6751Z/45/_/1788266308/d79fc527-6b17-4b37-b321-97369cb0bab0.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 5499,
+          "old_price": 5499,
+          "url": "https://www.noon.com/egypt-en/modena-twin-tub-semi-automatic-washing-machine/Z67EE9F135013EF1F6751Z/p/?o=c889f8685f1a2fab",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Samsung",
+      "id": "noon-N52778353A",
+      "name": "Washing Machine With Hygiene Steam, Digital Inverter Technology 1400 RPM - 8 kg 8 kg 930 W WW80T4040CX1AS Inox",
+      "category": "أجهزة منزلية",
+      "search": "Samsung washing machine",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z74840C64316F338491B7Z/45/_/1772090738/322cd74f-f7ff-4601-bdc9-226470ea5c59.jpg",
+        "https://f.nooncdn.com/p/pzsku/Z4A76096699BC3F884257Z/45/_/1772091253/c5f598c2-fb8c-42d5-865b-31fcbc62ec3e.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 23999,
+          "old_price": 23999,
+          "url": "https://www.noon.com/egypt-en/washing-machine-with-hygiene-steam-digital-inverter-technology-1400-rpm-8-kg-8-kg-930-w-ww80t4040cx1as-inox/N52778353A/p/?o=eb7a0bda922382fa",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Samsung",
+      "id": "noon-N53407686A",
+      "name": "1400rpm 9kg Washing Machine with Digital Steam Inverter 9 kg WW90T4040CX1AS Grey",
+      "category": "أجهزة منزلية",
+      "search": "Samsung washing machine",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/ZEBDC4EEC45FF9F392AB6Z/45/_/1772091340/94e51c88-2d1e-4a23-aba0-b80b6e6772a5.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 27249,
+          "old_price": 33999,
+          "url": "https://www.noon.com/egypt-en/1400rpm-9kg-washing-machine-with-digital-steam-inverter-9-kg-ww90t4040cx1as-grey/N53407686A/p/?o=f0ba2404d26569ea",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "SHARP",
+      "id": "noon-N52840579A",
+      "name": "Split Air Conditioner 2.25 Hp Cool - Heat Inverter, Plasmacluster AY-XP18YHEB Black",
+      "category": "أجهزة منزلية",
+      "search": "Sharp air conditioner",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z3EF745AA695A58596D38Z/45/_/1779344780/1a66b68f-5aaf-40ae-a941-0d6edb879fe2.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 53000,
+          "old_price": 53000,
+          "url": "https://www.noon.com/egypt-en/split-air-conditioner-2-25-hp-cool-heat-inverter-plasmacluster-ay-xp18yheb-black/N52840579A/p/?o=e05f7daad864c5ac",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Generic",
+      "id": "noon-Z0406741F050FF794AA27Z",
+      "name": "Carrier 2.25 HP Cool & Heat X-Cool Inverter Air Conditioner (Carrier X-Cool Inverter) 53QHEFT18DN8-708F",
+      "category": "أجهزة منزلية",
+      "search": "Carrier air conditioner",
+      "images": [
+        "https://f.nooncdn.com/p/pzsku/Z0406741F050FF794AA27Z/45/_/1778931113/5d209ef9-6109-4420-bd82-be03f662d2ef.jpg"
+      ],
+      "offers": [
+        {
+          "store": "noon",
+          "price": 46299,
+          "old_price": 46299,
+          "url": "https://www.noon.com/egypt-en/carrier-2-25-hp-cool-heat-x-cool-inverter-air-conditioner-carrier-x-cool-inverter-53qheft18dn8-708f/Z0406741F050FF794AA27Z/p/?o=cf5fdf1b43549a4c",
           "in_stock": true
         }
       ]
@@ -3965,7 +5812,8 @@
           "price": 202,
           "old_price": 225,
           "url": "https://www.noon.com/egypt-en/board-game-monopoly-real-estate-board-game/ZA28DA2C808FA579EB473Z/p/?o=za28da2c808fa579eb473z-1",
-          "in_stock": true
+          "in_stock": true,
+          "stale": true
         }
       ]
     },
@@ -3985,7 +5833,8 @@
           "price": 270,
           "old_price": 300,
           "url": "https://www.noon.com/egypt-en/monopoly-marvel-avengers-age-of-ultron-edition-board-game/ZB2C6BE8564FBE56CA117Z/p/?o=e9f34ac3ca000b8c",
-          "in_stock": true
+          "in_stock": true,
+          "stale": true
         }
       ]
     },
@@ -4005,7 +5854,8 @@
           "price": 303,
           "old_price": 336,
           "url": "https://www.noon.com/egypt-en/monopoly-2-in-1-trading-game/Z99D3EA90B671456F8850Z/p/?o=a9b65757df3c30bc",
-          "in_stock": true
+          "in_stock": true,
+          "stale": true
         }
       ]
     },
@@ -4025,7 +5875,8 @@
           "price": 396,
           "old_price": 440,
           "url": "https://www.noon.com/egypt-en/monopoly-board-game-arabic-english-version/Z40B2C766FA855E1118C1Z/p/?o=be862927f9d1f83a",
-          "in_stock": true
+          "in_stock": true,
+          "stale": true
         }
       ]
     }
