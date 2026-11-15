@@ -1,37 +1,39 @@
 """تجربة متاجر جديدة من سيرفرات GitHub (مؤقت)."""
 import re, json
 from curl_cffi import requests
-Q = "galaxy a56"
-SITES = ["https://egypt.sharafdg.com", "https://shop.halan.com", "https://myxprs.com", "https://mobilemasr.com",
-         "https://zs-eg.com", "https://elghazawy.com", "https://4umart.net", "https://ennap.com",
-         "https://www.elavocatomobile.net", "https://www.raneen.com", "https://www.rayashop.com",
-         "https://cairosales.com", "https://eshop.vodafone.com.eg", "https://www.gamesworldegypt.com",
-         "https://mob4me.com", "https://www.select-egypt.com", "https://www.istyle.com.eg", "https://tradelinestores.com"]
-PATHS = ["/search?type=product&q=", "/en/search?type=product&q=", "/wp-json/wc/store/v1/products?per_page=3&search=",
-         "/?post_type=product&s=", "/catalogsearch/result/?q=", "/search?q=", "/en/search?q="]
 s = requests.Session(impersonate="chrome")
-for site in SITES:
-    print("=====", site)
+URLS = {
+ "myxprs": "https://myxprs.com/search?type=product&q=galaxy+a56",
+ "ennap": "https://ennap.com/search?type=product&q=iphone+17",
+ "tradeline": "https://tradelinestores.com/search?type=product&q=iphone+17",
+ "mobilemasr": "https://mobilemasr.com/en/search?q=galaxy+a56",
+ "elghazawy": "https://elghazawy.com/en/search?q=galaxy+a56",
+ "cairosales": "https://cairosales.com/en/search?q=galaxy+a56",
+ "zs-api": "https://zs-eg.com/wp-json/wc/store/v1/products?per_page=3&search=sharp+refrigerator",
+ "zs-api2": "https://zs-eg.com/wp-json/wc/store/v1/products?per_page=3&search=samsung",
+ "raneen": "https://www.raneen.com/en/catalogsearch/result/?q=sharp+refrigerator",
+ "halan": "https://shop.halan.com/en/search?q=galaxy+a56",
+ "raya": "https://www.rayashop.com/en/search?q=galaxy+a56",
+ "vodafone-api": "https://eshop.vodafone.com.eg/en/",
+}
+for k, u in URLS.items():
+    print("=====", k, u)
     try:
-        r = s.get(site, timeout=25)
-        t = r.text
-        gen = [k for k in ("Shopify", "woocommerce", "Magento", "wp-content", "__NEXT_DATA__", "salla", "zid", "cf-chl", "captcha", "Vercel")
-               if k.lower() in t.lower()]
-        print("home", r.status_code, len(t), r.url, gen)
+        r = s.get(u, timeout=30); t = r.text
     except Exception as e:
-        print("home ERR", e); continue
-    for p in PATHS:
-        try:
-            r = s.get(site + p + Q.replace(" ", "+"), timeout=25)
-            t = r.text
-            hits = len(re.findall(r"a56", t, re.I))
-            price = re.findall(r"(?:EGP|ج\.م|LE)\s*[\d,]{4,}|[\d,]{4,}\s*(?:EGP|ج\.م|LE)", t)[:3]
-            js = t.lstrip().startswith("[")
-            print(f"  {r.status_code} {len(t):>7} a56×{hits:<3} json={js} {price} {p}")
-            if js and r.status_code == 200:
-                try:
-                    d = json.loads(t)
-                    if d: print("    ", d[0].get("name"), d[0].get("prices", {}).get("price"), d[0].get("permalink"))
-                except Exception: pass
-        except Exception as e:
-            print("  ERR", p, str(e)[:80])
+        print("ERR", e); continue
+    print(r.status_code, len(t))
+    print("meta:", "var meta = " in t, "ld+json:", t.count("application/ld+json"), "__NEXT_DATA__:", "__NEXT_DATA__" in t,
+          "products/:", len(re.findall(r'href="[^"]*/products?/[^"]+"', t)))
+    if t.lstrip().startswith("["):
+        for d in json.loads(t)[:3]:
+            print("  ", d.get("name"), d.get("prices", {}).get("price"), d.get("prices", {}).get("currency_minor_unit"), d.get("permalink"))
+        continue
+    links = list(dict.fromkeys(re.findall(r'href="([^"]*(?:/products?/|/p/|\.html)[^"]*)"', t)))[:6]
+    print("links:", links)
+    m = re.search(r"(?:EGP|ج\.م|LE)\s*[\d,]{4,}|[\d,]{4,}\s*(?:EGP|ج\.م|LE)", t)
+    if m:
+        a = max(0, m.start() - 1500)
+        print("snippet:", re.sub(r"\s+", " ", t[a:m.end() + 300])[-1800:])
+    scripts = re.findall(r'<script[^>]+src="([^"]+)"', t)[:8]
+    if k == "vodafone-api": print(t[:3000]); print(scripts)
