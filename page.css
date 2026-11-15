@@ -28,6 +28,7 @@ h2{font-family:var(--display);font-size:19px;margin:0 0 12px}
 .pimg:empty{display:none}
 .product:has(.pimg:empty){grid-template-columns:1fr}
 h1 bdi{unicode-bidi:isolate}
+.en{color:var(--muted);margin:0 0 10px;font-size:14.5px;text-align:right;overflow-wrap:anywhere}
 .range{font-size:22px;font-weight:600;margin:0}
 .save{color:var(--good);font-weight:500;margin:4px 0 0}
 .offers{list-style:none;padding:0;margin:16px 0 0;display:grid;gap:8px}

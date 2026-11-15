@@ -134,6 +134,71 @@ def specs_html(spec, stores):
             f'<p class="hint">المواصفات منقولة من صفحة المنتج في {e(src)}، واتأكد منها في المتجر قبل الشراء.</p></section>')
 
 
+# ---------- الاسم بالعربي (الناس بتدوّر "سعر ايفون 17 برو ماكس") ----------
+AR_PHRASES = [("air conditioner", "تكييف"), ("air fryer", "قلاية هوائية"), ("washing machine", "غسالة"),
+              ("power bank", "باور بانك"), ("smart tv", "شاشة سمارت"), ("smart watch", "ساعة ذكية"),
+              ("smart band", "سمارت باند"), ("macbook air", "ماك بوك اير"), ("macbook pro", "ماك بوك برو"),
+              ("playstation 5", "بلايستيشن 5"), ("coffee machine", "ماكينة قهوة"), ("galaxy tab", "جالاكسي تاب"),
+              ("galaxy buds", "جالاكسي بادز"), ("galaxy watch", "جالاكسي ووتش"), ("apple watch", "ابل ووتش"),
+              ("hair dryer", "سشوار"), ("front load", "تحميل امامي"), ("top load", "تحميل علوي"),
+              ("split air conditioner", "تكييف سبليت"), ("wall charger", "شاحن حيطة")]
+AR_WORDS = {
+    "apple": "ابل", "iphone": "ايفون", "ipad": "ايباد", "macbook": "ماك بوك", "airpods": "ايربودز",
+    "samsung": "سامسونج", "galaxy": "جالاكسي", "xiaomi": "شاومي", "redmi": "ريدمي", "poco": "بوكو",
+    "note": "نوت", "oppo": "اوبو", "reno": "رينو", "realme": "ريلمي", "honor": "هونر", "infinix": "انفينكس",
+    "hot": "هوت", "vivo": "فيفو", "huawei": "هواوي", "pro": "برو", "max": "ماكس", "plus": "بلس", "ultra": "الترا",
+    "mini": "ميني", "air": "اير", "lite": "لايت", "slim": "سليم", "sony": "سوني", "playstation": "بلايستيشن",
+    "ps5": "بلايستيشن 5", "dualsense": "دوال سينس", "controller": "دراع", "portal": "بورتال", "jbl": "جي بي ال",
+    "anker": "انكر", "charger": "شاحن", "logitech": "لوجيتك", "mouse": "ماوس", "lenovo": "لينوفو",
+    "ideapad": "ايديا باد", "victus": "فيكتوس", "asus": "اسوس", "tuf": "تاف", "dell": "ديل", "hp": "اتش بي", "lg": "ال جي",
+    "tcl": "تي سي ال", "tv": "شاشة", "laptop": "لابتوب", "monitor": "شاشة كمبيوتر", "tablet": "تابلت",
+    "tab": "تاب", "pad": "باد", "buds": "بادز", "earbuds": "سماعة", "headphones": "سماعة", "headset": "سماعة",
+    "refrigerator": "ثلاجة", "fridge": "ثلاجة", "sharp": "شارب", "carrier": "كاريير", "fresh": "فريش",
+    "philips": "فيليبس", "tefal": "تيفال", "fryer": "قلاية", "blender": "خلاط", "nespresso": "نسبريسو",
+    "band": "باند", "watch": "ساعة", "gaming": "جيمنج", "tune": "تيون", "series": "سيريس", "oled": "OLED",
+    "toshiba": "توشيبا", "split": "سبليت", "inverter": "انفرتر", "odyssey": "اوديسي", "baseus": "باسيوس",
+    "espresso": "اسبريسو", "huawei": "هواوي", "cooling": "تبريد", "heating": "تسخين", "wireless": "لاسلكي",
+    "conditioner": "تكييف", "smartphone": "موبايل", "phone": "موبايل", "unionaire": "يونيون اير", "hisense": "هايسنس", "fc": "FC"}
+AR_UNITS = {"gb": "جيجا", "tb": "تيرا", "inch": "بوصة", "hp": "حصان", "kg": "كيلو", "l": "لتر", "mah": "مللي امبير"}
+
+
+def arabic_name(p, sname):
+    """اسم المنتج بالعربي من الكلمات المعروفة؛ لو مفيش ولا كلمة معروفة نرجّع فاضي."""
+    t = " " + sname.lower().replace("-", " ").replace("‑", " ") + " "
+    t = re.sub(r"(\d+(?:\.\d+)?)\s*(gb|tb|inch|hp|kg|mah|l)\b", lambda m: f" {m.group(1)}§{m.group(2)} ", t)
+    t = re.sub(r'(\d+(?:\.\d+)?)\s*(?:"|”|-?inch(?:es)?)', lambda m: f" {m.group(1)}§inch ", t)
+    # Reno16 = Reno 16 ، Watch8 = Watch 8
+    t = re.sub(r"\b([a-z]{3,})(\d+[a-z]?)\b", lambda m: f"{m.group(1)} {m.group(2)}" if m.group(1) in AR_WORDS else m.group(0), t)
+    t = re.sub(r"\b(\d+)(?:st|nd|rd|th)\s*gen(?:eration)?\b", r" _الجيل_\1 ", t)
+    for en, ar in sorted(AR_PHRASES, key=lambda x: -len(x[0])):
+        t = t.replace(f" {en} ", f" _{ar.replace(' ', '_')} ")
+    out, known, after_code = [], 0, False
+    for w in re.findall(r"[^\s,()/|+]+", t):
+        if "§" in w:
+            n, u = w.split("§")
+            out.append(f"{n} {AR_UNITS[u]}")
+        elif "_" in w:
+            out.append(w.replace("_", " ").strip()); known += 1
+        elif w in AR_WORDS:
+            out.append(AR_WORDS[w]); known += 1
+        elif re.fullmatch(r"[a-z]?\d+[a-z]{0,3}", w):  # أرقام وموديلات قصيرة زي 17 و A56
+            if not after_code:
+                out.append(w.upper())
+        elif re.fullmatch(r"[a-z]+", w):
+            continue  # كلمة إنجليزي مش معروفة (Optimax, Essential…): نسيبها، الاسم الإنجليزي جنبها
+        else:
+            after_code = True  # كود موديل طويل (38QHCT12DN-708): مش محتاجينه ولا الرقم اللي بعده
+            continue
+        if len(out) >= 7:
+            break
+    while out and out[-1] == "اير":  # "Air" لوحدها في الآخر (من غير Conditioner) ملهاش معنى
+        out.pop()
+    brand = (p.get("brand") or "").lower()
+    if out and brand in AR_WORDS and AR_WORDS[brand] not in out[0] and known < 2:
+        out.insert(0, AR_WORDS[brand]); known += 1
+    return " ".join(out) if known >= 1 and len(out) >= 2 else ""
+
+
 def product_page(p, stores, related, updated_ar, updated_iso, spec=None):
     name = p["name"]
     sname = short_name(name)
@@ -142,8 +207,10 @@ def product_page(p, stores, related, updated_ar, updated_iso, spec=None):
     store_names = [stores.get(o["store"], {}).get("name", o["store"]) for o in offers]
     url = f"{SITE}/p/{p['page']}.html"
     multi = len({o["store"] for o in offers}) > 1
-    title = f"سعر {sname} في مصر" + (f" – قارن {len(set(store_names))} متاجر" if multi else "")
-    desc = (f"سعر {sname} في مصر يبدأ من {money(lo)}"
+    ar = arabic_name(p, sname)
+    title = (f"سعر {ar} في مصر | {sname}" if ar else f"سعر {sname} في مصر") + \
+        (f" – قارن {len(set(store_names))} متاجر" if multi else "")
+    desc = (f"سعر {ar or sname}{f' ({sname})' if ar else ''} في مصر النهارده يبدأ من {money(lo)}"
             + (f" وبيوصل لـ {money(hi)}" if hi > lo else "")
             + f". قارن الأسعار في {' و'.join(dict.fromkeys(store_names))} واشتري من الأرخص.")
     img = next(iter(p.get("images") or []), None)
@@ -171,7 +238,7 @@ def product_page(p, stores, related, updated_ar, updated_iso, spec=None):
 <article class="product">
 <div class="pimg">{imgs}</div>
 <div class="pinfo">
-<h1>سعر <bdi dir="ltr">{e(name)}</bdi></h1>
+{f'<h1>سعر {e(ar)}</h1><p class="en" dir="ltr">{e(name)}</p>' if ar else f'<h1>سعر <bdi dir="ltr">{e(name)}</bdi></h1>'}
 <p class="range">{"من " + money(lo) + " لـ " + money(hi) if hi > lo else money(lo)}</p>
 {save}
 <ul class="offers">{''.join(rows)}</ul>
