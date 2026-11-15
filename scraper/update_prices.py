@@ -322,6 +322,15 @@ def close_price(prices, price):
     return 0.6 <= price / mid <= 1.6  # نفس المنتج نادراً ما سعره يفرق أكتر من كده بين متجرين
 
 
+UNIT = re.compile(r"\d+(gb|tb|mah|hz|w|mm|cm|inch|ms|kg|l|mp|rpm|bar|liter|litre|hp)$")
+
+
+def model_codes(words):
+    """أكواد الموديل الطويلة: حروف وأرقام مع بعض، 6 حروف أو أكتر، ومش وحدة قياس."""
+    return {w for w in words if len(w) >= 6 and sum(c.isdigit() for c in w) >= 2
+            and sum(c.isalpha() for c in w) >= 2 and not UNIT.fullmatch(w) and not re.fullmatch(r"\d+x\d+", w)}
+
+
 def similar(a, b):
     wa, wb = keywords(a), keywords(b)
     ta, tb = set(wa), set(wb)
@@ -346,6 +355,10 @@ def similar(a, b):
     ba, bb = head(wa) & BRANDS, head(wb) & BRANDS
     if ba and bb and not (ba & bb):
         return 0
+    # نفس كود الموديل الكامل (زي LS27D302GAUXEN أو SE2225HM) = نفس المنتج،
+    # حتى لو كل متجر كاتب المواصفات بطريقته (100Hz و 100 Hertz)
+    if model_codes(wa) & model_codes(wb):
+        return 0.95
     # أرقام مختلفة (مقاس، مساحة، سنة الموديل) = منتجات مختلفة
     na = {w for w in sa if any(c.isdigit() for c in w)} - GENERIC_NUM
     nb = {w for w in sb if any(c.isdigit() for c in w)} - GENERIC_NUM
@@ -402,6 +415,8 @@ def relevant(query, name):
             if len(w) >= 3 or any(c.isdigit() for c in w)]
     if is_accessory(name) and not is_accessory(query):
         return False  # بندوّر على الجهاز، مش على جرابه
+    if {"watch", "smartwatch"} & set(keywords(name)) and "watch" not in query.lower():
+        return False  # ساعة "Health Monitoring" مش شاشة كمبيوتر
     if not need:
         return True
     have = squash(name)

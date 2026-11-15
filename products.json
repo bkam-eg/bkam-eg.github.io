@@ -224,14 +224,17 @@
         "https://f.nooncdn.com/p/pzsku/Z7F749ADA8FE3564E8F74Z/45/_/1780913032/77f8d1b8-3c42-4797-b862-4501c77a02b1.jpg",
         "https://media.btech.com/catalogs/3/1/4/2/3142c343571197dcf1b3da5399c224c1a7b8e5c2_imgi_42_lenovo_ideapad_slim_3_15irh10_xxy4_w6.jpg",
         "https://2b.com.eg/media/catalog/product/cache/45bcba66b667d1ca52af48b101a5f0cb/z/l/zl839-1_2.jpg",
-        "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/Lenovo-IdeaPad-Slim-3-15IRH10_01_a89ab8da-1efc-4547-be73-9a87e8b6e8d0.jpg?v=1794653583"
+        "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/Lenovo-IdeaPad-Slim-3-15IRH10_01_a89ab8da-1efc-4547-be73-9a87e8b6e8d0.jpg?v=1794653583",
+        "https://f.nooncdn.com/p/pzsku/ZD7519A068F4DCB2F26B8Z/45/_/1780919204/09239420-50e2-4ecd-ace3-b918f7c24c5b.jpg",
+        "https://media.btech.com/catalogs/c/1/d/b/c1dbdd190fedde329842f31a68bf7cb5ff32bafe_1BLNLPI5K100FLEDL020.jpg",
+        "https://2b.com.eg/media/catalog/product/cache/45bcba66b667d1ca52af48b101a5f0cb/z/l/zl610-1.jpg"
       ],
       "offers": [
         {
           "store": "noon",
-          "price": 50999,
-          "old_price": 50999,
-          "url": "https://www.noon.com/egypt-en/laptop-lenovo-ideapad-slim-3-15irh10-intel-core-i7-13620h-16gb-ddr5-ram-512gb-ssd-15-3-inch-wuxga-dos-luna-grey-with-bag-mouse-grey/N70284062V/p/?o=cc34aaeaefe4cdea",
+          "price": 45510,
+          "old_price": 51500,
+          "url": "https://www.noon.com/egypt-en/laptop-lenovo-ideapad-slim-3-15irh10-core-i5-13420h-ram-16g-ddr5-4800-hdd-512gb-ssd-m-2-nvme-integrated-intel-uhd-graphics-windows-11-home-83k100fmed-with-mouse-lenovo-bag-english-arabic-luna-grey/N70269990V/p/?o=eac4ed811abb6f3f",
           "in_stock": true
         },
         {
@@ -243,9 +246,9 @@
         },
         {
           "store": "2b",
-          "price": 47999,
-          "old_price": 65749,
-          "url": "https://2b.com.eg/en/lenovo-ideapad-slim-3-15irh10-laptop-intelr-coretm-i7-13620h-16gb-512gb-ssd-intelr-uhd-graphics-15-3-wuxga-60hz-grey.html",
+          "price": 44999,
+          "old_price": 62349,
+          "url": "https://2b.com.eg/en/lenovo-ideapad-slim-3-15irh10-laptop-intelr-coretm-i5-13420h-16gb-512gb-ssd-intelr-uhd-graphics-15-3-wuxga-60hz-luna-grey.html",
           "in_stock": true
         },
         {
@@ -1079,41 +1082,6 @@
     },
     {
       "brand": "Lenovo",
-      "id": "noon-N70269990V",
-      "name": "Laptop Lenovo IdeaPad Slim 3 15IRH10 Core i5-13420H RAM 16G DDR5 4800 HDD 512GB SSD M.2 NVMe Integrated Intel UHD Graphics, Windows 11 Home 83K100FMED With MOUSE Lenovo & BAG - English/Arabic Luna Grey",
-      "category": "لابتوب",
-      "search": "Lenovo IdeaPad laptop",
-      "images": [
-        "https://f.nooncdn.com/p/pzsku/ZD7519A068F4DCB2F26B8Z/45/_/1780919204/09239420-50e2-4ecd-ace3-b918f7c24c5b.jpg",
-        "https://media.btech.com/catalogs/c/1/d/b/c1dbdd190fedde329842f31a68bf7cb5ff32bafe_1BLNLPI5K100FLEDL020.jpg",
-        "https://2b.com.eg/media/catalog/product/cache/45bcba66b667d1ca52af48b101a5f0cb/z/l/zl610-1.jpg"
-      ],
-      "offers": [
-        {
-          "store": "noon",
-          "price": 45510,
-          "old_price": 51500,
-          "url": "https://www.noon.com/egypt-en/laptop-lenovo-ideapad-slim-3-15irh10-core-i5-13420h-ram-16g-ddr5-4800-hdd-512gb-ssd-m-2-nvme-integrated-intel-uhd-graphics-windows-11-home-83k100fmed-with-mouse-lenovo-bag-english-arabic-luna-grey/N70269990V/p/?o=eac4ed811abb6f3f",
-          "in_stock": true
-        },
-        {
-          "store": "btech",
-          "price": 45430,
-          "old_price": 45430,
-          "url": "https://btech.com/en/s?q=Laptop+Lenovo+IdeaPad+Slim+3+15IRH10+Core",
-          "in_stock": true
-        },
-        {
-          "store": "2b",
-          "price": 44999,
-          "old_price": 62349,
-          "url": "https://2b.com.eg/en/lenovo-ideapad-slim-3-15irh10-laptop-intelr-coretm-i5-13420h-16gb-512gb-ssd-intelr-uhd-graphics-15-3-wuxga-60hz-luna-grey.html",
-          "in_stock": true
-        }
-      ]
-    },
-    {
-      "brand": "Lenovo",
       "id": "noon-N70381038V",
       "name": "IdeaPad Slim 3 15IPH11 Laptop, Intel Core Ultra 5 322, 16GB RAM, 512GB, Intel Graphics, 15.3” WUXGA, DOS, Grey, 2 Years Warranty - 83UR003YED English/Arabic Luna Grey",
       "category": "لابتوب",
@@ -1156,7 +1124,10 @@
       "images": [
         "https://f.nooncdn.com/p/pzsku/ZE59DC55CAAC27794C5EBZ/45/_/1794447680/1f9f13e0-5824-4220-b246-088d0e50f663.jpg",
         "https://media.btech.com/catalogs/c/4/3/5/c43511503a9a75b13ea9a9e72b91356fc4e8c1ff_asus_tuf_f16_fx608jhr_1.jpg",
-        "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/90NR0NB1-M00MT0_01.jpg?v=1792865132"
+        "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/90NR0NB1-M00MT0_01.jpg?v=1792865132",
+        "https://f.nooncdn.com/p/pzsku/ZA0BB5BB639BE69846E57Z/45/_/1779791667/304b79a7-e612-4e21-ad79-b9964324d6f7.jpg",
+        "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/ASUS-TUF-Gaming-F16-_FX608JMR__01.jpg?v=1760534652",
+        "https://f.nooncdn.com/p/pzsku/Z2B9BCED36A0901B619F3Z/45/_/1779791277/37bb78f5-4c44-40ae-a2c8-ac2d4da1abf7.jpg"
       ],
       "offers": [
         {
@@ -1175,10 +1146,10 @@
         },
         {
           "store": "compumarts",
-          "price": 75555,
+          "price": 95555,
           "old_price": null,
-          "url": "https://www.compumarts.com/products/asus-tuf-f16-fx608jhi-tu657w-gaming-laptop-i7-14650hx-rtx-5050-egypt",
-          "in_stock": false
+          "url": "https://www.compumarts.com/products/asus-tuf-gaming-f16-i7-rtx5060",
+          "in_stock": true
         }
       ]
     },
@@ -2391,33 +2362,6 @@
           "price": 87768,
           "old_price": 87768,
           "url": "https://btech.com/en/s?q=HP+Victus+16+r0046ne+Gaming+Laptop",
-          "in_stock": true
-        }
-      ]
-    },
-    {
-      "brand": "ASUS",
-      "id": "noon-N70247915V",
-      "name": "FX608JMR-RV017W ASUS TUF Gaming F16 Laptop with 16 inch FHD / i7 Processor 14650HX  / 16 GB RAM / 1 Tera SSD / NVIDIA® GeForce RTX™ 5060 Laptop GPU / English/ Win11/Jaeger Gray English Jaeger Gray",
-      "category": "لابتوب",
-      "search": "ASUS TUF Gaming laptop",
-      "images": [
-        "https://f.nooncdn.com/p/pzsku/ZA0BB5BB639BE69846E57Z/45/_/1779791667/304b79a7-e612-4e21-ad79-b9964324d6f7.jpg",
-        "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/ASUS-TUF-Gaming-F16-_FX608JMR__01.jpg?v=1760534652"
-      ],
-      "offers": [
-        {
-          "store": "noon",
-          "price": 98653,
-          "old_price": 117600,
-          "url": "https://www.noon.com/egypt-en/fx608jmr-rv017w-asus-tuf-gaming-f16-laptop-with-16-inch-fhd-i7-processor-14650hx-16-gb-ram-1-tera-ssd-nvidia-geforce-rtx-5060-laptop-gpu-english-win11-jaeger-gray-english-jaeger-gray/N70247915V/p/?o=dca35b0296036b4b",
-          "in_stock": true
-        },
-        {
-          "store": "compumarts",
-          "price": 95555,
-          "old_price": null,
-          "url": "https://www.compumarts.com/products/asus-tuf-gaming-f16-i7-rtx5060",
           "in_stock": true
         }
       ]
@@ -4791,25 +4735,6 @@
       ]
     },
     {
-      "brand": "ASUS",
-      "id": "noon-N70220997V",
-      "name": "(Upgraded Version) TUF Gaming F16 FX608JMR 16\" WUXGA Display 165Hz Gaming Laptop – Intel Core i7-14650HX 32GB DDR5 RAM 1TB PCIe SSD NVIDIA GeForce RTX 5060 8GB Windows 11 Home + MS Office 365 Free English Jasper English Jasper",
-      "category": "لابتوب",
-      "search": "ASUS TUF Gaming laptop",
-      "images": [
-        "https://f.nooncdn.com/p/pzsku/Z2B9BCED36A0901B619F3Z/45/_/1779791277/37bb78f5-4c44-40ae-a2c8-ac2d4da1abf7.jpg"
-      ],
-      "offers": [
-        {
-          "store": "noon",
-          "price": 100750,
-          "old_price": 109270,
-          "url": "https://www.noon.com/egypt-en/upgraded-version-tuf-gaming-f16-fx608jmr-16-wuxga-display-165hz-gaming-laptop-intel-core-i7-14650hx-32gb-ddr5-ram-1tb-pcie-ssd-nvidia-geforce-rtx-5060-8gb-windows-11-home-ms-office-365-free-english-jasper-english-jasper/N70220997V/p/?o=cecb4d3220f9a60b",
-          "in_stock": true
-        }
-      ]
-    },
-    {
       "brand": "Generic",
       "id": "noon-N70338788V",
       "name": "ASUS TUF Gaming VG249Q5R 23.8” Full HD Fast IPS Gaming Monitor, 200Hz, 0.3ms, FreeSync Premium/G-Sync Compatible, HDR10, 100% sRGB, ELMB, Shadow Boost, Flicker-Free, Low Blue Light, HDMI, DisplayPort, VESA Mountable, Black | 90LM0BT0-B01E71 Black",
@@ -5196,7 +5121,8 @@
       "category": "أجهزة منزلية",
       "search": "Samsung washing machine",
       "images": [
-        "https://media.btech.com/catalogs/5/4/b/6/54b6024002c9a70f2ae840689371554962a11187_eg_front_loading_washer_ww70t4020cheo_382122_ww90t4040cx1as_530748633.png"
+        "https://media.btech.com/catalogs/5/4/b/6/54b6024002c9a70f2ae840689371554962a11187_eg_front_loading_washer_ww70t4020cheo_382122_ww90t4040cx1as_530748633.png",
+        "https://cdn.mafrservices.com/sys-master-root/hd9/h4b/17303144038430/573696_main.jpg?im=Resize=(300,300)"
       ],
       "offers": [
         {
@@ -5204,6 +5130,13 @@
           "price": 24999,
           "old_price": 26999,
           "url": "https://btech.com/en/p/samsung-automatic-washing-machine-9kg-ww90t4040cx1as",
+          "in_stock": true
+        },
+        {
+          "store": "carrefour",
+          "price": 26999,
+          "old_price": null,
+          "url": "https://www.carrefouregypt.com/mafegy/en/washing-machine/samsung-wm-ww90t4040cx1as-9kg/p/573696?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000",
           "in_stock": true
         }
       ]
@@ -5261,25 +5194,6 @@
           "price": 24499,
           "old_price": null,
           "url": "https://www.carrefouregypt.com/mafegy/en/washing-machine/samsung-wm-ww80t4040cx1as-inox/p/575608?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000",
-          "in_stock": true
-        }
-      ]
-    },
-    {
-      "brand": "",
-      "id": "carrefour-573696",
-      "name": "Samsung Washing Machine Front Load - 9kg - WW90T4040CX1AS",
-      "category": "أجهزة منزلية",
-      "search": "Samsung washing machine",
-      "images": [
-        "https://cdn.mafrservices.com/sys-master-root/hd9/h4b/17303144038430/573696_main.jpg?im=Resize=(300,300)"
-      ],
-      "offers": [
-        {
-          "store": "carrefour",
-          "price": 26999,
-          "old_price": null,
-          "url": "https://www.carrefouregypt.com/mafegy/en/washing-machine/samsung-wm-ww90t4040cx1as-9kg/p/573696?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000",
           "in_stock": true
         }
       ]
@@ -5902,7 +5816,8 @@
       "category": "شاشات كمبيوتر",
       "search": "Samsung monitor",
       "images": [
-        "https://cdn.mafrservices.com/pim-content/EGY/media/product/670184/1769424000/670184_main.jpg?im=Resize=(300,300)"
+        "https://cdn.mafrservices.com/pim-content/EGY/media/product/670184/1769424000/670184_main.jpg?im=Resize=(300,300)",
+        "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/67c4f9c0-0fb8-4940-af63-07a286e3c9e7.png?v=1792942334"
       ],
       "offers": [
         {
@@ -5911,43 +5826,12 @@
           "old_price": null,
           "url": "https://www.carrefouregypt.com/mafegy/en/monitors/mnt-samsung-27-ls27d302gauxen/p/670184?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
           "in_stock": true
-        }
-      ]
-    },
-    {
-      "brand": "",
-      "id": "carrefour-2251257000029",
-      "name": "Samsung Galaxy Watch7 AI Smart Watch, Health Monitoring Fitness Tracking, 44mm LTE Silver",
-      "category": "شاشات كمبيوتر",
-      "search": "Samsung monitor",
-      "images": [
-        "https://cdn.mafrservices.com/pim-content/EGY/media/product/2251257000029/1790774048/2251257000029_main.jpeg?im=Resize=(300,300)"
-      ],
-      "offers": [
+        },
         {
-          "store": "carrefour",
-          "price": 9999,
+          "store": "compumarts",
+          "price": 4900,
           "old_price": null,
-          "url": "https://www.carrefouregypt.com/mafegy/en/smart-watches-wearables/samsung-galaxy-watch7-ai-smart-watch-health-monitoring-fitness-tracking-44mm-lte-silver/p/2251257000029?offer=offer_1004122512&sid=DEFAULT&sellerId=22512",
-          "in_stock": true
-        }
-      ]
-    },
-    {
-      "brand": "",
-      "id": "carrefour-1737043000343",
-      "name": "Samsung Galaxy Watch Ultra 47mm Smartwatch, LTE, Health Monitoring, Fitness Tracker Titanium, Silver",
-      "category": "شاشات كمبيوتر",
-      "search": "Samsung monitor",
-      "images": [
-        "https://cdn.mafrservices.com/pim-content/EGY/media/product/1737043000343/1735052406/1737043000343_main.jpeg?im=Resize=(300,300)"
-      ],
-      "offers": [
-        {
-          "store": "carrefour",
-          "price": 20200,
-          "old_price": null,
-          "url": "https://www.carrefouregypt.com/mafegy/en/smart-watches-wearables/samsung-galaxy-watch-ultra-47mm-smartwatch-lte-health-monitoring-fitness-tracker-titanium-silver/p/1737043000343?offer=offer_1026422512&sid=DEFAULT&sellerId=22512",
+          "url": "https://www.compumarts.com/products/samsung-ls27d302gauxen-27-inch-full-hd-gaming-monitor-ips-lcd-1920-x-1080-pixels-100-hz-5-ms",
           "in_stock": true
         }
       ]
@@ -6067,25 +5951,6 @@
       ]
     },
     {
-      "brand": "",
-      "id": "carrefour-6956116723033",
-      "name": "JoyRoom 350 mAh JR-FC2 Pro 48mm Stylish Smart Watch for Men & Women, 350mAh Classic Series – Bluetooth Calling, Fitness & Sleep Tracking, Heart Rate Monitor, Waterproof IP68, Multi-Language",
-      "category": "شاشات كمبيوتر",
-      "search": "LG monitor",
-      "images": [
-        "https://cdn.mafrservices.com/pim-content/EGY/media/product/6956116723033/1790583246/6956116723033_main.jpeg?im=Resize=(300,300)"
-      ],
-      "offers": [
-        {
-          "store": "carrefour",
-          "price": 1588,
-          "old_price": null,
-          "url": "https://www.carrefouregypt.com/mafegy/en/smart-watches-wearables/joyroom-350-mah-jr-fc2-pro-48mm-stylish-smart-watch-for-men-women-350mah-classic-series-bluetooth-calling-fitness-sleep-tracking-heart-rate-monitor-waterproof-ip68-multi-language/p/6956116723033?offer=offer_1020522512&sid=DEFAULT&sellerId=22512",
-          "in_stock": true
-        }
-      ]
-    },
-    {
       "brand": "SAMSUNG",
       "id": "compumarts-samsung-27-odyssey-oled-g6-g60sd-series-gaming-monitor-with-qhd-360hz-0-03ms-amd",
       "name": "Samsung 27\" Odyssey OLED G6 (G60SD) QHD 360Hz 0.03ms FreeSync Premium Pro Gaming Monitor with Sleek Metal Design",
@@ -6138,25 +6003,6 @@
           "price": 53499,
           "old_price": null,
           "url": "https://www.compumarts.com/products/samsung-odyssey-oled-g8-g80sd-32-4k-uhd-240hz-0-03ms-oled-gaming-monitor",
-          "in_stock": true
-        }
-      ]
-    },
-    {
-      "brand": "SAMSUNG",
-      "id": "compumarts-samsung-ls27d302gauxen-27-inch-full-hd-gaming-monitor-ips-lcd-1920-x-1080-pixels",
-      "name": "Samsung LS27D302GAUXEN 27-inch Full HD gaming monitor IPS LCD- 1920 x 1080 pixels 100 Hz 5 ms",
-      "category": "شاشات كمبيوتر",
-      "search": "LG monitor",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/67c4f9c0-0fb8-4940-af63-07a286e3c9e7.png?v=1792942334"
-      ],
-      "offers": [
-        {
-          "store": "compumarts",
-          "price": 4900,
-          "old_price": null,
-          "url": "https://www.compumarts.com/products/samsung-ls27d302gauxen-27-inch-full-hd-gaming-monitor-ips-lcd-1920-x-1080-pixels-100-hz-5-ms",
           "in_stock": true
         }
       ]
@@ -6263,7 +6109,8 @@
       "category": "شاشات كمبيوتر",
       "search": "Dell monitor",
       "images": [
-        "https://media.btech.com/catalogs/4/1/f/c/41fc9fbcc90dfe5816994e375ea5556501e99f18_monitor_se2225hm_c_port_black_gallery_2.jpg"
+        "https://media.btech.com/catalogs/4/1/f/c/41fc9fbcc90dfe5816994e375ea5556501e99f18_monitor_se2225hm_c_port_black_gallery_2.jpg",
+        "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/SE2225HM_01.jpg?v=1793521770"
       ],
       "offers": [
         {
@@ -6271,6 +6118,13 @@
           "price": 5015,
           "old_price": 5015,
           "url": "https://btech.com/en/p/37359b28-f52d-4a44-99e1-f716fdf97896",
+          "in_stock": true
+        },
+        {
+          "store": "compumarts",
+          "price": 4950,
+          "old_price": null,
+          "url": "https://www.compumarts.com/products/dell-se2225hm-21-5-full-hd-100hz-monitor-egypt",
           "in_stock": true
         }
       ]
@@ -6328,25 +6182,6 @@
           "price": 6800,
           "old_price": null,
           "url": "https://www.compumarts.com/products/dell-se2725hm-27-inch-fhd-ips-100hz-monitor-egypt",
-          "in_stock": true
-        }
-      ]
-    },
-    {
-      "brand": "DELL",
-      "id": "compumarts-dell-se2225hm-21-5-full-hd-100hz-monitor-egypt",
-      "name": "Dell SE2225HM 21.5\" Full HD VA LED Monitor 100Hz HDMI VGA",
-      "category": "شاشات كمبيوتر",
-      "search": "Dell monitor",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/SE2225HM_01.jpg?v=1793521770"
-      ],
-      "offers": [
-        {
-          "store": "compumarts",
-          "price": 4950,
-          "old_price": null,
-          "url": "https://www.compumarts.com/products/dell-se2225hm-21-5-full-hd-100hz-monitor-egypt",
           "in_stock": true
         }
       ]
@@ -6947,7 +6782,8 @@
       "category": "أجهزة مطبخ",
       "search": "Philips blender",
       "images": [
-        "https://media.btech.com/catalogs/2/0/6/9/2069b05ed2d487896f7513c9ff3002138634e24a_61g9_1Gi3sL._AC_SL1500_.jpg"
+        "https://media.btech.com/catalogs/2/0/6/9/2069b05ed2d487896f7513c9ff3002138634e24a_61g9_1Gi3sL._AC_SL1500_.jpg",
+        "https://cdn.mafrservices.com/sys-master-root/ha7/h7c/52221618192414/624629_main.jpg?im=Resize=(300,300)"
       ],
       "offers": [
         {
@@ -6955,6 +6791,13 @@
           "price": 2999,
           "old_price": 3249,
           "url": "https://btech.com/en/p/acf6e81d-e1a8-4c18-812c-c9a2f930ff0f",
+          "in_stock": true
+        },
+        {
+          "store": "carrefour",
+          "price": 3440,
+          "old_price": null,
+          "url": "https://www.carrefouregypt.com/mafegy/en/blender/philips-blender-hr2041-16-450w-1-9l/p/624629?offer=offer_1127716985&sid=DEFAULT&sellerId=16985",
           "in_stock": true
         }
       ]
@@ -6993,25 +6836,6 @@
           "price": 4299,
           "old_price": 4299,
           "url": "https://btech.com/en/p/47035e75-9764-4016-a962-1ccf3701119e",
-          "in_stock": true
-        }
-      ]
-    },
-    {
-      "brand": "",
-      "id": "carrefour-624629",
-      "name": "Philips Blender - 450 Watt - 1.9 Liter - White - HR2041/16",
-      "category": "أجهزة مطبخ",
-      "search": "Philips blender",
-      "images": [
-        "https://cdn.mafrservices.com/sys-master-root/ha7/h7c/52221618192414/624629_main.jpg?im=Resize=(300,300)"
-      ],
-      "offers": [
-        {
-          "store": "carrefour",
-          "price": 3440,
-          "old_price": null,
-          "url": "https://www.carrefouregypt.com/mafegy/en/blender/philips-blender-hr2041-16-450w-1-9l/p/624629?offer=offer_1127716985&sid=DEFAULT&sellerId=16985",
           "in_stock": true
         }
       ]
