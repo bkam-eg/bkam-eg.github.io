@@ -303,7 +303,13 @@ def keywords(name):
     n = name.lower()
     n = re.sub(r"(?<=\b[a-z])-(?=[a-z]{3,})", "", n)  # E-train = Etrain
     n = re.sub(r"play\s*station\s*5|\bps\s*5\b", " ps5 ", n)
-    n = re.sub(r"(\d+)\s+(gb|tb|mah|w|mm|inch|hz|k)\b", r"\1\2", n)
+    # وحدات بأشكال مختلفة = نفس الوحدة (100 Hertz = 100Hz، 27" = 27 inch، 5 Millisecond = 5ms)
+    for pat, unit in ((r"hertz", "hz"), (r"milli\s*seconds?|msec", "ms"), (r"inches|inch|in\b(?!\s*(?:black|white|\d))|\"|”|″|''", "inch"),
+                      (r"litres?|liters?|ltr", "l"), (r"watts?", "w"), (r"kilograms?|kgs?", "kg"),
+                      (r"terabytes?", "tb"), (r"gigabytes?", "gb"), (r"horse\s*power", "hp")):
+        n = re.sub(r"(?<![a-z\d.])(\d+(?:\.\d+)?)\s*-?\s*(?:" + pat + r")", r"\1" + unit, n)
+    n = re.sub(r"(\d+)\s+(gb|tb|mah|w|mm|inch|hz|k|ms|l|kg|hp)\b", r"\1\2", n)
+    n = re.sub(r"(\d+)\.(\d+)(inch|l|hp|kg)", r"\1\2\3", n)  # 23.8inch = 238inch (كلمة واحدة)
     n = re.sub(r"\bdual\s+sense\b", "dualsense", n)
     n = re.sub(r"\blight\s+sync\b", "lightsync", n)
     return re.findall(r"[a-z0-9]+", n)

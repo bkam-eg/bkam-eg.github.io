@@ -2591,7 +2591,8 @@
       "search": "Sharp air conditioner",
       "images": [
         "https://f.nooncdn.com/p/pzsku/Z4DFFECD7A5E182BD598FZ/45/_/1779344677/11281272-b10b-407b-9cd5-28c8beb43865.jpg",
-        "https://media.btech.com/catalogs/a/6/9/f/a69f0c92381db755de64d34228eae3f59eb0c55c_B6000002657T.jpeg"
+        "https://media.btech.com/catalogs/a/6/9/f/a69f0c92381db755de64d34228eae3f59eb0c55c_B6000002657T.jpeg",
+        "https://f.nooncdn.com/p/pzsku/Z6CEB215790EB6768230FZ/45/_/1779344781/e9f59a61-ff97-41b7-81b8-4a9503dc84fa.jpg"
       ],
       "offers": [
         {
@@ -2618,34 +2619,11 @@
       "search": "Carrier air conditioner",
       "images": [
         "https://f.nooncdn.com/p/pzsku/ZA8203EF4DCB73A664EC2Z/45/1758551922/5a874408-5e4c-4ccf-bd36-b95c931acb5f.jpg",
-        "https://cdn.mafrservices.com/pim-content/EGY/media/product/2263858000003/1791357242/2263858000003_main.jpeg?im=Resize=(300,300)"
-      ],
-      "offers": [
-        {
-          "store": "noon",
-          "price": 30999,
-          "old_price": 30999,
-          "url": "https://www.noon.com/egypt-en/carrier-x-cool-inverter-air-conditioner-1-5-hp-cooling-and-heating-53qheft12dn8-708f/ZA8203EF4DCB73A664EC2Z/p/?o=d7aa67b6ee7ca8ca",
-          "in_stock": true
-        },
-        {
-          "store": "carrefour",
-          "price": 29500,
-          "old_price": null,
-          "url": "https://www.carrefouregypt.com/mafegy/en/air-conditioners/carrier-xcool-inverter-air-conditioner-1-5-hp-cooling-heating-53qheft12dn8-708f/p/2263858000003?offer=offer_1003322638&sid=DEFAULT&sellerId=22638",
-          "in_stock": true
-        }
-      ]
-    },
-    {
-      "brand": "Generic",
-      "id": "noon-ZB4591DD1DE661E43EC8EZ",
-      "name": "Carrier 1.5 HP Cool Only Air Conditioner - X-Cool 53KHEFT12N8-708F",
-      "category": "أجهزة منزلية",
-      "search": "Carrier air conditioner",
-      "images": [
+        "https://cdn.mafrservices.com/pim-content/EGY/media/product/2263858000003/1791357242/2263858000003_main.jpeg?im=Resize=(300,300)",
         "https://f.nooncdn.com/p/pzsku/ZB4591DD1DE661E43EC8EZ/45/_/1785160246/fbf2f1c7-0167-47fa-9a27-fa8c9ff23a7d.jpg",
-        "https://media.btech.com/catalogs/e/7/2/b/e72b6b04232003cb48c8a3ffa8aa27a036285786_765234754685765.jpg"
+        "https://media.btech.com/catalogs/e/7/2/b/e72b6b04232003cb48c8a3ffa8aa27a036285786_765234754685765.jpg",
+        "https://f.nooncdn.com/p/pzsku/ZD3071BF5A10DD7986B3CZ/45/_/1793720777/0a5ca41c-5622-4fc1-bce8-d44b36d792b1.jpg",
+        "https://cdn.mafrservices.com/pim-content/EGY/media/product/677668/1781093804/677668_main.jpg?im=Resize=(300,300)"
       ],
       "offers": [
         {
@@ -2653,6 +2631,13 @@
           "price": 22999,
           "old_price": 25000,
           "url": "https://www.noon.com/egypt-en/carrier-1-5-hp-cool-only-air-conditioner-x-cool-53kheft12n8-708f/ZB4591DD1DE661E43EC8EZ/p/?o=c3244449289d747e",
+          "in_stock": true
+        },
+        {
+          "store": "carrefour",
+          "price": 26419,
+          "old_price": null,
+          "url": "https://www.carrefouregypt.com/mafegy/en/air-conditioners/carrier-a-c-53kheft12n8-708f1-5hp-c/p/677668?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000",
           "in_stock": true
         },
         {
@@ -2672,7 +2657,8 @@
       "search": "Carrier air conditioner",
       "images": [
         "https://f.nooncdn.com/p/pzsku/ZDF270001FB8667AE14DDZ/45/1764868570/9cac18e5-b3bc-42f3-a3e4-64b30d0445b8.jpg",
-        "https://media.btech.com/catalogs/c/e/e/9/cee997a7d43c753ae8d8022c944bd1e79c430351_1.jpg"
+        "https://media.btech.com/catalogs/c/e/e/9/cee997a7d43c753ae8d8022c944bd1e79c430351_1.jpg",
+        "https://f.nooncdn.com/p/pzsku/Z0406741F050FF794AA27Z/45/_/1778931113/5d209ef9-6109-4420-bd82-be03f662d2ef.jpg"
       ],
       "offers": [
         {
@@ -2687,33 +2673,6 @@
           "price": 49399,
           "old_price": 49399,
           "url": "https://btech.com/en/p/carrier-air-conditioner-3hp-cool-inverter-khct24dn",
-          "in_stock": true
-        }
-      ]
-    },
-    {
-      "brand": "Generic",
-      "id": "noon-ZD3071BF5A10DD7986B3CZ",
-      "name": "Carrier X-Cool 1.5 HP Cooling Only Split Air Conditioner, Model 38KHEFT12N",
-      "category": "أجهزة منزلية",
-      "search": "Carrier air conditioner",
-      "images": [
-        "https://f.nooncdn.com/p/pzsku/ZD3071BF5A10DD7986B3CZ/45/_/1793720777/0a5ca41c-5622-4fc1-bce8-d44b36d792b1.jpg",
-        "https://cdn.mafrservices.com/pim-content/EGY/media/product/677668/1781093804/677668_main.jpg?im=Resize=(300,300)"
-      ],
-      "offers": [
-        {
-          "store": "noon",
-          "price": 24137,
-          "old_price": 27000,
-          "url": "https://www.noon.com/egypt-en/carrier-x-cool-1-5-hp-cooling-only-split-air-conditioner-model-38kheft12n/ZD3071BF5A10DD7986B3CZ/p/?o=d1c141e00e68886a",
-          "in_stock": true
-        },
-        {
-          "store": "carrefour",
-          "price": 26419,
-          "old_price": null,
-          "url": "https://www.carrefouregypt.com/mafegy/en/air-conditioners/carrier-a-c-53kheft12n8-708f1-5hp-c/p/677668?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000",
           "in_stock": true
         }
       ]
@@ -3179,6 +3138,114 @@
           "price": 3449,
           "old_price": 4449,
           "url": "https://2b.com.eg/en/huawei-band-11-pro-blue.html",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Samsung",
+      "id": "btech-1MSAWMFUWW90T404F008",
+      "name": "Samsung Front Load Washing Machine , 9 kg , Silver - WW90T4040CX1AS",
+      "category": "أجهزة منزلية",
+      "search": "Samsung washing machine",
+      "images": [
+        "https://media.btech.com/catalogs/5/4/b/6/54b6024002c9a70f2ae840689371554962a11187_eg_front_loading_washer_ww70t4020cheo_382122_ww90t4040cx1as_530748633.png",
+        "https://cdn.mafrservices.com/sys-master-root/hd9/h4b/17303144038430/573696_main.jpg?im=Resize=(300,300)"
+      ],
+      "offers": [
+        {
+          "store": "btech",
+          "price": 24999,
+          "old_price": 26999,
+          "url": "https://btech.com/en/p/samsung-automatic-washing-machine-9kg-ww90t4040cx1as",
+          "in_stock": true
+        },
+        {
+          "store": "carrefour",
+          "price": 26999,
+          "old_price": null,
+          "url": "https://www.carrefouregypt.com/mafegy/en/washing-machine/samsung-wm-ww90t4040cx1as-9kg/p/573696?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "",
+      "id": "carrefour-670184",
+      "name": "Samsung 27-inch FHD Essential S30GD LED 100Hz Monitor - LS27D302GAUXEN",
+      "category": "شاشات كمبيوتر",
+      "search": "Samsung monitor",
+      "images": [
+        "https://cdn.mafrservices.com/pim-content/EGY/media/product/670184/1769424000/670184_main.jpg?im=Resize=(300,300)",
+        "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/67c4f9c0-0fb8-4940-af63-07a286e3c9e7.png?v=1792942334"
+      ],
+      "offers": [
+        {
+          "store": "carrefour",
+          "price": 5129,
+          "old_price": null,
+          "url": "https://www.carrefouregypt.com/mafegy/en/monitors/mnt-samsung-27-ls27d302gauxen/p/670184?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+          "in_stock": true
+        },
+        {
+          "store": "compumarts",
+          "price": 4900,
+          "old_price": null,
+          "url": "https://www.compumarts.com/products/samsung-ls27d302gauxen-27-inch-full-hd-gaming-monitor-ips-lcd-1920-x-1080-pixels-100-hz-5-ms",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Dell",
+      "id": "btech-2C9F983232A7FD67F559",
+      "name": "Dell 22 Inch Flat Monitor , 100 Hertz 5 Millisecond , Black - SE2225HM",
+      "category": "شاشات كمبيوتر",
+      "search": "Dell monitor",
+      "images": [
+        "https://media.btech.com/catalogs/4/1/f/c/41fc9fbcc90dfe5816994e375ea5556501e99f18_monitor_se2225hm_c_port_black_gallery_2.jpg",
+        "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/SE2225HM_01.jpg?v=1793521770"
+      ],
+      "offers": [
+        {
+          "store": "btech",
+          "price": 5015,
+          "old_price": 5015,
+          "url": "https://btech.com/en/p/37359b28-f52d-4a44-99e1-f716fdf97896",
+          "in_stock": true
+        },
+        {
+          "store": "compumarts",
+          "price": 4950,
+          "old_price": null,
+          "url": "https://www.compumarts.com/products/dell-se2225hm-21-5-full-hd-100hz-monitor-egypt",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "brand": "Philips",
+      "id": "btech-1SPHBLFSHR204116L001",
+      "name": "Philips Countertop Blender with Mill , ProBlend System 1 Liter 450 Watt White - HR2041/16",
+      "category": "أجهزة مطبخ",
+      "search": "Philips blender",
+      "images": [
+        "https://media.btech.com/catalogs/2/0/6/9/2069b05ed2d487896f7513c9ff3002138634e24a_61g9_1Gi3sL._AC_SL1500_.jpg",
+        "https://cdn.mafrservices.com/sys-master-root/ha7/h7c/52221618192414/624629_main.jpg?im=Resize=(300,300)"
+      ],
+      "offers": [
+        {
+          "store": "btech",
+          "price": 2999,
+          "old_price": 3249,
+          "url": "https://btech.com/en/p/acf6e81d-e1a8-4c18-812c-c9a2f930ff0f",
+          "in_stock": true
+        },
+        {
+          "store": "carrefour",
+          "price": 3440,
+          "old_price": null,
+          "url": "https://www.carrefouregypt.com/mafegy/en/blender/philips-blender-hr2041-16-450w-1-9l/p/624629?offer=offer_1127716985&sid=DEFAULT&sellerId=16985",
           "in_stock": true
         }
       ]
@@ -3680,25 +3747,6 @@
           "price": 27550,
           "old_price": null,
           "url": "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-mobile-galaxy-a37-256gb-12gb-ram-5g-awesome-white/p/1698542000185?offer=offer_1492216985&sid=DEFAULT&sellerId=16985",
-          "in_stock": true
-        }
-      ]
-    },
-    {
-      "brand": "",
-      "id": "carrefour-655782",
-      "name": "Samsung Galaxy A56 - 6.7-inch 256GB/8GB Dual SIM 5G Smartphone - Graphite",
-      "category": "موبايلات",
-      "search": "Samsung Galaxy A36",
-      "images": [
-        "https://cdn.mafrservices.com/pim-content/EGY/media/product/655782/1790854749/655782_main.jpg?im=Resize=(300,300)"
-      ],
-      "offers": [
-        {
-          "store": "carrefour",
-          "price": 24999,
-          "old_price": null,
-          "url": "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-a56-8-256/p/655782?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
           "in_stock": true
         }
       ]
@@ -4855,14 +4903,15 @@
       "category": "أجهزة منزلية",
       "search": "Sharp refrigerator",
       "images": [
-        "https://media.btech.com/catalogs/e/4/e/2/e4e20e5323b3723be4643f0f4e7ef3556c33942c_sharp_refrigerator_in_color_sj_gv58g_rd.jpeg"
+        "https://media.btech.com/catalogs/e/4/e/2/e4e20e5323b3723be4643f0f4e7ef3556c33942c_sharp_refrigerator_in_color_sj_gv58g_rd.jpeg",
+        "https://media.btech.com/catalogs/6/6/9/d/669d0fc88fcf4d6c4aa3af0c59c5e0b01f201d43_sharp_refrigerator_no_frost_450_liter_beige_sj_58c_be.jpg"
       ],
       "offers": [
         {
           "store": "btech",
-          "price": 45999,
-          "old_price": 45999,
-          "url": "https://btech.com/en/p/sharp-nofrost-fridge-450l-inverter-sjgv58grd",
+          "price": 39725,
+          "old_price": 39725,
+          "url": "https://btech.com/en/p/sharp-nofrost-top-freezer-refrigerator-450-liter-beige-sj-58c-be",
           "in_stock": true
         }
       ]
@@ -4901,25 +4950,6 @@
           "price": 46419,
           "old_price": 46419,
           "url": "https://btech.com/en/p/sharp-no-frost-refrigerator-449l-sj-58cbk",
-          "in_stock": true
-        }
-      ]
-    },
-    {
-      "brand": "Sharp",
-      "id": "btech-F245B14663478E9C9AAA",
-      "name": "Sharp NoFrost Top Freezer Refrigerator , 450 Liter , Beige - SJ-58C(BE)",
-      "category": "أجهزة منزلية",
-      "search": "Sharp refrigerator",
-      "images": [
-        "https://media.btech.com/catalogs/6/6/9/d/669d0fc88fcf4d6c4aa3af0c59c5e0b01f201d43_sharp_refrigerator_no_frost_450_liter_beige_sj_58c_be.jpg"
-      ],
-      "offers": [
-        {
-          "store": "btech",
-          "price": 39725,
-          "old_price": 39725,
-          "url": "https://btech.com/en/p/sharp-nofrost-top-freezer-refrigerator-450-liter-beige-sj-58c-be",
           "in_stock": true
         }
       ]
@@ -5116,33 +5146,6 @@
     },
     {
       "brand": "Samsung",
-      "id": "btech-1MSAWMFUWW90T404F008",
-      "name": "Samsung Front Load Washing Machine , 9 kg , Silver - WW90T4040CX1AS",
-      "category": "أجهزة منزلية",
-      "search": "Samsung washing machine",
-      "images": [
-        "https://media.btech.com/catalogs/5/4/b/6/54b6024002c9a70f2ae840689371554962a11187_eg_front_loading_washer_ww70t4020cheo_382122_ww90t4040cx1as_530748633.png",
-        "https://cdn.mafrservices.com/sys-master-root/hd9/h4b/17303144038430/573696_main.jpg?im=Resize=(300,300)"
-      ],
-      "offers": [
-        {
-          "store": "btech",
-          "price": 24999,
-          "old_price": 26999,
-          "url": "https://btech.com/en/p/samsung-automatic-washing-machine-9kg-ww90t4040cx1as",
-          "in_stock": true
-        },
-        {
-          "store": "carrefour",
-          "price": 26999,
-          "old_price": null,
-          "url": "https://www.carrefouregypt.com/mafegy/en/washing-machine/samsung-wm-ww90t4040cx1as-9kg/p/573696?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000",
-          "in_stock": true
-        }
-      ]
-    },
-    {
-      "brand": "Samsung",
       "id": "btech-95AD9A643E855D93C967",
       "name": "Samsung Inverter Front Load Washing Machine , 11 kg , Black - WW11B1534DAP",
       "category": "أجهزة منزلية",
@@ -5186,14 +5189,15 @@
       "category": "أجهزة منزلية",
       "search": "Samsung washing machine",
       "images": [
-        "https://cdn.mafrservices.com/sys-master-root/hed/h0c/26753033601054/575608_main.jpg?im=Resize=(300,300)"
+        "https://cdn.mafrservices.com/sys-master-root/hed/h0c/26753033601054/575608_main.jpg?im=Resize=(300,300)",
+        "https://cdn.mafrservices.com/pim-content/EGY/media/product/641736/1730277604/641736_main.jpg?im=Resize=(300,300)"
       ],
       "offers": [
         {
           "store": "carrefour",
-          "price": 24499,
+          "price": 15599,
           "old_price": null,
-          "url": "https://www.carrefouregypt.com/mafegy/en/washing-machine/samsung-wm-ww80t4040cx1as-inox/p/575608?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000",
+          "url": "https://www.carrefouregypt.com/mafegy/en/washing-machine/haier-wm-hw80-bp14929as6-8k-inv/p/641736?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000",
           "in_stock": true
         }
       ]
@@ -5213,25 +5217,6 @@
           "price": 19499,
           "old_price": null,
           "url": "https://www.carrefouregypt.com/mafegy/en/washing-machine/zanussi-wm-zwf8221ds7-460-tc2-1200/p/656975?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000",
-          "in_stock": true
-        }
-      ]
-    },
-    {
-      "brand": "",
-      "id": "carrefour-641736",
-      "name": "Haier Inverter Digital Front Load Washing Machine 8 Kg - Gray -HW80-BP14929AS6\n\n",
-      "category": "أجهزة منزلية",
-      "search": "Samsung washing machine",
-      "images": [
-        "https://cdn.mafrservices.com/pim-content/EGY/media/product/641736/1730277604/641736_main.jpg?im=Resize=(300,300)"
-      ],
-      "offers": [
-        {
-          "store": "carrefour",
-          "price": 15599,
-          "old_price": null,
-          "url": "https://www.carrefouregypt.com/mafegy/en/washing-machine/haier-wm-hw80-bp14929as6-8k-inv/p/641736?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000",
           "in_stock": true
         }
       ]
@@ -5289,44 +5274,6 @@
           "price": 53000,
           "old_price": 53000,
           "url": "https://www.noon.com/egypt-en/split-air-conditioner-2-25-hp-cool-heat-inverter-plasmacluster-ay-xp18yheb-black/N52840579A/p/?o=e05f7daad864c5ac",
-          "in_stock": true
-        }
-      ]
-    },
-    {
-      "brand": "Generic",
-      "id": "noon-N70072149V",
-      "name": "SHARP Split Air Conditioner 1.5 HP Cool Digital Plasmacluster AH-AP12ZHE White",
-      "category": "أجهزة منزلية",
-      "search": "Sharp air conditioner",
-      "images": [
-        "https://f.nooncdn.com/p/pzsku/Z6CEB215790EB6768230FZ/45/_/1779344781/e9f59a61-ff97-41b7-81b8-4a9503dc84fa.jpg"
-      ],
-      "offers": [
-        {
-          "store": "noon",
-          "price": 24599,
-          "old_price": 25949,
-          "url": "https://www.noon.com/egypt-en/sharp-split-air-conditioner-1-5-hp-cool-digital-plasmacluster-ah-ap12zhe-white/N70072149V/p/?o=abe231a8d831599c",
-          "in_stock": true
-        }
-      ]
-    },
-    {
-      "brand": "Generic",
-      "id": "noon-Z0406741F050FF794AA27Z",
-      "name": "Carrier 2.25 HP Cool & Heat X-Cool Inverter Air Conditioner (Carrier X-Cool Inverter) 53QHEFT18DN8-708F",
-      "category": "أجهزة منزلية",
-      "search": "Carrier air conditioner",
-      "images": [
-        "https://f.nooncdn.com/p/pzsku/Z0406741F050FF794AA27Z/45/_/1778931113/5d209ef9-6109-4420-bd82-be03f662d2ef.jpg"
-      ],
-      "offers": [
-        {
-          "store": "noon",
-          "price": 46299,
-          "old_price": 46299,
-          "url": "https://www.noon.com/egypt-en/carrier-2-25-hp-cool-heat-x-cool-inverter-air-conditioner-carrier-x-cool-inverter-53qheft18dn8-708f/Z0406741F050FF794AA27Z/p/?o=cf5fdf1b43549a4c",
           "in_stock": true
         }
       ]
@@ -5664,7 +5611,8 @@
       "category": "شاشات كمبيوتر",
       "search": "Samsung monitor",
       "images": [
-        "https://media.btech.com/catalogs/2/9/8/b/298bcc2f4ae29af70564112dc2d28067c252dac5_61nlBK29tQL._AC_SL1500_.jpg"
+        "https://media.btech.com/catalogs/2/9/8/b/298bcc2f4ae29af70564112dc2d28067c252dac5_61nlBK29tQL._AC_SL1500_.jpg",
+        "https://media.btech.com/catalogs/9/6/4/c/964cc0b4a0735b7a5ef28aa4fe4bfdc066b16a66_imageye_____imgi_21_Samsung_LS24D302GAU.jpg"
       ],
       "offers": [
         {
@@ -5697,25 +5645,6 @@
     },
     {
       "brand": "Samsung",
-      "id": "btech-048FC6A2A50081A5F77E",
-      "name": "Samsung Essential S3 24 Inch Monitor , 100 Hertz 5 Millisecond , Black - LS24D302GAU",
-      "category": "شاشات كمبيوتر",
-      "search": "Samsung monitor",
-      "images": [
-        "https://media.btech.com/catalogs/9/6/4/c/964cc0b4a0735b7a5ef28aa4fe4bfdc066b16a66_imageye_____imgi_21_Samsung_LS24D302GAU.jpg"
-      ],
-      "offers": [
-        {
-          "store": "btech",
-          "price": 7582,
-          "old_price": 7582,
-          "url": "https://btech.com/en/p/d2cb5283-4bdb-4fde-8bb8-4b5f9bd5c171",
-          "in_stock": true
-        }
-      ]
-    },
-    {
-      "brand": "Samsung",
       "id": "btech-54761BB27E4698DD8D66",
       "name": "Samsung 32 Inch QHD Flat Gaming Monitor , 180 Hertz 1 Millisecond , Black - LS32FG502EMXEG",
       "category": "شاشات كمبيوتر",
@@ -5740,7 +5669,8 @@
       "category": "شاشات كمبيوتر",
       "search": "Samsung monitor",
       "images": [
-        "https://media.btech.com/catalogs/9/3/5/7/93574debff3fe5d46fe037bd9c7bfe249d0e2af2_c8b39efbdfaf70d73dae76df761ee469a8c554aabd639180adcddaeb87a73c67.jpeg"
+        "https://media.btech.com/catalogs/9/3/5/7/93574debff3fe5d46fe037bd9c7bfe249d0e2af2_c8b39efbdfaf70d73dae76df761ee469a8c554aabd639180adcddaeb87a73c67.jpeg",
+        "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/e0e8791f-ac04-4875-9f1e-cb0de3ad0bd1.png?v=1792840784"
       ],
       "offers": [
         {
@@ -5749,6 +5679,13 @@
           "old_price": 9899,
           "url": "https://btech.com/en/p/samsung-32-inch-qhd-va-gaming-monitor-ls32cg552emxeg",
           "in_stock": true
+        },
+        {
+          "store": "compumarts",
+          "price": 9499,
+          "old_price": null,
+          "url": "https://www.compumarts.com/products/samsung-32-inch-g55c-va-2k-qhd-165hz-refresh-rate-1ms-curved-gaming-monitor",
+          "in_stock": false
         }
       ]
     },
@@ -5805,33 +5742,6 @@
           "price": 88999,
           "old_price": 116599,
           "url": "https://2b.com.eg/en/samsung-odyssey-neo-g9-49-dqhd-curved-monitor-240hz-ls49ag950nmxzn.html",
-          "in_stock": true
-        }
-      ]
-    },
-    {
-      "brand": "",
-      "id": "carrefour-670184",
-      "name": "Samsung 27-inch FHD Essential S30GD LED 100Hz Monitor - LS27D302GAUXEN",
-      "category": "شاشات كمبيوتر",
-      "search": "Samsung monitor",
-      "images": [
-        "https://cdn.mafrservices.com/pim-content/EGY/media/product/670184/1769424000/670184_main.jpg?im=Resize=(300,300)",
-        "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/67c4f9c0-0fb8-4940-af63-07a286e3c9e7.png?v=1792942334"
-      ],
-      "offers": [
-        {
-          "store": "carrefour",
-          "price": 5129,
-          "old_price": null,
-          "url": "https://www.carrefouregypt.com/mafegy/en/monitors/mnt-samsung-27-ls27d302gauxen/p/670184?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
-          "in_stock": true
-        },
-        {
-          "store": "compumarts",
-          "price": 4900,
-          "old_price": null,
-          "url": "https://www.compumarts.com/products/samsung-ls27d302gauxen-27-inch-full-hd-gaming-monitor-ips-lcd-1920-x-1080-pixels-100-hz-5-ms",
           "in_stock": true
         }
       ]
@@ -5928,25 +5838,6 @@
           "old_price": null,
           "url": "https://www.compumarts.com/products/products-samsung-odyssey-g5-g55c-27-inch-qhd-165hz-va-curved-gaming-monitor-ls27cg552emxeg",
           "in_stock": true
-        }
-      ]
-    },
-    {
-      "brand": "SAMSUNG",
-      "id": "compumarts-samsung-32-inch-g55c-va-2k-qhd-165hz-refresh-rate-1ms-curved-gaming-monitor",
-      "name": "Samsung Odyssey G5 G55C 32 Inch QHD 165Hz Curved Gaming Monitor VA Panel 2560x1440 1ms MPRT HDR10 FreeSync S32CG552EM",
-      "category": "شاشات كمبيوتر",
-      "search": "Samsung monitor",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/e0e8791f-ac04-4875-9f1e-cb0de3ad0bd1.png?v=1792840784"
-      ],
-      "offers": [
-        {
-          "store": "compumarts",
-          "price": 9499,
-          "old_price": null,
-          "url": "https://www.compumarts.com/products/samsung-32-inch-g55c-va-2k-qhd-165hz-refresh-rate-1ms-curved-gaming-monitor",
-          "in_stock": false
         }
       ]
     },
@@ -6098,33 +5989,6 @@
           "price": 15913,
           "old_price": 15913,
           "url": "https://btech.com/en/p/b7b28a46-78d1-4f0e-b564-e9b3c6826ab8",
-          "in_stock": true
-        }
-      ]
-    },
-    {
-      "brand": "Dell",
-      "id": "btech-2C9F983232A7FD67F559",
-      "name": "Dell 22 Inch Flat Monitor , 100 Hertz 5 Millisecond , Black - SE2225HM",
-      "category": "شاشات كمبيوتر",
-      "search": "Dell monitor",
-      "images": [
-        "https://media.btech.com/catalogs/4/1/f/c/41fc9fbcc90dfe5816994e375ea5556501e99f18_monitor_se2225hm_c_port_black_gallery_2.jpg",
-        "https://cdn.shopify.com/s/files/1/0622/7050/5109/files/SE2225HM_01.jpg?v=1793521770"
-      ],
-      "offers": [
-        {
-          "store": "btech",
-          "price": 5015,
-          "old_price": 5015,
-          "url": "https://btech.com/en/p/37359b28-f52d-4a44-99e1-f716fdf97896",
-          "in_stock": true
-        },
-        {
-          "store": "compumarts",
-          "price": 4950,
-          "old_price": null,
-          "url": "https://www.compumarts.com/products/dell-se2225hm-21-5-full-hd-100hz-monitor-egypt",
           "in_stock": true
         }
       ]
@@ -6777,33 +6641,6 @@
     },
     {
       "brand": "Philips",
-      "id": "btech-1SPHBLFSHR204116L001",
-      "name": "Philips Countertop Blender with Mill , ProBlend System 1 Liter 450 Watt White - HR2041/16",
-      "category": "أجهزة مطبخ",
-      "search": "Philips blender",
-      "images": [
-        "https://media.btech.com/catalogs/2/0/6/9/2069b05ed2d487896f7513c9ff3002138634e24a_61g9_1Gi3sL._AC_SL1500_.jpg",
-        "https://cdn.mafrservices.com/sys-master-root/ha7/h7c/52221618192414/624629_main.jpg?im=Resize=(300,300)"
-      ],
-      "offers": [
-        {
-          "store": "btech",
-          "price": 2999,
-          "old_price": 3249,
-          "url": "https://btech.com/en/p/acf6e81d-e1a8-4c18-812c-c9a2f930ff0f",
-          "in_stock": true
-        },
-        {
-          "store": "carrefour",
-          "price": 3440,
-          "old_price": null,
-          "url": "https://www.carrefouregypt.com/mafegy/en/blender/philips-blender-hr2041-16-450w-1-9l/p/624629?offer=offer_1127716985&sid=DEFAULT&sellerId=16985",
-          "in_stock": true
-        }
-      ]
-    },
-    {
-      "brand": "Philips",
       "id": "btech-195384034615F0A59454",
       "name": "Philips Series 5000 Countertop Blender with Attachments 1200 Watt Black - HR3033/00",
       "category": "أجهزة مطبخ",
@@ -7267,7 +7104,8 @@
       "category": "ساعات ذكية",
       "search": "Xiaomi Smart Band",
       "images": [
-        "https://media.btech.com/catalogs/8/7/6/c/876c33f9ca6ecc9bc5158a26a49d8ad902f9f5bd_1379155a72076cd2fcc53cb8de909c87541e115313ce725491b8b7afa244cf39.jpeg"
+        "https://media.btech.com/catalogs/8/7/6/c/876c33f9ca6ecc9bc5158a26a49d8ad902f9f5bd_1379155a72076cd2fcc53cb8de909c87541e115313ce725491b8b7afa244cf39.jpeg",
+        "https://cdn.mafrservices.com/pim-content/EGY/media/product/670065/1769424000/670065_main.jpg?im=Resize=(300,300)"
       ],
       "offers": [
         {
@@ -7275,6 +7113,13 @@
           "price": 1840,
           "old_price": 1840,
           "url": "https://btech.com/en/p/huawei-band-10-smart-band-1-47-inch-black-case-black-strap",
+          "in_stock": true
+        },
+        {
+          "store": "carrefour",
+          "price": 2151,
+          "old_price": null,
+          "url": "https://www.carrefouregypt.com/mafegy/en/smart-watches-wearables/huawei-band-10smart-band-b19-black/p/670065?offer=offer_1152616985&sid=DEFAULT&sellerId=16985",
           "in_stock": true
         }
       ]
@@ -7332,25 +7177,6 @@
           "price": 3469,
           "old_price": null,
           "url": "https://www.carrefouregypt.com/mafegy/en/smart-watches-wearables/xiaomi-redmi-watch-5-lite-1-96-inch-bhr8791gl-stylish-smartwatch-with-fitness-tracking-health-monitoring-light-gold-light-gold/p/6941812791554?offer=offer_1120316985&sid=DEFAULT&sellerId=16985",
-          "in_stock": true
-        }
-      ]
-    },
-    {
-      "brand": "",
-      "id": "carrefour-670065",
-      "name": "Huawei Band 10 Smart Watch 1.47-Inch AMOLED Display - Black",
-      "category": "ساعات ذكية",
-      "search": "Xiaomi Smart Band",
-      "images": [
-        "https://cdn.mafrservices.com/pim-content/EGY/media/product/670065/1769424000/670065_main.jpg?im=Resize=(300,300)"
-      ],
-      "offers": [
-        {
-          "store": "carrefour",
-          "price": 2151,
-          "old_price": null,
-          "url": "https://www.carrefouregypt.com/mafegy/en/smart-watches-wearables/huawei-band-10smart-band-b19-black/p/670065?offer=offer_1152616985&sid=DEFAULT&sellerId=16985",
           "in_stock": true
         }
       ]
