@@ -368,7 +368,7 @@ def similar(a, b):
     # حتى لو كل متجر كاتب المواصفات بطريقته (100Hz و 100 Hertz)
     ma, mb = model_codes(wa), model_codes(wb)
     if ma and mb:
-        if any(x.startswith(y) or y.startswith(x) for x in ma for y in mb):
+        if any(x in y or y in x for x in ma for y in mb):
             return 0.95  # نفس الموديل (أو نفس الكود ومعاه لاحقة المنطقة زي AUXEG)
         return 0  # كل واحد ليه كود موديل مختلف = منتجين مختلفين (MRA55R85 غير 55S85HA)
     # شاشات: OLED غير QLED غير Micro RGB
