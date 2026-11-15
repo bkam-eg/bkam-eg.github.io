@@ -493,6 +493,8 @@ def merge(results, category, query):
 # ---------- التشغيل ----------
 
 ANCHORS = 6          # كام منتج من كل كلمة ندوّر عليه بالاسم في باقي المتاجر
+SECOND_REF = 3       # كام منتج من B.TECH نضيفه للمرجع في كل قسم (موجود في محلات كتير، فبيتقارن أكتر من منتجات نون)
+MAX_SINGLE = 2       # أقصى عدد منتجات موجودة في متجر واحد بس من كل قسم (الباقي لازم يكون متقارن)
 MAX_FAILS = 4        # متجر فشل كذا مرة ورا بعض؟ نوقفه لحد التشغيل الجاي
 
 
@@ -630,7 +632,7 @@ def main():
             print(f"✗ {query} / {store}: {e}", file=sys.stderr)
             return None
         finally:
-            time.sleep(random.uniform(2, 4))
+            time.sleep(random.uniform(1.5, 3))
 
     def fill(refs, live):
         """البحث الموجّه: كل منتج مرجعي ندوّر عليه بالاسم في المتاجر اللي ملقيناهوش فيها."""
@@ -741,7 +743,7 @@ def main():
                         found = search_noon(q, limit=200, page_no=pg)
                         ok += 1
                         refs += [r for r in found if r["key"] not in {x["key"] for x in refs}]
-                        time.sleep(random.uniform(2, 4))
+                        time.sleep(random.uniform(1.5, 3))
                     noon_fails = 0
                 except Exception as e:  # noqa: BLE001
                     noon_fails += 1
@@ -769,10 +771,27 @@ def main():
             finally:
                 PER_STORE = saved
             ref_store = "كل المتاجر" if refs else None
-        print(f"✓ قسم «{q}»: {len(refs)} منتج مرجعي من {ref_store or '—'}")
-        merged = merge(refs, cat, q)
-        fill(sorted(merged, key=lambda p: -len(p["offers"]))[:max(limit, ANCHORS)], [s for s in SEARCHERS if s != ref_store and s in allowed and fails[s] < MAX_FAILS
-                      and not (s == "noon" and noon_fails >= 3)])
+        # مرجع تاني من B.TECH: منتجاته موجودة غالباً في نون وأمازون والمحلات التانية، فبتتقارن أكتر
+        extra = []
+        if ref_store == "noon" and "btech" in allowed:
+            found = run("btech", q) or []
+            names = [r["name"] for r in refs]
+            for r in found:
+                if len(extra) >= SECOND_REF:
+                    break
+                if (not strict or relevant(q, r["name"])) and \
+                        not any(similar(r["name"], n) >= 0.5 for n in names):
+                    extra.append(r)
+        print(f"✓ قسم «{q}»: {len(refs)} منتج مرجعي من {ref_store or '—'}" + (f" + {len(extra)} من B.TECH" if extra else ""))
+        merged = merge(refs + extra, cat, q)
+        fill(sorted(merged, key=lambda p: -len(p["offers"]))[:max(limit, ANCHORS) + len(extra)],
+             [s for s in SEARCHERS if s in allowed and fails[s] < MAX_FAILS
+              and not (s == "noon" and noon_fails >= 3)])
+        # نسيب كل المتقارن، ومن اللي في متجر واحد بس ناخد أول MAX_SINGLE بس
+        if refs:
+            multi = [p for p in merged if len({o["store"] for o in p["offers"]}) > 1]
+            single = [p for p in merged if len({o["store"] for o in p["offers"]}) <= 1]
+            merged = multi + single[:MAX_SINGLE]
         if not refs:  # كل المتاجر المرجعية قافلة؟ رجّع آخر نسخة من القسم
             merged = [{**p, "offers": [{**o, "stale": True} for o in p["offers"]]}
                       for p in old if p.get("search") == q]
