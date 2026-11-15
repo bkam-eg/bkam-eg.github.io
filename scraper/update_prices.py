@@ -494,7 +494,6 @@ def merge(results, category, query):
 
 ANCHORS = 6          # كام منتج من كل كلمة ندوّر عليه بالاسم في باقي المتاجر
 SECOND_REF = 3       # كام منتج من B.TECH نضيفه للمرجع في كل قسم (موجود في محلات كتير، فبيتقارن أكتر من منتجات نون)
-MAX_SINGLE = 2       # أقصى عدد منتجات موجودة في متجر واحد بس من كل قسم (الباقي لازم يكون متقارن)
 MAX_FAILS = 4        # متجر فشل كذا مرة ورا بعض؟ نوقفه لحد التشغيل الجاي
 
 
@@ -676,6 +675,17 @@ def main():
                     if best.get("image") and best["image"] not in p["images"]:
                         p["images"].append(best["image"])
                     print(f"  ↳ {store}: لقيت «{p['name'][:45]}» بـ {best['price']:,}")
+            # تشخيص: المنتجات اللي ملقيناهاش في المتجر ده، وإيه أقرب حاجة رجعت
+            for p, found in pairs:
+                if id(p) in done:
+                    continue
+                ref = p.get("brand", "") + " " + p["name"]
+                near = max(((similar(ref, r.get("brand", "") + " " + r["name"]), r) for r in found),
+                           key=lambda x: x[0], default=(0, None))
+                mid = sorted(o["price"] for o in p["offers"])[len(p["offers"]) // 2]
+                why = (f"أقرب نتيجة «{near[1]['name'][:45]}» تشابه {near[0]:.2f} وسعر {near[1]['price'] / mid:.2f}×"
+                       if near[1] else "ولا نتيجة")
+                print(f"  ≈ {store}: «{p['name'][:45]}» مش لاقيه ({len(found)} نتيجة؛ {why})")
 
 
     paused = {s: 0 for s in SEARCHERS}
@@ -787,11 +797,6 @@ def main():
         fill(sorted(merged, key=lambda p: -len(p["offers"]))[:max(limit, ANCHORS) + len(extra)],
              [s for s in SEARCHERS if s in allowed and fails[s] < MAX_FAILS
               and not (s == "noon" and noon_fails >= 3)])
-        # نسيب كل المتقارن، ومن اللي في متجر واحد بس ناخد أول MAX_SINGLE بس
-        if refs:
-            multi = [p for p in merged if len({o["store"] for o in p["offers"]}) > 1]
-            single = [p for p in merged if len({o["store"] for o in p["offers"]}) <= 1]
-            merged = multi + single[:MAX_SINGLE]
         if not refs:  # كل المتاجر المرجعية قافلة؟ رجّع آخر نسخة من القسم
             merged = [{**p, "offers": [{**o, "stale": True} for o in p["offers"]]}
                       for p in old if p.get("search") == q]
