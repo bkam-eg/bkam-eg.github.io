@@ -406,13 +406,6 @@
           "in_stock": true
         },
         {
-          "store": "2b",
-          "price": 1799,
-          "old_price": 2499,
-          "url": "https://2b.com.eg/en/anker-zolo-power-bank-20000mah-22-5w-built-in-usb-c-cable-a110eh11-black.html",
-          "in_stock": true
-        },
-        {
           "store": "carrefour",
           "price": 2449,
           "old_price": null,
@@ -517,13 +510,6 @@
           "in_stock": true
         },
         {
-          "store": "2b",
-          "price": 49999,
-          "old_price": 69049,
-          "url": "https://2b.com.eg/en/samsung-tv-s85h-55-inch-4k-uhd-smart-oled-with-built-in-receiver-qa55s85h.html",
-          "in_stock": true
-        },
-        {
           "store": "carrefour",
           "price": 32666,
           "old_price": null,
@@ -557,13 +543,6 @@
           "price": 53499,
           "old_price": null,
           "url": "https://www.carrefouregypt.com/mafegy/en/oled-tv/samsung-oled-tv-55-55s85ha-sm-4k/p/679961?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
-          "in_stock": true
-        },
-        {
-          "store": "2b",
-          "price": 66999,
-          "old_price": 92499,
-          "url": "https://2b.com.eg/en/samsung-tv-55-inch-smart-4k-uhd-oled-built-in-receiver-55s90h.html",
           "in_stock": true
         }
       ],
@@ -622,13 +601,6 @@
           "price": 45440,
           "old_price": 45440,
           "url": "https://btech.com/en/s?q=Lenovo+IdeaPad+laptop",
-          "in_stock": true
-        },
-        {
-          "store": "compumarts",
-          "price": 44000,
-          "old_price": null,
-          "url": "https://www.compumarts.com/products/lenovo-ideapad-slim-3-83k100qned-i7-16gb-512gb",
           "in_stock": true
         },
         {
@@ -853,13 +825,6 @@
           "in_stock": true
         },
         {
-          "store": "2b",
-          "price": 42799,
-          "old_price": 59099,
-          "url": "https://2b.com.eg/en/sharp-air-conditioner-3-hp-cooling-only-powerful-jet-white-ah-a24zse.html",
-          "in_stock": true
-        },
-        {
           "store": "carrefour",
           "price": 56606,
           "old_price": null,
@@ -889,13 +854,6 @@
           "price": 23449,
           "old_price": 23449,
           "url": "https://btech.com/en/p/a0abee78-c9c3-4e6b-981c-0a5c9c0eb49a",
-          "in_stock": true
-        },
-        {
-          "store": "2b",
-          "price": 27999,
-          "old_price": 38799,
-          "url": "https://2b.com.eg/en/carrier-xcool-air-conditioner-1-5-hp-split-cooling-heating-white-qheft12n.html",
           "in_stock": true
         },
         {
@@ -3182,13 +3140,6 @@
           "price": 4888,
           "old_price": 4888,
           "url": "https://btech.com/en/p/samsung-essential-monitor-s3-24-inch-fhd-flat-monitor-100-hertz-5-millisecond-black-ls24f330eauxen",
-          "in_stock": true
-        },
-        {
-          "store": "compumarts",
-          "price": 3333,
-          "old_price": null,
-          "url": "https://www.compumarts.com/products/samsung-essential-s3-ls24d302gauxen",
           "in_stock": true
         }
       ],

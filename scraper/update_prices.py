@@ -160,9 +160,10 @@ def search_btech(q):
         stock = re.search(r'"is_in_stock":(true|false)', c)
         thumb = re.search(r'"thumbnail_url":"([^"]+)"', c)
         vid = re.search(r'"variant_id":"([^"]+)"', c).group(1)
-        slug = re.search(r'"variant_id":"' + re.escape(vid) + r'","slug":"([^"]+)"', c) or \
-            re.search(r'"slug":"([^"]+)","variant_id":"' + re.escape(vid) + '"', c) or \
-            re.search(r'"product_slug":"([^"]+)"', c)
+        # رابط المنتج: أول "slug" قبل "categories" (اللي بعدها slugs الأقسام)، ومعاه رقم العرض
+        head = c[:c.find('"categories"')] if '"categories"' in c else c[:1500]
+        slug = re.search(r'"slug":"([^"]+)"', head)
+        offer = re.search(r'"offer_id":"([^"]+)"', head)
         sku = re.search(r'"sku":"([^"]+)"', c)
         if not (name and price and sku) or sku.group(1) in seen:
             continue
@@ -174,7 +175,8 @@ def search_btech(q):
             "price": money(price.group(1)),
             "old_price": money(base.group(1)) if base else None,
             "image": "https://media.btech.com/catalogs/" + thumb.group(1) if thumb else "",
-            "url": f"https://btech.com/en/p/{slug.group(1)}" if slug else "https://btech.com/en/s?q=" + quote_plus(q),
+            "url": (f"https://btech.com/en/p/{slug.group(1)}" + (f"?offering_id={offer.group(1)}" if offer else ""))
+                   if slug else "https://btech.com/en/s?q=" + quote_plus(q),
             "in_stock": not stock or stock.group(1) == "true",
             "key": "btech:" + sku.group(1),
         })
@@ -286,6 +288,7 @@ COLORS = set("black white red blue green grey gray silver gold pink purple yello
              "camouflage camo midnight cosmic starlight volcanic chroma sterling indigo teal".split())
 
 
+PANELS = set("oled qled rgb nanocell neo".split())
 VARIANTS = set("pro max plus ultra mini edge lite fe slim digital disc air se neo prime".split())
 
 
@@ -363,8 +366,14 @@ def similar(a, b):
         return 0
     # نفس كود الموديل الكامل (زي LS27D302GAUXEN أو SE2225HM) = نفس المنتج،
     # حتى لو كل متجر كاتب المواصفات بطريقته (100Hz و 100 Hertz)
-    if model_codes(wa) & model_codes(wb):
-        return 0.95
+    ma, mb = model_codes(wa), model_codes(wb)
+    if ma and mb:
+        if any(x.startswith(y) or y.startswith(x) for x in ma for y in mb):
+            return 0.95  # نفس الموديل (أو نفس الكود ومعاه لاحقة المنطقة زي AUXEG)
+        return 0  # كل واحد ليه كود موديل مختلف = منتجين مختلفين (MRA55R85 غير 55S85HA)
+    # شاشات: OLED غير QLED غير Micro RGB
+    if ({"tv", "monitor"} & ta) and ({"tv", "monitor"} & tb) and (ta & PANELS) != (tb & PANELS):
+        return 0
     # أرقام مختلفة (مقاس، مساحة، سنة الموديل) = منتجات مختلفة
     na = {w for w in sa if any(c.isdigit() for c in w)} - GENERIC_NUM
     nb = {w for w in sb if any(c.isdigit() for c in w)} - GENERIC_NUM
