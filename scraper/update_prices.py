@@ -566,6 +566,34 @@ def targeted_query(p):
     return " ".join(words)
 
 
+KEEP_DAYS = 14  # منتج اختفى من النتايج؟ صفحته تفضل بآخر سعر أسبوعين بدل ما تبقى 404 في جوجل
+
+
+def keep_missing(products, old, now):
+    """المنتجات اللي كانت موجودة واختفت المرة دي (نون رجع/وقف، المتجر غيّر الترتيب…)."""
+    ids = {p["id"] for p in products}
+    urls = {o["url"].split("?")[0] for p in products for o in p["offers"]}
+    out = []
+    for p in old:
+        if p["id"] in ids or any(o["url"].split("?")[0] in urls for o in p.get("offers", [])):
+            continue
+        name = p.get("brand", "") + " " + p["name"]
+        if any(q.get("category") == p.get("category") and similar(name, q.get("brand", "") + " " + q["name"]) >= 0.9
+               for q in products + out):
+            continue  # نفس المنتج موجود بنسخة جديدة
+        try:
+            seen = datetime.fromisoformat(p.get("seen") or "")
+        except ValueError:
+            seen = now  # منتج قديم من قبل الحقل ده: نبدأ نعدّ من دلوقتي
+        if (now - seen).days >= KEEP_DAYS:
+            continue
+        out.append({**p, "seen": seen.isoformat(timespec="minutes"),
+                    "offers": [{**o, "stale": True} for o in p["offers"]]})
+        ids.add(p["id"])
+        urls.update(o["url"].split("?")[0] for o in p["offers"])
+    return out
+
+
 DEADLINE = time.time() + 95 * 60  # الشغلانة ليها ساعتين؛ نسيب وقت للحفظ
 
 
@@ -756,6 +784,13 @@ def main():
     before = len(products)
     products = global_merge(products)
     print(f"الدمج العام: {before - len(products)} منتج اتدمج مع نسخته في متجر تاني")
+
+    now = datetime.now(timezone.utc)
+    for p in products:
+        p["seen"] = now.isoformat(timespec="minutes")
+    kept = keep_missing(products, old, now)
+    products += kept
+    print(f"منتجات مختفية اتسابت بآخر سعر (لحد {KEEP_DAYS} يوم): {len(kept)}")
 
     data = {
         "demo": False,
