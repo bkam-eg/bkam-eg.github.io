@@ -6,6 +6,7 @@
   python scraper/fetch_specs.py --test   # يجرب منتج من كل متجر ويطبع النتيجة
 """
 import html
+import os
 import json
 import random
 import re
@@ -21,7 +22,7 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "products.json"
 SPECS = ROOT / "specs.json"
 ORDER = ["btech", "2b", "carrefour", "compumarts"]  # الأوضح الأول
-BUDGET = 9 * 60       # ثواني
+BUDGET = int(os.environ.get("SPECS_BUDGET", 9 * 60))  # ثواني
 MAX_ROWS = 30
 SKIP = {"is online", "select from category", "ean", "barcode", "sku", "seller", "brand id", "category",
         "باركود (ean)", "is returnable", "product type", "item type"}

@@ -1,0 +1,35 @@
+name: جلب كل المواصفات
+on: workflow_dispatch
+permissions:
+  contents: write
+  pages: write
+jobs:
+  specs:
+    runs-on: ubuntu-latest
+    timeout-minutes: 70
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install curl_cffi
+      - name: جلب المواصفات
+        env:
+          SPECS_BUDGET: "3300"
+        run: python -u scraper/fetch_specs.py
+      - name: حفظ
+        run: |
+          git config user.name "price-bot"
+          git config user.email "price-bot@users.noreply.github.com"
+          cp specs.json /tmp/specs.json
+          git checkout -- .
+          git pull --rebase origin main
+          cp /tmp/specs.json specs.json
+          python scraper/build_pages.py
+          git add specs.json products.json index.html sitemap.xml robots.txt p c
+          git diff --cached --quiet || (git commit -m "مواصفات المنتجات" && (git push || (git pull --rebase -X theirs origin main && git push)))
+      - name: إعادة نشر الموقع
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds"
