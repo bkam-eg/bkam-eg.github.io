@@ -67,7 +67,7 @@ def parse_2b(h):
 
 
 def parse_carrefour(h):
-    i = h.find(">Specification<")
+    i = h.find("Product Specification</div>")
     if i < 0:
         return []
     t = h[i:i + 60000]
@@ -76,13 +76,15 @@ def parse_carrefour(h):
 
 
 def parse_compumarts(h):
-    i = h.find('class="dark-spec-table')
-    if i < 0:
-        i = h.find("<table", h.find('class="product__description') if 'class="product__description' in h else 0)
-    if i < 0:
-        return []
-    t = h[i:h.find("</table>", i)]
-    return rows(re.findall(r'<tr[^>]*>\s*<t[hd][^>]*>(.*?)</t[hd]>\s*<td[^>]*>(.*?)</td>', t, re.S))
+    # الصفحة نفسها فيها الـ CSS بس؛ الجدول في وصف المنتج (Shopify JSON)
+    try:
+        h = json.loads(h).get("description") or ""
+    except ValueError:
+        pass
+    pairs = re.findall(r'<tr[^>]*>\s*<t[hd][^>]*>(.*?)</t[hd]>\s*<td[^>]*>(.*?)</td>', h, re.S)
+    if not pairs:  # أو قايمة "Key: Value"
+        pairs = re.findall(r'<li[^>]*>\s*(?:<strong>)?([^<:]{2,40}):\s*(?:</strong>)?(.*?)</li>', h, re.S)
+    return rows(pairs)
 
 
 PARSERS = {"btech": parse_btech, "2b": parse_2b, "carrefour": parse_carrefour, "compumarts": parse_compumarts}
@@ -90,6 +92,8 @@ PARSERS = {"btech": parse_btech, "2b": parse_2b, "carrefour": parse_carrefour, "
 
 def sources(p):
     by = {o["store"]: o["url"] for o in p["offers"] if o.get("url") and o["store"] in PARSERS}
+    if "compumarts" in by:
+        by["compumarts"] = by["compumarts"].split("?")[0] + ".js"
     return [(s, by[s]) for s in ORDER if s in by]
 
 
