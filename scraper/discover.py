@@ -44,6 +44,21 @@ SITEMAP_STORES = {
            "product": r"/en/product/[a-z0-9-]*\d[a-z0-9-]*/?$", "submap": r"product-sitemap"},
     "elghazawy": {"name": "الغزاوي", "maps": ["https://elghazawy.com/sitemap.xml"],
                   "product": r"/en/product/\d+/"},
+    "kimo": {"name": "كيمو ستور", "maps": ["https://kimostore.net/sitemap.xml"],
+             "product": r"kimostore\.net/products/", "submap": r"sitemap_products"},
+    "alfrensia": {"name": "الفرنسية", "maps": ["https://alfrensia.com/sitemap_index.xml"],
+                  "product": r"/en/product/", "submap": r"product-sitemap"},
+    "mobilemasr": {"name": "موبايل مصر", "maps": ["https://mobilemasr.com/__sitemap__/en-US.xml"],
+                   "product": r"/en/products/show/.*-new-"},
+    "halan": {"name": "حالا", "maps": ["https://shop.halan.com/sitemap/active_products"],
+              "product": r"shop\.halan\.com/ar/", "rewrite": ("/ar/", "/en/")},
+    # متاجر عندنا بحثها، بس البحث ساعات مبيلاقيش المنتج: نكمّل من خريطة الموقع
+    "btech": {"name": "B.TECH", "maps": ["https://btech.com/sitemap.xml"],
+              "product": r"btech\.com/ar/p/", "rewrite": ("/ar/", "/en/")},
+    "2b": {"name": "2B", "maps": ["https://2b.com.eg/en_sitemap.xml"],
+           "product": r"2b\.com\.eg/en/[a-z0-9-]*\d[a-z0-9-]*\.html$"},
+    "xprs": {"name": "XPRS", "maps": ["https://myxprs.com/sitemap.xml"],
+             "product": r"myxprs\.com/products/", "submap": r"sitemap_products"},
 }
 
 _robots = {}
@@ -91,6 +106,8 @@ def product_urls(store):
                 if not cfg.get("submap") or re.search(cfg["submap"], loc):
                     todo.append(loc)
             elif re.search(cfg["product"], loc):
+                if cfg.get("rewrite"):
+                    loc = loc.replace(*cfg["rewrite"], 1)
                 urls.append(loc)
         time.sleep(1)
     return list(dict.fromkeys(urls))

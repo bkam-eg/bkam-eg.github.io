@@ -46,6 +46,10 @@ STORES = {
     "raneen": {"name": "رنين", "affiliate": False, "search": "https://www.raneen.com/en/"},
     "zs":     {"name": "زهران ستور", "affiliate": False, "search": "https://zs-eg.com/en/"},
     "elghazawy": {"name": "الغزاوي", "affiliate": False, "search": "https://elghazawy.com/en/"},
+    "kimo":   {"name": "كيمو ستور", "affiliate": False, "search": "https://kimostore.net/search?q="},
+    "alfrensia": {"name": "الفرنسية", "affiliate": False, "search": "https://alfrensia.com/en/?s="},
+    "mobilemasr": {"name": "موبايل مصر", "affiliate": False, "search": "https://mobilemasr.com/en/"},
+    "halan":  {"name": "حالا", "affiliate": False, "search": "https://shop.halan.com/en/"},
     "jumia":  {"name": "جوميا",      "affiliate": False, "search": "https://www.jumia.com.eg/catalog/?q="},
 }
 
