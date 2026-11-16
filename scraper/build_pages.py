@@ -3,6 +3,8 @@
 بيشتغل بعد update_prices.py: بيقرا products.json ويكتب:
   p/<slug>.html   صفحة المنتج (أسعاره في كل المتاجر)
   c/<slug>.html   صفحة القسم (كل منتجاته بأرخص سعر)
+  m/<slug>.html   «سعر <موديل> في مصر»: كل نسخ الموديل (مساحة/لون) وأرخص متجر لكل نسخة
+  b/<قسم>-<ماركة>.html  «أسعار <قسم> <ماركة>» مرتبة من الأرخص
   sitemap.xml, robots.txt
 وبيضيف لكل منتج في products.json حقل "page" عشان الصفحة الرئيسية تربط بيه.
 """
@@ -200,7 +202,7 @@ def arabic_name(p, sname):
     return " ".join(out) if known >= 1 and len(out) >= 2 else ""
 
 
-def product_page(p, stores, related, updated_ar, updated_iso, spec=None):
+def product_page(p, stores, related, updated_ar, updated_iso, spec=None, family=None):
     name = p["name"]
     sname = short_name(name)
     lo, hi = price_range(p)
@@ -243,6 +245,7 @@ def product_page(p, stores, related, updated_ar, updated_iso, spec=None):
 <p class="range">{"من " + money(lo) + " لـ " + money(hi) if hi > lo else money(lo)}</p>
 {save}
 <ul class="offers">{''.join(rows)}</ul>
+{f'<p class="famlink"><a href="/m/{family_slug(family[0])}.html">كل نسخ <bdi dir="ltr">{e(family_title(family[0]))}</bdi> ({family[1]}) وأسعارها ←</a></p>' if family else ''}
 <p class="hint">الأسعار مرتبة من الأرخص. اتأكد من السعر واللون والمساحة في صفحة المتجر قبل ما تشتري.</p>
 </div>
 </article>
@@ -261,7 +264,7 @@ def product_page(p, stores, related, updated_ar, updated_iso, spec=None):
     return page(title, desc, url, body, updated_ar, "product", img, extra)
 
 
-def category_page(cat, items, updated_ar):
+def category_page(cat, items, updated_ar, brands=()):
     cs = cat_slug(cat)
     url = f"{SITE}/c/{cs}.html"
     items = sorted(items, key=lambda p: (-len({o["store"] for o in live(p)}), price_range(p)[0]))
@@ -277,7 +280,150 @@ def category_page(cat, items, updated_ar):
     body = f"""<nav class="crumbs"><a href="/">الرئيسية</a> › {e(cat)}</nav>
 <h1>أسعار {e(cat)} في مصر</h1>
 <p class="lead">{len(items)} منتج، مرتبين بالأكتر مقارنة. اضغط على أي منتج تشوف سعره في كل متجر.</p>
+{('<p class="fams">حسب الماركة: ' + ' '.join(f'<a href="/b/{cs}-{b}.html">{e(BRAND_AR.get(b, b.capitalize()))}</a>' for b in brands) + '</p>') if brands else ''}
 <ul class="clist">{''.join(lis)}</ul>
+"""
+    return page(title, desc, url, body, updated_ar)
+
+
+# ───── صفحات «سعر <موديل> في مصر» و«أسعار <قسم> <ماركة>»: بتجمّع نسخ الموديل (مساحة/لون) في صفحة واحدة
+# عشان اللي بيدوّر في جوجل على «سعر ايفون 17 برو ماكس» يلاقي كل النسخ وأرخص متجر لكل واحدة.
+FAMILY_CATS = {"موبايلات", "تابلت", "ساعات ذكية", "بلايستيشن", "سماعات"}
+_CUT = (r"\b(dual|single|5g|4g|lte|ram|with|smartphone|smart|mobile|international|middle|nano|esim|wifi|wi|cellular|"
+        r"tablet|black|white|blue|green|silver|gold|grey|gray|titanium|pink|purple|violet|navy|olive|teal|sage|"
+        r"lavender|ultramarine|mist|cosmic|midnight|starlight|deep|natural|desert|orange|red|yellow|bluetooth|"
+        r"wireless|true|earbuds|headphones?|over|on|in|ear|noise|cancell?ing|anc|gps|console|edition|version|"
+        r"local|official|ksa|uae|ai|smartwatch|watch(?=\s*[-,]|$))\b")
+BRAND_AR = {"apple": "آبل", "samsung": "سامسونج", "xiaomi": "شاومي", "oppo": "أوبو", "realme": "ريلمي",
+            "honor": "هونر", "infinix": "إنفينكس", "vivo": "فيفو", "huawei": "هواوي", "sony": "سوني", "jbl": "JBL",
+            "anker": "أنكر", "lenovo": "لينوفو", "nokia": "نوكيا", "tecno": "تكنو", "motorola": "موتورولا"}
+CASE = {"iphone": "iPhone", "ipad": "iPad", "airpods": "AirPods", "dualsense": "DualSense", "playstation": "PlayStation",
+        "jbl": "JBL", "fe": "FE", "se": "SE", "xl": "XL", "hp": "HP", "fc": "FC", "ea": "EA"}
+
+
+def brand_of(p):
+    from update_prices import BRANDS  # noqa: PLC0415
+    b = (p.get("brand") or "").lower()
+    if b in ("", "generic"):
+        w = re.findall(r"[a-z]+", p["name"].lower())
+        b = next((x for x in w[:3] if x in BRANDS), "")
+        if b == "redmi":
+            b = "xiaomi"
+    if b == "galaxy":
+        b = "samsung"
+    if not b and re.match(r"(?i)(iphone|ipad|airpods)", p["name"]):
+        b = "apple"
+    if not b and re.match(r"(?i)(galaxy)", p["name"]):
+        b = "samsung"
+    if not b and re.match(r"(?i)(redmi)", p["name"]):
+        b = "xiaomi"
+    if not b and re.match(r"(?i)(playstation|dualsense)", p["name"]):
+        b = "sony"
+    return b
+
+
+def family_key(p):
+    n = p["name"].lower().replace("+", " plus ")
+    n = re.sub(r"\b(watch|buds|reno|band|note|hot|tab)(\d)", r"\1 \2", n)
+    n = re.split(r"\s*[,(|–/]\s*|\s-\s", n)[0]
+    n = re.split(r"\b\d+\s*(?:gb|tb|terabyte|mm|inch|\")|" + _CUT, n)[0]
+    toks = [t for t in re.findall(r"[a-z0-9]+", n) if t not in ("new", "generic", "mobile")]
+    b = brand_of(p)
+    if toks and toks[0] == "redmi" and b == "xiaomi":
+        toks = ["xiaomi"] + toks
+    if b and (not toks or toks[0] != b):
+        toks = [b] + toks
+    if p["category"] == "ساعات ذكية" and "series" in toks and "watch" not in toks:
+        toks.insert(toks.index("series"), "watch")
+    if len(toks) < 2:
+        return ""
+    return " ".join(toks[:5])
+
+
+def family_title(key):
+    out = []
+    for t in key.split():
+        if t in CASE:
+            out.append(CASE[t])
+        elif re.fullmatch(r"[a-z]\d+[a-z]*", t):
+            out.append(t[0].upper() + t[1:])
+        else:
+            out.append(t.capitalize())
+    return " ".join(out)
+
+
+def family_slug(key):
+    return re.sub(r"[^a-z0-9]+", "-", key).strip("-")
+
+
+def cheapest(p):
+    av = [o for o in live(p) if avail(o)] or live(p)
+    return min(av, key=lambda o: o["price"]) if av else None
+
+
+def family_page(key, items, stores, updated_ar):
+    title_en = family_title(key)
+    url = f"{SITE}/m/{family_slug(key)}.html"
+    items = sorted(items, key=lambda p: price_range(p)[0])
+    best_p = items[0]
+    bo = cheapest(best_p)
+    store_names = {o["store"] for p in items for o in live(p)}
+    rows = []
+    for p in items:
+        o = cheapest(p)
+        n = len({x["store"] for x in live(p)})
+        rows.append(f'<tr><td><a dir="auto" href="/p/{p["page"]}.html">{e(p["name"] if len(p["name"]) <= 100 else p["name"][:100].rsplit(" ", 1)[0] + "…")}</a></td>'
+                    f'<td class="num">{money(o["price"])}</td><td>{e(stores.get(o["store"], {}).get("name", o["store"]))}</td>'
+                    f'<td class="num">{n}</td></tr>')
+    lo = price_range(best_p)[0]
+    hi = max(price_range(p)[1] for p in items)
+    bname = e(stores.get(bo["store"], {}).get("name", bo["store"]))
+    title = f"سعر {title_en} في مصر النهارده – أرخص سعر في {len(store_names)} متاجر"
+    desc = (f"أرخص سعر {title_en} في مصر النهارده {money(lo)} في {stores.get(bo['store'], {}).get('name', '')}. "
+            f"قارن {len(items)} نسخة (المساحة واللون) في {len(store_names)} متاجر، والأسعار بتتحدث كل 6 ساعات.")
+    cs = cat_slug(best_p["category"])
+    body = f"""<nav class="crumbs"><a href="/">الرئيسية</a> › <a href="/c/{cs}.html">{e(best_p['category'])}</a> › <bdi dir="ltr">{e(title_en)}</bdi></nav>
+<h1>سعر <bdi dir="ltr">{e(title_en)}</bdi> في مصر النهارده</h1>
+<p class="lead">أرخص سعر دلوقتي <b>{money(lo)}</b> في <b>{bname}</b>{f"، وأغلى نسخة بـ {money(hi)}" if hi > lo else ""}.
+جمعنا {len(items)} نسخة من <bdi dir="ltr">{e(title_en)}</bdi> من {len(store_names)} متاجر مصرية. اضغط على أي نسخة تشوف سعرها في كل متجر.</p>
+<table class="ftable"><thead><tr><th>النسخة</th><th>أرخص سعر</th><th>المتجر</th><th>متاجر</th></tr></thead>
+<tbody>{''.join(rows)}</tbody></table>
+<section class="faq"><h2>أسئلة بتتسأل كتير</h2>
+<h3>بكام <bdi dir="ltr">{e(title_en)}</bdi> في مصر النهارده؟</h3>
+<p>السعر بيبدأ من {money(lo)}{f" ويوصل لـ {money(hi)} حسب المساحة واللون والمتجر" if hi > lo else ""}.</p>
+<h3>فين أرخص مكان أشتري منه <bdi dir="ltr">{e(title_en)}</bdi>؟</h3>
+<p>أرخص سعر دلوقتي في {bname}. الأسعار بتتغير، وإحنا بنحدّثها أوتوماتيك كل 6 ساعات.</p>
+</section>
+"""
+    ld = {"@context": "https://schema.org", "@type": "ItemList", "name": f"سعر {title_en} في مصر",
+          "itemListElement": [{"@type": "ListItem", "position": i + 1, "url": f"{SITE}/p/{p['page']}.html",
+                               "name": p["name"]} for i, p in enumerate(items)]}
+    faq = {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+        {"@type": "Question", "name": f"بكام {title_en} في مصر النهارده؟",
+         "acceptedAnswer": {"@type": "Answer", "text": f"السعر بيبدأ من {money(lo)}."}},
+        {"@type": "Question", "name": f"فين أرخص مكان أشتري منه {title_en}؟",
+         "acceptedAnswer": {"@type": "Answer", "text": f"أرخص سعر دلوقتي في {stores.get(bo['store'], {}).get('name', '')}."}}]}
+    extra = "".join('<script type="application/ld+json">' + json.dumps(x, ensure_ascii=False).replace("</", "<\\/")
+                    + "</script>\n" for x in (ld, faq))
+    return page(title, desc, url, body, updated_ar, "website", (best_p.get("images") or [None])[0], extra)
+
+
+def brand_page(cat, brand, items, stores, updated_ar, fams):
+    bar = BRAND_AR.get(brand, brand.capitalize())
+    url = f"{SITE}/b/{cat_slug(cat)}-{brand}.html"
+    items = sorted(items, key=lambda p: price_range(p)[0])
+    lo = price_range(items[0])[0]
+    lis = "".join(f'<li><a dir="auto" href="/p/{p["page"]}.html">{e(short_name(p["name"], 110) if len(p["name"]) > 110 else p["name"])}</a>'
+                  f'<span class="cp">{money(price_range(p)[0])}</span>'
+                  f'<span class="cn">{e(stores.get(cheapest(p)["store"], {}).get("name", ""))}</span></li>' for p in items)
+    fl = "".join(f'<a href="/m/{family_slug(k)}.html" dir="ltr">{e(family_title(k))}</a> ' for k in fams)
+    title = f"أسعار {cat} {bar} في مصر النهارده – من {money(lo)}"
+    desc = f"أسعار {len(items)} من {cat} {bar} في مصر، مرتبة من الأرخص، مع أرخص متجر لكل واحد. بتتحدث كل 6 ساعات."
+    body = f"""<nav class="crumbs"><a href="/">الرئيسية</a> › <a href="/c/{cat_slug(cat)}.html">{e(cat)}</a> › {e(bar)}</nav>
+<h1>أسعار {e(cat)} {e(bar)} في مصر</h1>
+<p class="lead">{len(items)} منتج، مرتبين من الأرخص. أرخص واحد دلوقتي بـ {money(lo)}.</p>
+{f'<p class="fams">الموديلات: {fl}</p>' if fl else ''}
+<ul class="clist">{lis}</ul>
 """
     return page(title, desc, url, body, updated_ar)
 
@@ -307,7 +453,7 @@ def main():
         used.add(s)
         p["page"] = s
 
-    for d in ("p", "c"):  # نبني من الأول عشان المنتجات اللي اتشالت صفحاتها تتشال
+    for d in ("p", "c", "m", "b"):  # نبني من الأول عشان المنتجات اللي اتشالت صفحاتها تتشال
         shutil.rmtree(ROOT / d, ignore_errors=True)
         (ROOT / d).mkdir()
 
@@ -315,16 +461,44 @@ def main():
     for p in products:
         by_cat.setdefault(p["category"], []).append(p)
 
+    fams = {}
+    for p in products:
+        if p["category"] in FAMILY_CATS and (k := family_key(p)):
+            fams.setdefault(k, []).append(p)
+    fams = {k: v for k, v in fams.items() if len(v) >= 2}
+    fam_of = {p["id"]: k for k, v in fams.items() for p in v}
+
     for p in products:
         same = [r for r in by_cat[p["category"]] if r is not p]
         same.sort(key=lambda r: (-len({o["store"] for o in live(r)}), abs(price_range(r)[0] - price_range(p)[0])))
-        html_text = product_page(p, stores, same[:8], updated_ar, updated_iso, specs.get(p["id"]))
+        html_text = product_page(p, stores, same[:8], updated_ar, updated_iso, specs.get(p["id"]),
+                                 (fam_of[p["id"]], len(fams[fam_of[p["id"]]])) if p["id"] in fam_of else None)
         (ROOT / "p" / f"{p['page']}.html").write_text(html_text, encoding="utf-8")
 
+    for k, items in fams.items():
+        (ROOT / "m" / f"{family_slug(k)}.html").write_text(family_page(k, items, stores, updated_ar), encoding="utf-8")
+
+    brands = {}
+    for p in products:
+        b = brand_of(p)
+        if b and b != "generic":
+            brands.setdefault((p["category"], b), []).append(p)
+    brands = {k: v for k, v in brands.items() if len(v) >= 3}
+    for (cat, b), items in brands.items():
+        fl = sorted({fam_of[p["id"]] for p in items if p["id"] in fam_of})
+        (ROOT / "b" / f"{cat_slug(cat)}-{b}.html").write_text(brand_page(cat, b, items, stores, updated_ar, fl),
+                                                               encoding="utf-8")
+    brand_links = {}
+    for (cat, b) in brands:
+        brand_links.setdefault(cat, []).append(b)
+
     for cat, items in by_cat.items():
-        (ROOT / "c" / f"{cat_slug(cat)}.html").write_text(category_page(cat, items, updated_ar), encoding="utf-8")
+        (ROOT / "c" / f"{cat_slug(cat)}.html").write_text(
+            category_page(cat, items, updated_ar, sorted(brand_links.get(cat, []))), encoding="utf-8")
 
     urls = [(f"{SITE}/", "1.0")] + [(f"{SITE}/c/{cat_slug(c)}.html", "0.8") for c in by_cat] + \
+           [(f"{SITE}/m/{family_slug(k)}.html", "0.8") for k in fams] + \
+           [(f"{SITE}/b/{cat_slug(c)}-{b}.html", "0.7") for c, b in brands] + \
            [(f"{SITE}/p/{p['page']}.html", "0.6") for p in products]
     (ROOT / "sitemap.xml").write_text(
         '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
@@ -344,7 +518,7 @@ def main():
     idx.write_text(re.sub(r"<!--CATS-->.*?<!--/CATS-->", lambda m: f"<!--CATS-->{links}<!--/CATS-->",
                           idx.read_text(encoding="utf-8"), flags=re.S), encoding="utf-8")
     DATA.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"اتبنى {len(products)} صفحة منتج و{len(by_cat)} صفحة قسم و sitemap فيها {len(urls)} رابط")
+    print(f"اتبنى {len(products)} صفحة منتج و{len(by_cat)} صفحة قسم و{len(fams)} صفحة موديل و{len(brands)} صفحة ماركة و sitemap فيها {len(urls)} رابط")
 
 
 if __name__ == "__main__":

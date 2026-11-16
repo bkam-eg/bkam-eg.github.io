@@ -67,3 +67,12 @@ footer{color:var(--muted);font-size:13px;padding:24px 16px 40px}
   .clist li{flex-wrap:wrap}
   .buy{margin-inline-start:auto}
 }
+.ftable{width:100%;border-collapse:collapse;margin:14px 0;font-size:14px}
+.ftable th,.ftable td{padding:9px 8px;border-bottom:1px solid var(--line);text-align:start;vertical-align:top}
+.ftable th{color:var(--muted);font-weight:500;font-size:12.5px}
+.ftable td.num{white-space:nowrap;font-variant-numeric:tabular-nums}
+.ftable td:first-child a{overflow-wrap:anywhere}
+.faq h3{font-size:15px;margin:14px 0 4px}.faq p{margin:0;color:var(--muted)}
+.fams{line-height:2}.fams a{display:inline-block;margin-inline-end:10px}
+.famlink{margin:10px 0 0}
+@media (max-width:560px){.ftable th:nth-child(4),.ftable td:nth-child(4){display:none}}
