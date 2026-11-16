@@ -49,7 +49,6 @@ STORES = {
     "kimo":   {"name": "كيمو ستور", "affiliate": False, "search": "https://kimostore.net/search?q="},
     "alfrensia": {"name": "الفرنسية", "affiliate": False, "search": "https://alfrensia.com/en/?s="},
     "mobilemasr": {"name": "موبايل مصر", "affiliate": False, "search": "https://mobilemasr.com/en/"},
-    "halan":  {"name": "حالا", "affiliate": False, "search": "https://shop.halan.com/en/"},
     "jumia":  {"name": "جوميا",      "affiliate": False, "search": "https://www.jumia.com.eg/catalog/?q="},
 }
 

@@ -50,8 +50,6 @@ SITEMAP_STORES = {
                   "product": r"/en/product/", "submap": r"product-sitemap"},
     "mobilemasr": {"name": "موبايل مصر", "maps": ["https://mobilemasr.com/__sitemap__/en-US.xml"],
                    "product": r"/en/products/show/.*-new-"},
-    "halan": {"name": "حالا", "maps": ["https://shop.halan.com/sitemap/active_products"],
-              "product": r"shop\.halan\.com/ar/", "rewrite": ("/ar/", "/en/")},
     # متاجر عندنا بحثها، بس البحث ساعات مبيلاقيش المنتج: نكمّل من خريطة الموقع
     "btech": {"name": "B.TECH", "maps": ["https://btech.com/sitemap.xml"],
               "product": r"btech\.com/ar/p/", "rewrite": ("/ar/", "/en/")},
@@ -216,6 +214,22 @@ def first_word(text):
     return m.group(1) if m else ""
 
 
+# نوع الجهاز: لو كلمة من المجموعة في اسم وناقصة في التاني يبقوا جهازين مختلفين (تابلت ≠ موبايل، جراب ≠ موبايل)
+KINDS = [{"pad", "tablet", "tab", "ipad"}, {"watch"}, {"band"}, {"buds", "earbuds", "airpods"},
+         {"case", "cover"}, {"charger"}, {"controller", "gamepad"}, {"stand", "holder", "mount"}]
+# رقم الجيل بعد اسم السلسلة لازم يكون واحد (Pad 2 Pro ≠ Pad Pro، Note 14 ≠ Note 15)
+SERIES = r"\b(pad|tab|note|watch|band|buds|fold|flip|reno|pixel|ipad|airpods)\s*(\d{1,2})?(?![\d.])"
+
+
+def kinds_differ(a, b):
+    ta, tb = set(re.findall(r"[a-z]+", a.lower())), set(re.findall(r"[a-z]+", b.lower()))
+    if any(bool(k & ta) != bool(k & tb) for k in KINDS):
+        return True
+    ga = {m[0]: m[1] for m in re.findall(SERIES, a.lower())[::-1]}
+    gb = {m[0]: m[1] for m in re.findall(SERIES, b.lower())[::-1]}
+    return any(ga[w] != gb[w] for w in ga.keys() & gb.keys())
+
+
 def check(p, info):
     """نفس المنتج؟ نفس قواعد المطابقة بين المتاجر + الماركة + الأرقام بوحداتها + السعر قريب."""
     if not info or not info["name"]:
@@ -228,6 +242,10 @@ def check(p, info):
         return 0
     fw = first_word(name)
     if fw in up.BRANDS and fw != "generic" and fw not in ref.lower():
+        return 0
+    if fw == "generic" or (brand not in up.BRANDS and fw in up.BRANDS):
+        return 0  # منتجنا من غير ماركة معروفة: مقدرش أتأكد إنه نفس الحاجة
+    if kinds_differ(ref, name):
         return 0
     # نفس الوحدة بأرقام مختلفة = منتج تاني (12GB غير 8GB رام، 40mm غير 44mm، 7L غير 4L)
     ua, ub = units(ref), units(name)
