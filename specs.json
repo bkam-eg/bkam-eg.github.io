@@ -917,11 +917,11 @@
   ]
  },
  "noon-N40633049A": {
-  "t": "2026-11-16T02:11+00:00",
+  "t": "2026-11-16T10:19+00:00",
   "source": null,
   "specs": [],
   "tried": [
-   "https://www.carrefouregypt.com/mafegy/en/sony-playstation-access/sony-dualsense-wireless-controller-for-playstation-5-white/p/1836147000713?offer=offer_1013118361&sid=DEFAULT&sellerId=18361"
+   "https://www.carrefouregypt.com/mafegy/en/sony-playstation-access/sony-dualsense-wireless-controller-for-playstation-5-white/p/1836147000732?offer=offer_1014218361&sid=DEFAULT&sellerId=18361"
   ]
  },
  "noon-N53429223A": {
@@ -3318,31 +3318,6 @@
   "tried": [
    "https://btech.com/en/p/dcc51b78-2dee-41b7-99cb-071aac1c8703?offering_id=b6888a25-df94-4d21-87a6-be019dab85cd",
    "https://www.carrefouregypt.com/mafegy/en/air-fryer/tefal-air-fryer-ey2458eg-5l/p/677942?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000"
-  ]
- },
- "noon-N70285237V": {
-  "t": "2026-11-15T21:44+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Xiaomi"
-   ],
-   [
-    "Capacity",
-    "6.5 Liter"
-   ],
-   [
-    "Wattage",
-    "1700 Watt"
-   ],
-   [
-    "Model Name",
-    "MI"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/76b0398f-ee98-447f-9baf-2be27c3333e0?offering_id=6219b2ec-a316-42b8-b5b6-fed6fc217f99"
   ]
  },
  "noon-N70114922V": {
@@ -5996,18 +5971,83 @@
   ]
  },
  "noon-N70072138V": {
-  "t": "2026-11-16T02:11+00:00",
-  "source": null,
-  "specs": [],
+  "t": "2026-11-16T10:19+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Sharp"
+   ],
+   [
+    "Filter Type",
+    "Dust Filter"
+   ],
+   [
+    "Cooling Type",
+    "Cooling and Heating"
+   ],
+   [
+    "Inverter Motor",
+    "No"
+   ],
+   [
+    "Cooling Capacity",
+    "12000 BTU"
+   ],
+   [
+    "Dimensions",
+    "Indoor unit : 879 x 289 x 229 mm, Outdoor unit : 760 x 540 x 270 mm"
+   ],
+   [
+    "Model Number",
+    "AY-A12ZSE"
+   ],
+   [
+    "Horsepower",
+    "1.5 horsepower"
+   ]
+  ],
   "tried": [
+   "https://btech.com/en/p/sharp-air-conditioner-1-5hp-cooling-heating-ay-a12zse",
+   "https://2b.com.eg/en/sharp-air-conditioner-1-5-hp-cooling-only-split-powerful-jet-ah-a12zse.html",
    "https://www.carrefouregypt.com/mafegy/en/air-conditioners/sharp-ac-fan-ah-a12zse1-5-st-cold/p/633160?offer=offer_1159716985&sid=DEFAULT&sellerId=16985"
   ]
  },
  "noon-N70108933V": {
-  "t": "2026-11-16T02:11+00:00",
-  "source": null,
-  "specs": [],
+  "t": "2026-11-16T10:19+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Sharp"
+   ],
+   [
+    "Cooling Type",
+    "Cooling and Heating"
+   ],
+   [
+    "Cooling Capacity",
+    "18000 BTU"
+   ],
+   [
+    "Filter Type",
+    "Anti-Dust Filter"
+   ],
+   [
+    "Dimensions",
+    "(DxHxW): 259x327x1122 mm"
+   ],
+   [
+    "Model Number",
+    "AY-A18ZSE"
+   ],
+   [
+    "Horsepower",
+    "2.25 horsepower"
+   ]
+  ],
   "tried": [
+   "https://btech.com/en/p/sharp-air-conditioner-2-25hp-cooling-heating-white-ay-a18zse",
    "https://www.carrefouregypt.com/mafegy/en/air-conditioners/sharp-split-air-conditioner-2-25-hp-cooling-only-powerful-jet-tropical-white-ah-a18zse/p/2283159000016?offer=offer_1003222907&sid=DEFAULT&sellerId=22907"
   ]
  },
@@ -8041,10 +8081,28 @@
   ]
  },
  "noon-N70403836V": {
-  "t": "2026-11-16T02:11+00:00",
-  "source": null,
-  "specs": [],
+  "t": "2026-11-16T10:19+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Port Type",
+    "Multi Ports"
+   ],
+   [
+    "Wattage",
+    "22.5 Watt"
+   ],
+   [
+    "Connection Type",
+    "Wired"
+   ],
+   [
+    "Number of Charging Ports",
+    "2"
+   ]
+  ],
   "tried": [
+   "https://btech.com/en/p/anker-335-wired-power-bank-20000-mah-2-usb-ports-and-built-in-usb-c-cable-violet-a1647hv1",
    "https://www.carrefouregypt.com/mafegy/en/power-banks/energizer-20000mah-power-bank-22-5w-fast-charging-usb-c-power-delivery-dual-usb-a-portable-charger-ue20011pq/p/4713309812743?offer=offer_1010518004&sid=DEFAULT&sellerId=18004"
   ]
  },
@@ -13245,6 +13303,3075 @@
   ],
   "tried": [
    "https://2b.com.eg/en/apple-iphone-16-plus-256gb-black-official-warranty.html"
+  ]
+ },
+ "dream2000-50580561985675": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Network",
+    "4G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "PLS LCD"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Audio Jack Type",
+    "3.5 mm"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Display Resolution",
+    "720x1600"
+   ],
+   [
+    "Operating System Type",
+    "Android 17"
+   ],
+   [
+    "Dimensions",
+    "167.4 × 77.4 × 8 mm"
+   ],
+   [
+    "Model Name",
+    "Galaxy A08"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band - Bluetooth 5.3 - GPS, GLONASS, GALILEO, BDS - USB Type-C 2 - 3.5mm headphone jack"
+   ],
+   [
+    "Model Number",
+    "SM-A085FDBHEGY"
+   ],
+   [
+    "Chipset Manufacturer",
+    "MediaTek Helio G99"
+   ],
+   [
+    "Processor Manufacturer",
+    "MediaTek Helio G99"
+   ],
+   [
+    "Screen Size",
+    "6.7 Inch"
+   ],
+   [
+    "Front Camera",
+    "8 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "50 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "6000 mAh"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/samsung-galaxy-a08-128-gb-4-gb-4g-dual-sim-green"
+  ]
+ },
+ "dream2000-50606241513611": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Network",
+    "4G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "PLS LCD"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Audio Jack Type",
+    "3.5 mm"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Display Resolution",
+    "720x1600"
+   ],
+   [
+    "Operating System Type",
+    "Android 17"
+   ],
+   [
+    "Dimensions",
+    "167.4 × 77.4 × 8 mm"
+   ],
+   [
+    "Model Name",
+    "Galaxy A08"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band - Bluetooth 5.3 - GPS, GLONASS, GALILEO, BDS - USB Type-C 2 - 3.5mm headphone jack"
+   ],
+   [
+    "Model Number",
+    "SM-A085FDBHEGY"
+   ],
+   [
+    "Chipset Manufacturer",
+    "MediaTek Helio G99"
+   ],
+   [
+    "Processor Manufacturer",
+    "MediaTek Helio G99"
+   ],
+   [
+    "Screen Size",
+    "6.7 Inch"
+   ],
+   [
+    "Front Camera",
+    "8 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "50 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "6000 mAh"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/samsung-galaxy-a08-64-gb-4-gb-4g-dual-sim-green"
+  ]
+ },
+ "dream2000-50606271004811": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Network",
+    "4G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "PLS LCD"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Audio Jack Type",
+    "3.5 mm"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Display Resolution",
+    "720x1600"
+   ],
+   [
+    "Operating System Type",
+    "Android 17"
+   ],
+   [
+    "Dimensions",
+    "167.4 × 77.4 × 8 mm"
+   ],
+   [
+    "Model Name",
+    "Galaxy A08"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band - Bluetooth 5.3 - GPS, GLONASS, GALILEO, BDS - USB Type-C 2 - 3.5mm headphone jack"
+   ],
+   [
+    "Model Number",
+    "SM-A085FDBHEGY"
+   ],
+   [
+    "Chipset Manufacturer",
+    "MediaTek Helio G99"
+   ],
+   [
+    "Processor Manufacturer",
+    "MediaTek Helio G99"
+   ],
+   [
+    "Screen Size",
+    "6.7 Inch"
+   ],
+   [
+    "Front Camera",
+    "8 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "50 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "6000 mAh"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/samsung-galaxy-a08-128-gb-6-gb-4g-dual-sim-silver"
+  ]
+ },
+ "btech-7687344848B361DB3FEB": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Xiaomi"
+   ],
+   [
+    "Capacity",
+    "6.5 Liter"
+   ],
+   [
+    "Wattage",
+    "1700 Watt"
+   ],
+   [
+    "Model Name",
+    "MI"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/76b0398f-ee98-447f-9baf-2be27c3333e0?offering_id=6219b2ec-a316-42b8-b5b6-fed6fc217f99"
+  ]
+ },
+ "dream2000-50580561952907": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Network",
+    "4G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "PLS LCD"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Audio Jack Type",
+    "3.5 mm"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Display Resolution",
+    "720x1600"
+   ],
+   [
+    "Operating System Type",
+    "Android 17"
+   ],
+   [
+    "Dimensions",
+    "167.4 × 77.4 × 8 mm"
+   ],
+   [
+    "Model Name",
+    "Galaxy A08"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band - Bluetooth 5.3 - GPS, GLONASS, GALILEO, BDS - USB Type-C 2 - 3.5mm headphone jack"
+   ],
+   [
+    "Model Number",
+    "SM-A085FDBHEGY"
+   ],
+   [
+    "Chipset Manufacturer",
+    "MediaTek Helio G99"
+   ],
+   [
+    "Processor Manufacturer",
+    "MediaTek Helio G99"
+   ],
+   [
+    "Screen Size",
+    "6.7 Inch"
+   ],
+   [
+    "Front Camera",
+    "8 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "50 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "6000 mAh"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/samsung-galaxy-a08-128-gb-4-gb-4g-dual-sim-dark-blue"
+  ]
+ },
+ "dream2000-50606241480843": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Network",
+    "4G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "PLS LCD"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Audio Jack Type",
+    "3.5 mm"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Display Resolution",
+    "720x1600"
+   ],
+   [
+    "Operating System Type",
+    "Android 17"
+   ],
+   [
+    "Dimensions",
+    "167.4 × 77.4 × 8 mm"
+   ],
+   [
+    "Model Name",
+    "Galaxy A08"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band - Bluetooth 5.3 - GPS, GLONASS, GALILEO, BDS - USB Type-C 2 - 3.5mm headphone jack"
+   ],
+   [
+    "Model Number",
+    "SM-A085FDBHEGY"
+   ],
+   [
+    "Chipset Manufacturer",
+    "MediaTek Helio G99"
+   ],
+   [
+    "Processor Manufacturer",
+    "MediaTek Helio G99"
+   ],
+   [
+    "Screen Size",
+    "6.7 Inch"
+   ],
+   [
+    "Front Camera",
+    "8 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "50 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "6000 mAh"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/samsung-galaxy-a08-64-gb-4-gb-4g-dual-sim-dark-blue"
+  ]
+ },
+ "dream2000-50580562051211": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Network",
+    "4G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "PLS LCD"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Audio Jack Type",
+    "3.5 mm"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Display Resolution",
+    "720x1600"
+   ],
+   [
+    "Operating System Type",
+    "Android 17"
+   ],
+   [
+    "Dimensions",
+    "167.4 × 77.4 × 8 mm"
+   ],
+   [
+    "Model Name",
+    "Galaxy A08"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band - Bluetooth 5.3 - GPS, GLONASS, GALILEO, BDS - USB Type-C 2 - 3.5mm headphone jack"
+   ],
+   [
+    "Model Number",
+    "SM-A085FDBHEGY"
+   ],
+   [
+    "Chipset Manufacturer",
+    "MediaTek Helio G99"
+   ],
+   [
+    "Processor Manufacturer",
+    "MediaTek Helio G99"
+   ],
+   [
+    "Screen Size",
+    "6.7 Inch"
+   ],
+   [
+    "Front Camera",
+    "8 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "50 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "6000 mAh"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/samsung-galaxy-a08-128-gb-6-gb-4g-dual-sim-dark-blue"
+  ]
+ },
+ "noon-Z184AC20D3D71EB72F9E6Z": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://btech.com/en/p/fresh-top-loading-washing-machine-5-kg-white-el-shatoora"
+  ]
+ },
+ "dream2000-50580562018443": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Network",
+    "4G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "PLS LCD"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Audio Jack Type",
+    "3.5 mm"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Display Resolution",
+    "720x1600"
+   ],
+   [
+    "Operating System Type",
+    "Android 17"
+   ],
+   [
+    "Dimensions",
+    "167.4 × 77.4 × 8 mm"
+   ],
+   [
+    "Model Name",
+    "Galaxy A08"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band - Bluetooth 5.3 - GPS, GLONASS, GALILEO, BDS - USB Type-C 2 - 3.5mm headphone jack"
+   ],
+   [
+    "Model Number",
+    "SM-A085FDBHEGY"
+   ],
+   [
+    "Chipset Manufacturer",
+    "MediaTek Helio G99"
+   ],
+   [
+    "Processor Manufacturer",
+    "MediaTek Helio G99"
+   ],
+   [
+    "Screen Size",
+    "6.7 Inch"
+   ],
+   [
+    "Front Camera",
+    "8 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "50 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "6000 mAh"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/samsung-galaxy-a08-128-gb-4-gb-4g-dual-sim-silver"
+  ]
+ },
+ "dream2000-50606279852171": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Network",
+    "4G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "PLS LCD"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Audio Jack Type",
+    "3.5 mm"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Display Resolution",
+    "720x1600"
+   ],
+   [
+    "Operating System Type",
+    "Android 17"
+   ],
+   [
+    "Dimensions",
+    "167.4 × 77.4 × 8 mm"
+   ],
+   [
+    "Model Name",
+    "Galaxy A08"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band - Bluetooth 5.3 - GPS, GLONASS, GALILEO, BDS - USB Type-C 2 - 3.5mm headphone jack"
+   ],
+   [
+    "Model Number",
+    "SM-A085FDBHEGY"
+   ],
+   [
+    "Chipset Manufacturer",
+    "MediaTek Helio G99"
+   ],
+   [
+    "Processor Manufacturer",
+    "MediaTek Helio G99"
+   ],
+   [
+    "Screen Size",
+    "6.7 Inch"
+   ],
+   [
+    "Front Camera",
+    "8 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "50 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "6000 mAh"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/samsung-galaxy-a08-128-gb-6-gb-4g-dual-sim-green"
+  ]
+ },
+ "alsheikh-52734213554457": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Device Type",
+    "Smart Watches"
+   ],
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Model",
+    "Samsung Watch 8 44 mm - Graphite"
+   ],
+   [
+    "Display Size",
+    "1.5 inches"
+   ],
+   [
+    "Battery Time",
+    "Up to 40 Hours"
+   ],
+   [
+    "Color",
+    "Graphite"
+   ],
+   [
+    "Support",
+    "Workout, BT Calls"
+   ]
+  ],
+  "tried": [
+   "https://2b.com.eg/en/samsung-watch-8-44-mm-graphite.html"
+  ]
+ },
+ "alsheikh-53212863889689": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Device Type",
+    "Smart Watches"
+   ],
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Model",
+    "Samsung Watch 8 40 mm - Silver"
+   ],
+   [
+    "Display Size",
+    "1.3 inches"
+   ],
+   [
+    "Battery Time",
+    "Up to 40 Hours"
+   ],
+   [
+    "Color",
+    "Silver"
+   ],
+   [
+    "Support",
+    "Workout, BT Calls"
+   ]
+  ],
+  "tried": [
+   "https://2b.com.eg/en/samsung-watch-8-40-mm-silver.html"
+  ]
+ },
+ "alsheikh-52549096210713": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "MPN",
+    "SM-L500NZKAMEA"
+   ],
+   [
+    "Device Type",
+    "Smart Watches"
+   ],
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Model",
+    "Samsung Watch 8 Classic 46 mm - Black"
+   ],
+   [
+    "Display Size",
+    "1.3 inches"
+   ],
+   [
+    "Battery Time",
+    "Up to 40 Hours"
+   ],
+   [
+    "Color",
+    "Black"
+   ],
+   [
+    "Support",
+    "Workout, BT Calls"
+   ],
+   [
+    "warranty",
+    "1 Year"
+   ]
+  ],
+  "tried": [
+   "https://2b.com.eg/en/samsung-watch-8-classic-46-mm-black.html"
+  ]
+ },
+ "noon-N70253942V": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "Xiaomi"
+   ],
+   [
+    "Color",
+    "Black"
+   ],
+   [
+    "RAM",
+    "2 GB"
+   ],
+   [
+    "Internal Storage",
+    "8 GB"
+   ],
+   [
+    "Product Name",
+    "Xiaomi TV Stick 4K - Black"
+   ],
+   [
+    "Device Type",
+    "TV Box"
+   ],
+   [
+    "Model",
+    "Xiaomi TV Stick 4K - Black"
+   ],
+   [
+    "Highlights",
+    "Portable Streaming Media Player | Powered by Android TV Google Assistant & Smart Cast | Dolby & DTS surround sound"
+   ],
+   [
+    "Other",
+    "Android TV™ 11"
+   ],
+   [
+    "Resolution",
+    "Android 9.0"
+   ]
+  ],
+  "tried": [
+   "https://2b.com.eg/en/xiaomi-tv-stick-4k-blackk.html"
+  ]
+ },
+ "noon-N24316759A": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "Xiaomi"
+   ],
+   [
+    "Color",
+    "Black"
+   ],
+   [
+    "RAM",
+    "2 GB"
+   ],
+   [
+    "Internal Storage",
+    "32 GB"
+   ],
+   [
+    "Product Name",
+    "Xiaomi TV Box S 3nd Generation 4K Ultra-HD - Black"
+   ],
+   [
+    "Device Type",
+    "TV Box"
+   ],
+   [
+    "Model",
+    "Xiaomi TV Box S 3nd Generation 4K Ultra-HD - Black"
+   ],
+   [
+    "Resolution",
+    "4K UHD"
+   ]
+  ],
+  "tried": [
+   "https://2b.com.eg/en/xiaomi-tv-box-s-3nd-generation-4k-ultra-hd-black.html"
+  ]
+ },
+ "dream2000-50606241546379": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Network",
+    "4G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "PLS LCD"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Audio Jack Type",
+    "3.5 mm"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Display Resolution",
+    "720x1600"
+   ],
+   [
+    "Operating System Type",
+    "Android 17"
+   ],
+   [
+    "Dimensions",
+    "167.4 × 77.4 × 8 mm"
+   ],
+   [
+    "Model Name",
+    "Galaxy A08"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band - Bluetooth 5.3 - GPS, GLONASS, GALILEO, BDS - USB Type-C 2 - 3.5mm headphone jack"
+   ],
+   [
+    "Model Number",
+    "SM-A085FDBHEGY"
+   ],
+   [
+    "Chipset Manufacturer",
+    "MediaTek Helio G99"
+   ],
+   [
+    "Processor Manufacturer",
+    "MediaTek Helio G99"
+   ],
+   [
+    "Screen Size",
+    "6.7 Inch"
+   ],
+   [
+    "Front Camera",
+    "8 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "50 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "6000 mAh"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/samsung-galaxy-a08-64-gb-4-gb-4g-dual-sim-silver"
+  ]
+ },
+ "noon-N70125808V": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "MPN",
+    "BHR8710GL"
+   ],
+   [
+    "Brand",
+    "Xiaomi"
+   ],
+   [
+    "Model",
+    "Xiaomi Smart Band 9 Pro - Obsidian Black"
+   ],
+   [
+    "Display Size",
+    "1.74 inches"
+   ],
+   [
+    "Battery Time",
+    "Up to 21 Hours"
+   ],
+   [
+    "Color",
+    "Black"
+   ],
+   [
+    "warranty",
+    "1 Year"
+   ]
+  ],
+  "tried": [
+   "https://2b.com.eg/en/xiaomi-smart-band-9-pro-obsidian-black.html"
+  ]
+ },
+ "btech-99E52BE8400AE916AE82": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "Dynamic LTPO AMOLED 2X"
+   ],
+   [
+    "Charging Type",
+    "Wired / Wireless"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Audio Jack Type",
+    "Type-C"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Memory Card Slot",
+    "No"
+   ],
+   [
+    "Display Resolution",
+    "3120x1440"
+   ],
+   [
+    "Operating System Type",
+    "Android 15"
+   ],
+   [
+    "Dimensions",
+    "162.8 x 77.6 x 8.2 mm"
+   ],
+   [
+    "Model Name",
+    "Galaxy S25 Ultra"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct, dBluetooth 5.4, A2DP, LEPositioning GPS, GLONASS, BDS, GALILEO, QZSSUSB Type-C 3.2, DisplayPort 1.2, OTG"
+   ],
+   [
+    "Zoom Capability",
+    "3x optical zoom, 5x optical zoom"
+   ],
+   [
+    "Chipset Manufacturer",
+    "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm), Octa Core"
+   ],
+   [
+    "Processor Manufacturer",
+    "Qualcomm Snapdragon"
+   ],
+   [
+    "Screen Size",
+    "6.9 Inch"
+   ],
+   [
+    "Front Camera",
+    "12 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "200 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "5000 mAh"
+   ],
+   [
+    "Water Resistance Level",
+    "1.5 Meter"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/samsung-galaxy-s25-ultra-512gb-12gb-5g-dual-sim-titanium-grey-warranty-1"
+  ]
+ },
+ "btech-A3824ECA1414698E0BBE": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "Dynamic LTPO AMOLED 2X"
+   ],
+   [
+    "Charging Type",
+    "Wired / Wireless"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Audio Jack Type",
+    "Type-C"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Memory Card Slot",
+    "No"
+   ],
+   [
+    "Display Resolution",
+    "3120x1440"
+   ],
+   [
+    "Operating System Type",
+    "Android 15"
+   ],
+   [
+    "Dimensions",
+    "162.8 x 77.6 x 8.2 mm"
+   ],
+   [
+    "Model Name",
+    "Galaxy S25 Ultra"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct, dBluetooth 5.4, A2DP, LEPositioning GPS, GLONASS, BDS, GALILEO, QZSSUSB Type-C 3.2, DisplayPort 1.2, OTG"
+   ],
+   [
+    "Zoom Capability",
+    "3x optical zoom, 5x optical zoom"
+   ],
+   [
+    "Chipset Manufacturer",
+    "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm), Octa Core"
+   ],
+   [
+    "Processor Manufacturer",
+    "Qualcomm Snapdragon"
+   ],
+   [
+    "Screen Size",
+    "6.9 Inch"
+   ],
+   [
+    "Front Camera",
+    "12 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "200 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "5000 mAh"
+   ],
+   [
+    "Water Resistance Level",
+    "1.5 Meter"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/samsung-galaxy-s25-ultra-256gb-12gb-5g-dual-sim-titanium-black1"
+  ]
+ },
+ "btech-1BSAOMSMGALS25U1L006": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Display Type",
+    "AMOLED"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Network",
+    "4G LTE"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Display Resolution",
+    "3120x1440"
+   ],
+   [
+    "Operating System Type",
+    "Android 15"
+   ],
+   [
+    "Model Name",
+    "Galaxy S25 Ultra"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e/7Bluetooth 5.4, Wi-Fi DirectUSB Type-C 3.2, DisplayPort 1.2GPS, OTG"
+   ],
+   [
+    "Dimensions",
+    "162.8 x 77.6 x 8.2 mm"
+   ],
+   [
+    "Zoom Capability",
+    "3x optical zoom, 5x optical zoom"
+   ],
+   [
+    "Video Capture Format",
+    "up to 4K@30/60fps"
+   ],
+   [
+    "Processor Manufacturer",
+    "Qualcomm"
+   ],
+   [
+    "Battery Capacity",
+    "5000 mAh"
+   ],
+   [
+    "Screen Size",
+    "6.9 Inch"
+   ],
+   [
+    "Front Camera",
+    "12 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "200 megapixels"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/samsung-galaxy-s25-ultra-512gb-12gb-4g-dual-sim-blue"
+  ]
+ },
+ "btech-DB2F5ECA80A8CF73BCC9": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "Dynamic LTPO AMOLED 2X"
+   ],
+   [
+    "Charging Type",
+    "Wired / Wireless"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Audio Jack Type",
+    "Type-C"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Memory Card Slot",
+    "No"
+   ],
+   [
+    "Display Resolution",
+    "3120x1440"
+   ],
+   [
+    "Operating System Type",
+    "Android 15"
+   ],
+   [
+    "Dimensions",
+    "162.8 x 77.6 x 8.2 mm"
+   ],
+   [
+    "Model Name",
+    "Galaxy S25 Ultra"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct, dBluetooth 5.4, A2DP, LEPositioning GPS, GLONASS, BDS, GALILEO, QZSSUSB Type-C 3.2, DisplayPort 1.2, OTG"
+   ],
+   [
+    "Zoom Capability",
+    "3x optical zoom, 5x optical zoom"
+   ],
+   [
+    "Chipset Manufacturer",
+    "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm), Octa Core"
+   ],
+   [
+    "Processor Manufacturer",
+    "Qualcomm Snapdragon"
+   ],
+   [
+    "Screen Size",
+    "6.9 Inch"
+   ],
+   [
+    "Front Camera",
+    "12 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "200 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "5000 mAh"
+   ],
+   [
+    "Water Resistance Level",
+    "1.5 Meter"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/samsung-galaxy-s25-ultra-256gb-12gb-ram-5g-dual-sim-titanium-silverblue"
+  ]
+ },
+ "btech-59050F17A6CF51E77DC1": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "Dynamic LTPO AMOLED 2X"
+   ],
+   [
+    "Charging Type",
+    "Wired / Wireless"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Audio Jack Type",
+    "Type-C"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Memory Card Slot",
+    "No"
+   ],
+   [
+    "Display Resolution",
+    "3120x1440"
+   ],
+   [
+    "Operating System Type",
+    "Android 15"
+   ],
+   [
+    "Dimensions",
+    "162.8 x 77.6 x 8.2 mm"
+   ],
+   [
+    "Model Name",
+    "Galaxy S25 Ultra"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct, dBluetooth 5.4, A2DP, LEPositioning GPS, GLONASS, BDS, GALILEO, QZSSUSB Type-C 3.2, DisplayPort 1.2, OTG"
+   ],
+   [
+    "Zoom Capability",
+    "3x optical zoom, 5x optical zoom"
+   ],
+   [
+    "Chipset Manufacturer",
+    "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm), Octa Core"
+   ],
+   [
+    "Processor Manufacturer",
+    "Qualcomm Snapdragon"
+   ],
+   [
+    "Screen Size",
+    "6.9 Inch"
+   ],
+   [
+    "Front Camera",
+    "12 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "200 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "5000 mAh"
+   ],
+   [
+    "Water Resistance Level",
+    "1.5 Meter"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/samsung-galaxy-s25-ultra-512gb-12gb-ram-5g-dual-sim-titanium-silverblue"
+  ]
+ },
+ "2b-samsung-galaxy-s25-ultra-12gb-ram-1tb-silver.html": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Color",
+    "Silver"
+   ],
+   [
+    "MPN",
+    "SM-S938W-1TS"
+   ],
+   [
+    "Network 2G",
+    "GSM 900 / 1800 / 1900"
+   ],
+   [
+    "Network 3G",
+    "HSDPA 900 / 1900 / 2100"
+   ],
+   [
+    "4G Network",
+    "HSPA, LTE (up to 7CA), 5G"
+   ],
+   [
+    "SIM Card",
+    "Dual SIM"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)"
+   ],
+   [
+    "CPU (Processor)",
+    "Octa Core"
+   ],
+   [
+    "CPU Speed (GHz)",
+    "Octa-core (2x4.47 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)"
+   ],
+   [
+    "GPU",
+    "Adreno 830"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Display Size",
+    "6.9 inches"
+   ],
+   [
+    "Display Type",
+    "6.9 inches, 1440 x 3120 pixels Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak) Corning Gorilla Armor 2"
+   ],
+   [
+    "Internal Storage",
+    "1TB"
+   ],
+   [
+    "Operating System",
+    "Android"
+   ],
+   [
+    "OS version",
+    "Android 15, up to 7 major Android upgrades, One UI 7"
+   ],
+   [
+    "Primary Camera",
+    "Quad: 200 MP, f/1.7, 24mm (wide) + 10 MP, f/2.4, 67mm (telephoto) + 50 MP, f/3.4, 111mm (periscope telephoto) + 50 MP, f/1.9, 120˚ (ultrawide)"
+   ],
+   [
+    "Secondary Camera",
+    "12 MP, f/2.2, 26mm (wide) HDR, HDR10+"
+   ],
+   [
+    "Video Resolutions",
+    "8K@24/30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, 10-bit HDR, HDR10+, stereo sound rec., gyro-EIS"
+   ],
+   [
+    "Connectivity",
+    "WLAN: Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct Bluetooth: 5.4, A2DP, LE Positioning: GPS, GLONASS, BDS, GALILEO, QZSS Radio: No USB: USB Type-C 3.2, DisplayPort 1.2, OTG"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer, Samsung DeX, Samsung Wireless DeX (desktop experience support), Ultra Wideband (UWB) support, Circle to Search"
+   ],
+   [
+    "Battery",
+    "Li-Ion 5000 mAh, 45W wired, PD3.0, 65% in 30 min 15W wireless (Qi2 Ready) 4.5W reverse wireless"
+   ],
+   [
+    "warranty",
+    "1 Year"
+   ]
+  ],
+  "tried": [
+   "https://2b.com.eg/en/samsung-galaxy-s25-ultra-12gb-ram-1tb-silver.html"
+  ]
+ },
+ "carrefour-1698542000150": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-mobile-galaxy-s26-ultra-256gb-12gb-ram-5g-black/p/1698542000150?offer=offer_1507416985&sid=DEFAULT&sellerId=16985"
+  ]
+ },
+ "carrefour-678328": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Processor model",
+    "Qualcomm SM8850-1-AD Snapdragon 8 Elite Gen 5"
+   ],
+   [
+    "Processor frequency",
+    "3.62"
+   ],
+   [
+    "Battery capacity",
+    "5000"
+   ],
+   [
+    "Color",
+    "Black"
+   ],
+   [
+    "Internal storage capacity",
+    "512"
+   ],
+   [
+    "Internal RAM in GB",
+    "12"
+   ],
+   [
+    "Display diagonal",
+    "6.9"
+   ],
+   [
+    "Display resolution",
+    "1440 x 3120"
+   ],
+   [
+    "Touchscreen",
+    "Yes"
+   ],
+   [
+    "Built-in flash",
+    "Yes"
+   ],
+   [
+    "Second camera",
+    "Yes"
+   ],
+   [
+    "Main camera resolution - numeric",
+    "200"
+   ],
+   [
+    "Bluetooth",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "SIM card type",
+    "Nano-SIM"
+   ],
+   [
+    "4G",
+    "Yes"
+   ],
+   [
+    "SIM card capability",
+    "Dual SIM"
+   ],
+   [
+    "Operating system installed",
+    "Android 16"
+   ],
+   [
+    "USB port",
+    "Yes"
+   ]
+  ],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-s26-ultra5g-12-512gb-black/p/678328?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000"
+  ]
+ },
+ "carrefour-677912": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Processor model",
+    "Qualcomm SM8850-1-AD Snapdragon 8 Elite Gen 5"
+   ],
+   [
+    "Processor frequency",
+    "3.62"
+   ],
+   [
+    "Battery capacity",
+    "5000"
+   ],
+   [
+    "Color",
+    "Sky Blue"
+   ],
+   [
+    "Internal storage capacity",
+    "256"
+   ],
+   [
+    "Internal RAM in GB",
+    "12"
+   ],
+   [
+    "Display diagonal",
+    "6.9"
+   ],
+   [
+    "Display resolution",
+    "1440 x 3120"
+   ],
+   [
+    "Touchscreen",
+    "Yes"
+   ],
+   [
+    "Built-in flash",
+    "Yes"
+   ],
+   [
+    "Second camera",
+    "Yes"
+   ],
+   [
+    "Main camera resolution - numeric",
+    "200"
+   ],
+   [
+    "Bluetooth",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "SIM card type",
+    "Nano-SIM"
+   ],
+   [
+    "4G",
+    "Yes"
+   ],
+   [
+    "SIM card capability",
+    "Dual SIM"
+   ],
+   [
+    "Operating system installed",
+    "Android 16"
+   ],
+   [
+    "USB port",
+    "Yes"
+   ]
+  ],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-s26-ultra5g12gb-256gb-blue/p/677912?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000"
+  ]
+ },
+ "carrefour-1698542000395": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-mobile-galaxy-a57-512gb-12gb-ram-5g-awesome-navy/p/1698542000395?offer=offer_1497616985&sid=DEFAULT&sellerId=16985"
+  ]
+ },
+ "carrefour-689671": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Processor model",
+    "Exynos 2500"
+   ],
+   [
+    "Processor family",
+    "Samsung Exynos"
+   ],
+   [
+    "Processor frequency",
+    "1.8"
+   ],
+   [
+    "Battery technology",
+    "Li-Ion"
+   ],
+   [
+    "Battery capacity",
+    "4900"
+   ],
+   [
+    "Color",
+    "Graphite"
+   ],
+   [
+    "Compatible memory cards",
+    "No"
+   ],
+   [
+    "Internal storage capacity",
+    "256"
+   ],
+   [
+    "Internal RAM in GB",
+    "8"
+   ],
+   [
+    "Display diagonal",
+    "6.7"
+   ],
+   [
+    "Display resolution",
+    "1080 x 2340 pixels"
+   ],
+   [
+    "Touchscreen",
+    "Yes"
+   ],
+   [
+    "Orientation sensor",
+    "Yes"
+   ],
+   [
+    "Built-in flash",
+    "Yes"
+   ],
+   [
+    "Auto focus",
+    "Yes"
+   ],
+   [
+    "Second camera",
+    "Yes"
+   ],
+   [
+    "Main camera resolution - numeric",
+    "50"
+   ],
+   [
+    "Bluetooth",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "3G",
+    "Yes"
+   ],
+   [
+    "SIM card type",
+    "Nano-SIM + eSIM"
+   ],
+   [
+    "4G",
+    "Yes"
+   ],
+   [
+    "3G standards",
+    "HSDPA"
+   ],
+   [
+    "2G standards",
+    "GSM"
+   ],
+   [
+    "SIM card capability",
+    "Dual SIM"
+   ],
+   [
+    "Operating system installed",
+    "Android"
+   ],
+   [
+    "Operating system version",
+    "17"
+   ],
+   [
+    "GPS - satellite",
+    "Yes"
+   ],
+   [
+    "USB port",
+    "Yes"
+   ],
+   [
+    "Video call",
+    "Yes"
+   ]
+  ],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-s26-fe-5g-8gb-256g-graphite/p/689671?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000"
+  ]
+ },
+ "carrefour-1698542000185": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-mobile-galaxy-a37-256gb-12gb-ram-5g-awesome-white/p/1698542000185?offer=offer_1492216985&sid=DEFAULT&sellerId=16985"
+  ]
+ },
+ "2b-xiaomi-redmi-note-14-pro-plus-12gb-ram-512gb-black.html": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "Xiaomi"
+   ],
+   [
+    "Color",
+    "Black"
+   ],
+   [
+    "MPN",
+    "24094RAD4GB-512"
+   ],
+   [
+    "Network 2G",
+    "GSM 900 / 1800 / 1900"
+   ],
+   [
+    "Network 3G",
+    "HSDPA 900 / 1900 / 2100"
+   ],
+   [
+    "4G Network",
+    "HSPA, LTE, 5G"
+   ],
+   [
+    "SIM Card",
+    "Dual SIM"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM7635 Snapdragon 7s Gen 3 (4 nm)"
+   ],
+   [
+    "CPU (Processor)",
+    "Octa Core"
+   ],
+   [
+    "CPU Speed (GHz)",
+    "Octa-core (1x2.5 GHz Cortex-A720 & 3x2.4 GHz Cortex-A720 & 4x1.8 GHz Cortex-A520)"
+   ],
+   [
+    "GPU",
+    "Adreno 710 (940 MHz)"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Display Size",
+    "6.67 inches"
+   ],
+   [
+    "Display Type",
+    "6.67 inches, 1220 x 2712 pixels, 20:9 ratio (~446 ppi density) AMOLED, 68B colors, 120Hz, HDR10+, Dolby Vision, 3000 nits (peak)"
+   ],
+   [
+    "Internal Storage",
+    "512 GB"
+   ],
+   [
+    "Operating System",
+    "Android"
+   ],
+   [
+    "OS version",
+    "Android 14, up to 3 major Android upgrades, HyperOS"
+   ],
+   [
+    "Primary Camera",
+    "Triple: 200 MP, f/1.7, 23mm (wide) + 8 MP, f/2.2, 15mm, 120˚ (ultrawide) + 2 MP, f/2.4, (macro) LED flash, HDR, panorama"
+   ],
+   [
+    "Secondary Camera",
+    "20 MP, f/2.2, 21mm (wide) HDR, panorama"
+   ],
+   [
+    "Video Resolutions",
+    "4K@24/30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+   ],
+   [
+    "Connectivity",
+    "WLAN: Wi-Fi 802.11 a/b/g/n/ac/6/6e, dual-band, Wi-Fi Direct (/6e is market/region dependent) Bluetooth: 5.4, A2DP, LE Positioning: GPS (L1+L5), GALILEO, GLONASS, QZSS, BDS Infrared port: Yes USB: USB Type-C 2.0, OTG"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity, Circle to Search"
+   ],
+   [
+    "Battery",
+    "5110 mAh, 120W wired"
+   ],
+   [
+    "warranty",
+    "18 Months"
+   ]
+  ],
+  "tried": [
+   "https://2b.com.eg/en/xiaomi-redmi-note-14-pro-plus-12gb-ram-512gb-black.html"
+  ]
+ },
+ "2b-xiaomi-redmi-note-14-pro-plus-12gb-ram-256gb-purple.html": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "Xiaomi"
+   ],
+   [
+    "Color",
+    "Purple"
+   ],
+   [
+    "MPN",
+    "24094RAD4GP"
+   ],
+   [
+    "Network 2G",
+    "GSM 850 / 900 / 1800 / 1900"
+   ],
+   [
+    "Network 3G",
+    "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100"
+   ],
+   [
+    "4G Network",
+    "HSPA, LTE, 5G"
+   ],
+   [
+    "SIM Card",
+    "Dual SIM"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM7635 Snapdragon 7s Gen 3 (4 nm)"
+   ],
+   [
+    "CPU (Processor)",
+    "Octa Core"
+   ],
+   [
+    "CPU Speed (GHz)",
+    "Octa-core (1x2.5 GHz Cortex-A720 & 3x2.4 GHz Cortex-A720 & 4x1.8 GHz Cortex-A520)"
+   ],
+   [
+    "GPU",
+    "Adreno 710 (940 MHz)"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Display Size",
+    "6.67 inches"
+   ],
+   [
+    "Display Type",
+    "6.67 inches, 1220 x 2712 pixels, 20:9 ratio (~446 ppi density) AMOLED, 68B colors, 120Hz, HDR10+, Dolby Vision, 3000 nits (peak)"
+   ],
+   [
+    "Internal Storage",
+    "256 GB"
+   ],
+   [
+    "Operating System",
+    "Android"
+   ],
+   [
+    "OS version",
+    "Android 14, up to 3 major Android upgrades, HyperOS"
+   ],
+   [
+    "Primary Camera",
+    "Triple: 200 MP, f/1.7, 23mm (wide) + 8 MP, f/2.2, 15mm, 120˚ (ultrawide) + 2 MP, f/2.4, (macro) LED flash, HDR, panorama"
+   ],
+   [
+    "Secondary Camera",
+    "20 MP, f/2.2, 21mm (wide) HDR, panorama"
+   ],
+   [
+    "Video Resolutions",
+    "4K@24/30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+   ],
+   [
+    "Connectivity",
+    "WLAN: Wi-Fi 802.11 a/b/g/n/ac/6/6e, dual-band, Wi-Fi Direct (/6e is market/region dependent) Bluetooth: 5.4, A2DP, LE Positioning: GPS (L1+L5), GALILEO, GLONASS, QZSS, BDS Infrared port: Yes USB: USB Type-C 2.0, OTG"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity, Circle to Search"
+   ],
+   [
+    "Battery",
+    "5110 mAh, 120W wired"
+   ],
+   [
+    "warranty",
+    "18 Months"
+   ]
+  ],
+  "tried": [
+   "https://2b.com.eg/en/xiaomi-redmi-note-14-pro-plus-12gb-ram-256gb-purple.html"
+  ]
+ },
+ "2b-xiaomi-redmi-note-14-pro-plus-12gb-ram-256gb-black.html": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "Xiaomi"
+   ],
+   [
+    "Color",
+    "Black"
+   ],
+   [
+    "MPN",
+    "24094RAD4GB"
+   ],
+   [
+    "Network 2G",
+    "GSM 900 / 1800 / 1900"
+   ],
+   [
+    "Network 3G",
+    "HSDPA 900 / 1900 / 2100"
+   ],
+   [
+    "4G Network",
+    "HSPA, LTE, 5G"
+   ],
+   [
+    "SIM Card",
+    "Dual SIM"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM7635 Snapdragon 7s Gen 3 (4 nm)"
+   ],
+   [
+    "CPU (Processor)",
+    "Octa Core"
+   ],
+   [
+    "CPU Speed (GHz)",
+    "Octa-core (1x2.5 GHz Cortex-A720 & 3x2.4 GHz Cortex-A720 & 4x1.8 GHz Cortex-A520)"
+   ],
+   [
+    "GPU",
+    "Adreno 710 (940 MHz)"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Display Size",
+    "6.67 inches"
+   ],
+   [
+    "Display Type",
+    "6.67 inches, 1220 x 2712 pixels, 20:9 ratio (~446 ppi density) AMOLED, 68B colors, 120Hz, HDR10+, Dolby Vision, 3000 nits (peak)"
+   ],
+   [
+    "Internal Storage",
+    "256 GB"
+   ],
+   [
+    "Operating System",
+    "Android"
+   ],
+   [
+    "OS version",
+    "Android 14, up to 3 major Android upgrades, HyperOS"
+   ],
+   [
+    "Primary Camera",
+    "Triple: 200 MP, f/1.7, 23mm (wide) + 8 MP, f/2.2, 15mm, 120˚ (ultrawide) + 2 MP, f/2.4, (macro) LED flash, HDR, panorama"
+   ],
+   [
+    "Secondary Camera",
+    "20 MP, f/2.2, 21mm (wide) HDR, panorama"
+   ],
+   [
+    "Video Resolutions",
+    "4K@24/30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+   ],
+   [
+    "Connectivity",
+    "WLAN: Wi-Fi 802.11 a/b/g/n/ac/6/6e, dual-band, Wi-Fi Direct (/6e is market/region dependent) Bluetooth: 5.4, A2DP, LE Positioning: GPS (L1+L5), GALILEO, GLONASS, QZSS, BDS Infrared port: Yes USB: USB Type-C 2.0, OTG"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity, Circle to Search"
+   ],
+   [
+    "Battery",
+    "5110 mAh, 120W wired"
+   ],
+   [
+    "warranty",
+    "18 Months"
+   ]
+  ],
+  "tried": [
+   "https://2b.com.eg/en/xiaomi-redmi-note-14-pro-plus-12gb-ram-256gb-black.html"
+  ]
+ },
+ "carrefour-1698542000351": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/smartphones/xiaomi-mobile-redmi-note-15-512gb-12gb-ram-5g-mist-purple/p/1698542000351?offer=offer_1494316985&sid=DEFAULT&sellerId=16985"
+  ]
+ },
+ "carrefour-1698542000189": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/smartphones/xiaomi-mobile-redmi-note-15-512gb-12gb-ram-5g-glacier-blue/p/1698542000189?offer=offer_1513716985&sid=DEFAULT&sellerId=16985"
+  ]
+ },
+ "carrefour-1698542000313": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/smartphones/xiaomi-mobile-redmi-a7-pro-128gb-4gb-ram-4g-black/p/1698542000313?offer=offer_1500816985&sid=DEFAULT&sellerId=16985"
+  ]
+ },
+ "carrefour-1698542000411": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/smartphones/xiaomi-mobile-redmi-a7-pro-128gb-4gb-ram-4g-mist-blue/p/1698542000411?offer=offer_1519216985&sid=DEFAULT&sellerId=16985"
+  ]
+ },
+ "btech-A2931A1FCEB2E8BF6399": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Generic"
+   ],
+   [
+    "Noise Cancellation",
+    "Yes"
+   ],
+   [
+    "Model Name",
+    "AirPods Pro 3"
+   ],
+   [
+    "Connectivity",
+    "Bluetooth"
+   ],
+   [
+    "Super Features",
+    "with Active Noise Cancellation"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/0010da9d-5374-4887-bb7c-406630f7521e"
+  ]
+ },
+ "btech-09CF9ED8CAB0CD0CD64F": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Purity"
+   ],
+   [
+    "Fuel Type",
+    "Electricity"
+   ],
+   [
+    "Dimensions",
+    "External (width-length-height): 29x51x5, Internal (width-length): 24.5x47"
+   ],
+   [
+    "Model Number",
+    "HPT302BLE PRO"
+   ],
+   [
+    "Knobs Position",
+    "Front"
+   ],
+   [
+    "Mounting System",
+    "Built In"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/1f222c41-d940-4be2-b0a8-43368bc80d07"
+  ]
+ },
+ "carrefour-2251257000076": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/wireless-earbuds/samsung-galaxy-buds-4-pro-2026-ai-true-wireless-bluetooth-earbuds-hi-res-audio-2-way-speaker-anc-2-0-optimized-comfort-ip57-live-translation-black/p/2251257000076?offer=offer_1008322512&sid=DEFAULT&sellerId=22512"
+  ]
+ },
+ "carrefour-2251257000027": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/wireless-earbuds/cmf-by-nothing-buds-pro-2-bluetooth-earbuds-chatgpt-integrated-tws-with-clear-voice-technology-2-0-50-db-smart-anc-up-to-11-hrs-battery-spatial-audio-effect-ip55-dark-grey-middle-east-version/p/2251257000027?offer=offer_1003922512&sid=DEFAULT&sellerId=22512"
+  ]
+ },
+ "compumarts-anker-liberty-air-2-pro-earphone-wireless-a3951051-pink": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://www.compumarts.com/products/anker-liberty-air-2-pro-earphone-wireless-a3951051-pink.js"
+  ]
+ },
+ "compumarts-samsung-galaxy-buds-pro-2-2022-sm-r510-gray": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "compumarts",
+  "specs": [
+   [
+    "Brand",
+    "SAMSUNG"
+   ],
+   [
+    "Color",
+    "Gray"
+   ],
+   [
+    "Ear Placement",
+    "In Ear"
+   ],
+   [
+    "Form Factor",
+    "In Ear"
+   ],
+   [
+    "Impedance",
+    "16 Ohm"
+   ],
+   [
+    "Noise Control",
+    "Active Noise Cancellation"
+   ],
+   [
+    "Headphones Jack",
+    "wireless"
+   ],
+   [
+    "Model Name",
+    "Samsung Galaxy Buds Pro 2"
+   ],
+   [
+    "Connectivity Technology",
+    "Wireless"
+   ],
+   [
+    "Wireless Communication Technology",
+    "Bluetooth , Wi-Fi 6"
+   ],
+   [
+    "Special Feature",
+    "ANC, Microphone Included"
+   ],
+   [
+    "Included Components",
+    "Cable, Ear Cushions, Wireless Charging Case"
+   ],
+   [
+    "Age Range (Description)",
+    "Adult"
+   ],
+   [
+    "Material",
+    "Polycarbonate (PC)"
+   ],
+   [
+    "Specific Uses For Product",
+    "Personal"
+   ],
+   [
+    "Compatible Devices",
+    "Universal"
+   ],
+   [
+    "Control Type",
+    "Media Control"
+   ],
+   [
+    "Cable Feature",
+    "Without Cable"
+   ],
+   [
+    "Water Resistance Level",
+    "Water Resistant"
+   ],
+   [
+    "Unit Count",
+    "1.0 Count"
+   ],
+   [
+    "Control Method",
+    "Touch"
+   ],
+   [
+    "Number of Items",
+    "1"
+   ],
+   [
+    "Is Autographed",
+    "No"
+   ],
+   [
+    "Manufacturer",
+    "Samsung"
+   ],
+   [
+    "Package Dimensions",
+    "3.86 x 3.43 x 1.65 inches"
+   ],
+   [
+    "Item Weight",
+    "5 ounces"
+   ]
+  ],
+  "tried": [
+   "https://www.compumarts.com/products/samsung-galaxy-buds-pro-2-2022-sm-r510-gray.js"
+  ]
+ },
+ "compumarts-logitech-pro-2-lightspeed-wireless-gaming-mouse-black-2-4ghz-hero-2-44000-dpi-eg": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "compumarts",
+  "specs": [
+   [
+    "MODEL",
+    "PRO 2 LIGHTSPEED"
+   ],
+   [
+    "COLOR",
+    "BLACK"
+   ],
+   [
+    "CONNECTIVITY",
+    "2.4GHZ"
+   ],
+   [
+    "SENSOR",
+    "HERO 2"
+   ],
+   [
+    "RESOLUTION",
+    "100 – 44,000 DPI"
+   ],
+   [
+    "BUTTONS",
+    "4-8"
+   ],
+   [
+    "MAX ACCELERATION",
+    ">88 G (Tested on Logitech G640 Gaming Mouse Pad)"
+   ],
+   [
+    "MAX SPEED",
+    ">888 IPS (Tested on Logitech G640 Gaming Mouse Pad)"
+   ],
+   [
+    "SMOOTHING/ACCELERATION/FILTERING",
+    "Zero"
+   ],
+   [
+    "MAX REPORT RATE",
+    "1000Hz (1ms)"
+   ],
+   [
+    "DEFAULT LIGHTING",
+    "60 hours"
+   ],
+   [
+    "NO LIGHTING",
+    "95 hours"
+   ],
+   [
+    "HEIGHT",
+    "4.92 in (125 mm)"
+   ],
+   [
+    "WIDTH",
+    "2.50 in (63.5 mm)"
+   ],
+   [
+    "DEPTH",
+    "1.57 in (40 mm)"
+   ],
+   [
+    "WEIGHT",
+    "2.82 oz (80 g)"
+   ],
+   [
+    "COMPATIBILITY",
+    "PC with Windows® 10 or later, USB 2.0 port required"
+   ]
+  ],
+  "tried": [
+   "https://www.compumarts.com/products/logitech-pro-2-lightspeed-wireless-gaming-mouse-black-2-4ghz-hero-2-44000-dpi-egypt.js"
+  ]
+ },
+ "carrefour-2251857001515": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/samsung-accessories/samsung-galaxy-smarttag2-pack-of-4-2-black-2-white-black-white/p/1827747000649?offer=offer_1055518277&sid=DEFAULT&sellerId=18277"
+  ]
+ },
+ "btech-7312380E53F073E35BFE": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Jbl"
+   ],
+   [
+    "Dimensions",
+    "8.75 x 10.25 x 10.5 inches"
+   ],
+   [
+    "Model Name",
+    "Tune 520BT"
+   ],
+   [
+    "Connectivity",
+    "Wireless via Bluetooth 5.3"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/jbl-tune-520bt-wireless-headphones-purple"
+  ]
+ },
+ "carrefour-691089": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/pc-speakers/jbl-t530bt-wls-on-ear-hp-purple/p/691089?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000"
+  ]
+ },
+ "btech-364D137EF85B3286D411": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Anker"
+   ],
+   [
+    "Port Type",
+    "Multi Ports"
+   ],
+   [
+    "Model Number",
+    "A110EP21"
+   ],
+   [
+    "Connectivity",
+    "USB, USB-C ports, and USB-C Cable"
+   ],
+   [
+    "Connection Type",
+    "Wired"
+   ],
+   [
+    "Wattage",
+    "22 Watt"
+   ],
+   [
+    "Number of Charging Ports",
+    "2"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/4923cf8b-a3f6-406a-818d-e3a417ea75a2"
+  ]
+ },
+ "btech-55F0B003240641640AB6": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Voltage",
+    "5 Volt"
+   ],
+   [
+    "Wattage",
+    "7 Watt"
+   ],
+   [
+    "Connectivity",
+    "Type-C port, Wireless"
+   ],
+   [
+    "Connection Type",
+    "Magnetic Wireless"
+   ],
+   [
+    "Number of Charging Ports",
+    "1"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/92345975-1c0a-4728-bfa0-74183983f362"
+  ]
+ },
+ "carrefour-1827747000496": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/power-banks/anker-power-bank-powercore-10000mah-22-5w-portable-charger-with-usb-c-lanyard-cable/p/1827747000496?offer=offer_1025522512&sid=DEFAULT&sellerId=22512"
+  ]
+ },
+ "carrefour-2251257000186": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/power-banks/zolo-power-bank-20-000mah-22-5w-max-portable-charger-usb-c-in-and-out-fast-charging-battery-pack-slim-travel-essential-phone-power-bank-for-iphone-17-16-15-series-galaxy-white/p/2251257000186?offer=offer_1018422512&sid=DEFAULT&sellerId=22512"
+  ]
+ },
+ "carrefour-685263": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/power-banks/anker-power-bank-10k-mah-mp816/p/685263?offer=offer_1025822512&sid=DEFAULT&sellerId=22512"
+  ]
+ },
+ "compumarts-baseus-20000mah-power-bank-20w-p10022804113-00": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://www.compumarts.com/products/baseus-20000mah-power-bank-20w-p10022804113-00.js"
+  ]
+ },
+ "btech-1BSAASMCNBEGEU00L007": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://btech.com/en/p/samsung-wall-charger-15watt-usb-c-port-black-ep-t1510"
+  ]
+ },
+ "btech-1BSAASMCNBEGWW00L007": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Port Type",
+    "Multi Ports"
+   ],
+   [
+    "Dimensions",
+    "7 x 5 x 4 cm"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/samsung-wall-charger-35w-2-black-ep-ta220nbegww"
+  ]
+ },
+ "carrefour-2251257000074": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/chargers-cables-convertors/anker-nano-45w-type-c-charger-fast-charging-compact-and-foldable-plug-usb-c-charger-block-for-samsung-galaxy-s25-ultra-s24-series-iphone-16-series-macbook-pixel-9-ipad/p/2251257000074?offer=offer_1008122512&sid=DEFAULT&sellerId=22512"
+  ]
+ },
+ "carrefour-658121": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Display diagonal",
+    "55 Inch"
+   ],
+   [
+    "Display resolution",
+    "3840 x 2160"
+   ],
+   [
+    "HD type",
+    "Ultra HD"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "Smart TV",
+    "Yes"
+   ]
+  ],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/uhd-tv/samsung-led-tv-ua-55u8000-f-sm-4k/p/658121?offer=offer_1165416985&sid=DEFAULT&sellerId=16985"
+  ]
+ },
+ "carrefour-633076": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Power consumption - standby",
+    "0.5"
+   ],
+   [
+    "Display diagonal",
+    "55"
+   ],
+   [
+    "Display resolution",
+    "3840 x 2160"
+   ],
+   [
+    "OLED technology",
+    "Yes"
+   ],
+   [
+    "HD type",
+    "4K"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "USB 2.0 ports quantity",
+    "2"
+   ],
+   [
+    "Ethernet LAN - RJ-45 ports",
+    "1"
+   ],
+   [
+    "HDMI ports quantity",
+    "3"
+   ],
+   [
+    "VESA mounting",
+    "Yes"
+   ],
+   [
+    "Smart TV",
+    "Yes"
+   ]
+  ],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/oled-tv/lg-oled-tv-55-oled55b46la-4k-sm/p/633076?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000"
+  ]
+ },
+ "carrefour-656990": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Power consumption - standby",
+    "0.5"
+   ],
+   [
+    "Display diagonal",
+    "55"
+   ],
+   [
+    "Response time",
+    "120"
+   ],
+   [
+    "Display resolution",
+    "3840 x 2160"
+   ],
+   [
+    "OLED technology",
+    "Yes"
+   ],
+   [
+    "HD type",
+    "4K Ultra HD"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "Built-in speaker",
+    "Yes"
+   ],
+   [
+    "USB 2.0 ports quantity",
+    "2"
+   ],
+   [
+    "HDMI ports quantity",
+    "4"
+   ],
+   [
+    "Smart TV",
+    "Yes"
+   ]
+  ],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/oled-tv/lg-oled-tv-oled55b56la-4k-sm-rc/p/656990?offer=offer_1075218304&sid=DEFAULT&sellerId=18304"
+  ]
+ },
+ "btech-F6FE06D29764E3D7E828": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Xiaomi"
+   ],
+   [
+    "Resolution Type",
+    "4K"
+   ],
+   [
+    "Dimensions",
+    "29.4 x 15.4 mm"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/ad2d74ef-1fa5-4101-8742-52ccbf66ea6c"
+  ]
+ },
+ "btech-19BE3CFE7CD2D63620DF": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://btech.com/en/p/199250e5-12bd-4ac4-b37a-a7443c103930"
+  ]
+ },
+ "carrefour-670836": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/smartphones/redmi-15c-8-256g-orange/p/670836?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000"
+  ]
+ },
+ "carrefour-662731": {
+  "t": "2026-11-16T10:19+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Display diagonal",
+    "65-inch"
+   ],
+   [
+    "Display resolution",
+    "3840 x 2160"
+   ],
+   [
+    "OLED technology",
+    "No"
+   ],
+   [
+    "HD type",
+    "UHD"
+   ],
+   [
+    "Ethernet LAN",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "Built-in speaker",
+    "Yes"
+   ],
+   [
+    "Number of loudspeakers",
+    "3"
+   ],
+   [
+    "Ethernet LAN - RJ-45 ports",
+    "1"
+   ],
+   [
+    "USB 3.0 - 3.1 Gen 1 Type-A ports quantity",
+    "1"
+   ],
+   [
+    "HDMI ports quantity",
+    "4"
+   ],
+   [
+    "Internet TV",
+    "Yes"
+   ],
+   [
+    "Smart TV",
+    "Yes"
+   ]
+  ],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/qled-qned-tv/tcl-qled-tv-65p8k-sm-rc-4k-frameles/p/662731?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000"
   ]
  }
 }
