@@ -97,6 +97,7 @@ HEAD = """<!doctype html>
 <meta property="og:site_name" content="بكام؟">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Readex+Pro:wght@500;700&family=IBM+Plex+Sans+Arabic:wght@400;500;600&display=swap">
 <link rel="stylesheet" href="/page.css">
+<script>try{{if(JSON.parse(localStorage.getItem("skam")||"{{}}").owner)document.documentElement.classList.add("owner")}}catch(e){{}}</script>
 {extra}</head>
 <body>
 <header class="top"><div class="wrap"><a class="logo" href="/"><span>بكام</span>؟</a>

@@ -182,7 +182,7 @@ function render(){
       ${max>min?`<div class="save">توفّر لحد ${fmt(max-min)} لو اشتريت من الأرخص</div>`:""}</div></div>
       <ul class="offers">${offers.map(o=>{const s=DATA.stores[o.store]||{name:o.store};const out=!avail(o);const best=!out&&o.price===min;
         return `<li class="offer${best?" best":""}${out?" out":""}"><span class="store">${esc(s.name)}
-          ${best?'<span class="pill best">الأرخص</span>':""}${out?'<span class="pill outp">غير متوفر</span>':""}${o.stale?'<span class="pill noaff" title="آخر سعر معروف">قديم</span>':""}
+          ${best?'<span class="pill best">الأرخص</span>':""}${out?'<span class="pill outp">غير متوفر</span>':""}${owner&&o.stale?'<span class="pill noaff" title="آخر سعر معروف">قديم</span>':""}
           ${owner?(s.affiliate&&o.url?'<span class="pill aff">بعمولة</span>':'<span class="pill noaff">بدون عمولة</span>'):""}</span>
           <span class="price">${o.old_price>o.price?`<s class="was">${fmt(o.old_price)}</s>`:""}${fmt(o.price)}</span>
           <a class="buy" href="${esc(offerUrl(p,o))}" target="_blank" rel="noopener sponsored">اشتري</a></li>`}).join("")}</ul>
