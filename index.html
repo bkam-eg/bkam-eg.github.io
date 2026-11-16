@@ -95,7 +95,7 @@ footer{border-top:1px solid var(--line);padding-block:18px 28px;color:var(--mute
     </div>
     <div class="row">
       <div class="chips" id="chips"></div>
-      <label class="owner"><input type="checkbox" id="owner"> وضع صاحب الموقع</label>
+      <label class="owner" id="ownerbox" hidden><input type="checkbox" id="owner"> وضع صاحب الموقع</label>
     </div>
   </div>
 </div>
@@ -116,7 +116,9 @@ const esc=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"
 let DATA=null,cat="الكل",cats=["الكل"];
 let saved={};try{saved=JSON.parse(localStorage.getItem("skam")||"{}")}catch(e){}
 if(saved.sort)$("sort").value=saved.sort;
-$("owner").checked=!!saved.owner;
+{const m=location.search.match(/[?&]owner=([01])/);if(m)saved.owner=m[1]==="1"}  // ?owner=1 يفتح وضع صاحب الموقع، ?owner=0 يقفله
+$("owner").checked=!!saved.owner;$("ownerbox").hidden=!saved.owner;
+if(/[?&]owner=/.test(location.search)){persist();history.replaceState(null,"",location.pathname+location.hash)}
 function persist(){try{localStorage.setItem("skam",JSON.stringify({cat,sort:$("sort").value,owner:$("owner").checked}))}catch(e){}}
 function offerUrl(p,o){const s=DATA.stores[o.store]||{};
   if(o.url)return o.url;
