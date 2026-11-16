@@ -40,6 +40,12 @@ STORES = {
     "dream2000": {"name": "دريم 2000", "affiliate": False, "search": "https://dream2000.com/en/search?type=product&q="},
     "alsheikh": {"name": "الشيخ", "affiliate": False, "search": "https://alsheikhstores.com/en/search?type=product&q="},
     "miami":  {"name": "ميامي سنتر", "affiliate": False, "search": "https://miamicenters.com/?post_type=product&s="},
+    # متاجر بنلاقي منتجاتها من خريطة الموقع (discover.py) مش من البحث
+    "vodafone": {"name": "فودافون", "affiliate": False, "search": "https://eshop.vodafone.com.eg/en/"},
+    "raya":   {"name": "راية شوب", "affiliate": False, "search": "https://www.rayashop.com/en/"},
+    "raneen": {"name": "رنين", "affiliate": False, "search": "https://www.raneen.com/en/"},
+    "zs":     {"name": "زهران ستور", "affiliate": False, "search": "https://zs-eg.com/en/"},
+    "elghazawy": {"name": "الغزاوي", "affiliate": False, "search": "https://elghazawy.com/en/"},
     "jumia":  {"name": "جوميا",      "affiliate": False, "search": "https://www.jumia.com.eg/catalog/?q="},
 }
 
@@ -388,6 +394,7 @@ def keywords(name):
     n = name.lower()
     n = re.sub(r"(?<=\b[a-z])-(?=[a-z]{3,})", "", n)  # E-train = Etrain
     n = re.sub(r"play\s*station\s*5|\bps\s*5\b", " ps5 ", n)
+    n = re.sub(r"\bdisk\b", "disc", n)
     # "256/8" أو "256/8GB" = مساحة 256GB ورام 8GB ، و"256G" = 256GB (مش 5G الشبكة)
     n = re.sub(r"\b(16|32|64|128|256|512)\s*/\s*(\d{1,2})\s*(?:gb)?\b", r"\1gb \2gb", n)
     n = re.sub(r"\b(\d{1,2})\s*/\s*(64|128|256|512)\s*(?:gb)?\b", r"\2gb \1gb", n)
@@ -576,6 +583,47 @@ def targeted_query(p):
     if brand and brand.lower() != "generic" and brand.lower() not in [w.lower() for w in words]:
         words.insert(0, brand)
     return " ".join(words)
+
+
+LINKS = ROOT / "links.json"
+
+
+def refresh_links(products):
+    """اللينكات اللي discover.py لقاها من خريطة موقع المتاجر: نفتحها ونحدّث سعرها."""
+    try:
+        links = json.loads(LINKS.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return
+    from discover import read_page, check  # noqa: PLC0415
+    jobs = {}
+    for p in products:
+        have = {o["store"] for o in p["offers"]}
+        for store, rec in links.get(p["id"], {}).items():
+            if rec.get("url") and store not in have:
+                jobs.setdefault(store, []).append((p, rec["url"]))
+
+    def work(store):
+        got = 0
+        for p, url in jobs[store]:
+            if time.time() > DEADLINE + 10 * 60:
+                break
+            try:
+                info = read_page(url)
+            except Exception as e:  # noqa: BLE001
+                print(f"✗ {store}: {url[:70]}: {e}", file=sys.stderr)
+                info = None
+            time.sleep(random.uniform(1.5, 3))
+            if info and check(p, info):
+                p["offers"].append({"store": store, "price": info["price"], "old_price": None,
+                                    "url": url, "in_stock": info["in_stock"]})
+                if info["image"] and info["image"] not in p.get("images", []):
+                    p.setdefault("images", []).append(info["image"])
+                got += 1
+        return store, got, len(jobs[store])
+
+    with ThreadPoolExecutor(max(1, len(jobs))) as pool:
+        for store, got, n in pool.map(work, jobs):
+            print(f"لينكات {store}: اتحدّث {got} من {n}")
 
 
 KEEP_DAYS = 14  # منتج اختفى من النتايج؟ صفحته تفضل بآخر سعر أسبوعين بدل ما تبقى 404 في جوجل
@@ -819,6 +867,8 @@ def main():
     before = len(products)
     products = global_merge(products)
     print(f"الدمج العام: {before - len(products)} منتج اتدمج مع نسخته في متجر تاني")
+
+    refresh_links(products)
 
     now = datetime.now(timezone.utc)
     for p in products:
