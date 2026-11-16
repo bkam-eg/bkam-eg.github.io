@@ -377,12 +377,17 @@ COLORS = set("black white red blue green grey gray silver gold pink purple yello
 
 
 PANELS = set("oled qled rgb nanocell neo".split())
-VARIANTS = set("pro max plus ultra mini edge lite fe slim digital disc air se neo prime".split())
+VARIANTS = set("pro max plus ultra mini edge lite fe slim digital disc air se neo prime classic".split())
 
 
 BRANDS = set("sony apple samsung xiaomi redmi anker jbl logitech lenovo hp dell huawei oppo realme "
              "honor infinix tecno nokia havit baseus ugreen oraimo joyroom lg razer hyperx redragon "
-             "corsair steelseries soundcore beats bose marshall amazfit garmin generic".split())
+             "corsair steelseries soundcore beats bose marshall amazfit garmin generic "
+             # أجهزة منزلية وتلفزيونات وشاشات
+             "fresh zanussi toshiba sharp midea carrier haier tcl hisense ata jac tornado kenwood moulinex tefal "
+             "philips braun bosch beko unionaire whirlpool ariston electrolux kiriazi universal hoover black+decker "
+             "arzum nespresso delonghi gree white-point whitepoint daewoo panasonic viewsonic msi asus acer aoc benq "
+             "ravpower vivo motorola nothing google oneplus".split())
 # إكسسوار (جراب، اسكرينة، ستاند...) عمره ما يتدمج مع الجهاز نفسه
 ACCESSORY = set("case cases cover covers protector tempered glass skin skins sticker sleeve pouch holder "
                 "mount stand bumper film jacket backcover strap straps dock grip grips decal".split())

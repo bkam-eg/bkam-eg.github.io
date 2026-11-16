@@ -181,11 +181,42 @@ def read_page(url):
     return None
 
 
+UNITS = ("gb", "tb", "mm", "l", "kg", "hp", "inch", "w", "mah", "hz")
+
+
+def units(text):
+    """القيم بوحداتها: {"gb": {"256gb","12gb"}, "inch": {"55inch"}, ...}"""
+    out = defaultdict(set)
+    for w in up.keywords(text):
+        m = re.fullmatch(r"\d+(" + "|".join(UNITS) + ")", w)
+        if m:
+            out[m.group(1)].add(w)
+    return out
+
+
+def first_word(text):
+    m = re.match(r"\W*([a-z0-9+\-]+)", text.lower())
+    return m.group(1) if m else ""
+
+
 def check(p, info):
-    """نفس المنتج؟ نفس قواعد المطابقة بين المتاجر + السعر قريب."""
+    """نفس المنتج؟ نفس قواعد المطابقة بين المتاجر + الماركة + الأرقام بوحداتها + السعر قريب."""
     if not info or not info["name"]:
         return 0
     ref = p.get("brand", "") + " " + p["name"]
+    name, low = info["name"], info["name"].lower()
+    # الماركة: ماركة منتجنا لازم تكون في اسم المنتج التاني، وأول كلمة فيه لو ماركة لازم تكون عندنا
+    brand = (p.get("brand") or "").strip().lower() or first_word(p["name"])
+    if brand in up.BRANDS and brand != "generic" and brand not in low:
+        return 0
+    fw = first_word(name)
+    if fw in up.BRANDS and fw != "generic" and fw not in ref.lower():
+        return 0
+    # نفس الوحدة بأرقام مختلفة = منتج تاني (12GB غير 8GB رام، 40mm غير 44mm، 7L غير 4L)
+    ua, ub = units(ref), units(name)
+    for u in UNITS:
+        if ua[u] and ub[u] and ua[u] != ub[u] and not (u in ("gb", "w") and (ua[u] < ub[u] or ub[u] < ua[u])):
+            return 0
     sim = up.similar(ref, info["name"])
     live = [o["price"] for o in p["offers"] if not o.get("stale")] or [o["price"] for o in p["offers"]]
     if sim >= 0.5 and up.close_price(live, info["price"]):
