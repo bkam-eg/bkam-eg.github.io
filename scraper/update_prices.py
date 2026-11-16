@@ -601,11 +601,14 @@ def refresh_links(products):
         return
     from discover import read_page, check  # noqa: PLC0415
     jobs = {}
+    used = {o["url"].split("?")[0] for p in products for o in p["offers"]}
     for p in products:
         have = {o["store"] for o in p["offers"]}
         for store, rec in links.get(p["id"], {}).items():
-            if rec.get("url") and store not in have:
+            if rec.get("url") and store not in have and rec["url"].split("?")[0] not in used:
                 jobs.setdefault(store, []).append((p, rec["url"]))
+
+    added = {}  # لينك واحد ممكن يتربط بمنتجين قريبين (Shatoura/Duetto): نسيبه للأقرب بس
 
     def work(store):
         got = 0
@@ -619,16 +622,20 @@ def refresh_links(products):
                 info = None
             time.sleep(random.uniform(1.5, 3))
             if info and check(p, info):
-                p["offers"].append({"store": store, "price": info["price"], "old_price": None,
-                                    "url": url, "in_stock": info["in_stock"]})
-                if info["image"] and info["image"] not in p.get("images", []):
-                    p.setdefault("images", []).append(info["image"])
+                added.setdefault(url, []).append((similar(p.get("brand", "") + " " + p["name"], info["name"]), p, info))
                 got += 1
         return store, got, len(jobs[store])
 
     with ThreadPoolExecutor(max(1, len(jobs))) as pool:
         for store, got, n in pool.map(work, jobs):
             print(f"لينكات {store}: اتحدّث {got} من {n}")
+    store_of = {url: s for s, js in jobs.items() for _, url in js}
+    for url, cands in added.items():
+        _, p, info = max(cands, key=lambda c: c[0])
+        p["offers"].append({"store": store_of[url], "price": info["price"], "old_price": None,
+                            "url": url, "in_stock": info["in_stock"]})
+        if info["image"] and info["image"] not in p.get("images", []):
+            p.setdefault("images", []).append(info["image"])
 
 
 KEEP_DAYS = 14  # منتج اختفى من النتايج؟ صفحته تفضل بآخر سعر أسبوعين بدل ما تبقى 404 في جوجل
