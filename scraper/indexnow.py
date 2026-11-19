@@ -31,13 +31,13 @@ def main():
         files = [f for f in names if really_changed(f) or subprocess.run(
             ["git", "cat-file", "-e", f"HEAD:{f}"], capture_output=True).returncode]
     if "--all" in sys.argv:  # كل الصفحات (أول مرة)
-        files = ["index.html"] + [str(f) for d in ("c", "p") for f in sorted(Path(d).glob("*.html"))]
+        files = ["index.html"] + [str(f) for d in ("c", "p", "m", "b") for f in sorted(Path(d).glob("*.html"))]
     if "--list" in sys.argv:  # بس اطبع الملفات (قبل الـ commit)، والتبليغ بعد ما الموقع يتنشر
         print("\n".join(files))
         return
     urls = []
     for f in files:
-        if f.startswith(("p/", "c/")) and f.endswith(".html") and Path(f).exists():
+        if f.startswith(("p/", "c/", "m/", "b/")) and f.endswith(".html") and Path(f).exists():
             urls.append(f"{SITE}/{f}")
         elif f == "index.html":
             urls.append(f"{SITE}/")
