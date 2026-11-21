@@ -163,36 +163,6 @@
    "https://www.carrefouregypt.com/mafegy/en/fridge-601l-to-700l/sharp-refrigerator-640-liter-no-frost-inverter-digital-silver-sj-sr765-ss3-international-/p/974019129242?offer=offer_1183816985&sid=DEFAULT&sellerId=16985"
   ]
  },
- "btech-1BSAASMOL330NZSAL008": {
-  "t": "2026-11-15T18:32+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Samsung"
-   ],
-   [
-    "Display Type",
-    "Super AMOLED"
-   ],
-   [
-    "Model Name",
-    "Galaxy Watch8"
-   ],
-   [
-    "Connectivity",
-    "Bluetooth 5.3, wifi, GPS"
-   ],
-   [
-    "Memory Storage",
-    "32 GB"
-   ],
-   [
-    "Battery Capacity",
-    "435 mAh"
-   ]
-  ]
- },
  "btech-1BSAASMOL500NZWAL001": {
   "t": "2026-11-15T18:32+00:00",
   "source": "btech",
@@ -938,44 +908,6 @@
    "https://btech.com/en/p/1cc44813-a1be-4e38-a591-5d342c5e5850?offering_id=b46dd4ec-7025-47d6-901f-213cd3d019ee"
   ]
  },
- "btech-722CE761134B384C3A88": {
-  "t": "2026-11-16T02:11+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Sharp"
-   ],
-   [
-    "Filter Type",
-    "Plasma"
-   ],
-   [
-    "Cooling Type",
-    "Only Cooling"
-   ],
-   [
-    "Cooling Capacity",
-    "24000 BTU"
-   ],
-   [
-    "Horsepower",
-    "3 horsepower"
-   ],
-   [
-    "Dimensions",
-    "(HxWxD): 1122 x 327 x 259 mm"
-   ],
-   [
-    "Model Number",
-    "AH-XP24UHE"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/sharp-split-air-conditioner-3hp-cooling-only-inverter-motor-silver-ah-xp24uhe?offering_id=9ebb4818-6158-4af3-beb9-a02930c812a2",
-   "https://www.carrefouregypt.com/mafegy/en/air-conditioners/sharp-ac-fan-ah-xp24uhe/p/592849?offer=offer_1159316985&sid=DEFAULT&sellerId=16985"
-  ]
- },
  "btech-1SPHBLFSHR204116L001": {
   "t": "2026-11-16T02:11+00:00",
   "source": "btech",
@@ -1509,64 +1441,6 @@
    "https://btech.com/en/p/xiaomi-43-inch-fhd-smart-led-tv-with-built-in-receiver-l43maafeg?offering_id=e7ca56cc-983f-4473-a670-bee8aa42625f"
   ]
  },
- "btech-1TTCTVSM43S5K000L007": {
-  "t": "2026-11-16T02:11+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Tcl"
-   ],
-   [
-    "Display Type",
-    "QLED"
-   ],
-   [
-    "Resolution Type",
-    "FHD"
-   ],
-   [
-    "Built-In Receiver",
-    "Yes"
-   ],
-   [
-    "Headphones Output",
-    "Yes"
-   ],
-   [
-    "Display Resolution",
-    "1920x1080"
-   ],
-   [
-    "Remote Control Included",
-    "Yes"
-   ],
-   [
-    "Dimensions",
-    "Without base : 715 x 422 x 75mm, With base : 715 x 465 x 180mm"
-   ],
-   [
-    "Series",
-    "S5K"
-   ],
-   [
-    "Connection Type",
-    "Bluetooth 5, Wifi 4, 1x LAN"
-   ],
-   [
-    "Energy Consumption Power",
-    "65 Watt"
-   ],
-   [
-    "Number of HDMI Ports",
-    "2"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/d3a8b177-126a-40d6-ad80-3adc3e663ceb?offering_id=b58e1e29-ffef-4901-ae86-2a01ea594b9c",
-   "https://www.carrefouregypt.com/mafegy/en/qled-qned-tv/tcl-qled-tv-43p7k-sm-rc-4k-frameles/p/662725?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000"
-  ]
- },
  "btech-1TTCTVSM55C6K000L007": {
   "t": "2026-11-16T02:11+00:00",
   "source": "btech",
@@ -1882,40 +1756,6 @@
   ],
   "tried": [
    "https://btech.com/en/p/429921c5-e29d-4eba-848a-af9457f3022c?offering_id=da06d8c8-1179-472d-99dc-087da8a37d97"
-  ]
- },
- "btech-1BSAASSBHU11PRBKL007": {
-  "t": "2026-11-16T02:11+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Huawei"
-   ],
-   [
-    "Display Type",
-    "AMOLED"
-   ],
-   [
-    "Material",
-    "Aluminium alloy case"
-   ],
-   [
-    "Dimensions",
-    "43.5 × 28.2 × 8.99 mm"
-   ],
-   [
-    "Model Name",
-    "Band 11 Pro"
-   ],
-   [
-    "Connectivity",
-    "Bluetooth 6"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/9057a909-003d-4f5e-8478-5b280310b257",
-   "https://2b.com.eg/en/huawei-band-11-pro-black.html"
   ]
  },
  "btech-10062B9D6D42EF0ADA10": {
@@ -2523,31 +2363,6 @@
    "https://www.carrefouregypt.com/mafegy/en/smartphones/infinix-mobile-hot-70-256gb-8gb-ram-4g-thermo-orange/p/1698542000202?offer=offer_1491616985&sid=DEFAULT&sellerId=16985"
   ]
  },
- "btech-CDE785A9EA97D955210E": {
-  "t": "2026-11-16T08:17+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Jbl"
-   ],
-   [
-    "Dimensions",
-    "8.75 x 10.25 x 10.5 inches"
-   ],
-   [
-    "Model Name",
-    "Tune 520BT"
-   ],
-   [
-    "Connectivity",
-    "Wireless via Bluetooth 5.3"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/jbl-tune-bluetooth-headphone-blue-520bt?offering_id=a7fe64d5-b954-4bc3-8fd6-5bcbfa5ae371"
-  ]
- },
  "btech-99CE9B25E782BE0D6B61": {
   "t": "2026-11-16T08:17+00:00",
   "source": "btech",
@@ -2871,79 +2686,6 @@
    "https://btech.com/en/p/8f0f9ae9-2eca-45db-898d-151277bbbcb1?offering_id=7cca151f-db4c-4da7-9ef6-fdf3205da341"
   ]
  },
- "btech-1BAPLPSMMBAM4130L077": {
-  "t": "2026-11-16T08:17+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Apple"
-   ],
-   [
-    "Color",
-    "Midnight Black"
-   ],
-   [
-    "Display Type",
-    "Liquid Retina"
-   ],
-   [
-    "Keyboard Type",
-    "Business"
-   ],
-   [
-    "Hard Drive Type",
-    "SSD"
-   ],
-   [
-    "Resolution Type",
-    "Liquid Retina"
-   ],
-   [
-    "Headphones Output",
-    "Yes"
-   ],
-   [
-    "Keyboard Language",
-    "English"
-   ],
-   [
-    "Display Resolution",
-    "2560x1664"
-   ],
-   [
-    "Model Name",
-    "MacBook Air"
-   ],
-   [
-    "Dimensions",
-    "Height: 1.13 cm, Width: 30.41 cm, Depth: 21.5 cm"
-   ],
-   [
-    "Optical Drive Type",
-    "Without Optical Drive"
-   ],
-   [
-    "Refresh Rate",
-    "60 Hertz"
-   ],
-   [
-    "Battery Capacity",
-    "53 WHr"
-   ],
-   [
-    "Screen Size",
-    "13.6 Inch"
-   ],
-   [
-    "Number of USB Ports",
-    "2"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/apple-macbook-air-laptop-m4-10-cpu-8-gpu-256gb-ssd-16gb-13-6in-macos-midnight?offering_id=353d0dcb-cba4-44e4-a0a2-e15f6674598c"
-  ]
- },
  "btech-1BAPLPSMMBAM4000L006": {
   "t": "2026-11-16T08:17+00:00",
   "source": "btech",
@@ -3028,39 +2770,6 @@
   ],
   "tried": [
    "https://btech.com/en/p/fresh-top-wash-machine-dryer-14kg-fwt14000nd?offering_id=965fd630-753a-4ea3-9016-f7162aa071f0"
-  ]
- },
- "btech-95AD9A643E855D93C967": {
-  "t": "2026-11-16T08:17+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Samsung"
-   ],
-   [
-    "Inverter Motor",
-    "Yes"
-   ],
-   [
-    "Number of Programs",
-    "8"
-   ],
-   [
-    "RPM",
-    "1400"
-   ],
-   [
-    "Dimensions",
-    "850x600x600mm"
-   ],
-   [
-    "Model Number",
-    "WW11B1534DAP"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/samsung-inverter-washing-machine-11kg-black-ww11b1534dap?offering_id=40f14c16-a79f-4186-9f3d-6ccbe22b7502"
   ]
  },
  "btech-CBE90D18E4372CA02744": {
@@ -4227,111 +3936,6 @@
    "https://www.compumarts.com/products/apple-iphone-15-pro-max-5g.js"
   ]
  },
- "2b-apple-iphone-16-plus-256gb-pink.html": {
-  "t": "2026-11-16T08:17+00:00",
-  "source": "2b",
-  "specs": [
-   [
-    "Brand",
-    "Apple"
-   ],
-   [
-    "Color",
-    "Pink"
-   ],
-   [
-    "MPN",
-    "A3291P"
-   ],
-   [
-    "Network 2G",
-    "GSM 900 / 1800 / 1900"
-   ],
-   [
-    "Network 3G",
-    "HSDPA 900 / 1900 / 2100"
-   ],
-   [
-    "4G Network",
-    "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps"
-   ],
-   [
-    "SIM Card",
-    "Single SIM"
-   ],
-   [
-    "Chipset",
-    "Apple A18 (3 nm)"
-   ],
-   [
-    "CPU (Processor)",
-    "Hexa Core"
-   ],
-   [
-    "CPU Speed (GHz)",
-    "Hexa-core (2x4.04 GHz + 4x2.20 GHz)"
-   ],
-   [
-    "GPU",
-    "Apple GPU (5-core graphics)"
-   ],
-   [
-    "RAM",
-    "8 GB"
-   ],
-   [
-    "Display Size",
-    "6.7 inches"
-   ],
-   [
-    "Display Type",
-    "6.7 inches 1290 x 2796 pixels, 19.5:9 ratio (~460 ppi density) Ceramic Shield glass (2024 gen) Super Retina XDR OLED, HDR10, Dolby Vision, 1000 nits (typ), 2000 nits (HBM)"
-   ],
-   [
-    "Internal Storage",
-    "256 GB"
-   ],
-   [
-    "Operating System",
-    "iOS"
-   ],
-   [
-    "OS version",
-    "iOS 18, upgradable to iOS 18.1"
-   ],
-   [
-    "Primary Camera",
-    "Dual: 48 MP, f/1.6, 26mm (wide) + 12 MP, f/2.2, 13mm, 120˚ (ultrawide) Dual-LED dual-tone flash, HDR (photo/panorama)"
-   ],
-   [
-    "Secondary Camera",
-    "12 MP, f/1.9, 23mm (wide), 1/3.6\", PDAF"
-   ],
-   [
-    "Video Resolutions",
-    "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
-   ],
-   [
-    "Connectivity",
-    "WLAN: Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band, hotspot Bluetooth: 5.3, A2DP, LE Positioning: GPS, GLONASS, GALILEO, BDS, QZSS Radio: No USB: USB Type-C 2.0, DisplayPort"
-   ],
-   [
-    "Sensors",
-    "Face ID, accelerometer, gyro, proximity, compass, barometer, Ultra Wideband (UWB) support (gen2 chip), Emergency SOS, Messages and Find My via satellite"
-   ],
-   [
-    "Battery",
-    "Li-Ion 4674 mAh, non-removable Wired, PD2.0, 50% in 30 min (advertised) 4.5W reverse wired"
-   ],
-   [
-    "warranty",
-    "2 Years"
-   ]
-  ],
-  "tried": [
-   "https://2b.com.eg/en/apple-iphone-16-plus-256gb-pink.html"
-  ]
- },
  "btech-7687344848B361DB3FEB": {
   "t": "2026-11-16T10:19+00:00",
   "source": "btech",
@@ -4450,14 +4054,6 @@
    "https://btech.com/en/p/samsung-galaxy-a08-128-gb-4-gb-4g-dual-sim-dark-blue"
   ]
  },
- "noon-Z184AC20D3D71EB72F9E6Z": {
-  "t": "2026-11-16T10:19+00:00",
-  "source": null,
-  "specs": [],
-  "tried": [
-   "https://btech.com/en/p/fresh-top-loading-washing-machine-5-kg-white-el-shatoora"
-  ]
- },
  "alsheikh-52734213554457": {
   "t": "2026-11-16T10:19+00:00",
   "source": "2b",
@@ -4493,43 +4089,6 @@
   ],
   "tried": [
    "https://2b.com.eg/en/samsung-watch-8-44-mm-graphite.html"
-  ]
- },
- "alsheikh-53212863889689": {
-  "t": "2026-11-16T10:19+00:00",
-  "source": "2b",
-  "specs": [
-   [
-    "Device Type",
-    "Smart Watches"
-   ],
-   [
-    "Brand",
-    "Samsung"
-   ],
-   [
-    "Model",
-    "Samsung Watch 8 40 mm - Silver"
-   ],
-   [
-    "Display Size",
-    "1.3 inches"
-   ],
-   [
-    "Battery Time",
-    "Up to 40 Hours"
-   ],
-   [
-    "Color",
-    "Silver"
-   ],
-   [
-    "Support",
-    "Workout, BT Calls"
-   ]
-  ],
-  "tried": [
-   "https://2b.com.eg/en/samsung-watch-8-40-mm-silver.html"
   ]
  },
  "alsheikh-52549096210713": {
@@ -4787,212 +4346,6 @@
   ],
   "tried": [
    "https://btech.com/en/p/samsung-galaxy-s25-ultra-512gb-12gb-4g-dual-sim-blue"
-  ]
- },
- "btech-59050F17A6CF51E77DC1": {
-  "t": "2026-11-16T10:19+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Samsung"
-   ],
-   [
-    "Network",
-    "5G"
-   ],
-   [
-    "Sim Type",
-    "Nano-SIM"
-   ],
-   [
-    "Port Type",
-    "Type C"
-   ],
-   [
-    "Display Type",
-    "Dynamic LTPO AMOLED 2X"
-   ],
-   [
-    "Charging Type",
-    "Wired / Wireless"
-   ],
-   [
-    "Number of Sim",
-    "Dual-SIM"
-   ],
-   [
-    "Audio Jack Type",
-    "Type-C"
-   ],
-   [
-    "Water Resistant",
-    "Yes"
-   ],
-   [
-    "Memory Card Slot",
-    "No"
-   ],
-   [
-    "Display Resolution",
-    "3120x1440"
-   ],
-   [
-    "Operating System Type",
-    "Android 15"
-   ],
-   [
-    "Dimensions",
-    "162.8 x 77.6 x 8.2 mm"
-   ],
-   [
-    "Model Name",
-    "Galaxy S25 Ultra"
-   ],
-   [
-    "Connectivity",
-    "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct, dBluetooth 5.4, A2DP, LEPositioning GPS, GLONASS, BDS, GALILEO, QZSSUSB Type-C 3.2, DisplayPort 1.2, OTG"
-   ],
-   [
-    "Zoom Capability",
-    "3x optical zoom, 5x optical zoom"
-   ],
-   [
-    "Chipset Manufacturer",
-    "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm), Octa Core"
-   ],
-   [
-    "Processor Manufacturer",
-    "Qualcomm Snapdragon"
-   ],
-   [
-    "Screen Size",
-    "6.9 Inch"
-   ],
-   [
-    "Front Camera",
-    "12 megapixels"
-   ],
-   [
-    "Primary Camera",
-    "200 megapixels"
-   ],
-   [
-    "Battery Capacity",
-    "5000 mAh"
-   ],
-   [
-    "Water Resistance Level",
-    "1.5 Meter"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/samsung-galaxy-s25-ultra-512gb-12gb-ram-5g-dual-sim-titanium-silverblue"
-  ]
- },
- "2b-samsung-galaxy-s25-ultra-12gb-ram-1tb-silver.html": {
-  "t": "2026-11-16T10:19+00:00",
-  "source": "2b",
-  "specs": [
-   [
-    "Brand",
-    "Samsung"
-   ],
-   [
-    "Color",
-    "Silver"
-   ],
-   [
-    "MPN",
-    "SM-S938W-1TS"
-   ],
-   [
-    "Network 2G",
-    "GSM 900 / 1800 / 1900"
-   ],
-   [
-    "Network 3G",
-    "HSDPA 900 / 1900 / 2100"
-   ],
-   [
-    "4G Network",
-    "HSPA, LTE (up to 7CA), 5G"
-   ],
-   [
-    "SIM Card",
-    "Dual SIM"
-   ],
-   [
-    "Chipset",
-    "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)"
-   ],
-   [
-    "CPU (Processor)",
-    "Octa Core"
-   ],
-   [
-    "CPU Speed (GHz)",
-    "Octa-core (2x4.47 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)"
-   ],
-   [
-    "GPU",
-    "Adreno 830"
-   ],
-   [
-    "RAM",
-    "12 GB"
-   ],
-   [
-    "Display Size",
-    "6.9 inches"
-   ],
-   [
-    "Display Type",
-    "6.9 inches, 1440 x 3120 pixels Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak) Corning Gorilla Armor 2"
-   ],
-   [
-    "Internal Storage",
-    "1TB"
-   ],
-   [
-    "Operating System",
-    "Android"
-   ],
-   [
-    "OS version",
-    "Android 15, up to 7 major Android upgrades, One UI 7"
-   ],
-   [
-    "Primary Camera",
-    "Quad: 200 MP, f/1.7, 24mm (wide) + 10 MP, f/2.4, 67mm (telephoto) + 50 MP, f/3.4, 111mm (periscope telephoto) + 50 MP, f/1.9, 120˚ (ultrawide)"
-   ],
-   [
-    "Secondary Camera",
-    "12 MP, f/2.2, 26mm (wide) HDR, HDR10+"
-   ],
-   [
-    "Video Resolutions",
-    "8K@24/30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, 10-bit HDR, HDR10+, stereo sound rec., gyro-EIS"
-   ],
-   [
-    "Connectivity",
-    "WLAN: Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct Bluetooth: 5.4, A2DP, LE Positioning: GPS, GLONASS, BDS, GALILEO, QZSS Radio: No USB: USB Type-C 3.2, DisplayPort 1.2, OTG"
-   ],
-   [
-    "Sensors",
-    "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer, Samsung DeX, Samsung Wireless DeX (desktop experience support), Ultra Wideband (UWB) support, Circle to Search"
-   ],
-   [
-    "Battery",
-    "Li-Ion 5000 mAh, 45W wired, PD3.0, 65% in 30 min 15W wireless (Qi2 Ready) 4.5W reverse wireless"
-   ],
-   [
-    "warranty",
-    "1 Year"
-   ]
-  ],
-  "tried": [
-   "https://2b.com.eg/en/samsung-galaxy-s25-ultra-12gb-ram-1tb-silver.html"
   ]
  },
  "carrefour-677912": {
@@ -6461,84 +5814,6 @@
    "https://btech.com/en/p/db0cd6f4-3994-4205-b8d8-203e2928615b?offering_id=c5c39dcd-2b7b-4750-a1c6-42ed822644bb"
   ]
  },
- "noon-N70211460V": {
-  "t": "2026-11-19T11:01+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Apple"
-   ],
-   [
-    "Network",
-    "5G"
-   ],
-   [
-    "Sim Type",
-    "e-SIM"
-   ],
-   [
-    "Display Type",
-    "Super Retina XDR OLED"
-   ],
-   [
-    "Charging Type",
-    "Wired / Wireless"
-   ],
-   [
-    "Number of Sim",
-    "eSIM"
-   ],
-   [
-    "Operating System Type",
-    "iOS 26"
-   ],
-   [
-    "Dimensions",
-    "163.4 x 78 x 8.8 mm"
-   ],
-   [
-    "Model Name",
-    "iPhone 17 Pro Max"
-   ],
-   [
-    "Connectivity",
-    "Bluetooth 6, USB Type-C 3.2 Gen 2 with DisplayPort, GPS , Wi-Fi"
-   ],
-   [
-    "Chipset Manufacturer",
-    "Apple A19 Pro"
-   ],
-   [
-    "Video Capture Format",
-    "4K@24/25/30/60/100/120fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 120fps), ProRes, ProRes RAW (up to 120fps), Apple Log 2, 3D (spatial) video/audio, stereo"
-   ],
-   [
-    "Processor Manufacturer",
-    "Apple A19 Pro"
-   ],
-   [
-    "Screen Size",
-    "6.9 Inch"
-   ],
-   [
-    "Front Camera",
-    "18 megapixels"
-   ],
-   [
-    "Primary Camera",
-    "48 megapixels"
-   ],
-   [
-    "Battery Capacity",
-    "5088 mAh"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/7d331b18-a90a-43b7-b8c4-8f803e8d46a6?offering_id=b999b8f9-548b-4a8d-8e99-d6e4989ae974",
-   "https://www.carrefouregypt.com/mafegy/en/smartphones/apple-iphone-17-pro-max-512-gb-esim-only-silver-5g-with-facetime-international-version/p/2251857001295?offer=offer_1045122518&sid=DEFAULT&sellerId=22518"
-  ]
- },
  "btech-537DBAA3458474DB5AA2": {
   "t": "2026-11-19T11:01+00:00",
   "source": "btech",
@@ -7087,47 +6362,6 @@
   ],
   "tried": [
    "https://btech.com/en/p/c90dca0a-ebf5-4d61-b2d5-5f793050bfbd?offering_id=1fb38966-6954-41e5-9f00-3b6da7b26f9a"
-  ]
- },
- "btech-BB912E3EC98977D6B241": {
-  "t": "2026-11-19T11:01+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Samsung"
-   ],
-   [
-    "Inverter Motor",
-    "Yes"
-   ],
-   [
-    "Frost System Type",
-    "NoFrost"
-   ],
-   [
-    "Energy Efficiency Class",
-    "A"
-   ],
-   [
-    "Dimensions",
-    "595 x 1853 x 595 mm"
-   ],
-   [
-    "Model Number",
-    "RB34C672EB1/MR"
-   ],
-   [
-    "Mounting System",
-    "Free Standing"
-   ],
-   [
-    "Number Of Shelves",
-    "4"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/samsung-no-frost-refrigerator-340liters-black-rb34c672eb1-mr?offering_id=a9e460cd-7b51-45eb-b757-78c94829e0fd"
   ]
  },
  "noon-Z2228DD8EB4BB6C4E056BZ": {
@@ -8223,51 +7457,6 @@
    "https://2b.com.eg/en/sharp-refrigerator-no-frost-385-l-2-doors-stainless-sj-48c-st.html"
   ]
  },
- "btech-015E6D845CDD57D50884": {
-  "t": "2026-11-19T22:22+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Sharp"
-   ],
-   [
-    "Frost System Type",
-    "NoFrost"
-   ],
-   [
-    "Energy Efficiency Class",
-    "A"
-   ],
-   [
-    "Dimensions",
-    "645 x 680 x 1670 mm"
-   ],
-   [
-    "Model Number",
-    "SJ-PC48A(BK)"
-   ],
-   [
-    "Mounting System",
-    "Free-Standing"
-   ],
-   [
-    "Interior Light Type",
-    "LED Light"
-   ],
-   [
-    "Shelves Material",
-    "Glass"
-   ],
-   [
-    "Number Of Shelves",
-    "3"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/sharp-refrigerator-no-frost-396l-sj-pc48a-bk?offering_id=da6ee827-ef93-4095-b2d8-de58c7a8d055"
-  ]
- },
  "btech-E0133FB1B466000DCFBF": {
   "t": "2026-11-19T22:22+00:00",
   "source": "btech",
@@ -8340,107 +7529,6 @@
   ],
   "tried": [
    "https://2b.com.eg/en/de-longhi-rivelia-fully-automatic-coffee-maker-1450-w-automatic-milk-frother-1-4-l-colored-touch-display-arctic-white-exam440-55w.html"
-  ]
- },
- "dream2000-47060741423243": {
-  "t": "2026-11-19T22:22+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Samsung"
-   ],
-   [
-    "Network",
-    "5G"
-   ],
-   [
-    "Sim Type",
-    "Nano-SIM"
-   ],
-   [
-    "Port Type",
-    "Type C"
-   ],
-   [
-    "Display Type",
-    "Dynamic LTPO AMOLED 2X"
-   ],
-   [
-    "Charging Type",
-    "Wired / Wireless"
-   ],
-   [
-    "Number of Sim",
-    "Dual-SIM"
-   ],
-   [
-    "Audio Jack Type",
-    "Type-C"
-   ],
-   [
-    "Water Resistant",
-    "Yes"
-   ],
-   [
-    "Memory Card Slot",
-    "No"
-   ],
-   [
-    "Display Resolution",
-    "3120x1440"
-   ],
-   [
-    "Operating System Type",
-    "Android 15"
-   ],
-   [
-    "Dimensions",
-    "162.8 x 77.6 x 8.2 mm"
-   ],
-   [
-    "Model Name",
-    "Galaxy S25 Ultra"
-   ],
-   [
-    "Connectivity",
-    "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct, dBluetooth 5.4, A2DP, LEPositioning GPS, GLONASS, BDS, GALILEO, QZSSUSB Type-C 3.2, DisplayPort 1.2, OTG"
-   ],
-   [
-    "Zoom Capability",
-    "3x optical zoom, 5x optical zoom"
-   ],
-   [
-    "Chipset Manufacturer",
-    "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm), Octa Core"
-   ],
-   [
-    "Processor Manufacturer",
-    "Qualcomm Snapdragon"
-   ],
-   [
-    "Screen Size",
-    "6.9 Inch"
-   ],
-   [
-    "Front Camera",
-    "12 megapixels"
-   ],
-   [
-    "Primary Camera",
-    "200 megapixels"
-   ],
-   [
-    "Battery Capacity",
-    "5000 mAh"
-   ],
-   [
-    "Water Resistance Level",
-    "1.5 Meter"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/samsung-galaxy-s25-ultra-256gb-12gb-ram-5g-dual-sim-titanium-silverblue"
   ]
  },
  "btech-D44A3B9CA302E0A69EBB": {
@@ -9375,35 +8463,6 @@
    "https://btech.com/en/p/6a1a5780-ad9e-4395-9628-d3689c659b75?offering_id=de9356a1-3a6f-4ce0-afec-5a06ca56efce"
   ]
  },
- "btech-7CBB691A69FAA9B409A0": {
-  "t": "2026-11-19T22:22+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Huawei"
-   ],
-   [
-    "Display Type",
-    "AMOLED"
-   ],
-   [
-    "Dimensions",
-    "42.6 × 28.2 × 8.99 mm"
-   ],
-   [
-    "Model Name",
-    "Band 11"
-   ],
-   [
-    "Connectivity",
-    "Bluetooth 6"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/51602ace-149f-4a58-89fb-a7ede6b182e2?offering_id=765c4414-8312-425d-8aec-5302c7608422"
-  ]
- },
  "btech-6BE9EC13481BB2D0053B": {
   "t": "2026-11-19T22:22+00:00",
   "source": "btech",
@@ -9634,156 +8693,6 @@
    "https://www.carrefouregypt.com/mafegy/en/smartphones/oppo-reno16f-5g-12-256-violet/p/686358?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000"
   ]
  },
- "btech-0BCF4CB9BB49B66D32F8": {
-  "t": "2026-11-20T09:09+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Samsung"
-   ],
-   [
-    "Network",
-    "4G LTE"
-   ],
-   [
-    "Sim Type",
-    "Nano-SIM"
-   ],
-   [
-    "Port Type",
-    "Type C"
-   ],
-   [
-    "Display Type",
-    "AMOLED"
-   ],
-   [
-    "Charging Type",
-    "Wired"
-   ],
-   [
-    "Number of Sim",
-    "Dual-SIM"
-   ],
-   [
-    "Display Resolution",
-    "2340x1080"
-   ],
-   [
-    "Operating System Type",
-    "Android"
-   ],
-   [
-    "Model Name",
-    "Galaxy A16"
-   ],
-   [
-    "Connectivity",
-    "Wi-Fi, Bluetooth 5.3, GPS, USB Type-C 2, Fingerprint"
-   ],
-   [
-    "Chipset Manufacturer",
-    "Mediatek Helio G99 (6 nm) - Octa Core"
-   ],
-   [
-    "Video Capture Format",
-    "1080p@30fps"
-   ],
-   [
-    "Screen Size",
-    "6.7 Inch"
-   ],
-   [
-    "Front Camera",
-    "13 megapixels"
-   ],
-   [
-    "Battery Capacity",
-    "5000 mAh"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/samsung-galaxy-a16-128gb-4gb-4g-lte-dual-sim-grey-local?offering_id=c65ac0b2-b543-4f85-9ab7-34b52342e705",
-   "https://2b.com.eg/en/samsung-galaxy-a16-4gb-ram-128gb-grey.html",
-   "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-galaxy-a16-4g-dual-sim-gray-4gb-ram-128gb-middle-east-version/p/2251857000135?offer=offer_1068922518&sid=DEFAULT&sellerId=22518"
-  ]
- },
- "btech-F72C8E1D15CE25DD3EBF": {
-  "t": "2026-11-20T09:09+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Samsung"
-   ],
-   [
-    "Network",
-    "4G LTE"
-   ],
-   [
-    "Sim Type",
-    "Nano-SIM"
-   ],
-   [
-    "Port Type",
-    "Type C"
-   ],
-   [
-    "Display Type",
-    "AMOLED"
-   ],
-   [
-    "Charging Type",
-    "Wired"
-   ],
-   [
-    "Number of Sim",
-    "Dual-SIM"
-   ],
-   [
-    "Display Resolution",
-    "2340x1080"
-   ],
-   [
-    "Operating System Type",
-    "Android"
-   ],
-   [
-    "Model Name",
-    "Galaxy A16"
-   ],
-   [
-    "Connectivity",
-    "Wi-Fi, Bluetooth 5.3, GPS, USB Type-C 2, Fingerprint"
-   ],
-   [
-    "Chipset Manufacturer",
-    "Mediatek Helio G99 (6 nm) - Octa Core"
-   ],
-   [
-    "Video Capture Format",
-    "1080p@30fps"
-   ],
-   [
-    "Screen Size",
-    "6.7 Inch"
-   ],
-   [
-    "Front Camera",
-    "13 megapixels"
-   ],
-   [
-    "Battery Capacity",
-    "5000 mAh"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/samsung-galaxy-a16-128gb-4gb-4g-lte-dual-sim-grey-local?offering_id=51d165f7-6e6c-44ac-adea-62e353abe6e0",
-   "https://2b.com.eg/en/samsung-galaxy-a16-4gb-ram-128gb-light-green.html",
-   "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-galaxy-a16-4g-dual-sim-light-green-4gb-ram-128gb-middle-east-version/p/2251857001812?offer=offer_1129322518&sid=DEFAULT&sellerId=22518"
-  ]
- },
  "carrefour-668969": {
   "t": "2026-11-20T09:09+00:00",
   "source": "btech",
@@ -9915,68 +8824,6 @@
    "https://btech.com/en/p/6fd8ea0b-eedb-4d02-b7d3-7c9fdc4cd87d?offering_id=ed99d328-87c5-4b6d-96e5-a43bfd2c0fc6",
    "https://2b.com.eg/en/apple-iphone-17-pro-max-256gb-cosmic-orange-official-warranty.html",
    "https://www.carrefouregypt.com/mafegy/en/smartphones/apple-iphone-17-pro-max-256-orange/p/666148?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000"
-  ]
- },
- "compumarts-samsung-odyssey-g5-s27cg552em-27-inch-va-qhd-curved-gaming-monitor-165hz": {
-  "t": "2026-11-20T09:09+00:00",
-  "source": "2b",
-  "specs": [
-   [
-    "MPN",
-    "LS27CG552EM"
-   ],
-   [
-    "Brand",
-    "Samsung"
-   ],
-   [
-    "Model",
-    "LS27CG552EMXEG"
-   ],
-   [
-    "Design",
-    "Curved"
-   ],
-   [
-    "Monitor Type",
-    "Gaming"
-   ],
-   [
-    "Display Size",
-    "27 inches"
-   ],
-   [
-    "Display Type",
-    "QHD"
-   ],
-   [
-    "Resolution",
-    "2K"
-   ],
-   [
-    "Refresh Rate",
-    "165HZ"
-   ],
-   [
-    "Brightness",
-    "300 cd/㎡"
-   ],
-   [
-    "Contrast Ratio",
-    "2,500:1(Typ.)"
-   ],
-   [
-    "Response Time",
-    "1 (MPRT)"
-   ],
-   [
-    "warranty",
-    "3 Years"
-   ]
-  ],
-  "tried": [
-   "https://2b.com.eg/en/samsung-odyssey-g5-g55c-27-2k-gaming-curved-monitor-qhd-165hz-ls27cg552emxeg.html",
-   "https://www.compumarts.com/products/samsung-odyssey-g5-s27cg552em-27-inch-va-qhd-curved-gaming-monitor-165hz.js"
   ]
  },
  "btech-AAF291BE8830E472BF3C": {
@@ -10370,43 +9217,6 @@
    "https://btech.com/en/p/c0030646-d421-4039-bd43-a2c11442d24f?offering_id=10304716-f65e-4384-a960-42ebf28040dc"
   ]
  },
- "btech-C2F43204F30BE4B31BED": {
-  "t": "2026-11-20T09:09+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Sharp"
-   ],
-   [
-    "Filter Type",
-    "Anti-Dust Filter"
-   ],
-   [
-    "Cooling Type",
-    "Only Cooling"
-   ],
-   [
-    "Cooling Capacity",
-    "12000 BTU"
-   ],
-   [
-    "Dimensions",
-    "Indoor unit : 879x289x229 mm & Outdoor unit : 760x 540x270 mm"
-   ],
-   [
-    "Model Number",
-    "AH-AP12ZHE"
-   ],
-   [
-    "Horsepower",
-    "1.5 horsepower"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/sharp-split-air-conditioner-1-5-hp-cooling-white-ahap12zhe?offering_id=7cb31651-42f2-4a67-be2e-c36b25cff62b"
-  ]
- },
  "btech-30645908581680F0E193": {
   "t": "2026-11-20T09:09+00:00",
   "source": "btech",
@@ -10455,27 +9265,6 @@
   "specs": [],
   "tried": [
    "https://www.compumarts.com/products/samsung-odyssey-oled-g8-g80sd-32-4k-uhd-240hz-0-03ms-oled-gaming-monitor.js"
-  ]
- },
- "btech-78E978AE2B80B0582140": {
-  "t": "2026-11-20T09:09+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Fresh"
-   ],
-   [
-    "Model Number",
-    "50013520"
-   ],
-   [
-    "Dimensions",
-    "950 × 500 × 535 mm"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/fresh-auto-wm-8kg-slvr-50013520?offering_id=18411e71-425b-498b-af50-2c7fdf6a675b"
   ]
  },
  "2b-carrier-xcool-air-conditioner-2-25-hp-cooling-heating-split-white-qheft18n.html": {
@@ -10728,35 +9517,6 @@
   "specs": [],
   "tried": [
    "https://www.carrefouregypt.com/mafegy/en/air-fryer/philips-1000-series-airfryer-dual-basket-na150-09/p/1780745000125?offer=offer_1080317807&sid=DEFAULT&sellerId=17807"
-  ]
- },
- "carrefour-677942": {
-  "t": "2026-11-20T09:09+00:00",
-  "source": "carrefour",
-  "specs": [
-   [
-    "Dishwasher proof",
-    "Yes"
-   ],
-   [
-    "Non-stick inner bowl",
-    "Yes"
-   ],
-   [
-    "Suitable for",
-    "Fries, Chicken, Steak, Fish, Dessert, Pizza, Nuggets, Vegetables, Shrimp And Bacon"
-   ],
-   [
-    "Number of power levels",
-    "10"
-   ],
-   [
-    "Capacity",
-    "5"
-   ]
-  ],
-  "tried": [
-   "https://www.carrefouregypt.com/mafegy/en/air-fryer/tefal-air-fryer-ey2458eg-5l/p/677942?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000"
   ]
  },
  "btech-612FD7E9834194F84840": {
@@ -11619,71 +10379,6 @@
    "https://www.compumarts.com/products/hp-victus-15-fa2352tx-gaming-laptop-core-i7-13620h-16gb-ddr5-512gb-ssd-rtx-5050-8gb-15-6-inch-fhd-144hz-dos-mica-silver-egypt.js"
   ]
  },
- "compumarts-products-asus-tuf-a16-fa608pm-ryzen9-rtx5060": {
-  "t": "2026-11-20T09:09+00:00",
-  "source": "compumarts",
-  "specs": [
-   [
-    "Processor",
-    "AMD Ryzen 9 8940HX, up to 5.3GHz, 16 cores and 32 threads"
-   ],
-   [
-    "Graphics",
-    "NVIDIA GeForce RTX 5060 Laptop GPU with 8GB GDDR7 and up to 115W graphics power"
-   ],
-   [
-    "Memory",
-    "16GB DDR5-5600 SO-DIMM, expandable up to 64GB"
-   ],
-   [
-    "Storage",
-    "512GB PCIe 4.0 NVMe M.2 SSD"
-   ],
-   [
-    "Display",
-    "16-inch WUXGA (1920 x 1200) IPS-level anti-glare display, 165Hz, 16:10 aspect ratio"
-   ],
-   [
-    "Display Features",
-    "G-SYNC, MUX Switch, NVIDIA Advanced Optimus, 100% sRGB"
-   ],
-   [
-    "Connectivity",
-    "Wi-Fi 6E, Bluetooth 5.4, HDMI 2.1 FRL, RJ45 LAN, USB Type-A and USB Type-C"
-   ],
-   [
-    "Keyboard",
-    "RGB backlit Chiclet keyboard with dedicated Copilot key"
-   ],
-   [
-    "Camera and Audio",
-    "1080p FHD IR camera with Windows Hello, Dolby Atmos, AI noise-canceling microphone technology"
-   ],
-   [
-    "Battery",
-    "90Wh, 4-cell lithium-ion battery"
-   ],
-   [
-    "Power Adapter",
-    "280W AC adapter"
-   ],
-   [
-    "Operating System",
-    "Windows 11 Home"
-   ],
-   [
-    "Weight",
-    "2.20 kg (4.85 lbs)"
-   ],
-   [
-    "Dimensions",
-    "35.4 x 26.9 x 1.79–2.73 cm"
-   ]
-  ],
-  "tried": [
-   "https://www.compumarts.com/products/asus-tuf-gaming-a16-fa608pm-rv659w-rtx-5060-ryzen-9-8940hx-egypt.js"
-  ]
- },
  "compumarts-asus-tuf-a14-ryzen-ai-rtx5060-2-5k-165hz-laptop-egypt": {
   "t": "2026-11-20T09:09+00:00",
   "source": "compumarts",
@@ -11768,93 +10463,6 @@
   "specs": [],
   "tried": [
    "https://www.carrefouregypt.com/mafegy/en/washing-machine/fresh-front-load-washing-machine-9-kg-1400-rpm-inverter-steam-silver-w9dd1455g1/p/1698542001251?offer=offer_1353816985&sid=DEFAULT&sellerId=16985"
-  ]
- },
- "btech-1BSAOMSMS25U1TB0L007": {
-  "t": "2026-11-20T21:48+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Samsung"
-   ],
-   [
-    "Display Type",
-    "AMOLED"
-   ],
-   [
-    "Port Type",
-    "Type C"
-   ],
-   [
-    "Network",
-    "4G LTE"
-   ],
-   [
-    "Sim Type",
-    "Nano-SIM"
-   ],
-   [
-    "Number of Sim",
-    "Dual-SIM"
-   ],
-   [
-    "Water Resistant",
-    "Yes"
-   ],
-   [
-    "Display Resolution",
-    "3120x1440"
-   ],
-   [
-    "Operating System Type",
-    "Android 15"
-   ],
-   [
-    "Model Name",
-    "Galaxy S25 Ultra"
-   ],
-   [
-    "Connectivity",
-    "Wi-Fi 802.11 a/b/g/n/ac/6e/7Bluetooth 5.4, Wi-Fi DirectUSB Type-C 3.2, DisplayPort 1.2GPS, OTG"
-   ],
-   [
-    "Dimensions",
-    "162.8 x 77.6 x 8.2 mm"
-   ],
-   [
-    "Zoom Capability",
-    "3x optical zoom, 5x optical zoom"
-   ],
-   [
-    "Video Capture Format",
-    "up to 4K@30/60fps"
-   ],
-   [
-    "Processor Manufacturer",
-    "Qualcomm"
-   ],
-   [
-    "Battery Capacity",
-    "5000 mAh"
-   ],
-   [
-    "Screen Size",
-    "6.9 Inch"
-   ],
-   [
-    "Front Camera",
-    "12 megapixels"
-   ],
-   [
-    "Primary Camera",
-    "200 megapixels"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/samsung-galaxy-s25-ultra-1tb-12gb-4g-titanium-silverblue?offering_id=8142c470-d9c5-4da0-bd59-027a9d89a95d",
-   "https://2b.com.eg/en/samsung-galaxy-s25-ultra-12gb-ram-1tb-black.html",
-   "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-galaxy-s25-ultra-ai-dual-sim-titanium-black-12gb-ram-512gb-5g-middle-east-version/p/2251857001216?offer=offer_1187722518&sid=DEFAULT&sellerId=22518"
   ]
  },
  "btech-6E2E706DAEE55998E95A": {
@@ -11954,15 +10562,6 @@
    "https://btech.com/en/p/2e3dc458-b66e-4030-803c-549077e4f28d?offering_id=19b30e24-7034-4d23-bbbc-f6da76096978",
    "https://2b.com.eg/en/honor-x9d-5g-12gb-ram-256gb-sunrise-gold.html",
    "https://www.carrefouregypt.com/mafegy/en/smartphones/honor-mobile-x9d-256gb-12gb-ram-5g-sunrise-gold/p/1698542000264?offer=offer_1500016985&sid=DEFAULT&sellerId=16985"
-  ]
- },
- "btech-257CDEFAABF4F1983DB9": {
-  "t": "2026-11-20T21:48+00:00",
-  "source": null,
-  "specs": [],
-  "tried": [
-   "https://btech.com/en/p/adf62f62-2e87-478c-aab9-edd322bd626c?offering_id=fb9d63e8-736f-41b0-8e61-109c3fb36d87",
-   "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-galaxy-s25-ultra-dual-sim-titanium-black-12gb-ram-512gb-5g-international-version/p/2251857000507?offer=offer_1159722518&sid=DEFAULT&sellerId=22518"
   ]
  },
  "carrefour-660477": {
@@ -12130,15 +10729,6 @@
    "https://www.carrefouregypt.com/mafegy/en/smartphones/apple-mobile-iphone-17-pro-256gb-12gb-ram-5g-cosmic-orange/p/1698542000433?offer=offer_1509416985&sid=DEFAULT&sellerId=16985"
   ]
  },
- "btech-88335444237D1B9B503A": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": null,
-  "specs": [],
-  "tried": [
-   "https://btech.com/en/p/adf62f62-2e87-478c-aab9-edd322bd626c?offering_id=31292df5-cbbf-4697-9f5b-3b3acdf29600",
-   "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-galaxy-s25-ultra-ai-dual-sim-titanium-silverblue-12gb-ram-512gb-5g-middle-east-version/p/2251857001218?offer=offer_1187922518&sid=DEFAULT&sellerId=22518"
-  ]
- },
  "btech-1BSAOMSMA57856GRL020": {
   "t": "2026-11-20T21:48+00:00",
   "source": "btech",
@@ -12235,93 +10825,6 @@
   "tried": [
    "https://btech.com/en/p/c4eb6888-62c6-4daa-9b86-ee526cdafafb?offering_id=8136deaf-547a-4240-8665-792ac89531ea",
    "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-a57-5g-8gb-256gb-navy/p/677917?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000"
-  ]
- },
- "dream2000-50527180783755": {
-  "t": "2026-11-20T21:48+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Xiaomi"
-   ],
-   [
-    "Network",
-    "4G"
-   ],
-   [
-    "Sim Type",
-    "Nano-SIM"
-   ],
-   [
-    "Port Type",
-    "Type C"
-   ],
-   [
-    "Charging Type",
-    "Wired"
-   ],
-   [
-    "Number of Sim",
-    "Dual-SIM"
-   ],
-   [
-    "Audio Jack Type",
-    "3.5 mm"
-   ],
-   [
-    "Display Resolution",
-    "720x1600"
-   ],
-   [
-    "Operating System Type",
-    "Xiaomi HyperOS 3"
-   ],
-   [
-    "Dimensions",
-    "170.12 × 78.42 × 8.8 mm"
-   ],
-   [
-    "Model Name",
-    "Redmi 17"
-   ],
-   [
-    "Connectivity",
-    "Wi-Fi 2.4GHz / 5GHz , Bluetooth 5.4 , GPS, GLONASS, Galileo, BeiDou , 3.5mm Headphone Jack"
-   ],
-   [
-    "Chipset Manufacturer",
-    "MediaTek Helio G91-Ultra"
-   ],
-   [
-    "Video Capture Format",
-    "720p video recording at 30 fps"
-   ],
-   [
-    "Processor Manufacturer",
-    "MediaTek Helio G91-Ultra"
-   ],
-   [
-    "Screen Size",
-    "6.9 Inch"
-   ],
-   [
-    "Front Camera",
-    "8 megapixels"
-   ],
-   [
-    "Primary Camera",
-    "50 megapixels"
-   ],
-   [
-    "Battery Capacity",
-    "7500 mAh"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/xiaomi-redmi-17-256-gb-6-gb-4g-dual-sim-black?offering_id=f4b7f369-c654-4673-b25d-14ae08d54b5f",
-   "https://2b.com.eg/en/xiaomi-redmi-17-4g-6gb-ram-256gb-deep-blue.html",
-   "https://www.carrefouregypt.com/mafegy/en/smartphones/xiaomi-mobile-17-256gb-6gb-ram-4g-deep-blue/p/1698542000171?offer=offer_1499416985&sid=DEFAULT&sellerId=16985"
   ]
  },
  "btech-1BASLPI7FX608JMIL020": {
@@ -12472,15 +10975,6 @@
    "https://btech.com/en/p/b2ac96d1-16c2-4b21-b9e7-65f225622b80?offering_id=fdf5f2e9-355b-46a7-baaf-a5c7729354f8",
    "https://2b.com.eg/en/asus-tuf-gaming-f16-fx607vu-rl167w-laptop-intelr-coretm-7-240h-16gb-512gb-ssd-nvidiar-geforce-rtxtm-4050-6gb-16-fhd-144hz-win11-jaeger-gray.html",
    "https://www.compumarts.com/products/asus-tuf-gaming-f16-fx607vu-rl007w-laptop-intel-core-i7-13620h-16gb-ram-512gb-ssd-nvidia-geforce-rtx-4050-6gb-16-wuxga-144hz-win11-jaeger-gray.js"
-  ]
- },
- "btech-65B2DE231E0E142ADF68": {
-  "t": "2026-11-20T21:48+00:00",
-  "source": null,
-  "specs": [],
-  "tried": [
-   "https://btech.com/en/p/adf62f62-2e87-478c-aab9-edd322bd626c?offering_id=4ab82aac-019f-478d-9cba-461ab76c518c",
-   "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-galaxy-s25-ultra-ai-dual-sim-titanium-silverblue-12gb-ram-256gb-5g-middle-east-version/p/2251857001507?offer=offer_1069722518&sid=DEFAULT&sellerId=22518"
   ]
  },
  "dream2000-47061082865803": {
@@ -12671,194 +11165,6 @@
   ],
   "tried": [
    "https://btech.com/en/p/samsung-galaxy-a18-128-gb-6-gb-4g-dual-sim-black?offering_id=5ba83229-bb0c-4c97-ade8-fd0418e1f473"
-  ]
- },
- "btech-2BC613DD3CFDDC4F9D77": {
-  "t": "2026-11-20T21:48+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Samsung"
-   ],
-   [
-    "Network",
-    "5G"
-   ],
-   [
-    "Sim Type",
-    "Nano-SIM"
-   ],
-   [
-    "Port Type",
-    "Type C"
-   ],
-   [
-    "Display Type",
-    "Dynamic LTPO AMOLED 2X"
-   ],
-   [
-    "Charging Type",
-    "Wired / Wireless"
-   ],
-   [
-    "Number of Sim",
-    "Dual-SIM"
-   ],
-   [
-    "Audio Jack Type",
-    "Type-C"
-   ],
-   [
-    "Water Resistant",
-    "Yes"
-   ],
-   [
-    "Memory Card Slot",
-    "No"
-   ],
-   [
-    "Display Resolution",
-    "3120x1440"
-   ],
-   [
-    "Operating System Type",
-    "Android 15"
-   ],
-   [
-    "Dimensions",
-    "162.8 x 77.6 x 8.2 mm"
-   ],
-   [
-    "Model Name",
-    "Galaxy S25 Ultra"
-   ],
-   [
-    "Connectivity",
-    "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct, dBluetooth 5.4, A2DP, LEPositioning GPS, GLONASS, BDS, GALILEO, QZSSUSB Type-C 3.2, DisplayPort 1.2, OTG"
-   ],
-   [
-    "Zoom Capability",
-    "3x optical zoom, 5x optical zoom"
-   ],
-   [
-    "Chipset Manufacturer",
-    "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm), Octa Core"
-   ],
-   [
-    "Processor Manufacturer",
-    "Qualcomm Snapdragon"
-   ],
-   [
-    "Screen Size",
-    "6.9 Inch"
-   ],
-   [
-    "Front Camera",
-    "12 megapixels"
-   ],
-   [
-    "Primary Camera",
-    "200 megapixels"
-   ],
-   [
-    "Battery Capacity",
-    "5000 mAh"
-   ],
-   [
-    "Water Resistance Level",
-    "1.5 Meter"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/samsung-galaxy-s25-ultra-256gb-12gb-5g-dual-sim-titanium-black1?offering_id=82dfbf5c-99d2-4f34-8c00-67e3a69883b4",
-   "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-galaxy-s25-ultra-dual-sim-titanium-black-12gb-ram-256gb-5g-international-version/p/2251857001827?offer=offer_1132922518&sid=DEFAULT&sellerId=22518"
-  ]
- },
- "btech-1BSAOMSMA566BZKWL007": {
-  "t": "2026-11-20T21:48+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Samsung"
-   ],
-   [
-    "Display Type",
-    "Super AMOLED"
-   ],
-   [
-    "Network",
-    "5G"
-   ],
-   [
-    "Sim Type",
-    "Nano-SIM"
-   ],
-   [
-    "Port Type",
-    "Multi Ports"
-   ],
-   [
-    "Charging Type",
-    "Wired"
-   ],
-   [
-    "Number of Sim",
-    "Dual-SIM"
-   ],
-   [
-    "Water Resistant",
-    "Yes"
-   ],
-   [
-    "Memory Card Slot",
-    "No"
-   ],
-   [
-    "Operating System Type",
-    "Android 15"
-   ],
-   [
-    "Model Name",
-    "Galaxy A56"
-   ],
-   [
-    "Connectivity",
-    "Wi-Fi, Bluetooth 5.3, GPS, GALILEO, GLONASS, BDS, QZSSUSB Type-C 2, OTG"
-   ],
-   [
-    "Dimensions",
-    "162.2 x 77.5 x 7.4 mm"
-   ],
-   [
-    "Chipset Manufacturer",
-    "Samsung Exynos"
-   ],
-   [
-    "Video Capture Format",
-    "4K@30fps, 1080p@30/60fps, gyro-EIS"
-   ],
-   [
-    "Processor Manufacturer",
-    "Samsung Exynos"
-   ],
-   [
-    "Battery Capacity",
-    "5000 mAh"
-   ],
-   [
-    "Screen Size",
-    "6.7 Inch"
-   ],
-   [
-    "Front Camera",
-    "12 megapixels"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/samsung-galaxy-a56-256gb-8gb-ram-5g-dual-sim-awesome-graphite?offering_id=97d6f609-b3af-4ea6-8dff-1557d3b86562",
-   "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-galaxy-a56-5g-dual-sim-awesome-graphite-8gb-ram-256gb-international-version/p/2251857000043?offer=offer_1062222518&sid=DEFAULT&sellerId=22518"
   ]
  },
  "dream2000-47896403247243": {
@@ -13081,91 +11387,6 @@
    "https://www.carrefouregypt.com/mafegy/en/smartphones/v70-fe-12-256g-blue/p/679681?offer=offer_1402518402&sid=DEFAULT&sellerId=18402"
   ]
  },
- "alsheikh-53030021497113": {
-  "t": "2026-11-20T21:48+00:00",
-  "source": "2b",
-  "specs": [
-   [
-    "Color",
-    "Gray"
-   ],
-   [
-    "Brand",
-    "Apple"
-   ],
-   [
-    "MPN",
-    "MH5N4LL/A"
-   ],
-   [
-    "Chipset",
-    "Apple M4"
-   ],
-   [
-    "CPU Speed (GHz)",
-    "Octa-core (4 performance cores and 4 efficiency cores)"
-   ],
-   [
-    "GPU",
-    "Apple GPU (9-core graphics)"
-   ],
-   [
-    "RAM",
-    "8 GB"
-   ],
-   [
-    "Display Size",
-    "13 inches"
-   ],
-   [
-    "Display Type",
-    "13.0 inches, 2048 x 2732 pixels 4:3 ratio (~264 ppi density) Liquid Retina IPS LCD, 600 nits (typ) Scratch-resistant glass, oleophobic coating, Mohs level 4"
-   ],
-   [
-    "Internal Storage",
-    "128 GB"
-   ],
-   [
-    "Operating System",
-    "iPadOS"
-   ],
-   [
-    "OS version",
-    "iPadOS 26.3, upgradable to iPadOS 26.4"
-   ],
-   [
-    "Primary Camera",
-    "12 MP, f/1.8, (wide), 1/3.0\", 1.22µm, dual pixel PDAF"
-   ],
-   [
-    "Secondary Camera",
-    "12 MP, f/2.0, 122˚ (ultrawide) HDR"
-   ],
-   [
-    "Video Resolutions",
-    "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps; gyro-EIS"
-   ],
-   [
-    "Connectivity",
-    "WLAN: Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, hotspot Bluetooth: 6.0, A2DP, LE Positioning: GPS, GLONASS (5G model only) Radio: No USB: USB Type-C 3.1 Gen2, DisplayPort, magnetic connector"
-   ],
-   [
-    "Sensors",
-    "Fingerprint (top-mounted), accelerometer, gyro, compass, barometer"
-   ],
-   [
-    "Battery",
-    "Li-Po 9705 mAh (36.59 Wh)"
-   ],
-   [
-    "warranty",
-    "2 Years"
-   ]
-  ],
-  "tried": [
-   "https://2b.com.eg/en/apple-ipad-air-m4-13-inch-wi-fi-128gb-gray.html"
-  ]
- },
  "carrefour-1698542000452": {
   "t": "2026-11-20T21:48+00:00",
   "source": null,
@@ -13354,31 +11575,6 @@
    "https://2b.com.eg/en/tornado-air-conditioner-2-25-hp-split-cool-digital-super-jet-white-th-c18bee.html"
   ]
  },
- "amazon-B0CWH9WCWT": {
-  "t": "2026-11-20T21:48+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Sony"
-   ],
-   [
-    "Model Name",
-    "Slim Disc Edition"
-   ],
-   [
-    "Super Features",
-    "with Wireless Controller - International Version"
-   ],
-   [
-    "Number of Controllers",
-    "1"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/sony-ps5-slimdisc-1tb-controller-international2023?offering_id=4e882643-412d-4d7b-b456-da34cfd591c6"
-  ]
- },
  "dream2000-47393129595019": {
   "t": "2026-11-20T21:48+00:00",
   "source": "btech",
@@ -13410,15 +11606,6 @@
   ],
   "tried": [
    "https://btech.com/en/p/sony-playstation-5-slim-1tb-ssd-with-dualsense-wireless-controller-white?offering_id=aab7e028-3d26-4311-bafc-0c1cc9ef14ef"
-  ]
- },
- "btech-4C3FE3AA622827AA3181": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": null,
-  "specs": [],
-  "tried": [
-   "https://btech.com/en/p/adf62f62-2e87-478c-aab9-edd322bd626c?offering_id=cda0ba00-3fbc-42cd-81de-cf1d734d87a2",
-   "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-galaxy-s25-ultra-ai-dual-sim-titanium-silverblue-12gb-ram-512gb-5g-middle-east-version/p/2251857001218?offer=offer_1187922518&sid=DEFAULT&sellerId=22518"
   ]
  },
  "btech-1BSAOMSMGA186SI0L008": {
@@ -13512,111 +11699,6 @@
   ],
   "tried": [
    "https://btech.com/en/p/samsung-galaxy-a18-128-gb-6-gb-4g-dual-sim-silver?offering_id=c6ad0b4f-39a9-4d7f-b905-93fd7a605251"
-  ]
- },
- "dream2000-49072996647051": {
-  "t": "2026-11-20T21:48+00:00",
-  "source": "2b",
-  "specs": [
-   [
-    "Brand",
-    "Xiaomi"
-   ],
-   [
-    "Color",
-    "Green"
-   ],
-   [
-    "MPN",
-    "6939093018859"
-   ],
-   [
-    "Network 2G",
-    "GSM 850 / 900 / 1800 / 1900"
-   ],
-   [
-    "Network 3G",
-    "HSDPA 850 / 900 / 2100"
-   ],
-   [
-    "4G Network",
-    "HSPA, LTE"
-   ],
-   [
-    "SIM Card",
-    "Dual SIM"
-   ],
-   [
-    "Chipset",
-    "Mediatek Helio G91 Ultra (12 nm)"
-   ],
-   [
-    "CPU (Processor)",
-    "Octa Core"
-   ],
-   [
-    "CPU Speed (GHz)",
-    "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)"
-   ],
-   [
-    "GPU",
-    "Mali-G52 MC2"
-   ],
-   [
-    "RAM",
-    "6 GB"
-   ],
-   [
-    "Display Size",
-    "6.9 inches"
-   ],
-   [
-    "Display Type",
-    "6.9 inches, 720 x 1600 pixels, 20:9 ratio (~254 ppi density) Corning Gorilla Glass 7i IPS LCD, 120Hz, 825 nits (HBM)"
-   ],
-   [
-    "Internal Storage",
-    "256 GB"
-   ],
-   [
-    "Operating System",
-    "Android"
-   ],
-   [
-    "OS version",
-    "Android 16, HyperOS 3"
-   ],
-   [
-    "Primary Camera",
-    "50 MP, f/1.8, (wide), PDAF Auxiliary lens LED flash, HDR"
-   ],
-   [
-    "Secondary Camera",
-    "8 MP, f/2.1, (wide) HDR"
-   ],
-   [
-    "Video Resolutions",
-    "1080p@30fps"
-   ],
-   [
-    "Connectivity",
-    "WLAN: Wi-Fi 802.11 a/b/g/n/ac, dual-band Bluetooth: 5.4, A2DP, LE Positioning: GPS, GLONASS, GALILEO, BDS Infrared port: Yes Radio : FM radio USB: USB Type-C 2.0"
-   ],
-   [
-    "Sensors",
-    "Fingerprint (side-mounted), accelerometer, compass Virtual proximity sensing"
-   ],
-   [
-    "Battery",
-    "Si/C Li-Ion 7500 mAh 45W wired, 100% in 96 min 22.5W reverse wired"
-   ],
-   [
-    "warranty",
-    "18 Months"
-   ]
-  ],
-  "tried": [
-   "https://2b.com.eg/en/xiaomi-redmi-17-4g-6gb-ram-256gb-oak-green.html"
   ]
  },
  "2b-lenovo-ideapad-slim-3-15iru8-laptop-intelr-coretm-i3-1315u-8gb-256gb-ssd-intelr-": {
@@ -13780,345 +11862,6 @@
    "https://www.carrefouregypt.com/mafegy/en/smartphones/oppo-mobile-reno-15-256gb-12gb-ram-5g-aurora-white/p/1698542000355?offer=offer_1497916985&sid=DEFAULT&sellerId=16985"
   ]
  },
- "noon-N70269990V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Lenovo"
-   ],
-   [
-    "Color",
-    "Luna Grey"
-   ],
-   [
-    "Display Type",
-    "IPS"
-   ],
-   [
-    "Keyboard Type",
-    "Business"
-   ],
-   [
-    "Hard Drive Type",
-    "SSD"
-   ],
-   [
-    "Resolution Type",
-    "WUXGA"
-   ],
-   [
-    "Headphones Output",
-    "Yes"
-   ],
-   [
-    "Keyboard Language",
-    "English & Arabic"
-   ],
-   [
-    "Display Resolution",
-    "1920x1200"
-   ],
-   [
-    "Dimensions",
-    "343.4 x 239.5 x 16.9-17.9 mm"
-   ],
-   [
-    "Model Number",
-    "15IRH10 - 83K100FMED"
-   ],
-   [
-    "Model Name",
-    "IdeaPad Slim 3"
-   ],
-   [
-    "Gift",
-    "with Lenovo WL310 Bluetooth Mouse, Lenovo T210 Laptop Topload - Black"
-   ],
-   [
-    "Optical Drive Type",
-    "No"
-   ],
-   [
-    "Refresh Rate",
-    "60 Hertz"
-   ],
-   [
-    "Battery Capacity",
-    "50 WHr"
-   ],
-   [
-    "Screen Size",
-    "15.3 Inch"
-   ],
-   [
-    "Number of USB Ports",
-    "3"
-   ],
-   [
-    "Number of HDMI Ports",
-    "1"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/lenovo-ideapadslim3-15irh10-83k100fmed-i5-13420h-512gb-16gb-15-3-intel-uhd-w11-grey-wl310-t210?offering_id=30f4e689-dae5-4cd3-8178-689d657e6272",
-   "https://2b.com.eg/en/lenovo-ideapad-slim-3-15irh10-laptop-intelr-coretm-i7-13620h-16gb-512gb-ssd-intelr-uhd-graphics-15-3-wuxga-60hz-grey.html",
-   "https://www.compumarts.com/products/lenovo-ideapad-slim-3-15irh10-i7-13620h-laptop-egypt.js"
-  ]
- },
- "noon-N40633049A": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Sony"
-   ],
-   [
-    "Model Name",
-    "DualSense"
-   ],
-   [
-    "Connectivity",
-    "Bluetooth 5.1, USB-C, Audio jack"
-   ],
-   [
-    "Compatibility",
-    "PlayStation 5"
-   ],
-   [
-    "Connection Type",
-    "Wireless"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/sony-dualsense-wireless-controller-ps5-wh",
-   "https://www.carrefouregypt.com/mafegy/en/sony-playstation-access/sony-dualsense-wireless-controller-for-playstation-5-white/p/1836147000713?offer=offer_1013118361&sid=DEFAULT&sellerId=18361"
-  ]
- },
- "noon-N70381038V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Lenovo"
-   ],
-   [
-    "Color",
-    "Luna Grey"
-   ],
-   [
-    "Display Type",
-    "IPS"
-   ],
-   [
-    "Keyboard Type",
-    "Business"
-   ],
-   [
-    "Hard Drive Type",
-    "SSD"
-   ],
-   [
-    "Resolution Type",
-    "WUXGA"
-   ],
-   [
-    "Headphones Output",
-    "Yes"
-   ],
-   [
-    "Keyboard Language",
-    "English & Arabic"
-   ],
-   [
-    "Display Resolution",
-    "1920x1200"
-   ],
-   [
-    "Model Name",
-    "IdeaPad Slim 3"
-   ],
-   [
-    "Model Number",
-    "15IPH11"
-   ],
-   [
-    "Dimensions",
-    "343.4 x 239.5 x 16.9-17.9 mm"
-   ],
-   [
-    "Refresh Rate",
-    "60 Hertz"
-   ],
-   [
-    "Battery Capacity",
-    "50 WHr"
-   ],
-   [
-    "Screen Size",
-    "15.3 Inch"
-   ],
-   [
-    "Number of USB Ports",
-    "3"
-   ],
-   [
-    "Number of HDMI Ports",
-    "1"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/c1ebade1-34d0-4503-b2bd-d267be5a0589?offering_id=840e77d4-3be9-4919-a5cf-7ebad809c81c",
-   "https://2b.com.eg/en/lenovo-ideapad-slim-3-15iph11-laptop-intelr-coretm-ultra-7-355-16gb-512gb-ssd-intelr-graphics-15-3-wuxga-60hz-win11-luna-grey.html"
-  ]
- },
- "noon-N70080335V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Samsung"
-   ],
-   [
-    "Port Type",
-    "Multi Ports"
-   ],
-   [
-    "Resolution Type",
-    "QHD"
-   ],
-   [
-    "Display Resolution",
-    "1440x2560"
-   ],
-   [
-    "Refresh Rate",
-    "165 Hertz"
-   ],
-   [
-    "Response Time",
-    "1 Millisecond"
-   ],
-   [
-    "Model Number",
-    "LS32CG552EMXEG"
-   ],
-   [
-    "Model Name",
-    "Odyssey G5 G55C"
-   ],
-   [
-    "Connectivity",
-    "HDMI port, Display port, audio port"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/samsung-32-inch-qhd-va-gaming-monitor-ls32cg552emxeg?offering_id=75bdb0e7-586d-4be3-84f3-2b5cfe70c60c",
-   "https://www.compumarts.com/products/samsung-32-inch-g55c-va-2k-qhd-165hz-refresh-rate-1ms-curved-gaming-monitor.js"
-  ]
- },
- "btech-1BSAOMSMA57856DBL006": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Samsung"
-   ],
-   [
-    "Network",
-    "5G"
-   ],
-   [
-    "Sim Type",
-    "Nano-SIM"
-   ],
-   [
-    "Port Type",
-    "Type C"
-   ],
-   [
-    "Display Type",
-    "Super AMOLED Plus"
-   ],
-   [
-    "Charging Type",
-    "Wired"
-   ],
-   [
-    "Number of Sim",
-    "Dual-SIM"
-   ],
-   [
-    "Audio Jack Type",
-    "Type-C"
-   ],
-   [
-    "Water Resistant",
-    "Yes"
-   ],
-   [
-    "Display Resolution",
-    "2340x1080"
-   ],
-   [
-    "Operating System Type",
-    "Android 16"
-   ],
-   [
-    "Dimensions",
-    "‎6.9 x 76.8 x 161.5‎"
-   ],
-   [
-    "Model Name",
-    "Galaxy A57"
-   ],
-   [
-    "Connectivity",
-    "USB Type-C -Bluetooth v6 -Wi-Fi 802.11a/b/g/n/ac/ax 2.4GHz+5GHz+6GHz, HE80, MIMO, 1024-QAM -Switch (PC version) -GPS, Glonass, Beidou, Galileo, QZSS"
-   ],
-   [
-    "Zoom Capability",
-    "zoom up to 10x"
-   ],
-   [
-    "Chipset Manufacturer",
-    "Exynos 1680"
-   ],
-   [
-    "Video Capture Format",
-    "MP4, M4V, 3GP, 3G2, AVI, FLV, MKV, WEBM"
-   ],
-   [
-    "Screen Size",
-    "6.7 Inch"
-   ],
-   [
-    "Front Camera",
-    "12 megapixels"
-   ],
-   [
-    "Primary Camera",
-    "50 megapixels"
-   ],
-   [
-    "Battery Capacity",
-    "5000 mAh"
-   ],
-   [
-    "Water Resistance Level",
-    "1.5 Meter"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/a5808303-04e8-42cc-a7c3-026941784118?offering_id=def93143-3bfe-4f2e-92f4-2d06971cef34",
-   "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-a57-5g-8gb-256gb-navy/p/677917?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000"
-  ]
- },
  "noon-N70370908V": {
   "t": "2026-11-21T08:56+00:00",
   "source": "btech",
@@ -14263,318 +12006,6 @@
    "https://www.carrefouregypt.com/mafegy/en/smartphones/infinix-hot70-128-6gb/p/683875?offer=offer_1203416985&sid=DEFAULT&sellerId=16985"
   ]
  },
- "noon-N70105549V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "2b",
-  "specs": [
-   [
-    "Brand",
-    "Apple"
-   ],
-   [
-    "Color",
-    "Blue"
-   ],
-   [
-    "MPN",
-    "A3287256T128U"
-   ],
-   [
-    "Network 2G",
-    "GSM 900 / 1800 / 1900"
-   ],
-   [
-    "Network 3G",
-    "HSDPA 900 / 1900 / 2100"
-   ],
-   [
-    "4G Network",
-    "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps"
-   ],
-   [
-    "SIM Card",
-    "Single SIM"
-   ],
-   [
-    "Chipset",
-    "Apple A18 (3 nm)"
-   ],
-   [
-    "CPU (Processor)",
-    "Hexa Core"
-   ],
-   [
-    "CPU Speed (GHz)",
-    "Hexa-core (2x4.04 GHz + 4x2.20 GHz)"
-   ],
-   [
-    "GPU",
-    "Apple GPU (5-core graphics)"
-   ],
-   [
-    "RAM",
-    "8 GB"
-   ],
-   [
-    "Display Size",
-    "6.1 inches"
-   ],
-   [
-    "Display Type",
-    "6.1 inches 1179 x 2556 pixels, 19.5:9 ratio (~460 ppi density) Ceramic Shield glass (2024 gen) Super Retina XDR OLED, HDR10, Dolby Vision, 1000 nits (typ), 2000 nits (HBM)"
-   ],
-   [
-    "Internal Storage",
-    "128 GB"
-   ],
-   [
-    "Operating System",
-    "iOS"
-   ],
-   [
-    "OS version",
-    "iOS 18"
-   ],
-   [
-    "Primary Camera",
-    "Dual: 48 MP, f/1.6, 26mm (wide) + 12 MP, f/2.2, 13mm, 120˚ (ultrawide) Dual-LED dual-tone flash, HDR (photo/panorama)"
-   ],
-   [
-    "Secondary Camera",
-    "12 MP, f/1.9, 23mm (wide), 1/3.6\", PDAF SL 3D, (depth/biometrics sensor) HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec."
-   ],
-   [
-    "Video Resolutions",
-    "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
-   ],
-   [
-    "Connectivity",
-    "WLAN: Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band, hotspot Bluetooth: 5.3, A2DP, LE Positioning: GPS, GLONASS, GALILEO, BDS, QZSS Radio: No USB: USB Type-C 2.0, DisplayPort"
-   ],
-   [
-    "Sensors",
-    "Face ID, accelerometer, gyro, proximity, compass, barometer, Ultra Wideband (UWB) support (gen2 chip), Emergency SOS, Messages and Find My via satellite"
-   ],
-   [
-    "Battery",
-    "Li-Ion 3561 mAh, non-removable Wired, PD2.0, 50% in 30 min (advertised) 15W wireless (Qi2) 4.5W reverse wired"
-   ],
-   [
-    "warranty",
-    "2 Years"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/9771b9e8-4d39-45af-a947-4abac4d7e434?offering_id=b1f4ba28-76d9-4dc0-a352-3a7bb490d2e5",
-   "https://2b.com.eg/en/apple-iphone-16-128gb-ultramarine-official-warranty.html"
-  ]
- },
- "noon-N70106134V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "2b",
-  "specs": [
-   [
-    "Brand",
-    "Apple"
-   ],
-   [
-    "Color",
-    "White"
-   ],
-   [
-    "MPN",
-    "A3288OW"
-   ],
-   [
-    "Network 2G",
-    "GSM 900 / 1800 / 1900"
-   ],
-   [
-    "Network 3G",
-    "HSDPA 900 / 1900 / 2100"
-   ],
-   [
-    "4G Network",
-    "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps"
-   ],
-   [
-    "SIM Card",
-    "Single SIM"
-   ],
-   [
-    "Chipset",
-    "Apple A18 (3 nm)"
-   ],
-   [
-    "CPU (Processor)",
-    "Hexa Core"
-   ],
-   [
-    "CPU Speed (GHz)",
-    "Hexa-core (2x4.04 GHz + 4x2.20 GHz)"
-   ],
-   [
-    "GPU",
-    "Apple GPU (5-core graphics)"
-   ],
-   [
-    "RAM",
-    "8 GB"
-   ],
-   [
-    "Display Size",
-    "6.1 inches"
-   ],
-   [
-    "Display Type",
-    "6.1 inches 1179 x 2556 pixels, 19.5:9 ratio (~460 ppi density) Ceramic Shield glass (2024 gen) Super Retina XDR OLED, HDR10, Dolby Vision, 1000 nits (typ), 2000 nits (HBM)"
-   ],
-   [
-    "Internal Storage",
-    "128 GB"
-   ],
-   [
-    "Operating System",
-    "iOS"
-   ],
-   [
-    "OS version",
-    "iOS 18"
-   ],
-   [
-    "Primary Camera",
-    "Dual: 48 MP, f/1.6, 26mm (wide) + 12 MP, f/2.2, 13mm, 120˚ (ultrawide) Dual-LED dual-tone flash, HDR (photo/panorama)"
-   ],
-   [
-    "Secondary Camera",
-    "12 MP, f/1.9, 23mm (wide), 1/3.6\", PDAF SL 3D, (depth/biometrics sensor) HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec."
-   ],
-   [
-    "Video Resolutions",
-    "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
-   ],
-   [
-    "Connectivity",
-    "WLAN: Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band, hotspot Bluetooth: 5.3, A2DP, LE Positioning: GPS, GLONASS, GALILEO, BDS, QZSS Radio: No USB: USB Type-C 2.0, DisplayPort"
-   ],
-   [
-    "Sensors",
-    "Face ID, accelerometer, gyro, proximity, compass, barometer, Ultra Wideband (UWB) support (gen2 chip), Emergency SOS, Messages and Find My via satellite"
-   ],
-   [
-    "Battery",
-    "Li-Ion 3561 mAh, non-removable Wired, PD2.0, 50% in 30 min (advertised) 15W wireless (Qi2) 4.5W reverse wired"
-   ],
-   [
-    "warranty",
-    "2 Years"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/9771b9e8-4d39-45af-a947-4abac4d7e434?offering_id=4643a65b-2b3e-48d7-816e-6f299fe64d5a",
-   "https://2b.com.eg/en/apple-iphone-16-128gb-white-official-warranty.html"
-  ]
- },
- "btech-2A1B5237D64C78B06087": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Infinix"
-   ],
-   [
-    "Network",
-    "5G"
-   ],
-   [
-    "Sim Type",
-    "Nano-SIM"
-   ],
-   [
-    "Port Type",
-    "Type C"
-   ],
-   [
-    "Display Type",
-    "AMOLED"
-   ],
-   [
-    "Charging Type",
-    "Wired"
-   ],
-   [
-    "Number of Sim",
-    "Dual-SIM"
-   ],
-   [
-    "Water Resistant",
-    "Yes"
-   ],
-   [
-    "Display Resolution",
-    "1208 × 2644"
-   ],
-   [
-    "Operating System Type",
-    "XOS 16"
-   ],
-   [
-    "Dimensions",
-    "162.37 x 77.17 x 7.45mm"
-   ],
-   [
-    "Model Name",
-    "Note 60"
-   ],
-   [
-    "Connectivity",
-    "Wi-Fi -Bluetooth 5.4 -USB Type-C, OTG -GPS"
-   ],
-   [
-    "Chipset Manufacturer",
-    "MediaTek"
-   ],
-   [
-    "Video Capture Format",
-    "Video 4K 30FPS/1080P 60FPS/1080P 30FPS/720P 30FPS Slow Motion: 1080P 120FPS"
-   ],
-   [
-    "Processor Manufacturer",
-    "MediaTek Dimensity 7400 Ultimate-Octa-core"
-   ],
-   [
-    "Screen Size",
-    "6.78 Inch"
-   ],
-   [
-    "Front Camera",
-    "13 megapixels"
-   ],
-   [
-    "Primary Camera",
-    "50 megapixels"
-   ],
-   [
-    "Battery Capacity",
-    "6150 mAh"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/d458c7db-2819-4011-9460-844341efbadf?offering_id=830c2c5a-ca71-467b-b7a4-b93a8e9b2862",
-   "https://2b.com.eg/en/infinix-note-60-8gb-ram-256gb-midnight-black.html",
-   "https://www.carrefouregypt.com/mafegy/en/smartphones/infinix-mobile-note-60-x6879-256gb-8gb-ram-5g-mist-titanium/p/1698542000307?offer=offer_1518616985&sid=DEFAULT&sellerId=16985"
-  ]
- },
- "noon-N70027754V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": null,
-  "specs": [],
-  "tried": [
-   "https://btech.com/en/p/cc7cc6cf-23ea-4a63-b0c2-b9bbc0fc92b2?offering_id=f24cdcbd-2066-4efa-8256-dfac065ed7a6",
-   "https://www.carrefouregypt.com/mafegy/en/sony-playstation-access/playstation-5-portal-remote-player/p/2314367000506?offer=offer_1032023143&sid=DEFAULT&sellerId=23143"
-  ]
- },
  "noon-N70373636V": {
   "t": "2026-11-21T08:56+00:00",
   "source": "btech",
@@ -14676,594 +12107,6 @@
   ],
   "tried": [
    "https://btech.com/en/p/324f5d14-44bf-4ea9-afe0-3cc96655faae?offering_id=3b7aea9e-9535-48bc-9e2a-830727fa7e03"
-  ]
- },
- "carrefour-2251857001217": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": null,
-  "specs": [],
-  "tried": [
-   "https://btech.com/en/p/adf62f62-2e87-478c-aab9-edd322bd626c?offering_id=31292df5-cbbf-4697-9f5b-3b3acdf29600",
-   "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-galaxy-s25-ultra-ai-dual-sim-titanium-grey-12gb-ram-512gb-5g-middle-east-version/p/2251857001217?offer=offer_1187822518&sid=DEFAULT&sellerId=22518"
-  ]
- },
- "btech-1BSAOMSMA57256VOL055": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Samsung"
-   ],
-   [
-    "Network",
-    "5G"
-   ],
-   [
-    "Sim Type",
-    "Nano-SIM"
-   ],
-   [
-    "Port Type",
-    "Type C"
-   ],
-   [
-    "Display Type",
-    "Super AMOLED Plus"
-   ],
-   [
-    "Charging Type",
-    "Wired"
-   ],
-   [
-    "Number of Sim",
-    "Dual-SIM"
-   ],
-   [
-    "Audio Jack Type",
-    "Type-C"
-   ],
-   [
-    "Water Resistant",
-    "Yes"
-   ],
-   [
-    "Display Resolution",
-    "2340x1080"
-   ],
-   [
-    "Operating System Type",
-    "Android 16"
-   ],
-   [
-    "Dimensions",
-    "‎6.9 x 76.8 x 161.5‎"
-   ],
-   [
-    "Model Name",
-    "Galaxy A57"
-   ],
-   [
-    "Connectivity",
-    "USB Type-C -Bluetooth v6 -Wi-Fi 802.11a/b/g/n/ac/ax 2.4GHz+5GHz+6GHz, HE80, MIMO, 1024-QAM -Switch (PC version) -GPS, Glonass, Beidou, Galileo, QZSS"
-   ],
-   [
-    "Zoom Capability",
-    "zoom up to 10x"
-   ],
-   [
-    "Chipset Manufacturer",
-    "Exynos 1680"
-   ],
-   [
-    "Video Capture Format",
-    "MP4, M4V, 3GP, 3G2, AVI, FLV, MKV, WEBM"
-   ],
-   [
-    "Screen Size",
-    "6.7 Inch"
-   ],
-   [
-    "Front Camera",
-    "12 megapixels"
-   ],
-   [
-    "Primary Camera",
-    "50 megapixels"
-   ],
-   [
-    "Battery Capacity",
-    "5000 mAh"
-   ],
-   [
-    "Water Resistance Level",
-    "1.5 Meter"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/a5808303-04e8-42cc-a7c3-026941784118?offering_id=9ce4a565-1671-4e1d-bd5c-63b49ab1f495",
-   "https://2b.com.eg/en/samsung-galaxy-a57-5g-12gb-ram-256gb-gray.html",
-   "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-a57-5g-12gb-256gb-navy/p/677916?offer=offer_1203716985&sid=DEFAULT&sellerId=16985"
-  ]
- },
- "noon-N70020107V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Sony"
-   ],
-   [
-    "Model Name",
-    "DualSense"
-   ],
-   [
-    "Connectivity",
-    "Bluetooth 5.1, USB-C, Audio jack"
-   ],
-   [
-    "Compatibility",
-    "PlayStation 5"
-   ],
-   [
-    "Connection Type",
-    "Wireless"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/sony-dualsense-wireless-controller-ps5-cobalt-blue?offering_id=ddfb4d32-cd9b-43af-8ff7-c4cd19e98c57",
-   "https://www.carrefouregypt.com/mafegy/en/sony-playstation-access/playstation-dualsense-wireless-controller-cobalt-blue/p/2314367000608?offer=offer_1077823143&sid=DEFAULT&sellerId=23143"
-  ]
- },
- "noon-N70211465V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Apple"
-   ],
-   [
-    "Network",
-    "5G"
-   ],
-   [
-    "Sim Type",
-    "e-SIM"
-   ],
-   [
-    "Display Type",
-    "Super Retina XDR OLED"
-   ],
-   [
-    "Charging Type",
-    "Wired / Wireless"
-   ],
-   [
-    "Number of Sim",
-    "eSIM"
-   ],
-   [
-    "Operating System Type",
-    "iOS 26"
-   ],
-   [
-    "Dimensions",
-    "163.4 x 78 x 8.8 mm"
-   ],
-   [
-    "Model Name",
-    "iPhone 17 Pro Max"
-   ],
-   [
-    "Connectivity",
-    "Bluetooth 6, USB Type-C 3.2 Gen 2 with DisplayPort, GPS , Wi-Fi"
-   ],
-   [
-    "Chipset Manufacturer",
-    "Apple A19 Pro"
-   ],
-   [
-    "Video Capture Format",
-    "4K@24/25/30/60/100/120fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 120fps), ProRes, ProRes RAW (up to 120fps), Apple Log 2, 3D (spatial) video/audio, stereo"
-   ],
-   [
-    "Processor Manufacturer",
-    "Apple A19 Pro"
-   ],
-   [
-    "Screen Size",
-    "6.9 Inch"
-   ],
-   [
-    "Front Camera",
-    "18 megapixels"
-   ],
-   [
-    "Primary Camera",
-    "48 megapixels"
-   ],
-   [
-    "Battery Capacity",
-    "5088 mAh"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/be18b6e3-3dfd-40bc-9f1c-4d1bd8d9c04f?offering_id=2b2f0b5c-5bf3-4483-8bcc-a6ae1e91f49d",
-   "https://2b.com.eg/en/apple-iphone-17-pro-max-256gb-cosmic-orange-official-warranty.html",
-   "https://www.carrefouregypt.com/mafegy/en/smartphones/apple-iphone-17-pro-max-256-gb-esim-only-cosmic-orange-5g-with-facetime-international-version/p/2251857001649?offer=offer_1095822518&sid=DEFAULT&sellerId=22518"
-  ]
- },
- "noon-N70211553V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Apple"
-   ],
-   [
-    "Network",
-    "5G"
-   ],
-   [
-    "Sim Type",
-    "e-SIM"
-   ],
-   [
-    "Display Type",
-    "LTPO Super Retina XDR OLED"
-   ],
-   [
-    "Number of Sim",
-    "eSIM"
-   ],
-   [
-    "Operating System Type",
-    "iOS 26"
-   ],
-   [
-    "Dimensions",
-    "149.6 x 71.5 x 8 mm"
-   ],
-   [
-    "Model Name",
-    "iPhone 17"
-   ],
-   [
-    "Connectivity",
-    "Bluetooth 6, USB Type-C 2, Wi-Fi 7, GPS"
-   ],
-   [
-    "Chipset Manufacturer",
-    "Apple"
-   ],
-   [
-    "Video Capture Format",
-    "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps"
-   ],
-   [
-    "Processor Manufacturer",
-    "Apple A19 (3 nm), Hexa-core"
-   ],
-   [
-    "Screen Size",
-    "6.3 Inch"
-   ],
-   [
-    "Front Camera",
-    "18 megapixels"
-   ],
-   [
-    "Primary Camera",
-    "48 megapixels"
-   ],
-   [
-    "Battery Capacity",
-    "3692 mAh"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/045d9b00-476d-4063-8207-c9ad7d7a4781?offering_id=a74c1967-b3dd-44eb-92f9-5fd7f3a798d8",
-   "https://www.carrefouregypt.com/mafegy/en/smartphones/apple-iphone-17-256gb-nano-sim-esim-black-5g-with-facetime-international-version/p/2251857001436?offer=offer_1057522518&sid=DEFAULT&sellerId=22518"
-  ]
- },
- "noon-N70211554V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Apple"
-   ],
-   [
-    "Network",
-    "5G"
-   ],
-   [
-    "Sim Type",
-    "e-SIM"
-   ],
-   [
-    "Display Type",
-    "LTPO Super Retina XDR OLED"
-   ],
-   [
-    "Number of Sim",
-    "eSIM"
-   ],
-   [
-    "Operating System Type",
-    "iOS 26"
-   ],
-   [
-    "Dimensions",
-    "149.6 x 71.5 x 8 mm"
-   ],
-   [
-    "Model Name",
-    "iPhone 17"
-   ],
-   [
-    "Connectivity",
-    "Bluetooth 6, USB Type-C 2, Wi-Fi 7, GPS"
-   ],
-   [
-    "Chipset Manufacturer",
-    "Apple"
-   ],
-   [
-    "Video Capture Format",
-    "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps"
-   ],
-   [
-    "Processor Manufacturer",
-    "Apple A19 (3 nm), Hexa-core"
-   ],
-   [
-    "Screen Size",
-    "6.3 Inch"
-   ],
-   [
-    "Front Camera",
-    "18 megapixels"
-   ],
-   [
-    "Primary Camera",
-    "48 megapixels"
-   ],
-   [
-    "Battery Capacity",
-    "3692 mAh"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/045d9b00-476d-4063-8207-c9ad7d7a4781?offering_id=ae9b382d-49b6-4210-9569-0be87c4d6329",
-   "https://www.carrefouregypt.com/mafegy/en/smartphones/apple-iphone-17-256gb-nano-sim-esim-mist-blue-5g-with-facetime-international-version/p/2251857001641?offer=offer_1094122518&sid=DEFAULT&sellerId=22518"
-  ]
- },
- "noon-N70371772V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Xiaomi"
-   ],
-   [
-    "Network",
-    "5G"
-   ],
-   [
-    "Sim Type",
-    "Nano-SIM"
-   ],
-   [
-    "Port Type",
-    "Type C"
-   ],
-   [
-    "Display Type",
-    "AMOLED"
-   ],
-   [
-    "Charging Type",
-    "Wired"
-   ],
-   [
-    "Number of Sim",
-    "Dual-SIM"
-   ],
-   [
-    "Water Resistant",
-    "Yes"
-   ],
-   [
-    "Display Resolution",
-    "2772 x 1280"
-   ],
-   [
-    "Operating System Type",
-    "Xiaomi HyperOS 2"
-   ],
-   [
-    "Dimensions",
-    "163.61x78.09x7.96mm"
-   ],
-   [
-    "Model Name",
-    "Redmi Note 15 Pro"
-   ],
-   [
-    "Connectivity",
-    "Bluetooth 5.4 -Wi-Fi -GPS -USB Type-C"
-   ],
-   [
-    "Chipset Manufacturer",
-    "MediaTek"
-   ],
-   [
-    "Video Capture Format",
-    "4K at 30 fps,1080p at 30/60, fps720p at 30 fps"
-   ],
-   [
-    "Processor Manufacturer",
-    "MediaTek Dimensity 7400-Ultra 4nm, Octa-core"
-   ],
-   [
-    "Screen Size",
-    "6.83 Inch"
-   ],
-   [
-    "Front Camera",
-    "20 megapixels"
-   ],
-   [
-    "Primary Camera",
-    "200 megapixels"
-   ],
-   [
-    "Battery Capacity",
-    "6580 mAh"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/01441ee7-5955-4ae3-8f1c-351b5c807d0f?offering_id=84bb7daf-3d77-4b0b-ae94-ffafbc250883",
-   "https://2b.com.eg/en/xiaomi-redmi-note-15-pro-5g-12gb-ram-256gb-black.html"
-  ]
- },
- "noon-N70375691V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Infinix"
-   ],
-   [
-    "Network",
-    "5G"
-   ],
-   [
-    "Sim Type",
-    "Nano-SIM"
-   ],
-   [
-    "Port Type",
-    "Type C"
-   ],
-   [
-    "Display Type",
-    "AMOLED"
-   ],
-   [
-    "Charging Type",
-    "Wired"
-   ],
-   [
-    "Number of Sim",
-    "Dual-SIM"
-   ],
-   [
-    "Water Resistant",
-    "Yes"
-   ],
-   [
-    "Display Resolution",
-    "1208 × 2644"
-   ],
-   [
-    "Operating System Type",
-    "XOS 16"
-   ],
-   [
-    "Dimensions",
-    "162.37 x 77.17 x 7.45mm"
-   ],
-   [
-    "Model Name",
-    "Note 60"
-   ],
-   [
-    "Connectivity",
-    "Wi-Fi -Bluetooth 5.4 -USB Type-C, OTG -GPS"
-   ],
-   [
-    "Chipset Manufacturer",
-    "MediaTek"
-   ],
-   [
-    "Video Capture Format",
-    "Video 4K 30FPS/1080P 60FPS/1080P 30FPS/720P 30FPS Slow Motion: 1080P 120FPS"
-   ],
-   [
-    "Processor Manufacturer",
-    "MediaTek Dimensity 7400 Ultimate-Octa-core"
-   ],
-   [
-    "Screen Size",
-    "6.78 Inch"
-   ],
-   [
-    "Front Camera",
-    "13 megapixels"
-   ],
-   [
-    "Primary Camera",
-    "50 megapixels"
-   ],
-   [
-    "Battery Capacity",
-    "6150 mAh"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/d458c7db-2819-4011-9460-844341efbadf?offering_id=d4567194-b77b-4d40-bfae-179ece75ad64",
-   "https://www.carrefouregypt.com/mafegy/en/smartphones/infinix-mobile-note-60-x6879-256gb-8gb-ram-5g-midnight-black/p/1698542000308?offer=offer_1514916985&sid=DEFAULT&sellerId=16985"
-  ]
- },
- "noon-N53429223A": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "2b",
-  "specs": [
-   [
-    "Device Type",
-    "Gamepads & Controllers"
-   ],
-   [
-    "Brand",
-    "Sony"
-   ],
-   [
-    "Color",
-    "Gray"
-   ],
-   [
-    "Model",
-    "Sony DualSense Wireless Controller For PlayStation 5 - Grey Camouflage"
-   ],
-   [
-    "Connectivity",
-    "Bluetooth"
-   ],
-   [
-    "Compatible with",
-    "PlayStation®5"
-   ],
-   [
-    "Material",
-    "Plastic"
-   ],
-   [
-    "Function",
-    "\"PlayStation\", \"PlayStation Family Mark\", \"PS5 logo\", \"PS5\", \"DualSense\" and \"DUALSHOCK\" are registered trademarks or trademarks of Sony Interactive Entertainment Inc. \"SONY\" is a registered trademark of Sony Corporation."
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/4a6a8587-d72e-4089-b665-5f860609d90d?offering_id=2d34c6eb-6eb6-4c8f-b3f9-82cadc178118",
-   "https://2b.com.eg/en/sony-dualsense-wireless-controller-for-playstation-5-grey-camouflage.html",
-   "https://www.carrefouregypt.com/mafegy/en/gaming-leasure/sony-dualsense-wireless-ps5-controller-official-version-grey-camouflage/p/1836147000737?offer=offer_1074918361&sid=DEFAULT&sellerId=18361"
   ]
  },
  "noon-N71493232V": {
@@ -15541,89 +12384,6 @@
    "https://www.carrefouregypt.com/mafegy/en/smartphones/xiaomi-mobile-17-256gb-6gb-ram-4g-black/p/1698542000162?offer=offer_1499316985&sid=DEFAULT&sellerId=16985"
   ]
  },
- "noon-N70284018V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Lenovo"
-   ],
-   [
-    "Hard Drive Type",
-    "SSD"
-   ],
-   [
-    "Resolution Type",
-    "WUXGA"
-   ],
-   [
-    "Color",
-    "Cosmic Blue"
-   ],
-   [
-    "Display Type",
-    "IPS"
-   ],
-   [
-    "Keyboard Type",
-    "Business"
-   ],
-   [
-    "Headphones Output",
-    "Yes"
-   ],
-   [
-    "Keyboard Language",
-    "English & Arabic"
-   ],
-   [
-    "Display Resolution",
-    "1920x1200"
-   ],
-   [
-    "Model Name",
-    "IdeaPad Slim 3"
-   ],
-   [
-    "Gift",
-    "with Lenovo T210 Laptop Bag- Black, and WL310 Bluetooth Mouse- Black"
-   ],
-   [
-    "Dimensions",
-    "343.4 x 239.5 x 16.9-17.9 mm"
-   ],
-   [
-    "Model Number",
-    "15IRH10- 83K100QRED"
-   ],
-   [
-    "Refresh Rate",
-    "60 Hertz"
-   ],
-   [
-    "Battery Capacity",
-    "50 WHr"
-   ],
-   [
-    "Screen Size",
-    "15.3 Inch"
-   ],
-   [
-    "Number of USB Ports",
-    "3"
-   ],
-   [
-    "Number of HDMI Ports",
-    "1"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/3de14b7f-76b6-4ecd-b20a-e061b5af773f?offering_id=2e259a23-a308-4fcf-bc97-d33a6369bc69",
-   "https://2b.com.eg/en/lenovo-ideapad-slim-3-15irh10-laptop-intelr-coretm-i5-13420h-16gb-512gb-ssd-intelr-uhd-graphics-15-3-wuxga-60hz-cosmic-blue.html",
-   "https://www.compumarts.com/products/lenovo-ideapad-slim-3-83k100qned-i7-16gb-512gb.js"
-  ]
- },
  "btech-3D13505C42559A083A51": {
   "t": "2026-11-21T08:56+00:00",
   "source": "btech",
@@ -15712,133 +12472,6 @@
   "tried": [
    "https://btech.com/en/p/8e071e05-4184-454d-a3a8-4681582fcc8f?offering_id=55a6cbb1-e40d-47da-9c29-4b66eedc831b",
    "https://www.carrefouregypt.com/mafegy/en/smartphones/oppo-reno16-5g-12-256-white/p/686355?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000"
-  ]
- },
- "noon-ZFB08AFCC8E507C57E272Z": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Carrier"
-   ],
-   [
-    "Filter Type",
-    "Plasma"
-   ],
-   [
-    "Cooling Type",
-    "Only Cooling"
-   ],
-   [
-    "Turbo Function",
-    "Yes"
-   ],
-   [
-    "Cooling Capacity",
-    "12000 BTU"
-   ],
-   [
-    "Dimensions",
-    "Indoor Unit: 805 x 285 x 194 mm - Outdoor Unit: 720 x 495 x 270 mm"
-   ],
-   [
-    "Model Number",
-    "KHEFT12N"
-   ],
-   [
-    "Model Name",
-    "X Cool"
-   ],
-   [
-    "Horsepower",
-    "1.5 horsepower"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/a0abee78-c9c3-4e6b-981c-0a5c9c0eb49a?offering_id=d7e9d4eb-2ccd-4198-9578-b5c4522f8929",
-   "https://2b.com.eg/en/carrier-air-conditioner-1-5-hp-xcool-split-cooling-only-white-kheft12n.html",
-   "https://www.carrefouregypt.com/mafegy/en/air-conditioners/carrier-a-c-53kheft12n8-708f1-5hp-c/p/677668?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000"
-  ]
- },
- "noon-N70250131V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Hp"
-   ],
-   [
-    "Color",
-    "Mica Silver"
-   ],
-   [
-    "Keyboard Type",
-    "Gaming"
-   ],
-   [
-    "Hard Drive Type",
-    "SSD"
-   ],
-   [
-    "Resolution Type",
-    "FHD"
-   ],
-   [
-    "Headphones Output",
-    "Yes"
-   ],
-   [
-    "Keyboard Language",
-    "English & Arabic"
-   ],
-   [
-    "Dimensions",
-    "68.8 × 519 × 304 mm"
-   ],
-   [
-    "Model Name",
-    "Victus 15-fa2013dx"
-   ],
-   [
-    "Battery Capacity",
-    "52 mAh"
-   ],
-   [
-    "Number of USB Ports",
-    "3"
-   ],
-   [
-    "Number of HDMI Ports",
-    "1"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/9e780a96-6fef-4932-8f6f-c52b46dc4a9f?offering_id=463c0f94-6c4a-4c66-b3e7-5f4fb6c3f81d",
-   "https://www.compumarts.com/products/hp-victus-15-fa2013dx-gaming-laptop-intel-core-i5-13420h-8gb-ram-512gb-ssd-nvidia-geforce-rtx-3050-6gb-15-6-fhd-144hz-windows-11.js"
-  ]
- },
- "noon-N46456986A": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Fresh"
-   ],
-   [
-    "RPM",
-    "600"
-   ],
-   [
-    "Model Name",
-    "SWM400"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/fresh-top-load-manual-wash-machine-4kg-swm400?offering_id=30dd7c2b-a018-4942-a1eb-f4c9a33b93b2",
-   "https://www.carrefouregypt.com/mafegy/en/washing-machine/fresh-washing-machine-4-kg-swm400-multicolour/p/2289659000250?offer=offer_1021822896&sid=DEFAULT&sellerId=22896"
   ]
  },
  "btech-1BRMMOBIRP16PGD0L010": {
@@ -15937,108 +12570,6 @@
   "tried": [
    "https://btech.com/en/p/334f2a80-b21d-4396-8a64-92073fc87bfa?offering_id=74e782b9-204b-4aa3-975f-dbf3ebb9b3bc",
    "https://2b.com.eg/en/realme-16-pro-12gb-ram-256gb-gold.html"
-  ]
- },
- "noon-N70022612V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": null,
-  "specs": [],
-  "tried": [
-   "https://www.carrefouregypt.com/mafegy/en/sony-playstation-consoles/playstation-5-digital-edition-slim-nordic-/p/2314367000575?offer=offer_1063723143&sid=DEFAULT&sellerId=23143"
-  ]
- },
- "noon-N70305516V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": null,
-  "specs": [],
-  "tried": [
-   "https://www.carrefouregypt.com/mafegy/en/smartphones/apple-iphone-17e-256gb-black-5g-esim-only-with-facetime-middle-east-version/p/2251857001297?offer=offer_1045322518&sid=DEFAULT&sellerId=22518"
-  ]
- },
- "carrefour-2251857000043": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Samsung"
-   ],
-   [
-    "Display Type",
-    "Super AMOLED"
-   ],
-   [
-    "Network",
-    "5G"
-   ],
-   [
-    "Sim Type",
-    "Nano-SIM"
-   ],
-   [
-    "Port Type",
-    "Multi Ports"
-   ],
-   [
-    "Charging Type",
-    "Wired"
-   ],
-   [
-    "Number of Sim",
-    "Dual-SIM"
-   ],
-   [
-    "Water Resistant",
-    "Yes"
-   ],
-   [
-    "Memory Card Slot",
-    "No"
-   ],
-   [
-    "Operating System Type",
-    "Android 15"
-   ],
-   [
-    "Model Name",
-    "Galaxy A56"
-   ],
-   [
-    "Connectivity",
-    "Wi-Fi, Bluetooth 5.3, GPS, GALILEO, GLONASS, BDS, QZSSUSB Type-C 2, OTG"
-   ],
-   [
-    "Dimensions",
-    "162.2 x 77.5 x 7.4 mm"
-   ],
-   [
-    "Chipset Manufacturer",
-    "Samsung Exynos"
-   ],
-   [
-    "Video Capture Format",
-    "4K@30fps, 1080p@30/60fps, gyro-EIS"
-   ],
-   [
-    "Processor Manufacturer",
-    "Samsung Exynos"
-   ],
-   [
-    "Battery Capacity",
-    "5000 mAh"
-   ],
-   [
-    "Screen Size",
-    "6.7 Inch"
-   ],
-   [
-    "Front Camera",
-    "12 megapixels"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/samsung-galaxy-a56-256gb-8gb-ram-5g-dual-sim-awesome-graphite?offering_id=97d6f609-b3af-4ea6-8dff-1557d3b86562",
-   "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-galaxy-a56-5g-dual-sim-awesome-graphite-8gb-ram-256gb-international-version/p/2251857000043?offer=offer_1062222518&sid=DEFAULT&sellerId=22518"
   ]
  },
  "noon-N71493231V": {
@@ -16219,48 +12750,6 @@
   ],
   "tried": [
    "https://btech.com/en/p/6d3a9c41-cc88-49f6-84d7-10a3ad67ed52?offering_id=ebb15bec-10f8-4efe-ba9b-64fa033540b3"
-  ]
- },
- "noon-N70370403V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "LG"
-   ],
-   [
-    "Resolution Type",
-    "Nano 4K UHD"
-   ],
-   [
-    "Built-In Receiver",
-    "Yes"
-   ],
-   [
-    "Display Resolution",
-    "2160x3840"
-   ],
-   [
-    "Remote Control Included",
-    "Yes"
-   ],
-   [
-    "Series",
-    "NU830"
-   ],
-   [
-    "Connection Type",
-    "Wired, Wireless"
-   ],
-   [
-    "Number of HDMI Ports",
-    "3"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/lg-55-inch-smart-tv-nano-4k-uhd-55nu830b6la?offering_id=85ced936-7a6e-41c2-985b-ca3c817555f2",
-   "https://www.carrefouregypt.com/mafegy/en/uhd-tv/lg-nano-tv-55nu850b6la4k-sm-rc/p/678840?offer=offer_1170816985&sid=DEFAULT&sellerId=16985"
   ]
  },
  "noon-N70221314V": {
@@ -16459,22 +12948,6 @@
    "https://2b.com.eg/en/realme-15-pro-5g-12gb-ram-256gb-velvet-green.html"
   ]
  },
- "noon-N47557169A": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": null,
-  "specs": [],
-  "tried": [
-   "https://www.carrefouregypt.com/mafegy/en/sony-playstation-access/sony-dualsense-wireless-controller-for-playstation-5-midnight-black/p/1836147000723?offer=offer_1013418361&sid=DEFAULT&sellerId=18361"
-  ]
- },
- "noon-N70197721V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": null,
-  "specs": [],
-  "tried": [
-   "https://www.carrefouregypt.com/mafegy/en/sony-playstation-consoles/fc-26-standard-edition-ps5-uae-version-playstation-5-ps5/p/2251257000152?offer=offer_1015222512&sid=DEFAULT&sellerId=22512"
-  ]
- },
  "noon-N70211578V": {
   "t": "2026-11-21T08:56+00:00",
   "source": "btech",
@@ -16553,96 +13026,6 @@
    "https://www.carrefouregypt.com/mafegy/en/smartphones/apple-iphone-17-pro-max-256gb-nano-sim-esim-silver-5g-with-facetime-international-version/p/2251857001774?offer=offer_1124122518&sid=DEFAULT&sellerId=22518"
   ]
  },
- "noon-N70105537V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": null,
-  "specs": [],
-  "tried": [
-   "https://btech.com/en/p/88778455-872b-4cf0-9da3-8a42a2b1c461?offering_id=307b38d0-c5f7-4a33-832e-bbea90fcae85"
-  ]
- },
- "noon-N70158921V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Samsung"
-   ],
-   [
-    "Network",
-    "4G"
-   ],
-   [
-    "Port Type",
-    "Type C"
-   ],
-   [
-    "Display Type",
-    "Super AMOLED"
-   ],
-   [
-    "Charging Type",
-    "Wired"
-   ],
-   [
-    "Number of Sim",
-    "Dual-SIM"
-   ],
-   [
-    "Water Resistant",
-    "Yes"
-   ],
-   [
-    "Operating System Type",
-    "Android 15"
-   ],
-   [
-    "Audio Jack Type",
-    "Type-C"
-   ],
-   [
-    "Screen Size",
-    "6.7 Inch"
-   ],
-   [
-    "Front Camera",
-    "12 megapixels"
-   ],
-   [
-    "Battery Capacity",
-    "5000 mAh"
-   ],
-   [
-    "Dimensions",
-    "162.9 x 78.2 x 7.4 mm"
-   ],
-   [
-    "Model Name",
-    "Galaxy A36"
-   ],
-   [
-    "Connectivity",
-    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi DirectBluetooth 5.4, A2DP, LEPositioning GPS, GALILEO, GLONASS, BDS, QZSSUSB Type-C 2, OTG"
-   ],
-   [
-    "Chipset Manufacturer",
-    "Qualcomm Snapdragon"
-   ],
-   [
-    "Video Capture Format",
-    "4K @ 30fps, 1080p@30/60fps, gyro-EIS"
-   ],
-   [
-    "Processor Manufacturer",
-    "Qualcomm Snapdragon"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/samsung-galaxy-a36-256gb-8gb-ram-4g-dual-sim-awesome-black?offering_id=048ddbc7-7118-4938-850b-79b02714909c",
-   "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-galaxy-a36-5g-dual-sim-awesome-white-8gb-ram-256gb-middle-east-version/p/2251857000448?offer=offer_1147922518&sid=DEFAULT&sellerId=22518"
-  ]
- },
  "noon-N70212301V": {
   "t": "2026-11-21T08:56+00:00",
   "source": "btech",
@@ -16671,113 +13054,6 @@
   "tried": [
    "https://btech.com/en/p/12755eca-af66-4d1f-ab5c-dc1b6e046855?offering_id=bec4a5a5-ef64-4401-befe-35362be81905",
    "https://www.carrefouregypt.com/mafegy/en/wireless-earbuds/apple-airpods-pro-3-wireless-earbuds-bluetooth-headphones-active-noise-cancellation-hearing-test-hearing-aid-hearing-protection-features-high-fidelity-sound-h2-chip-usb-c-charging-white/p/1827747000702?offer=offer_1024022512&sid=DEFAULT&sellerId=22512"
-  ]
- },
- "noon-N70213175V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Samsung"
-   ],
-   [
-    "Noise Cancellation",
-    "Yes"
-   ],
-   [
-    "Model Name",
-    "Galaxy Buds3 FE"
-   ],
-   [
-    "Connectivity",
-    "Bluetooth"
-   ],
-   [
-    "Model Number",
-    "SM-R420NZAAEUA"
-   ],
-   [
-    "Super Features",
-    "Active Noise Cancellation"
-   ],
-   [
-    "Battery Capacity",
-    "515 mAh"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/9f5f09df-0023-475c-885f-614d329ec9d7?offering_id=1091f79f-9a36-4046-81e8-ef3c7dbda2ce"
-  ]
- },
- "noon-N70284119V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Lenovo"
-   ],
-   [
-    "Display Type",
-    "WUXGA"
-   ],
-   [
-    "Color",
-    "Blue"
-   ],
-   [
-    "Hard Drive Type",
-    "SSD"
-   ],
-   [
-    "Resolution Type",
-    "WUXGA"
-   ],
-   [
-    "Headphones Output",
-    "Yes"
-   ],
-   [
-    "Keyboard Type",
-    "Business"
-   ],
-   [
-    "Keyboard Language",
-    "English & Arabic"
-   ],
-   [
-    "Model Name",
-    "IdeaPad Slim 3"
-   ],
-   [
-    "Model Number",
-    "15IRH10"
-   ],
-   [
-    "Gift",
-    "Bag+mouse"
-   ],
-   [
-    "Refresh Rate",
-    "60 Hertz"
-   ],
-   [
-    "Screen Size",
-    "15.3 Inch"
-   ],
-   [
-    "Number of USB Ports",
-    "3"
-   ],
-   [
-    "Number of HDMI Ports",
-    "1"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/0f3af38a-30a2-450a-88c4-fc00a17e8971?offering_id=be7f194b-6c95-44d6-8d15-35caf12cd55a",
-   "https://2b.com.eg/en/lenovo-ideapad-slim-3-15irh10-laptop-intelr-coretm-i5-13420h-16gb-512gb-ssd-intelr-uhd-graphics-15-3-wuxga-60hz-blue.html"
   ]
  },
  "btech-1BRMMOBIRP16PGRYL020": {
@@ -16886,187 +13162,12 @@
    "https://www.carrefouregypt.com/mafegy/en/smartphones/vivo-mobile-y31d-128gb-8gb-ram-4g-grey/p/1698542000453?offer=offer_1516116985&sid=DEFAULT&sellerId=16985"
   ]
  },
- "noon-N70158922V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Samsung"
-   ],
-   [
-    "Display Type",
-    "Super AMOLED"
-   ],
-   [
-    "Network",
-    "5G"
-   ],
-   [
-    "Sim Type",
-    "Nano-SIM"
-   ],
-   [
-    "Port Type",
-    "Type C"
-   ],
-   [
-    "Charging Type",
-    "Wired"
-   ],
-   [
-    "Number of Sim",
-    "Dual-SIM"
-   ],
-   [
-    "Water Resistant",
-    "Yes"
-   ],
-   [
-    "Display Resolution",
-    "2340x1080"
-   ],
-   [
-    "Operating System Type",
-    "Android 15"
-   ],
-   [
-    "Dimensions",
-    "162.9 x 78.2 x 7.4 mm"
-   ],
-   [
-    "Model Name",
-    "Galaxy A36"
-   ],
-   [
-    "Connectivity",
-    "Wi-Fi, Bluetooth 5.4, GPS, GALILEO, GLONASS, BDS, QZSS, USB Type-C 2, OTG, Fingerprint"
-   ],
-   [
-    "Chipset Manufacturer",
-    "Qualcomm Snapdragon"
-   ],
-   [
-    "Video Capture Format",
-    "4K@30fps, 1080p@30/60fps, gyro-EIS"
-   ],
-   [
-    "Processor Manufacturer",
-    "Qualcomm Snapdragon"
-   ],
-   [
-    "Battery Capacity",
-    "5000 mAh"
-   ],
-   [
-    "Screen Size",
-    "6.7 Inch"
-   ],
-   [
-    "Front Camera",
-    "12 megapixels"
-   ],
-   [
-    "Primary Camera",
-    "50 megapixels"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/12b6233a-dc49-4455-974b-da9c37588beb?offering_id=b06b86ff-b1d2-4170-8cc2-f47540093899"
-  ]
- },
- "noon-N70167099V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Tcl"
-   ],
-   [
-    "Display Type",
-    "LED"
-   ],
-   [
-    "Resolution Type",
-    "4K UHD"
-   ],
-   [
-    "Built-In Receiver",
-    "Yes"
-   ],
-   [
-    "Remote Control Included",
-    "Yes"
-   ],
-   [
-    "Dimensions",
-    "Without base : 1226 x 711 x 72mm, With base : 1226 x 750 x 255mm"
-   ],
-   [
-    "Series",
-    "P6K"
-   ],
-   [
-    "Connection Type",
-    "Bluetooth 5.2, Wi-Fi 5G, 1x LAN"
-   ],
-   [
-    "Number of HDMI Ports",
-    "3"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/1479f236-2dd7-49c8-bb8a-1084664303b1?offering_id=fceefbbc-0cc3-4781-9907-c98b7915849a"
-  ]
- },
  "noon-N70406193V": {
   "t": "2026-11-21T08:56+00:00",
   "source": null,
   "specs": [],
   "tried": [
    "https://www.carrefouregypt.com/mafegy/en/smartphones/oppo-reno16-dual-sim-twilight-violet-12gb-ram-256gb-5g-middle-east-version/p/2251857001855?offer=offer_1138222518&sid=DEFAULT&sellerId=22518"
-  ]
- },
- "noon-N70202881V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Samsung"
-   ],
-   [
-    "Dimensions",
-    "540.7 x 428.5 x 175.1 mm"
-   ],
-   [
-    "Model Name",
-    "Essential S3"
-   ],
-   [
-    "Connectivity",
-    "HDMI and D-Sub port"
-   ],
-   [
-    "Model Number",
-    "LS24D302GAU"
-   ],
-   [
-    "Connection Type",
-    "Wired"
-   ],
-   [
-    "Refresh Rate",
-    "100 Hertz"
-   ],
-   [
-    "Response Time",
-    "5 Millisecond"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/d2cb5283-4bdb-4fde-8bb8-4b5f9bd5c171?offering_id=7583b571-304d-4492-99fb-6c9ee60a99e0"
   ]
  },
  "xprs-67676023226586": {
@@ -17255,257 +13356,6 @@
    "https://btech.com/en/p/samsung-galaxy-a18-256-gb-8-gb-4g-dual-sim-black"
   ]
  },
- "noon-N70211580V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Apple"
-   ],
-   [
-    "Network",
-    "5G"
-   ],
-   [
-    "Sim Type",
-    "Nano SIM and eSIM"
-   ],
-   [
-    "Port Type",
-    "Type C"
-   ],
-   [
-    "Display Type",
-    "LTPO Super Retina XDR OLED"
-   ],
-   [
-    "Charging Type",
-    "Wired / Wireless"
-   ],
-   [
-    "Number of Sim",
-    "Dual-SIM"
-   ],
-   [
-    "Water Resistant",
-    "Yes"
-   ],
-   [
-    "Display Resolution",
-    "1320x2868"
-   ],
-   [
-    "Operating System Type",
-    "iOS 26"
-   ],
-   [
-    "Dimensions",
-    "163.4 x 78 x 8.8 mm"
-   ],
-   [
-    "Model Name",
-    "iPhone 17 Pro Max"
-   ],
-   [
-    "Connectivity",
-    "Bluetooth 6, USB Type-C 3.2 Gen 2 with DisplayPort, GPS , Wi-Fi"
-   ],
-   [
-    "Chipset Manufacturer",
-    "Apple A19 Pro"
-   ],
-   [
-    "Video Capture Format",
-    "4K@24/25/30/60/100/120fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 120fps), ProRes, ProRes RAW (up to 120fps), Apple Log 2, 3D (spatial) video/audio, stereo"
-   ],
-   [
-    "Processor Manufacturer",
-    "Apple A19 Pro"
-   ],
-   [
-    "Screen Size",
-    "6.9 Inch"
-   ],
-   [
-    "Front Camera",
-    "18 megapixels"
-   ],
-   [
-    "Primary Camera",
-    "48 megapixels"
-   ],
-   [
-    "Battery Capacity",
-    "5088 mAh"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/apple-iphone-17-pro-max-256gb-12gb-ram-5g-deep-blue?offering_id=8458eca0-67a2-4d5e-b41a-1301c2a9405d",
-   "https://www.carrefouregypt.com/mafegy/en/smartphones/apple-iphone-17-pro-max-256gb-nano-sim-esim-deep-blue-5g-with-facetime-international-version/p/2251857001444?offer=offer_1058822518&sid=DEFAULT&sellerId=22518"
-  ]
- },
- "noon-N70211576V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Apple"
-   ],
-   [
-    "Network",
-    "5G"
-   ],
-   [
-    "Sim Type",
-    "e-SIM"
-   ],
-   [
-    "Display Type",
-    "Super Retina XDR OLED"
-   ],
-   [
-    "Charging Type",
-    "Wired / Wireless"
-   ],
-   [
-    "Number of Sim",
-    "eSIM"
-   ],
-   [
-    "Operating System Type",
-    "iOS 26"
-   ],
-   [
-    "Dimensions",
-    "163.4 x 78 x 8.8 mm"
-   ],
-   [
-    "Model Name",
-    "iPhone 17 Pro Max"
-   ],
-   [
-    "Connectivity",
-    "Bluetooth 6, USB Type-C 3.2 Gen 2 with DisplayPort, GPS , Wi-Fi"
-   ],
-   [
-    "Chipset Manufacturer",
-    "Apple A19 Pro"
-   ],
-   [
-    "Video Capture Format",
-    "4K@24/25/30/60/100/120fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 120fps), ProRes, ProRes RAW (up to 120fps), Apple Log 2, 3D (spatial) video/audio, stereo"
-   ],
-   [
-    "Processor Manufacturer",
-    "Apple A19 Pro"
-   ],
-   [
-    "Screen Size",
-    "6.9 Inch"
-   ],
-   [
-    "Front Camera",
-    "18 megapixels"
-   ],
-   [
-    "Primary Camera",
-    "48 megapixels"
-   ],
-   [
-    "Battery Capacity",
-    "5088 mAh"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/ca6aacce-5b39-4a3e-91bf-fb4407dc1b19?offering_id=e11aae97-80c4-4feb-b894-5c9e6f0b769b",
-   "https://www.carrefouregypt.com/mafegy/en/smartphones/iphone-17-pro-max-512gb-deep-blue/p/688906?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000"
-  ]
- },
- "noon-N70211589V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": null,
-  "specs": [],
-  "tried": [
-   "https://btech.com/en/p/6fd8ea0b-eedb-4d02-b7d3-7c9fdc4cd87d?offering_id=6a57ae2d-0aae-4750-a0e1-16719efa278e",
-   "https://www.carrefouregypt.com/mafegy/en/smartphones/apple-iphone-17-pro-max-1tb-esim-only-silver-5g-with-facetime-international-version/p/2251857001440?offer=offer_1058122518&sid=DEFAULT&sellerId=22518"
-  ]
- },
- "noon-N70211556V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Apple"
-   ],
-   [
-    "Network",
-    "5G"
-   ],
-   [
-    "Sim Type",
-    "e-SIM"
-   ],
-   [
-    "Display Type",
-    "LTPO Super Retina XDR OLED"
-   ],
-   [
-    "Number of Sim",
-    "eSIM"
-   ],
-   [
-    "Operating System Type",
-    "iOS 26"
-   ],
-   [
-    "Dimensions",
-    "149.6 x 71.5 x 8 mm"
-   ],
-   [
-    "Model Name",
-    "iPhone 17"
-   ],
-   [
-    "Connectivity",
-    "Bluetooth 6, USB Type-C 2, Wi-Fi 7, GPS"
-   ],
-   [
-    "Chipset Manufacturer",
-    "Apple"
-   ],
-   [
-    "Video Capture Format",
-    "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps"
-   ],
-   [
-    "Processor Manufacturer",
-    "Apple A19 (3 nm), Hexa-core"
-   ],
-   [
-    "Screen Size",
-    "6.3 Inch"
-   ],
-   [
-    "Front Camera",
-    "18 megapixels"
-   ],
-   [
-    "Primary Camera",
-    "48 megapixels"
-   ],
-   [
-    "Battery Capacity",
-    "3692 mAh"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/045d9b00-476d-4063-8207-c9ad7d7a4781?offering_id=f93eea9a-8abf-425c-a4ca-a70e07351427",
-   "https://www.carrefouregypt.com/mafegy/en/smartphones/apple-iphone-17-256gb-nano-sim-esim-white-5g-with-facetime-international-version/p/2251857001918?offer=offer_1037522518&sid=DEFAULT&sellerId=22518"
-  ]
- },
  "noon-N72908696V": {
   "t": "2026-11-21T08:56+00:00",
   "source": "btech",
@@ -17599,52 +13449,6 @@
    "https://btech.com/en/p/xiaomi-redmi-note-17-pro-256-gb-12-gb-5g-dual-sim-black?offering_id=6dabe744-f8dc-4326-86cf-96d456428e61"
   ]
  },
- "noon-N70213174V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Samsung"
-   ],
-   [
-    "Noise Cancellation",
-    "Yes"
-   ],
-   [
-    "Model Name",
-    "Galaxy Buds3 FE"
-   ],
-   [
-    "Connectivity",
-    "Bluetooth"
-   ],
-   [
-    "Model Number",
-    "SM-R420NZAAEUA"
-   ],
-   [
-    "Super Features",
-    "Active Noise Cancellation"
-   ],
-   [
-    "Battery Capacity",
-    "515 mAh"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/9f5f09df-0023-475c-885f-614d329ec9d7?offering_id=ff9c57c4-5151-4c2f-83e2-9baece01ca09"
-  ]
- },
- "noon-N70187245V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": null,
-  "specs": [],
-  "tried": [
-   "https://btech.com/en/p/samsung-super-fast-wall-charger-25-watt-black?offering_id=ff18debd-970a-4a37-84f9-255dced6df98",
-   "https://www.carrefouregypt.com/mafegy/en/chargers-cables-convertors/smart-gate-charger-25w-gan-c-pd-b/p/691074?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000"
-  ]
- },
  "noon-N53351026A": {
   "t": "2026-11-21T08:56+00:00",
   "source": "btech",
@@ -17668,149 +13472,6 @@
   ],
   "tried": [
    "https://btech.com/en/p/4279a571-9358-436e-9871-6ba61edc8b8e?offering_id=2e9a5cea-287f-4bb3-aea6-c1ae85cfa92d"
-  ]
- },
- "dream2000-49072996679819": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Xiaomi"
-   ],
-   [
-    "Network",
-    "4G"
-   ],
-   [
-    "Sim Type",
-    "Nano-SIM"
-   ],
-   [
-    "Port Type",
-    "Type C"
-   ],
-   [
-    "Charging Type",
-    "Wired"
-   ],
-   [
-    "Number of Sim",
-    "Dual-SIM"
-   ],
-   [
-    "Audio Jack Type",
-    "3.5 mm"
-   ],
-   [
-    "Display Resolution",
-    "720x1600"
-   ],
-   [
-    "Operating System Type",
-    "Xiaomi HyperOS 3"
-   ],
-   [
-    "Dimensions",
-    "170.12 × 78.42 × 8.8 mm"
-   ],
-   [
-    "Model Name",
-    "Redmi 17"
-   ],
-   [
-    "Connectivity",
-    "Wi-Fi 2.4GHz / 5GHz , Bluetooth 5.4 , GPS, GLONASS, Galileo, BeiDou , 3.5mm Headphone Jack"
-   ],
-   [
-    "Chipset Manufacturer",
-    "MediaTek Helio G91-Ultra"
-   ],
-   [
-    "Video Capture Format",
-    "720p video recording at 30 fps"
-   ],
-   [
-    "Processor Manufacturer",
-    "MediaTek Helio G91-Ultra"
-   ],
-   [
-    "Screen Size",
-    "6.9 Inch"
-   ],
-   [
-    "Front Camera",
-    "8 megapixels"
-   ],
-   [
-    "Primary Camera",
-    "50 megapixels"
-   ],
-   [
-    "Battery Capacity",
-    "7500 mAh"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/xiaomi-redmi-17-256-gb-6-gb-4g-dual-sim-black?offering_id=41e23de2-fb13-466e-92e7-3f395dbcc7b5"
-  ]
- },
- "noon-N70298796V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Apple"
-   ],
-   [
-    "Color",
-    "Midnight"
-   ],
-   [
-    "Display Type",
-    "Liquid Retina XDR"
-   ],
-   [
-    "Keyboard Type",
-    "Business"
-   ],
-   [
-    "Hard Drive Type",
-    "SSD"
-   ],
-   [
-    "Resolution Type",
-    "FHD"
-   ],
-   [
-    "Keyboard Language",
-    "English & Arabic"
-   ],
-   [
-    "Display Resolution",
-    "1920×1080"
-   ],
-   [
-    "Model Name",
-    "New 2026 MacBook Air International Version"
-   ],
-   [
-    "Model Number",
-    "MDHE4"
-   ],
-   [
-    "Screen Size",
-    "13 Inch"
-   ],
-   [
-    "Number of USB Ports",
-    "2"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/apple-new-2026-macbook-air-international-version-mdhe4-laptop-apple-m5-air-chip-with-8-core-cpu-and-10-core-cpu-13-inch-512-gb-ssd-16-gb-apple-10-core-gpu-macos-midnight?offering_id=b286dc87-ffee-4649-a197-3e7f107c7645",
-   "https://www.carrefouregypt.com/mafegy/en/notebooks-computers/apple-new-2026-macbook-air-mdhe4-13-inch-display-apple-m5-air-10-core-cpu-8-core-gpu-16gb-ram-512gb-ssd-macos-english-and-arabic-keyboard-english-arabic-midnight/p/2251857001543?offer=offer_1028422512&sid=DEFAULT&sellerId=22512"
   ]
  },
  "noon-ZB732F60DD9539D69FFFBZ": {
@@ -17910,187 +13571,6 @@
   "tried": [
    "https://btech.com/en/p/2757b166-050e-484a-af82-ec305a36c1c6?offering_id=6c2c8720-5918-49e3-b7b3-8f05b3278eed",
    "https://www.compumarts.com/products/dell-se2425hm-24-inch-full-hd-ips-100hz-monitor-egypt.js"
-  ]
- },
- "noon-N70154965V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Apple"
-   ],
-   [
-    "Display Type",
-    "Super Retina XDR OLED"
-   ],
-   [
-    "Display Resolution",
-    "2532x1170"
-   ],
-   [
-    "Network",
-    "5G"
-   ],
-   [
-    "Sim Type",
-    "Nano SIM and eSIM"
-   ],
-   [
-    "Port Type",
-    "Type C"
-   ],
-   [
-    "Charging Type",
-    "Wired / Wireless"
-   ],
-   [
-    "Number of Sim",
-    "Single SIM"
-   ],
-   [
-    "Water Resistant",
-    "Yes"
-   ],
-   [
-    "Operating System Type",
-    "iOS"
-   ],
-   [
-    "Dimensions",
-    "146.7 x 71.5 x 7.8 mm"
-   ],
-   [
-    "Model Name",
-    "iPhone 16e"
-   ],
-   [
-    "Connectivity",
-    "Wi-Fi 802.11 a/b/g/n/ac/6 - Bluetooth 5.3 - USB Type-C 2 - 5G"
-   ],
-   [
-    "Chipset Manufacturer",
-    "Apple A18 (3 nm)"
-   ],
-   [
-    "Video Capture Format",
-    "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps"
-   ],
-   [
-    "Processor Manufacturer",
-    "Apple A18 (3 nm)"
-   ],
-   [
-    "Battery Capacity",
-    "4000 mAh"
-   ],
-   [
-    "Screen Size",
-    "6.1 Inch"
-   ],
-   [
-    "Front Camera",
-    "12 megapixels"
-   ],
-   [
-    "Water Resistance Level",
-    "1 Meter"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/apple-iphone-16e-128gb-5g-single-sim-white"
-  ]
- },
- "noon-N70403836V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Port Type",
-    "Multi Ports"
-   ],
-   [
-    "Wattage",
-    "22.5 Watt"
-   ],
-   [
-    "Connection Type",
-    "Wired"
-   ],
-   [
-    "Number of Charging Ports",
-    "2"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/anker-335-wired-power-bank-20000-mah-2-usb-ports-and-built-in-usb-c-cable-violet-a1647hv1",
-   "https://www.carrefouregypt.com/mafegy/en/power-banks/energizer-20000mah-power-bank-22-5w-fast-charging-usb-c-power-delivery-dual-usb-a-portable-charger-ue20011pq/p/4713309812743?offer=offer_1010518004&sid=DEFAULT&sellerId=18004"
-  ]
- },
- "noon-N70060959V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Samsung"
-   ],
-   [
-    "Child Lock",
-    "Yes"
-   ],
-   [
-    "Dimensions",
-    "60 x 85 x 55 cm"
-   ],
-   [
-    "Model Number",
-    "WW90CGC0EDABAS"
-   ],
-   [
-    "RPM",
-    "1400"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/samsung-washing-machine-9kg-black-ww90cgc0edabas?offering_id=89b24716-f7a3-4cef-9492-bedb5c74fbc7"
-  ]
- },
- "noon-N70148846V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": "btech",
-  "specs": [
-   [
-    "Brand",
-    "Samsung"
-   ],
-   [
-    "Child Lock",
-    "Yes"
-   ],
-   [
-    "Inverter Motor",
-    "Yes"
-   ],
-   [
-    "Steam Function",
-    "Yes"
-   ],
-   [
-    "RPM",
-    "1400"
-   ],
-   [
-    "Dimensions",
-    "(HXDXW): 85X60X55 cm"
-   ],
-   [
-    "Model Number",
-    "WW90T4040CX1AS"
-   ]
-  ],
-  "tried": [
-   "https://btech.com/en/p/samsung-automatic-washing-machine-9kg-ww90t4040cx1as?offering_id=2da8ac31-7483-49f8-9f02-09773294d4c0"
   ]
  },
  "xprs-67523156279514": {
@@ -18324,14 +13804,6 @@
    "https://2b.com.eg/en/lenovo-legion-r32qc-30-31-5-led-gaming-monitor-fhd-180hz-curved-67c8gac1eu.html"
   ]
  },
- "noon-N70022609V": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": null,
-  "specs": [],
-  "tried": [
-   "https://www.carrefouregypt.com/mafegy/en/sony-playstation-consoles/sony-playstation-5-slim-disc-new-2023-model-international-version/p/2314367000482?offer=offer_1021823143&sid=DEFAULT&sellerId=23143"
-  ]
- },
  "noon-N70114922V": {
   "t": "2026-11-21T08:56+00:00",
   "source": "btech",
@@ -18366,11 +13838,109 @@
   ]
  },
  "btech-F807005691801BF28ADA": {
-  "t": "2026-11-21T08:56+00:00",
-  "source": null,
-  "specs": [],
+  "t": "2026-11-21T21:01+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "Apple"
+   ],
+   [
+    "Color",
+    "Teal"
+   ],
+   [
+    "MPN",
+    "A3287256T"
+   ],
+   [
+    "Network 2G",
+    "GSM 900 / 1800 / 1900"
+   ],
+   [
+    "Network 3G",
+    "HSDPA 900 / 1900 / 2100"
+   ],
+   [
+    "4G Network",
+    "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps"
+   ],
+   [
+    "SIM Card",
+    "Single SIM"
+   ],
+   [
+    "Chipset",
+    "Apple A18 (3 nm)"
+   ],
+   [
+    "CPU (Processor)",
+    "Hexa Core"
+   ],
+   [
+    "CPU Speed (GHz)",
+    "Hexa-core (2x4.04 GHz + 4x2.20 GHz)"
+   ],
+   [
+    "GPU",
+    "Apple GPU (5-core graphics)"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Display Size",
+    "6.1 inches"
+   ],
+   [
+    "Display Type",
+    "6.1 inches 1179 x 2556 pixels, 19.5:9 ratio (~460 ppi density) Ceramic Shield glass (2024 gen) Super Retina XDR OLED, HDR10, Dolby Vision, 1000 nits (typ), 2000 nits (HBM)"
+   ],
+   [
+    "Internal Storage",
+    "256 GB"
+   ],
+   [
+    "Operating System",
+    "iOS"
+   ],
+   [
+    "OS version",
+    "iOS 18"
+   ],
+   [
+    "Primary Camera",
+    "Dual: 48 MP, f/1.6, 26mm (wide) + 12 MP, f/2.2, 13mm, 120˚ (ultrawide) Dual-LED dual-tone flash, HDR (photo/panorama)"
+   ],
+   [
+    "Secondary Camera",
+    "12 MP, f/1.9, 23mm (wide), 1/3.6\", PDAF SL 3D, (depth/biometrics sensor) HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec."
+   ],
+   [
+    "Video Resolutions",
+    "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+   ],
+   [
+    "Connectivity",
+    "WLAN: Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band"
+   ],
+   [
+    "Sensors",
+    "Face ID, accelerometer, gyro, proximity, compass, barometer, Ultra Wideband (UWB) support (gen2 chip), Emergency SOS, Messages and Find My via satellite"
+   ],
+   [
+    "Battery",
+    "Li-Ion 3561 mAh, non-removable Wired, PD2.0, 50% in 30 min (advertised) 15W wireless (Qi2) 4.5W reverse wired"
+   ],
+   [
+    "warranty",
+    "2 Years"
+   ]
+  ],
   "tried": [
-   "https://btech.com/en/p/9771b9e8-4d39-45af-a947-4abac4d7e434?offering_id=41dd43cd-de6c-407d-8b01-a8a396c822a3"
+   "https://btech.com/en/p/9771b9e8-4d39-45af-a947-4abac4d7e434?offering_id=41dd43cd-de6c-407d-8b01-a8a396c822a3",
+   "https://2b.com.eg/en/apple-iphone-16-256gb-teal-official-warranty.html"
   ]
  },
  "btech-63A7C4E21DFC5667CB39": {
@@ -18381,8 +13951,437 @@
    "https://btech.com/en/p/9771b9e8-4d39-45af-a947-4abac4d7e434?offering_id=987539ce-e046-4e43-a5a7-3680799645ff"
   ]
  },
- "btech-11A48F53F2A717428A7F": {
+ "carrefour-1698542000463": {
   "t": "2026-11-21T08:56+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-mobile-galaxy-a56-256gb-8gb-ram-5g-awesome-graphite/p/1698542000463?offer=offer_1501916985&sid=DEFAULT&sellerId=16985"
+  ]
+ },
+ "noon-N52600818A": {
+  "t": "2026-11-21T08:56+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/wireless-earbuds/generic-pro-air-pods-compatible-with-android-iphone-white/p/2251257000097?offer=offer_1010322512&sid=DEFAULT&sellerId=22512"
+  ]
+ },
+ "noon-N53401777A": {
+  "t": "2026-11-21T08:56+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/wireless-headphone/tune-520bt-wireless-on-ear-headphones-pure-bass-sound-57h-battery-hands-free-call-plus-voice-aware-multi-point-connection-lightweight-and-foldable-black/p/2247557000024?offer=offer_1000222475&sid=DEFAULT&sellerId=22475"
+  ]
+ },
+ "noon-N53401779A": {
+  "t": "2026-11-21T08:56+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/wireless-headphone/jbl-tune-520bt-wireless-on-ear-headphones-pure-bass-sound-57h-battery-hands-free-call-plus-voice-aware-multi-point-connection-lightweight-and-foldable-white/p/1827747000296?offer=offer_1024222512&sid=DEFAULT&sellerId=22512"
+  ]
+ },
+ "noon-N70140493V": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "Dynamic LTPO AMOLED 2X"
+   ],
+   [
+    "Charging Type",
+    "Wired / Wireless"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Audio Jack Type",
+    "Type-C"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Memory Card Slot",
+    "No"
+   ],
+   [
+    "Display Resolution",
+    "3120x1440"
+   ],
+   [
+    "Operating System Type",
+    "Android 15"
+   ],
+   [
+    "Dimensions",
+    "162.8 x 77.6 x 8.2 mm"
+   ],
+   [
+    "Model Name",
+    "Galaxy S25 Ultra"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct, dBluetooth 5.4, A2DP, LEPositioning GPS, GLONASS, BDS, GALILEO, QZSSUSB Type-C 3.2, DisplayPort 1.2, OTG"
+   ],
+   [
+    "Zoom Capability",
+    "3x optical zoom, 5x optical zoom"
+   ],
+   [
+    "Chipset Manufacturer",
+    "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm), Octa Core"
+   ],
+   [
+    "Processor Manufacturer",
+    "Qualcomm Snapdragon"
+   ],
+   [
+    "Screen Size",
+    "6.9 Inch"
+   ],
+   [
+    "Front Camera",
+    "12 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "200 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "5000 mAh"
+   ],
+   [
+    "Water Resistance Level",
+    "1.5 Meter"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/samsung-galaxy-s25-ultra-256gb-12gb-ram-5g-dual-sim-titanium-silverblue?offering_id=c5dbe105-112b-4f73-8d96-175bbd44de21",
+   "https://2b.com.eg/en/samsung-galaxy-s25-ultra-12gb-ram-1tb-titanium-silver-blue.html",
+   "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-galaxy-s25-ultra-ai-dual-sim-titanium-silverblue-12gb-ram-512gb-5g-middle-east-version/p/2251857001218?offer=offer_1187922518&sid=DEFAULT&sellerId=22518"
+  ]
+ },
+ "btech-77D5FD2ADCF957B8F114": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Display Type",
+    "Super AMOLED"
+   ],
+   [
+    "Display Resolution",
+    "2340x1080"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Operating System Type",
+    "Android 16"
+   ],
+   [
+    "Audio Jack Type",
+    "Type-C"
+   ],
+   [
+    "Dimensions",
+    "‎7.4 x 78.2 x 162.9‎ mm"
+   ],
+   [
+    "Model Name",
+    "Galaxy A37"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11dual-band, Wi-Fi Direct - Bluetooth: 5.3, A2DP, LE - GPS, GALILEO, GLONASS, BDS, QZSS - USB Type-C 2, OTG"
+   ],
+   [
+    "Zoom Capability",
+    "Digital Zoom up to 10x"
+   ],
+   [
+    "Chipset Manufacturer",
+    "Samsung Exynos 1380 (5 nm), Octa Core"
+   ],
+   [
+    "Video Capture Format",
+    "4K@30fps, 1080p@30/60fps, gyro-EIS"
+   ],
+   [
+    "Processor Manufacturer",
+    "Samsung Exynos 1380 (5 nm), Octa Core"
+   ],
+   [
+    "Screen Size",
+    "6.7 Inch"
+   ],
+   [
+    "Front Camera",
+    "13 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "50 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "5000 mAh"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/b1373e9b-2c9f-461c-86cb-388b1a9bb653?offering_id=a2810cea-d68d-4393-b7e4-4ad6a47564de",
+   "https://2b.com.eg/en/samsung-galaxy-a37-5g-8gb-ram-256gb-white.html",
+   "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-mobile-galaxy-a37-256gb-8gb-ram-5g-awesome-lavender/p/1698542000286?offer=offer_1504216985&sid=DEFAULT&sellerId=16985"
+  ]
+ },
+ "btech-1BSAOMSMA57256GRL020": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "Super AMOLED Plus"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Audio Jack Type",
+    "Type-C"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Display Resolution",
+    "2340x1080"
+   ],
+   [
+    "Operating System Type",
+    "Android 16"
+   ],
+   [
+    "Dimensions",
+    "‎6.9 x 76.8 x 161.5‎"
+   ],
+   [
+    "Model Name",
+    "Galaxy A57"
+   ],
+   [
+    "Connectivity",
+    "USB Type-C -Bluetooth v6 -Wi-Fi 802.11a/b/g/n/ac/ax 2.4GHz+5GHz+6GHz, HE80, MIMO, 1024-QAM -Switch (PC version) -GPS, Glonass, Beidou, Galileo, QZSS"
+   ],
+   [
+    "Zoom Capability",
+    "zoom up to 10x"
+   ],
+   [
+    "Chipset Manufacturer",
+    "Exynos 1680"
+   ],
+   [
+    "Video Capture Format",
+    "MP4, M4V, 3GP, 3G2, AVI, FLV, MKV, WEBM"
+   ],
+   [
+    "Screen Size",
+    "6.7 Inch"
+   ],
+   [
+    "Front Camera",
+    "12 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "50 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "5000 mAh"
+   ],
+   [
+    "Water Resistance Level",
+    "1.5 Meter"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/51d699d4-89f2-43ea-a97a-1034f819d02f?offering_id=bf8cdd53-2e49-46df-869b-721143497f7e",
+   "https://2b.com.eg/en/samsung-galaxy-a57-5g-12gb-ram-256gb-gray.html",
+   "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-galaxy-a57-dual-sim-awesome-gray-12gb-ram-256gb-5g-international-version/p/2251857001493?offer=offer_1066922518&sid=DEFAULT&sellerId=22518"
+  ]
+ },
+ "btech-8C107BB8BA9656DA458B": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://btech.com/en/p/8254113b-2327-418e-b292-dc4eb12faffe?offering_id=a4623762-4e1e-4369-bf75-7fc14b858b83",
+   "https://www.carrefouregypt.com/mafegy/en/sony-playstation-access/sony-dualsense-wireless-controller-for-playstation-5-white/p/1836147000713?offer=offer_1013118361&sid=DEFAULT&sellerId=18361"
+  ]
+ },
+ "btech-003A6459F371BD55FAF4": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://btech.com/en/p/4a6a8587-d72e-4089-b665-5f860609d90d?offering_id=34e44558-5904-4416-a667-c7d713c33b54",
+   "https://www.carrefouregypt.com/mafegy/en/gaming-leasure/sony-dualsense-wireless-ps5-controller-official-version-purple/p/1836147000747?offer=offer_1075118361&sid=DEFAULT&sellerId=18361"
+  ]
+ },
+ "dream2000-47061101379723": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Apple"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "e-SIM"
+   ],
+   [
+    "Display Type",
+    "LTPO Super Retina XDR OLED"
+   ],
+   [
+    "Charging Type",
+    "Wired / Wireless"
+   ],
+   [
+    "Number of Sim",
+    "eSIM"
+   ],
+   [
+    "Operating System Type",
+    "iOS 26"
+   ],
+   [
+    "Dimensions",
+    "150 x 71.9 x 8.8 mm"
+   ],
+   [
+    "Model Name",
+    "iPhone 17 Pro"
+   ],
+   [
+    "Connectivity",
+    "Bluetooth 6, USB Type-C 3.2 Gen 2 with DisplayPort, GPS , Wi-Fi"
+   ],
+   [
+    "Chipset Manufacturer",
+    "Apple"
+   ],
+   [
+    "Video Capture Format",
+    "4K@24/25/30/60/100/120fps, 1080p@25/30/60/120/240fps"
+   ],
+   [
+    "Processor Manufacturer",
+    "Apple A19 Pro (3 nm), Hexa-core"
+   ],
+   [
+    "Screen Size",
+    "6.3 Inch"
+   ],
+   [
+    "Front Camera",
+    "18 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "48 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "4252 mAh"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/35b822f5-96a4-45e4-80e2-5fc1a443d525?offering_id=a58d5d27-c887-4b78-9149-0f4219d0e89e",
+   "https://www.carrefouregypt.com/mafegy/en/smartphones/apple-mobile-iphone-17-pro-256gb-12gb-ram-5g-cosmic-orange/p/1698542000433?offer=offer_1509416985&sid=DEFAULT&sellerId=16985"
+  ]
+ },
+ "noon-N70158930V": {
+  "t": "2026-11-21T21:01+00:00",
   "source": "btech",
   "specs": [
    [
@@ -18463,39 +14462,3941 @@
    ]
   ],
   "tried": [
-   "https://btech.com/en/p/samsung-galaxy-a56-256gb-12gb-ram-5g-dual-sim-lightgrey?offering_id=6ab25540-ea49-4de1-bbf2-234af64fd48c"
+   "https://btech.com/en/p/samsung-galaxy-a56-256gb-8gb-ram-5g-dual-sim-awesome-graphite?offering_id=97d6f609-b3af-4ea6-8dff-1557d3b86562",
+   "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-galaxy-a56-5g-dual-sim-awesome-graphite-8gb-ram-256gb-international-version/p/2251857000043?offer=offer_1062222518&sid=DEFAULT&sellerId=22518"
   ]
  },
- "carrefour-1698542000463": {
-  "t": "2026-11-21T08:56+00:00",
+ "noon-N70286290V": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Xiaomi"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "AMOLED"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Display Resolution",
+    "2772 x 1280"
+   ],
+   [
+    "Operating System Type",
+    "Xiaomi HyperOS 2"
+   ],
+   [
+    "Dimensions",
+    "163.61x78.09x7.96mm"
+   ],
+   [
+    "Model Name",
+    "Redmi Note 15 Pro"
+   ],
+   [
+    "Connectivity",
+    "Bluetooth 5.4 -Wi-Fi -GPS -USB Type-C"
+   ],
+   [
+    "Chipset Manufacturer",
+    "MediaTek"
+   ],
+   [
+    "Video Capture Format",
+    "4K at 30 fps,1080p at 30/60, fps720p at 30 fps"
+   ],
+   [
+    "Processor Manufacturer",
+    "MediaTek Dimensity 7400-Ultra 4nm, Octa-core"
+   ],
+   [
+    "Screen Size",
+    "6.83 Inch"
+   ],
+   [
+    "Front Camera",
+    "20 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "200 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "6580 mAh"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/01441ee7-5955-4ae3-8f1c-351b5c807d0f?offering_id=499a2b25-6526-4cd9-9fef-7d8794d7ca9f",
+   "https://2b.com.eg/en/xiaomi-redmi-note-15-pro-5g-12gb-ram-256gb-black.html"
+  ]
+ },
+ "btech-763046BE331CD8100A21": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Asus"
+   ],
+   [
+    "Color",
+    "Graphite Black"
+   ],
+   [
+    "Display Type",
+    "IPS"
+   ],
+   [
+    "Keyboard Type",
+    "Gaming"
+   ],
+   [
+    "Hard Drive Type",
+    "SSD"
+   ],
+   [
+    "Resolution Type",
+    "FHD"
+   ],
+   [
+    "Headphones Output",
+    "Yes"
+   ],
+   [
+    "Keyboard Language",
+    "English & Arabic"
+   ],
+   [
+    "Display Resolution",
+    "1920×1080"
+   ],
+   [
+    "Dimensions",
+    "35.9 x 25.6 x 2.28 ~ 2.45 cm"
+   ],
+   [
+    "Model Name",
+    "TUF Gaming A15"
+   ],
+   [
+    "Model Number",
+    "FA506NCQ-HN167W"
+   ],
+   [
+    "Refresh Rate",
+    "144 Hertz"
+   ],
+   [
+    "Battery Capacity",
+    "48 WHr"
+   ],
+   [
+    "Screen Size",
+    "15.6 Inch"
+   ],
+   [
+    "Number of USB Ports",
+    "4"
+   ],
+   [
+    "Number of HDMI Ports",
+    "1"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/df2c9b9d-de56-4563-8ae1-d22853c1051f?offering_id=d3a9d86c-e31f-4f11-a10d-99da8ade14ec",
+   "https://www.compumarts.com/products/asus-tuf-a15-fa506ncq-ryzen-7-rtx-3050-16gb-512gb-gaming-laptop.js"
+  ]
+ },
+ "btech-561BB51642CED24AEA71": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Loading type",
+    "Top Load"
+   ],
+   [
+    "Built-in display",
+    "No"
+   ],
+   [
+    "Dimensions WxDxH",
+    "400 x 740 x 885"
+   ],
+   [
+    "Washing class",
+    "Semi Automatic"
+   ],
+   [
+    "Washing capacity",
+    "8"
+   ],
+   [
+    "Drying capacity",
+    "3"
+   ],
+   [
+    "Maximum spin speed",
+    "1350"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/fresh-top-load-washing-machine-10kg-fwt1000na?offering_id=b70aba9e-53d2-4a26-83df-6aebd3dbc269",
+   "https://www.carrefouregypt.com/mafegy/en/washing-machine/fresh-w-m-fwt8000nb-twin-tub/p/500023?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000"
+  ]
+ },
+ "carrefour-1698542001319": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Fresh"
+   ],
+   [
+    "Dimensions",
+    "45.4 x 38.7 x 66.7 cm"
+   ],
+   [
+    "Model Number",
+    "FWS1000NA - 500002004"
+   ],
+   [
+    "Model Name",
+    "Jumbo Elegant"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/fresh-top-load-washing-machine-10kg-fws1000na",
+   "https://www.carrefouregypt.com/mafegy/en/washing-machine/fresh-semi-automatic-washing-machine-10-kg-single-tub-white-fws1000na/p/1698542001319?offer=offer_1322516985&sid=DEFAULT&sellerId=16985"
+  ]
+ },
+ "btech-6599F0CF886C3E6AF838": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Sony"
+   ],
+   [
+    "Model Name",
+    "DualSense"
+   ],
+   [
+    "Connectivity",
+    "Bluetooth 5.1, USB-C, Audio jack"
+   ],
+   [
+    "Compatibility",
+    "PlayStation 5"
+   ],
+   [
+    "Connection Type",
+    "Wireless"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/sony-dualsense-wireless-controller-ps5-cobalt-blue?offering_id=ddfb4d32-cd9b-43af-8ff7-c4cd19e98c57",
+   "https://www.carrefouregypt.com/mafegy/en/sony-playstation-access/playstation-dualsense-wireless-controller-cobalt-blue/p/2314367000608?offer=offer_1077823143&sid=DEFAULT&sellerId=23143"
+  ]
+ },
+ "btech-0C8A9A4F50CF2E8CF1CA": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Apple"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "e-SIM"
+   ],
+   [
+    "Display Type",
+    "LTPO Super Retina XDR OLED"
+   ],
+   [
+    "Number of Sim",
+    "eSIM"
+   ],
+   [
+    "Operating System Type",
+    "iOS 26"
+   ],
+   [
+    "Dimensions",
+    "149.6 x 71.5 x 8 mm"
+   ],
+   [
+    "Model Name",
+    "iPhone 17"
+   ],
+   [
+    "Connectivity",
+    "Bluetooth 6, USB Type-C 2, Wi-Fi 7, GPS"
+   ],
+   [
+    "Chipset Manufacturer",
+    "Apple"
+   ],
+   [
+    "Video Capture Format",
+    "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps"
+   ],
+   [
+    "Processor Manufacturer",
+    "Apple A19 (3 nm), Hexa-core"
+   ],
+   [
+    "Screen Size",
+    "6.3 Inch"
+   ],
+   [
+    "Front Camera",
+    "18 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "48 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "3692 mAh"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/045d9b00-476d-4063-8207-c9ad7d7a4781?offering_id=b27de449-9433-4417-a192-52b2e6a5fc36",
+   "https://www.carrefouregypt.com/mafegy/en/smartphones/apple-iphone-17-256gb-nano-sim-esim-lavender-5g-with-facetime-international-version/p/2251857001640?offer=offer_1093022518&sid=DEFAULT&sellerId=22518"
+  ]
+ },
+ "btech-1BAPOMSMIP17SAGEL005": {
+  "t": "2026-11-21T21:01+00:00",
   "source": null,
   "specs": [],
   "tried": [
-   "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-mobile-galaxy-a56-256gb-8gb-ram-5g-awesome-graphite/p/1698542000463?offer=offer_1501916985&sid=DEFAULT&sellerId=16985"
+   "https://btech.com/en/p/283c579d-88a4-49be-9dae-a06d72fe0bf5?offering_id=43598ee3-c1e9-4bdf-bed7-346da42aad11",
+   "https://www.carrefouregypt.com/mafegy/en/smartphones/apple-iphone-17-256gb-nano-sim-esim-black-5g-with-facetime-international-version/p/2251857001436?offer=offer_1057522518&sid=DEFAULT&sellerId=22518"
   ]
  },
- "noon-N52600818A": {
-  "t": "2026-11-21T08:56+00:00",
+ "btech-BDD30111AFDB142A4D6F": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Apple"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "Super Retina XDR OLED"
+   ],
+   [
+    "Charging Type",
+    "Wired / Wireless"
+   ],
+   [
+    "Number of Sim",
+    "Single SIM"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Display Resolution",
+    "1179×2556"
+   ],
+   [
+    "Operating System Type",
+    "iOS"
+   ],
+   [
+    "Dimensions",
+    "147.6 x 71.6 x 7.8 mm"
+   ],
+   [
+    "Model Name",
+    "iPhone 16"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, hotspot, Bluetooth 5.3, A2DP, LE, Positioning GPS, GLONASS, GALILEO, BDS, QZSS, USB Type-C 2, DisplayPort"
+   ],
+   [
+    "Chipset Manufacturer",
+    "Apple"
+   ],
+   [
+    "Video Capture Format",
+    "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+   ],
+   [
+    "Processor Manufacturer",
+    "Apple A18 (3 nm)"
+   ],
+   [
+    "Screen Size",
+    "6.1 Inch"
+   ],
+   [
+    "Front Camera",
+    "12 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "48 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "3561 mAh"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/apple-iphone-16-128gb-5g-black?offering_id=6f93c4c4-8b10-4bdf-8bf7-26ad0dc62382",
+   "https://2b.com.eg/en/apple-iphone-16-128gb-pink.html"
+  ]
+ },
+ "2b-apple-iphone-16-128gb-white-official-warranty.html": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "Apple"
+   ],
+   [
+    "Color",
+    "White"
+   ],
+   [
+    "MPN",
+    "A3288OW"
+   ],
+   [
+    "Network 2G",
+    "GSM 900 / 1800 / 1900"
+   ],
+   [
+    "Network 3G",
+    "HSDPA 900 / 1900 / 2100"
+   ],
+   [
+    "4G Network",
+    "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps"
+   ],
+   [
+    "SIM Card",
+    "Single SIM"
+   ],
+   [
+    "Chipset",
+    "Apple A18 (3 nm)"
+   ],
+   [
+    "CPU (Processor)",
+    "Hexa Core"
+   ],
+   [
+    "CPU Speed (GHz)",
+    "Hexa-core (2x4.04 GHz + 4x2.20 GHz)"
+   ],
+   [
+    "GPU",
+    "Apple GPU (5-core graphics)"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Display Size",
+    "6.1 inches"
+   ],
+   [
+    "Display Type",
+    "6.1 inches 1179 x 2556 pixels, 19.5:9 ratio (~460 ppi density) Ceramic Shield glass (2024 gen) Super Retina XDR OLED, HDR10, Dolby Vision, 1000 nits (typ), 2000 nits (HBM)"
+   ],
+   [
+    "Internal Storage",
+    "128 GB"
+   ],
+   [
+    "Operating System",
+    "iOS"
+   ],
+   [
+    "OS version",
+    "iOS 18"
+   ],
+   [
+    "Primary Camera",
+    "Dual: 48 MP, f/1.6, 26mm (wide) + 12 MP, f/2.2, 13mm, 120˚ (ultrawide) Dual-LED dual-tone flash, HDR (photo/panorama)"
+   ],
+   [
+    "Secondary Camera",
+    "12 MP, f/1.9, 23mm (wide), 1/3.6\", PDAF SL 3D, (depth/biometrics sensor) HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec."
+   ],
+   [
+    "Video Resolutions",
+    "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+   ],
+   [
+    "Connectivity",
+    "WLAN: Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band, hotspot Bluetooth: 5.3, A2DP, LE Positioning: GPS, GLONASS, GALILEO, BDS, QZSS Radio: No USB: USB Type-C 2.0, DisplayPort"
+   ],
+   [
+    "Sensors",
+    "Face ID, accelerometer, gyro, proximity, compass, barometer, Ultra Wideband (UWB) support (gen2 chip), Emergency SOS, Messages and Find My via satellite"
+   ],
+   [
+    "Battery",
+    "Li-Ion 3561 mAh, non-removable Wired, PD2.0, 50% in 30 min (advertised) 15W wireless (Qi2) 4.5W reverse wired"
+   ],
+   [
+    "warranty",
+    "2 Years"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/9771b9e8-4d39-45af-a947-4abac4d7e434?offering_id=4643a65b-2b3e-48d7-816e-6f299fe64d5a",
+   "https://2b.com.eg/en/apple-iphone-16-128gb-white-official-warranty.html"
+  ]
+ },
+ "2b-apple-iphone-16-128gb-black-official-warranty.html": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Apple"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "Super Retina XDR OLED"
+   ],
+   [
+    "Charging Type",
+    "Wired / Wireless"
+   ],
+   [
+    "Number of Sim",
+    "Single SIM"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Display Resolution",
+    "1179×2556"
+   ],
+   [
+    "Operating System Type",
+    "iOS"
+   ],
+   [
+    "Dimensions",
+    "147.6 x 71.6 x 7.8 mm"
+   ],
+   [
+    "Model Name",
+    "iPhone 16"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, hotspot, Bluetooth 5.3, A2DP, LE, Positioning GPS, GLONASS, GALILEO, BDS, QZSS, USB Type-C 2, DisplayPort"
+   ],
+   [
+    "Chipset Manufacturer",
+    "Apple"
+   ],
+   [
+    "Video Capture Format",
+    "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+   ],
+   [
+    "Processor Manufacturer",
+    "Apple A18 (3 nm)"
+   ],
+   [
+    "Screen Size",
+    "6.1 Inch"
+   ],
+   [
+    "Front Camera",
+    "12 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "48 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "3561 mAh"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/apple-iphone-16-128gb-5g-black?offering_id=d7ac02bd-c9cd-4680-878d-6e1afa4beec8",
+   "https://2b.com.eg/en/apple-iphone-16-128gb-black-official-warranty.html"
+  ]
+ },
+ "2b-apple-iphone-16-plus-256gb-teal-official-warranty.html": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Apple"
+   ],
+   [
+    "Display Type",
+    "Super Retina XDR OLED"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Charging Type",
+    "Wired / Wireless"
+   ],
+   [
+    "Number of Sim",
+    "Single SIM"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Display Resolution",
+    "1290×2796"
+   ],
+   [
+    "Operating System Type",
+    "iOS 18"
+   ],
+   [
+    "Dimensions",
+    "160.9 x 77.8 x 7.8 mm"
+   ],
+   [
+    "Model Name",
+    "iPhone 16 Plus"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, hotspotBluetooth 5.3, A2DP, LEPositioning GPS, GLONASS, GALILEO, BDS, QZSSUSB Type-C 2, DisplayPort"
+   ],
+   [
+    "Chipset Manufacturer",
+    "Apple"
+   ],
+   [
+    "Video Capture Format",
+    "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+   ],
+   [
+    "Processor Manufacturer",
+    "Apple"
+   ],
+   [
+    "Battery Capacity",
+    "4674 mAh"
+   ],
+   [
+    "Screen Size",
+    "6.7 Inch"
+   ],
+   [
+    "Front Camera",
+    "12 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "48 megapixels"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/apple-iphone-16-plus-256gb-5g-ultramarine?offering_id=c2f0c535-da95-4fb3-b714-6625d50408e2",
+   "https://2b.com.eg/en/apple-iphone-16-plus-256gb-teal-official-warranty.html"
+  ]
+ },
+ "btech-1BSAOMSMA17565GKL007": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Display Type",
+    "Super AMOLED"
+   ],
+   [
+    "Display Resolution",
+    "2340x1080"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Audio Jack Type",
+    "Type-C"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Memory Card Slot",
+    "Yes"
+   ],
+   [
+    "Operating System Type",
+    "Android 15"
+   ],
+   [
+    "Dimensions",
+    "164.4 x 77.9 x 7.5 mm"
+   ],
+   [
+    "Model Name",
+    "Galaxy A17"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, Bluetooth 5.3, A2DP, LE, Positioning GPS, GALILEO, GLONASS, BDS, QZSS, USB Type-C 2"
+   ],
+   [
+    "Zoom Capability",
+    "Digital Zoom up to 10x"
+   ],
+   [
+    "Chipset Manufacturer",
+    "Exynos 1330"
+   ],
+   [
+    "Video Capture Format",
+    "FHD (1920 x 1080) @30fps"
+   ],
+   [
+    "Processor Manufacturer",
+    "Exynos 1330"
+   ],
+   [
+    "Screen Size",
+    "6.7 Inch"
+   ],
+   [
+    "Front Camera",
+    "13 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "50 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "5000 mAh"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/3fb64ab7-c14e-44f5-a2d8-8d32917fa801?offering_id=53961545-4af8-44dd-bd27-1af3f9421874",
+   "https://2b.com.eg/en/samsung-galaxy-a17-5g-8gb-ram-256gb-black.html",
+   "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-galaxy-a17-dual-sim-5g-black-8gb-256gb-international-version/p/2251857001817?offer=offer_1131122518&sid=DEFAULT&sellerId=22518"
+  ]
+ },
+ "btech-396480A82A09777D2B7D": {
+  "t": "2026-11-21T21:01+00:00",
   "source": null,
   "specs": [],
   "tried": [
-   "https://www.carrefouregypt.com/mafegy/en/wireless-earbuds/generic-pro-air-pods-compatible-with-android-iphone-white/p/2251257000097?offer=offer_1010322512&sid=DEFAULT&sellerId=22512"
+   "https://btech.com/en/p/283c579d-88a4-49be-9dae-a06d72fe0bf5?offering_id=e79648fa-104f-4d31-bdba-fbeb2d7312d0"
   ]
  },
- "noon-N53401777A": {
-  "t": "2026-11-21T08:56+00:00",
+ "btech-C3E9CF07A6E3089B9F02": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano SIM and eSIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "TFT"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Single SIM"
+   ],
+   [
+    "Operating System Type",
+    "Android 16"
+   ],
+   [
+    "Dimensions",
+    "257.1 × 168.7 × 6.9mm"
+   ],
+   [
+    "Model Name",
+    "Galaxy Tab A11+"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11a/b/g/n/ac, 5G, Bluetooth 5.3, USB 2, GPS"
+   ],
+   [
+    "Model Number",
+    "SM-X236BZSEMEA"
+   ],
+   [
+    "Processor Manufacturer",
+    "Mediatek MT8775"
+   ],
+   [
+    "Screen Size",
+    "11 Inch"
+   ],
+   [
+    "Front Camera",
+    "5 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "8 megapixels"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/446e6dd1-7196-494b-a6b5-c347d4f98b57?offering_id=24d9b464-c81a-4f82-8899-fe7567e5cdd4"
+  ]
+ },
+ "noon-ZF10ED8B2B6F67DE348B9Z": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "MPN",
+    "53KHCT12N"
+   ],
+   [
+    "Brand",
+    "Carrier"
+   ],
+   [
+    "Horsepower",
+    "1.5 hp"
+   ],
+   [
+    "Cooling Type",
+    "Cooling Only"
+   ],
+   [
+    "Color",
+    "White"
+   ],
+   [
+    "Air Conditioner Type",
+    "Split"
+   ],
+   [
+    "Power",
+    "Standard Power"
+   ]
+  ],
+  "tried": [
+   "https://2b.com.eg/en/carrier-optimax-pro-air-conditioner-1-5-hp-cooling-only-white-53khct12n.html"
+  ]
+ },
+ "carrefour-2314367000575": {
+  "t": "2026-11-21T21:01+00:00",
   "source": null,
   "specs": [],
   "tried": [
-   "https://www.carrefouregypt.com/mafegy/en/wireless-headphone/tune-520bt-wireless-on-ear-headphones-pure-bass-sound-57h-battery-hands-free-call-plus-voice-aware-multi-point-connection-lightweight-and-foldable-black/p/2247557000024?offer=offer_1000222475&sid=DEFAULT&sellerId=22475"
+   "https://www.carrefouregypt.com/mafegy/en/sony-playstation-consoles/playstation-5-digital-edition-slim-nordic-/p/2314367000575?offer=offer_1063723143&sid=DEFAULT&sellerId=23143"
   ]
  },
- "noon-N53401779A": {
-  "t": "2026-11-21T08:56+00:00",
+ "dream2000-47060531675275": {
+  "t": "2026-11-21T21:01+00:00",
   "source": null,
   "specs": [],
   "tried": [
-   "https://www.carrefouregypt.com/mafegy/en/wireless-headphone/jbl-tune-520bt-wireless-on-ear-headphones-pure-bass-sound-57h-battery-hands-free-call-plus-voice-aware-multi-point-connection-lightweight-and-foldable-white/p/1827747000296?offer=offer_1024222512&sid=DEFAULT&sellerId=22512"
+   "https://btech.com/en/p/1963fada-1781-493d-8164-944453daeadd?offering_id=d9e825b3-b9a1-46c7-b3fd-e2e6557db4c8"
+  ]
+ },
+ "btech-E585A9777510B48F8789": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://btech.com/en/p/6fd8ea0b-eedb-4d02-b7d3-7c9fdc4cd87d?offering_id=94431161-a99a-478d-a993-9db324f2b756",
+   "https://www.carrefouregypt.com/mafegy/en/smartphones/apple-iphone-17-pro-max-512-gb-esim-only-silver-5g-with-facetime-middle-east-version/p/2251857001296?offer=offer_1045222518&sid=DEFAULT&sellerId=22518"
+  ]
+ },
+ "btech-B7C6F0C050BCC2EC78BF": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://btech.com/en/p/6fd8ea0b-eedb-4d02-b7d3-7c9fdc4cd87d?offering_id=2295ba98-fad3-4222-bec8-3de74bf245bd",
+   "https://www.carrefouregypt.com/mafegy/en/smartphones/apple-iphone-17-pro-max-256-gb-esim-only-silver-5g-with-facetime-middle-east-version/p/2251857001442?offer=offer_1058422518&sid=DEFAULT&sellerId=22518"
+  ]
+ },
+ "btech-1BAPOMSMIP162Y00L001": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "Apple"
+   ],
+   [
+    "Color",
+    "Blue"
+   ],
+   [
+    "MPN",
+    "A3287256T128U"
+   ],
+   [
+    "Network 2G",
+    "GSM 900 / 1800 / 1900"
+   ],
+   [
+    "Network 3G",
+    "HSDPA 900 / 1900 / 2100"
+   ],
+   [
+    "4G Network",
+    "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps"
+   ],
+   [
+    "SIM Card",
+    "Single SIM"
+   ],
+   [
+    "Chipset",
+    "Apple A18 (3 nm)"
+   ],
+   [
+    "CPU (Processor)",
+    "Hexa Core"
+   ],
+   [
+    "CPU Speed (GHz)",
+    "Hexa-core (2x4.04 GHz + 4x2.20 GHz)"
+   ],
+   [
+    "GPU",
+    "Apple GPU (5-core graphics)"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Display Size",
+    "6.1 inches"
+   ],
+   [
+    "Display Type",
+    "6.1 inches 1179 x 2556 pixels, 19.5:9 ratio (~460 ppi density) Ceramic Shield glass (2024 gen) Super Retina XDR OLED, HDR10, Dolby Vision, 1000 nits (typ), 2000 nits (HBM)"
+   ],
+   [
+    "Internal Storage",
+    "128 GB"
+   ],
+   [
+    "Operating System",
+    "iOS"
+   ],
+   [
+    "OS version",
+    "iOS 18"
+   ],
+   [
+    "Primary Camera",
+    "Dual: 48 MP, f/1.6, 26mm (wide) + 12 MP, f/2.2, 13mm, 120˚ (ultrawide) Dual-LED dual-tone flash, HDR (photo/panorama)"
+   ],
+   [
+    "Secondary Camera",
+    "12 MP, f/1.9, 23mm (wide), 1/3.6\", PDAF SL 3D, (depth/biometrics sensor) HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec."
+   ],
+   [
+    "Video Resolutions",
+    "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+   ],
+   [
+    "Connectivity",
+    "WLAN: Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band, hotspot Bluetooth: 5.3, A2DP, LE Positioning: GPS, GLONASS, GALILEO, BDS, QZSS Radio: No USB: USB Type-C 2.0, DisplayPort"
+   ],
+   [
+    "Sensors",
+    "Face ID, accelerometer, gyro, proximity, compass, barometer, Ultra Wideband (UWB) support (gen2 chip), Emergency SOS, Messages and Find My via satellite"
+   ],
+   [
+    "Battery",
+    "Li-Ion 3561 mAh, non-removable Wired, PD2.0, 50% in 30 min (advertised) 15W wireless (Qi2) 4.5W reverse wired"
+   ],
+   [
+    "warranty",
+    "2 Years"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/9771b9e8-4d39-45af-a947-4abac4d7e434?offering_id=4643a65b-2b3e-48d7-816e-6f299fe64d5a",
+   "https://2b.com.eg/en/apple-iphone-16-128gb-ultramarine-official-warranty.html"
+  ]
+ },
+ "noon-N70161151V": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Display Type",
+    "Super AMOLED"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Multi Ports"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Memory Card Slot",
+    "No"
+   ],
+   [
+    "Operating System Type",
+    "Android 15"
+   ],
+   [
+    "Model Name",
+    "Galaxy A56"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi, Bluetooth 5.3, GPS, GALILEO, GLONASS, BDS, QZSSUSB Type-C 2, OTG"
+   ],
+   [
+    "Dimensions",
+    "162.2 x 77.5 x 7.4 mm"
+   ],
+   [
+    "Chipset Manufacturer",
+    "Samsung Exynos"
+   ],
+   [
+    "Video Capture Format",
+    "4K@30fps, 1080p@30/60fps, gyro-EIS"
+   ],
+   [
+    "Processor Manufacturer",
+    "Samsung Exynos"
+   ],
+   [
+    "Battery Capacity",
+    "5000 mAh"
+   ],
+   [
+    "Screen Size",
+    "6.7 Inch"
+   ],
+   [
+    "Front Camera",
+    "12 megapixels"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/samsung-galaxy-a56-256gb-12gb-ram-5g-dual-sim-pink?offering_id=31a632ab-9adf-40dc-8692-3ee8d660b3bc"
+  ]
+ },
+ "noon-N70158915V": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Network",
+    "4G"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "Super AMOLED"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Operating System Type",
+    "Android 15"
+   ],
+   [
+    "Audio Jack Type",
+    "Type-C"
+   ],
+   [
+    "Screen Size",
+    "6.7 Inch"
+   ],
+   [
+    "Front Camera",
+    "12 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "5000 mAh"
+   ],
+   [
+    "Dimensions",
+    "162.9 x 78.2 x 7.4 mm"
+   ],
+   [
+    "Model Name",
+    "Galaxy A36"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi DirectBluetooth 5.4, A2DP, LEPositioning GPS, GALILEO, GLONASS, BDS, QZSSUSB Type-C 2, OTG"
+   ],
+   [
+    "Chipset Manufacturer",
+    "Qualcomm Snapdragon"
+   ],
+   [
+    "Video Capture Format",
+    "4K @ 30fps, 1080p@30/60fps, gyro-EIS"
+   ],
+   [
+    "Processor Manufacturer",
+    "Qualcomm Snapdragon"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/samsung-galaxy-a36-256gb-8gb-ram-4g-dual-sim-awesome-black?offering_id=048ddbc7-7118-4938-850b-79b02714909c",
+   "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-galaxy-a36-5g-dual-sim-awesome-lime-8gb-ram-256gb-middle-east-version/p/2251857001823?offer=offer_1132422518&sid=DEFAULT&sellerId=22518"
+  ]
+ },
+ "btech-388A8590557BBAB7C944": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Anker"
+   ],
+   [
+    "Port Type",
+    "Multi Ports"
+   ],
+   [
+    "Wattage",
+    "87 Watt"
+   ],
+   [
+    "Model Number",
+    "A1383H11"
+   ],
+   [
+    "Model Name",
+    "Powercore 20k"
+   ],
+   [
+    "Dimensions",
+    "6.2x2.9x1 Inches"
+   ],
+   [
+    "Connection Type",
+    "Wired"
+   ],
+   [
+    "Number of Charging Ports",
+    "2"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/anker-powercore-20k-powerbank-20000mah-2ports-usb-c-cable-black-a1383h11?offering_id=8531e22b-0cde-4877-8eb8-9523a8c7b773",
+   "https://2b.com.eg/en/anker-power-bank-20000mah-87w-builtin-usbc-cable-a1383h11-black.html"
+  ]
+ },
+ "2b-lenovo-ideapad-slim-3-15irh10-laptop-intelr-coretm-i5-13420h-16gb-512gb-ssd-inte": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Lenovo"
+   ],
+   [
+    "Display Type",
+    "WUXGA"
+   ],
+   [
+    "Color",
+    "Blue"
+   ],
+   [
+    "Hard Drive Type",
+    "SSD"
+   ],
+   [
+    "Resolution Type",
+    "WUXGA"
+   ],
+   [
+    "Headphones Output",
+    "Yes"
+   ],
+   [
+    "Keyboard Type",
+    "Business"
+   ],
+   [
+    "Keyboard Language",
+    "English & Arabic"
+   ],
+   [
+    "Model Name",
+    "IdeaPad Slim 3"
+   ],
+   [
+    "Model Number",
+    "15IRH10"
+   ],
+   [
+    "Gift",
+    "Bag+mouse"
+   ],
+   [
+    "Refresh Rate",
+    "60 Hertz"
+   ],
+   [
+    "Screen Size",
+    "15.3 Inch"
+   ],
+   [
+    "Number of USB Ports",
+    "3"
+   ],
+   [
+    "Number of HDMI Ports",
+    "1"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/0f3af38a-30a2-450a-88c4-fc00a17e8971?offering_id=be7f194b-6c95-44d6-8d15-35caf12cd55a",
+   "https://2b.com.eg/en/lenovo-ideapad-slim-3-15irh10-laptop-intelr-coretm-i5-13420h-16gb-512gb-ssd-intelr-uhd-graphics-15-3-wuxga-60hz-blue.html",
+   "https://www.compumarts.com/products/lenovo-ideapad-slim-3-15irh10-i7-13620h-laptop-egypt.js"
+  ]
+ },
+ "2b-lenovo-ideapad-slim-3-15irh10-laptop-intelr-coretm-i7-13620h-16gb-512gb-ssd-inte": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Lenovo"
+   ],
+   [
+    "Color",
+    "Luna Grey"
+   ],
+   [
+    "Display Type",
+    "IPS"
+   ],
+   [
+    "Keyboard Type",
+    "Business"
+   ],
+   [
+    "Hard Drive Type",
+    "SSD"
+   ],
+   [
+    "Resolution Type",
+    "WUXGA"
+   ],
+   [
+    "Headphones Output",
+    "Yes"
+   ],
+   [
+    "Keyboard Language",
+    "English & Arabic"
+   ],
+   [
+    "Display Resolution",
+    "1920x1200"
+   ],
+   [
+    "Dimensions",
+    "343.4 x 239.5 x 16.9-17.9 mm"
+   ],
+   [
+    "Model Number",
+    "15IRH10 - 83K100FMED"
+   ],
+   [
+    "Model Name",
+    "IdeaPad Slim 3"
+   ],
+   [
+    "Gift",
+    "with Lenovo WL310 Bluetooth Mouse, Lenovo T210 Laptop Topload - Black"
+   ],
+   [
+    "Optical Drive Type",
+    "No"
+   ],
+   [
+    "Refresh Rate",
+    "60 Hertz"
+   ],
+   [
+    "Battery Capacity",
+    "50 WHr"
+   ],
+   [
+    "Screen Size",
+    "15.3 Inch"
+   ],
+   [
+    "Number of USB Ports",
+    "3"
+   ],
+   [
+    "Number of HDMI Ports",
+    "1"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/lenovo-ideapadslim3-15irh10-83k100fmed-i5-13420h-512gb-16gb-15-3-intel-uhd-w11-grey-wl310-t210?offering_id=30f4e689-dae5-4cd3-8178-689d657e6272",
+   "https://2b.com.eg/en/lenovo-ideapad-slim-3-15irh10-laptop-intelr-coretm-i7-13620h-16gb-512gb-ssd-intelr-uhd-graphics-15-3-wuxga-60hz-grey.html",
+   "https://www.compumarts.com/products/lenovo-ideapad-slim-3-15irh10-83k100f0ed-i7-13620h-16gb-512gb-luna-grey.js"
+  ]
+ },
+ "noon-N70250057V": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Sharp"
+   ],
+   [
+    "Filter Type",
+    "Anti-Dust Filter"
+   ],
+   [
+    "Cooling Type",
+    "Only Cooling"
+   ],
+   [
+    "Cooling Capacity",
+    "18000 BTU"
+   ],
+   [
+    "Dimensions",
+    "(DxHxW): 259x327x1122 mm"
+   ],
+   [
+    "Model Number",
+    "AH-A18ZSE"
+   ],
+   [
+    "Horsepower",
+    "2.25 horsepower"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/sharp-split-air-conditioner-2-25hp-cooling-white-ah-a18zse?offering_id=8da8fcad-8c92-4b12-a830-5875680df31d",
+   "https://www.carrefouregypt.com/mafegy/en/air-conditioners/sharp-split-air-conditioner-2-25-hp-cooling-only-powerful-jet-tropical-white-ah-a18zse/p/2283159000016?offer=offer_1003222907&sid=DEFAULT&sellerId=22907"
+  ]
+ },
+ "btech-34839036B5ECCB6D7258": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Honor"
+   ],
+   [
+    "Display Type",
+    "AMOLED"
+   ],
+   [
+    "Display Resolution",
+    "2640x1200"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Operating System Type",
+    "Android 15"
+   ],
+   [
+    "Audio Jack Type",
+    "Type-C"
+   ],
+   [
+    "Dimensions",
+    "Height: 161.9mm, Width: 76.1mm, Depth: 7.76mm"
+   ],
+   [
+    "Model Name",
+    "X9d"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 6 (802.11 ax) and 802.11 a/b/g/n/ac, 2.4GHz and 5GHz Wi-Fi Direct & Wi-Fi Hotspot, BT5.2, Type-C, USB 2, GPS"
+   ],
+   [
+    "Chipset Manufacturer",
+    "Qualcomm Snapdragon 6 Gen 4, Octa-core"
+   ],
+   [
+    "Video Capture Format",
+    "3840*2160 pixels"
+   ],
+   [
+    "Processor Manufacturer",
+    "Qualcomm Snapdragon 6 Gen 4, Octa-core"
+   ],
+   [
+    "Zoom Capability",
+    "10X Digital zoom"
+   ],
+   [
+    "Screen Size",
+    "6.79 Inch"
+   ],
+   [
+    "Front Camera",
+    "16 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "108 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "8300 mAh"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/29220253-5fac-4df7-9f56-8a0ec7965438?offering_id=55ed0b71-f377-4bf4-8020-a6c6a97c5a69",
+   "https://2b.com.eg/en/honor-x9d-5g-12gb-ram-256gb-midnight-black.html",
+   "https://www.carrefouregypt.com/mafegy/en/smartphones/honor-x9d-12-256-g-5g-reddish-brown/p/692068?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000"
+  ]
+ },
+ "btech-74DF2FFD11C1FE7F0951": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Honor"
+   ],
+   [
+    "Display Type",
+    "AMOLED"
+   ],
+   [
+    "Display Resolution",
+    "2640x1200"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Operating System Type",
+    "Android 15"
+   ],
+   [
+    "Audio Jack Type",
+    "Type-C"
+   ],
+   [
+    "Dimensions",
+    "Height: 161.9mm, Width: 76.1mm, Depth: 7.76mm"
+   ],
+   [
+    "Model Name",
+    "X9d"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 6 (802.11 ax) and 802.11 a/b/g/n/ac, 2.4GHz and 5GHz Wi-Fi Direct & Wi-Fi Hotspot, BT5.2, Type-C, USB 2, GPS"
+   ],
+   [
+    "Chipset Manufacturer",
+    "Qualcomm Snapdragon 6 Gen 4, Octa-core"
+   ],
+   [
+    "Video Capture Format",
+    "3840*2160 pixels"
+   ],
+   [
+    "Processor Manufacturer",
+    "Qualcomm Snapdragon 6 Gen 4, Octa-core"
+   ],
+   [
+    "Zoom Capability",
+    "10X Digital zoom"
+   ],
+   [
+    "Screen Size",
+    "6.79 Inch"
+   ],
+   [
+    "Front Camera",
+    "16 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "108 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "8300 mAh"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/29220253-5fac-4df7-9f56-8a0ec7965438?offering_id=a0b4c409-0c4f-423e-9e58-ba9309011318",
+   "https://2b.com.eg/en/honor-x9d-5g-12gb-ram-256gb-forest-green.html",
+   "https://www.carrefouregypt.com/mafegy/en/smartphones/honor-mobile-x9d-256gb-12gb-ram-5g-forest-green/p/1698542000178?offer=offer_1503116985&sid=DEFAULT&sellerId=16985"
+  ]
+ },
+ "btech-0373C682F649AD856EC3": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Infinix"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "AMOLED"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Display Resolution",
+    "1208 × 2644"
+   ],
+   [
+    "Operating System Type",
+    "XOS 16"
+   ],
+   [
+    "Dimensions",
+    "162.37 x 77.17 x 7.45mm"
+   ],
+   [
+    "Model Name",
+    "Note 60"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi -Bluetooth 5.4 -USB Type-C, OTG -GPS"
+   ],
+   [
+    "Chipset Manufacturer",
+    "MediaTek"
+   ],
+   [
+    "Video Capture Format",
+    "Video 4K 30FPS/1080P 60FPS/1080P 30FPS/720P 30FPS Slow Motion: 1080P 120FPS"
+   ],
+   [
+    "Processor Manufacturer",
+    "MediaTek Dimensity 7400 Ultimate-Octa-core"
+   ],
+   [
+    "Screen Size",
+    "6.78 Inch"
+   ],
+   [
+    "Front Camera",
+    "13 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "50 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "6150 mAh"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/d458c7db-2819-4011-9460-844341efbadf?offering_id=830c2c5a-ca71-467b-b7a4-b93a8e9b2862",
+   "https://2b.com.eg/en/infinix-note-60-8gb-ram-256gb-mist-titanium.html",
+   "https://www.carrefouregypt.com/mafegy/en/smartphones/infinix-mobile-note-60-x6879-256gb-8gb-ram-5g-midnight-black/p/1698542000308?offer=offer_1514916985&sid=DEFAULT&sellerId=16985"
+  ]
+ },
+ "2b-infinix-note-edge-8gb-ram-256gb-green.html": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Infinix"
+   ],
+   [
+    "Display Type",
+    "AMOLED"
+   ],
+   [
+    "Display Resolution",
+    "1208 × 2644"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Operating System Type",
+    "XOS 16"
+   ],
+   [
+    "Screen Size",
+    "6.78 Inch"
+   ],
+   [
+    "Front Camera",
+    "13 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "50 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "6500 mAh"
+   ],
+   [
+    "Dimensions",
+    "163.1 x 77.4 x 7.2 mm"
+   ],
+   [
+    "Model Name",
+    "Note Edge"
+   ],
+   [
+    "Connectivity",
+    "Bluetooth 5.4, OTG, USB-C, GPS, FM Radio"
+   ],
+   [
+    "Chipset Manufacturer",
+    "MediaTek Dimensity 7100"
+   ],
+   [
+    "Video Capture Format",
+    "2K 30FPS/ 1080P 30FPS/ 1080P 60FPS/ 720P 30FPS"
+   ],
+   [
+    "Processor Manufacturer",
+    "MediaTek"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/770d7133-3838-4581-8d7f-ee3563651467?offering_id=a906b880-1aad-4404-bd06-56249efe7529",
+   "https://2b.com.eg/en/infinix-note-edge-8gb-ram-256gb-green.html",
+   "https://www.carrefouregypt.com/mafegy/en/smartphones/infinix-mobile-note-edge-x6887-256gb-8gb-ram-5g-lunar-titanium/p/1698542000270?offer=offer_1510916985&sid=DEFAULT&sellerId=16985"
+  ]
+ },
+ "noon-N70116209V": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Tefal"
+   ],
+   [
+    "Dimensions",
+    "37.5*27.5*32.5 cm"
+   ],
+   [
+    "Model Number",
+    "EY2458EG with Moulinex Genuine Countertop Blender, 400 Watt, 1.5 Liters - LM2421EG"
+   ],
+   [
+    "Model Name",
+    "Easy Fry Max"
+   ],
+   [
+    "Wattage",
+    "1500 Watt"
+   ],
+   [
+    "Capacity",
+    "5 Liter"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/dcc51b78-2dee-41b7-99cb-071aac1c8703?offering_id=b6888a25-df94-4d21-87a6-be019dab85cd",
+   "https://www.carrefouregypt.com/mafegy/en/air-fryer/tefal-air-fryer-ey2458eg-5l/p/677942?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000"
+  ]
+ },
+ "btech-5AF7C7213971423C6757": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://btech.com/en/p/6fd8ea0b-eedb-4d02-b7d3-7c9fdc4cd87d?offering_id=6a57ae2d-0aae-4750-a0e1-16719efa278e"
+  ]
+ },
+ "noon-N70278531V": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "compumarts",
+  "specs": [
+   [
+    "CPU",
+    "HERO 25K Optical Sensor"
+   ],
+   [
+    "SPEED",
+    "100 – 25,600 DPI"
+   ],
+   [
+    "CONNECTIVITY",
+    "LIGHTSPEED Wireless, USB-C Charging"
+   ],
+   [
+    "CAPACITY",
+    "13 Programmable Buttons"
+   ],
+   [
+    "COLOR",
+    "Black"
+   ],
+   [
+    "WEIGHT",
+    "102 g"
+   ]
+  ],
+  "tried": [
+   "https://www.compumarts.com/products/logitech-g502-x-lightspeed-wireless-gaming-mouse.js"
+  ]
+ },
+ "noon-N53385407A": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Logitech"
+   ],
+   [
+    "Connectivity",
+    "Wireless"
+   ],
+   [
+    "Model Number",
+    "910-006163"
+   ],
+   [
+    "Model Name",
+    "G502 X Plus"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/285cd5b3-f551-41ba-b547-53cbbff8662c?offering_id=5991e996-193d-42a5-8950-b54922459cca"
+  ]
+ },
+ "noon-Z54DA38D0C309EF471732Z": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Carrier"
+   ],
+   [
+    "Filter Type",
+    "Plasma"
+   ],
+   [
+    "Cooling Type",
+    "Only Cooling"
+   ],
+   [
+    "Turbo Function",
+    "Yes"
+   ],
+   [
+    "Cooling Capacity",
+    "12000 BTU"
+   ],
+   [
+    "Dimensions",
+    "Indoor Unit: 805 x 285 x 194 mm - Outdoor Unit: 720 x 495 x 270 mm"
+   ],
+   [
+    "Model Number",
+    "KHEFT12N"
+   ],
+   [
+    "Model Name",
+    "X Cool"
+   ],
+   [
+    "Horsepower",
+    "1.5 horsepower"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/a0abee78-c9c3-4e6b-981c-0a5c9c0eb49a?offering_id=d7e9d4eb-2ccd-4198-9578-b5c4522f8929",
+   "https://www.carrefouregypt.com/mafegy/en/air-conditioners/carrier-a-c-53kheft12n8-708f1-5hp-c/p/677668?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000"
+  ]
+ },
+ "noon-Z5A7FB5B2A22C2F9FFC8BZ": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Carrier"
+   ],
+   [
+    "Cooling Type",
+    "Only Cooling"
+   ],
+   [
+    "Turbo Function",
+    "Yes"
+   ],
+   [
+    "Cooling Capacity",
+    "24000 BTU"
+   ],
+   [
+    "Dimensions",
+    "Indoor Unit: 1082 x 330 x 233 mm - Outdoor Unit: 890 x 673 x 342 mm"
+   ],
+   [
+    "Model Name",
+    "X Cool"
+   ],
+   [
+    "Model Number",
+    "53KHEFT24N8"
+   ],
+   [
+    "Horsepower",
+    "3 horsepower"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/c3bc9e1c-b71b-4488-b0eb-cee05dd3d93e?offering_id=7e2ea852-2842-4690-9bad-63013c1b31ac"
+  ]
+ },
+ "dream2000-49418380673163": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Apple"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "e-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "Super Retina XDR OLED"
+   ],
+   [
+    "Charging Type",
+    "Wired / Wireless"
+   ],
+   [
+    "Number of Sim",
+    "eSIM"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Display Resolution",
+    "1320x2868"
+   ],
+   [
+    "Operating System Type",
+    "iOS 27"
+   ],
+   [
+    "Dimensions",
+    "163.4 x78.0x8.75 mm"
+   ],
+   [
+    "Model Name",
+    "iPhone 18 Pro Max"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 7 - Bluetooth 6 - GPS - USB 3 (up to 10Gb/s)"
+   ],
+   [
+    "Chipset Manufacturer",
+    "Apple"
+   ],
+   [
+    "Video Capture Format",
+    "4K Dolby Vision video recording at 24 fps, 25 fps, 30 fps, 60 fps, 100 fps (Fusion Main), or 120 fps (Fusion Main)"
+   ],
+   [
+    "Processor Manufacturer",
+    "Apple A20 Pro (2 nm)-Hexa-core"
+   ],
+   [
+    "Screen Size",
+    "6.9 Inch"
+   ],
+   [
+    "Front Camera",
+    "18 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "48 megapixels"
+   ],
+   [
+    "Water Resistance Level",
+    "6 Meter"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/apple-iphone-18-pro-max-256-gb-12-gb-5g-esim-burgundy"
+  ]
+ },
+ "xprs-67551123767514": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Xiaomi"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "AMOLED"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Display Resolution",
+    "2772 x 1280"
+   ],
+   [
+    "Operating System Type",
+    "Xiaomi HyperOS 3"
+   ],
+   [
+    "Gift",
+    "with Xiaomi Redmi Buds 8 Active and Xiaomi Redmi Watch 5 Active Gifts"
+   ],
+   [
+    "Dimensions",
+    "163.44 × 78.27 × 8.65mm/ 8.57mm"
+   ],
+   [
+    "Model Name",
+    "Redmi Note 17 Pro Max"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 2.4GHz / 5GHz, Wi-Fi 6 - Bluetooth 6 - USB Type-C port - NFC - GPS, A-GPS, GLONASS, BDS, Galileo, QZSS"
+   ],
+   [
+    "Chipset Manufacturer",
+    "Qualcomm Snapdragon 6 Gen 5, 4nm, Octa-Core up to 2.6GHz"
+   ],
+   [
+    "Video Capture Format",
+    "4K Video Recording at 30fps"
+   ],
+   [
+    "Processor Manufacturer",
+    "Qualcomm Snapdragon 6 Gen 5, 4nm, Octa-Core up to 2.6GHz"
+   ],
+   [
+    "Screen Size",
+    "6.83 Inch"
+   ],
+   [
+    "Front Camera",
+    "32 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "50 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "10000 mAh"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/xiaomi-redmi-note-17-pro-max-256-gb-12-gb-5g-dual-sim-black"
+  ]
+ },
+ "btech-62F46DEE138BEEAAE1C0": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Voltage",
+    "240 Volt"
+   ],
+   [
+    "Dimensions",
+    "‎28 x 84.8 x 43.5‎ mm"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/samsung-charging-kit-45-watt-1-usbc-port-black?offering_id=cd7610ce-c1db-4960-a777-737c907febe3"
+  ]
+ },
+ "btech-1TXITVSML32M8P2EL007": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Xiaomi"
+   ],
+   [
+    "Display Type",
+    "LED"
+   ],
+   [
+    "Resolution Type",
+    "HD"
+   ],
+   [
+    "Built-In Receiver",
+    "Yes"
+   ],
+   [
+    "Display Resolution",
+    "1366x768"
+   ],
+   [
+    "Remote Control Included",
+    "Yes"
+   ],
+   [
+    "Series",
+    "L32M8P2EG"
+   ],
+   [
+    "Dimensions",
+    "Dimensions including base (L × W × H): 719 × 160 × 467mm Dimensions not including base (L × W × H): 719 × 72 × 421mm"
+   ],
+   [
+    "Connection Type",
+    "Wi-Fi, Ethernet, Bluetooth 5"
+   ],
+   [
+    "Number of HDMI Ports",
+    "2"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/xiaomi-32-inch-hd-smart-led-tv-with-built-in-receiver-l32m8p2eg?offering_id=68c4af6d-3913-41c5-814c-4dfd27cf94c3",
+   "https://2b.com.eg/en/xiaomi-tv-32-inch-led-hd-smart-built-in-receiver-google-tv-tv-a-32.html"
+  ]
+ },
+ "2b-fresh-washing-machine-9-kgs-front-loading-full-automatic-inverter-direct-drive-b": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Fresh"
+   ],
+   [
+    "Inverter Motor",
+    "Yes"
+   ],
+   [
+    "Steam Function",
+    "Yes"
+   ],
+   [
+    "Number of Programs",
+    "Multi Programs"
+   ],
+   [
+    "RPM",
+    "1400"
+   ],
+   [
+    "Dimensions",
+    "850 x 600 x 595 mm"
+   ],
+   [
+    "Model Number",
+    "W9DD1455G2BL"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/fresh-9kg-front-load-inverter-washing-machine-black-w9dd1455g2bl",
+   "https://2b.com.eg/en/fresh-washing-machine-9-kgs-front-loading-full-automatic-inverter-direct-drive-black-g22153.html"
+  ]
+ },
+ "2b-fresh-washing-machine-8-kgs-inverter-front-loading-full-automatic-direct-drive-s": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Color",
+    "Silver"
+   ],
+   [
+    "MPN",
+    "2874"
+   ],
+   [
+    "Brand",
+    "Fresh"
+   ],
+   [
+    "Country of Manufacture",
+    "Egypt"
+   ],
+   [
+    "Capacity",
+    "8 KG"
+   ],
+   [
+    "Device Type",
+    "Washing Machines"
+   ],
+   [
+    "Power",
+    "Inverter"
+   ],
+   [
+    "Loading Type",
+    "Front Loading"
+   ],
+   [
+    "warranty",
+    "5 Years"
+   ]
+  ],
+  "tried": [
+   "https://2b.com.eg/en/fresh-washing-machine-8-kgs-inverter-front-loading-full-automatic-direct-drive-silver-pc-bls2874.html"
+  ]
+ },
+ "compumarts-samsung-odyssey-g5-g50f-27-inch-qhd-ips-180hz-gaming-monitor-ls27fg502emxeg-egyp": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "compumarts",
+  "specs": [
+   [
+    "MODEL",
+    "LS27FG502EMXEG"
+   ],
+   [
+    "DISPLAY",
+    "27 Inch IPS"
+   ],
+   [
+    "RESOLUTION",
+    "QHD (2,560 x 1,440)"
+   ],
+   [
+    "REFRESH RATE",
+    "Max 180Hz"
+   ],
+   [
+    "RESPONSE TIME",
+    "1ms(GTG)"
+   ],
+   [
+    "ASPECT RATIO",
+    "16:9"
+   ],
+   [
+    "BRIGHTNESS",
+    "300 cd/㎡ (Typ.)"
+   ],
+   [
+    "CONTRAST RATIO",
+    "1000 : 1 (Typ.)"
+   ],
+   [
+    "VIEWING ANGLE",
+    "178/178"
+   ],
+   [
+    "COLOR SUPPORT",
+    "Max 16.7M"
+   ],
+   [
+    "COLOR GAMUT",
+    "99% sRGB"
+   ],
+   [
+    "HDR",
+    "HDR10"
+   ],
+   [
+    "ADAPTIVE SYNC",
+    "FreeSync, G-Sync Compatible"
+   ],
+   [
+    "DISPLAYPORT",
+    "1 x DisplayPort 1.2"
+   ],
+   [
+    "HDMI",
+    "1 x HDMI 2.0"
+   ],
+   [
+    "HEADPHONE",
+    "Yes"
+   ],
+   [
+    "SPEAKER",
+    "No"
+   ],
+   [
+    "FEATURES",
+    "Eye Saver Mode, Flicker Free, Black Equalizer, Auto Source Switch, Off Timer Plus, Energy Saving Solution"
+   ],
+   [
+    "DIMENSIONS WITH STAND",
+    "614.0 x 517.8 x 250.2 mm"
+   ],
+   [
+    "WEIGHT WITH STAND",
+    "4.1 kg"
+   ],
+   [
+    "WARRANTY",
+    "1 Year"
+   ]
+  ],
+  "tried": [
+   "https://www.compumarts.com/products/samsung-odyssey-g5-g50f-27-inch-qhd-ips-180hz-gaming-monitor-ls27fg502emxeg-egypt.js"
+  ]
+ },
+ "carrefour-2314367000482": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/sony-playstation-consoles/sony-playstation-5-slim-disc-new-2023-model-international-version/p/2314367000482?offer=offer_1021823143&sid=DEFAULT&sellerId=23143"
+  ]
+ },
+ "dream2000-48221428711563": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Sony"
+   ],
+   [
+    "Model Name",
+    "Slim Disc Edition"
+   ],
+   [
+    "Super Features",
+    "with Wireless Controller - International Version"
+   ],
+   [
+    "Number of Controllers",
+    "1"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/sony-ps5-slimdisc-1tb-controller-international2023?offering_id=bc2e7cbb-3272-4633-b039-1eb0fb227d17"
+  ]
+ },
+ "dream2000-48596675199115": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/sony-playstation-access/playstation-5-portal-remote-player/p/2314367000506?offer=offer_1032023143&sid=DEFAULT&sellerId=23143"
+  ]
+ },
+ "dream2000-48596675231883": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://btech.com/en/p/cc7cc6cf-23ea-4a63-b0c2-b9bbc0fc92b2?offering_id=f24cdcbd-2066-4efa-8256-dfac065ed7a6"
+  ]
+ },
+ "carrefour-2251257000152": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/sony-playstation-consoles/fc-26-standard-edition-ps5-uae-version-playstation-5-ps5/p/2251257000152?offer=offer_1015222512&sid=DEFAULT&sellerId=22512"
+  ]
+ },
+ "btech-E89728F7D78B44C3861E": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Apple"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "e-SIM"
+   ],
+   [
+    "Display Type",
+    "Super Retina XDR OLED"
+   ],
+   [
+    "Charging Type",
+    "Wired / Wireless"
+   ],
+   [
+    "Number of Sim",
+    "eSIM"
+   ],
+   [
+    "Operating System Type",
+    "iOS 26"
+   ],
+   [
+    "Dimensions",
+    "163.4 x 78 x 8.8 mm"
+   ],
+   [
+    "Model Name",
+    "iPhone 17 Pro Max"
+   ],
+   [
+    "Connectivity",
+    "Bluetooth 6, USB Type-C 3.2 Gen 2 with DisplayPort, GPS , Wi-Fi"
+   ],
+   [
+    "Chipset Manufacturer",
+    "Apple A19 Pro"
+   ],
+   [
+    "Video Capture Format",
+    "4K@24/25/30/60/100/120fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 120fps), ProRes, ProRes RAW (up to 120fps), Apple Log 2, 3D (spatial) video/audio, stereo"
+   ],
+   [
+    "Processor Manufacturer",
+    "Apple A19 Pro"
+   ],
+   [
+    "Screen Size",
+    "6.9 Inch"
+   ],
+   [
+    "Front Camera",
+    "18 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "48 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "5088 mAh"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/7d331b18-a90a-43b7-b8c4-8f803e8d46a6?offering_id=dbce7953-5193-44ef-9082-ebc98b9fc406"
+  ]
+ },
+ "2b-apple-iphone-16-plus-256gb-black-official-warranty.html": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "Apple"
+   ],
+   [
+    "Color",
+    "Black"
+   ],
+   [
+    "MPN",
+    "A3291OB256"
+   ],
+   [
+    "Network 2G",
+    "GSM 900 / 1800 / 1900"
+   ],
+   [
+    "Network 3G",
+    "HSDPA 900 / 1900 / 2100"
+   ],
+   [
+    "4G Network",
+    "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps"
+   ],
+   [
+    "SIM Card",
+    "Single SIM"
+   ],
+   [
+    "Chipset",
+    "Apple A18 (3 nm)"
+   ],
+   [
+    "CPU (Processor)",
+    "Hexa Core"
+   ],
+   [
+    "CPU Speed (GHz)",
+    "Hexa-core (2x4.04 GHz + 4x2.20 GHz)"
+   ],
+   [
+    "GPU",
+    "Apple GPU (5-core graphics)"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Display Size",
+    "6.7 inches"
+   ],
+   [
+    "Display Type",
+    "6.7 inches 1290 x 2796 pixels, 19.5:9 ratio (~460 ppi density) Ceramic Shield glass (2024 gen) Super Retina XDR OLED, HDR10, Dolby Vision, 1000 nits (typ), 2000 nits (HBM)"
+   ],
+   [
+    "Internal Storage",
+    "256 GB"
+   ],
+   [
+    "Operating System",
+    "iOS"
+   ],
+   [
+    "OS version",
+    "iOS 18, upgradable to iOS 18.1"
+   ],
+   [
+    "Primary Camera",
+    "Dual: 48 MP, f/1.6, 26mm (wide) + 12 MP, f/2.2, 13mm, 120˚ (ultrawide) Dual-LED dual-tone flash, HDR (photo/panorama)"
+   ],
+   [
+    "Secondary Camera",
+    "12 MP, f/1.9, 23mm (wide), 1/3.6\", PDAF"
+   ],
+   [
+    "Video Resolutions",
+    "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+   ],
+   [
+    "Connectivity",
+    "WLAN: Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band, hotspot Bluetooth: 5.3, A2DP, LE Positioning: GPS, GLONASS, GALILEO, BDS, QZSS Radio: No USB: USB Type-C 2.0, DisplayPort"
+   ],
+   [
+    "Sensors",
+    "Face ID, accelerometer, gyro, proximity, compass, barometer, Ultra Wideband (UWB) support (gen2 chip), Emergency SOS, Messages and Find My via satellite"
+   ],
+   [
+    "Battery",
+    "Li-Ion 4674 mAh, non-removable Wired, PD2.0, 50% in 30 min (advertised) 4.5W reverse wired"
+   ],
+   [
+    "warranty",
+    "2 Years"
+   ]
+  ],
+  "tried": [
+   "https://2b.com.eg/en/apple-iphone-16-plus-256gb-black-official-warranty.html"
+  ]
+ },
+ "btech-1BSAOMSMGA2782BLL007": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "Super AMOLED"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Water Resistant",
+    "Yes"
+   ],
+   [
+    "Display Resolution",
+    "2340x1080"
+   ],
+   [
+    "Operating System Type",
+    "Android 16"
+   ],
+   [
+    "Dimensions",
+    "162.4 x 78.2 x 7.8 mm"
+   ],
+   [
+    "Model Name",
+    "Galaxy A27"
+   ],
+   [
+    "Connectivity",
+    "Bluetooth 5.1 -Wi-Fi -GPS -USB Type-C 2, OTG"
+   ],
+   [
+    "Chipset Manufacturer",
+    "Qualcomm"
+   ],
+   [
+    "Video Capture Format",
+    "4K@30fps, 1080p@30fps, 720p@480fps, gyro-EIS"
+   ],
+   [
+    "Processor Manufacturer",
+    "Qualcomm SM6475-AB Snapdragon 6 Gen 3 (4 nm)-Octa Core"
+   ],
+   [
+    "Screen Size",
+    "6.7 Inch"
+   ],
+   [
+    "Front Camera",
+    "12 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "50 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "5000 mAh"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/6c975b24-73bb-4c8e-bd8f-f8b0d7dcf723?offering_id=86b88815-7073-4c05-8250-0192134b0f33",
+   "https://2b.com.eg/en/samsung-galaxy-a27-5g-8gb-ram-128gb-black.html"
+  ]
+ },
+ "noon-N53412263A": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Jbl"
+   ],
+   [
+    "Dimensions",
+    "8.75 x 10.25 x 10.5 inches"
+   ],
+   [
+    "Model Name",
+    "Tune 520BT"
+   ],
+   [
+    "Connectivity",
+    "Wireless via Bluetooth 5.3"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/jbl-tune-bluetooth-headphone-blue-520bt?offering_id=e29a4e4b-ac59-46e8-9979-685210ff0d54"
+  ]
+ },
+ "noon-N70140656V": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/wireless-headphone/jbl-tune-520bt-wireless-on-ear-headphones-pure-bass-sound-57h-battery-hands-free-call-plus-voice-aware-multi-point-connection-lightweight-and-foldable-blue/p/1827747001146?offer=offer_1024322512&sid=DEFAULT&sellerId=22512"
+  ]
+ },
+ "btech-1TLGTVSM55NU830BL030": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "LG"
+   ],
+   [
+    "Resolution Type",
+    "Nano 4K UHD"
+   ],
+   [
+    "Built-In Receiver",
+    "Yes"
+   ],
+   [
+    "Display Resolution",
+    "2160x3840"
+   ],
+   [
+    "Remote Control Included",
+    "Yes"
+   ],
+   [
+    "Series",
+    "NU830"
+   ],
+   [
+    "Connection Type",
+    "Wired, Wireless"
+   ],
+   [
+    "Number of HDMI Ports",
+    "3"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/lg-55-inch-smart-tv-nano-4k-uhd-55nu830b6la?offering_id=85ced936-7a6e-41c2-985b-ca3c817555f2",
+   "https://www.carrefouregypt.com/mafegy/en/uhd-tv/lg-led-tv-55ua85006la-4k-sm-rc/p/656999?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000"
+  ]
+ },
+ "btech-8A9D2ADA3E3576DBD016": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Xiaomi"
+   ],
+   [
+    "Resolution Type",
+    "4K UHD"
+   ],
+   [
+    "Model Number",
+    "PFJ4191EU"
+   ],
+   [
+    "Model Name",
+    "S 3rd Gen"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/xiaomi-s-3rd-gen-tv-box-4k-uhd-32gb-2gb-ram-black-pfj4191eu?offering_id=560a6156-85a7-46ca-ac54-0fc571fa6f44",
+   "https://www.carrefouregypt.com/mafegy/en/digital-receiver/xiaomi-tv-box-s-3rd-gen-4k-uhd-google-tv-2gb-ram-32gb-storage-memory-dolby-vision-and-atmos-wifi-6-hdmi-2-1-fast-streaming-compact-and-powerful-tv-box-s-3rd-gen-mdz-32-aa-black/p/1827747001130?offer=offer_1031418277&sid=DEFAULT&sellerId=18277"
+  ]
+ },
+ "btech-E3B6535853FCA78BDCD0": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Tcl"
+   ],
+   [
+    "Display Type",
+    "QLED"
+   ],
+   [
+    "Resolution Type",
+    "FHD"
+   ],
+   [
+    "Built-In Receiver",
+    "Yes"
+   ],
+   [
+    "Headphones Output",
+    "Yes"
+   ],
+   [
+    "Display Resolution",
+    "1920x1080"
+   ],
+   [
+    "Remote Control Included",
+    "Yes"
+   ],
+   [
+    "Dimensions",
+    "Without base : 715 x 422 x 75mm, With base : 715 x 465 x 180mm"
+   ],
+   [
+    "Series",
+    "S5K"
+   ],
+   [
+    "Connection Type",
+    "Bluetooth 5, Wifi 4, 1x LAN"
+   ],
+   [
+    "Energy Consumption Power",
+    "65 Watt"
+   ],
+   [
+    "Number of HDMI Ports",
+    "2"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/d3a8b177-126a-40d6-ad80-3adc3e663ceb?offering_id=5cacd802-70e9-4583-a474-a9602537e8f2",
+   "https://www.carrefouregypt.com/mafegy/en/qled-qned-tv/tcl-qled-tv-43p7k-sm-rc-4k-frameles/p/662725?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000"
+  ]
+ },
+ "carrefour-662723": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Tcl"
+   ],
+   [
+    "Display Type",
+    "QLED"
+   ],
+   [
+    "Resolution Type",
+    "FHD"
+   ],
+   [
+    "Built-In Receiver",
+    "Yes"
+   ],
+   [
+    "Headphones Output",
+    "Yes"
+   ],
+   [
+    "Display Resolution",
+    "1920x1080"
+   ],
+   [
+    "Remote Control Included",
+    "Yes"
+   ],
+   [
+    "Dimensions",
+    "Without base : 715 x 422 x 75mm, With base : 715 x 465 x 180mm"
+   ],
+   [
+    "Series",
+    "S5K"
+   ],
+   [
+    "Connection Type",
+    "Bluetooth 5, Wifi 4, 1x LAN"
+   ],
+   [
+    "Energy Consumption Power",
+    "65 Watt"
+   ],
+   [
+    "Number of HDMI Ports",
+    "2"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/d3a8b177-126a-40d6-ad80-3adc3e663ceb?offering_id=5cacd802-70e9-4583-a474-a9602537e8f2",
+   "https://www.carrefouregypt.com/mafegy/en/qled-qned-tv/tcl-qled-tv-43s5k-sm-rc-fhd-framele/p/662723?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000"
+  ]
+ },
+ "btech-49C954CE9C2CAFC3F9CC": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Lenovo"
+   ],
+   [
+    "Hard Drive Type",
+    "SSD"
+   ],
+   [
+    "Resolution Type",
+    "WUXGA"
+   ],
+   [
+    "Color",
+    "Cosmic Blue"
+   ],
+   [
+    "Display Type",
+    "IPS"
+   ],
+   [
+    "Keyboard Type",
+    "Business"
+   ],
+   [
+    "Headphones Output",
+    "Yes"
+   ],
+   [
+    "Keyboard Language",
+    "English & Arabic"
+   ],
+   [
+    "Display Resolution",
+    "1920x1200"
+   ],
+   [
+    "Model Name",
+    "IdeaPad Slim 3"
+   ],
+   [
+    "Gift",
+    "with Lenovo T210 Laptop Bag- Black, and WL310 Bluetooth Mouse- Black"
+   ],
+   [
+    "Dimensions",
+    "343.4 x 239.5 x 16.9-17.9 mm"
+   ],
+   [
+    "Model Number",
+    "15IRH10- 83K100QRED"
+   ],
+   [
+    "Refresh Rate",
+    "60 Hertz"
+   ],
+   [
+    "Battery Capacity",
+    "50 WHr"
+   ],
+   [
+    "Screen Size",
+    "15.3 Inch"
+   ],
+   [
+    "Number of USB Ports",
+    "3"
+   ],
+   [
+    "Number of HDMI Ports",
+    "1"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/3de14b7f-76b6-4ecd-b20a-e061b5af773f?offering_id=2e259a23-a308-4fcf-bc97-d33a6369bc69",
+   "https://www.compumarts.com/products/lenovo-ideapad-slim-3-83k100qned-i7-16gb-512gb.js"
+  ]
+ },
+ "btech-F5E45A1BB753BBA1DC98": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Hp"
+   ],
+   [
+    "Color",
+    "Mica Silver"
+   ],
+   [
+    "Keyboard Type",
+    "Gaming"
+   ],
+   [
+    "Hard Drive Type",
+    "SSD"
+   ],
+   [
+    "Resolution Type",
+    "FHD"
+   ],
+   [
+    "Headphones Output",
+    "Yes"
+   ],
+   [
+    "Keyboard Language",
+    "English & Arabic"
+   ],
+   [
+    "Dimensions",
+    "68.8 × 519 × 304 mm"
+   ],
+   [
+    "Model Name",
+    "Victus 15-fa2013dx"
+   ],
+   [
+    "Battery Capacity",
+    "52 mAh"
+   ],
+   [
+    "Number of USB Ports",
+    "3"
+   ],
+   [
+    "Number of HDMI Ports",
+    "1"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/9e780a96-6fef-4932-8f6f-c52b46dc4a9f?offering_id=463c0f94-6c4a-4c66-b3e7-5f4fb6c3f81d",
+   "https://www.compumarts.com/products/hp-victus-15-fa2013dx-gaming-laptop-intel-core-i5-13420h-8gb-ram-512gb-ssd-nvidia-geforce-rtx-3050-6gb-15-6-fhd-144hz-windows-11.js"
+  ]
+ },
+ "btech-125140BB8A3F1E3A579A": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Asus"
+   ],
+   [
+    "Color",
+    "Jaeger Grey"
+   ],
+   [
+    "Display Type",
+    "IPS"
+   ],
+   [
+    "Keyboard Type",
+    "Gaming"
+   ],
+   [
+    "Hard Drive Type",
+    "SSD"
+   ],
+   [
+    "Resolution Type",
+    "WUXGA"
+   ],
+   [
+    "Keyboard Language",
+    "English & Arabic"
+   ],
+   [
+    "Display Resolution",
+    "1920x1200"
+   ],
+   [
+    "Headphones Output",
+    "Yes"
+   ],
+   [
+    "Refresh Rate",
+    "165 Hertz"
+   ],
+   [
+    "Battery Capacity",
+    "90 mAh"
+   ],
+   [
+    "Screen Size",
+    "16 Inch"
+   ],
+   [
+    "Model Number",
+    "FA608PM-RV169W"
+   ],
+   [
+    "Model Name",
+    "TUF Gaming A16 2025"
+   ],
+   [
+    "Dimensions",
+    "35.4 x 26.9 x 1.79 ~ 2.73 cm"
+   ],
+   [
+    "Number of USB Ports",
+    "5"
+   ],
+   [
+    "Number of HDMI Ports",
+    "1"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/c2fc2bc9-48c7-4d61-bd97-27403cb6ba8d?offering_id=c36c43c7-79aa-4544-8ac5-2278d359f37f",
+   "https://www.compumarts.com/products/asus-tuf-gaming-a16-fa608pm-rv659w-rtx-5060-ryzen-9-8940hx-egypt.js"
+  ]
+ },
+ "btech-FD1D97C58E7998420198": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Apple"
+   ],
+   [
+    "Color",
+    "Midnight Black"
+   ],
+   [
+    "Display Type",
+    "Liquid Retina"
+   ],
+   [
+    "Keyboard Type",
+    "Business"
+   ],
+   [
+    "Hard Drive Type",
+    "SSD"
+   ],
+   [
+    "Resolution Type",
+    "Liquid Retina"
+   ],
+   [
+    "Headphones Output",
+    "Yes"
+   ],
+   [
+    "Keyboard Language",
+    "English"
+   ],
+   [
+    "Display Resolution",
+    "2560x1664"
+   ],
+   [
+    "Model Name",
+    "MacBook Air"
+   ],
+   [
+    "Dimensions",
+    "Height: 1.13 cm, Width: 30.41 cm, Depth: 21.5 cm"
+   ],
+   [
+    "Optical Drive Type",
+    "Without Optical Drive"
+   ],
+   [
+    "Refresh Rate",
+    "60 Hertz"
+   ],
+   [
+    "Battery Capacity",
+    "53 WHr"
+   ],
+   [
+    "Screen Size",
+    "13.6 Inch"
+   ],
+   [
+    "Number of USB Ports",
+    "2"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/7c1226fc-41dd-474b-8908-85f05f9c163f?offering_id=d3d59fc6-6eb1-4b3f-ab18-18b9cb2ee2ff",
+   "https://2b.com.eg/en/apple-macbook-air-m4-chip-with-10-core-cpu-and-10-core-gpu-16gb-1tb-ssd-13-6-liquid-retina-inch-macos-stralight.html"
+  ]
+ },
+ "btech-FD8B0EC2A86FDB82E29A": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://btech.com/en/p/fresh-top-loading-washing-machine-5-kg-white-el-shatoora?offering_id=4543e652-b7fc-473c-85e7-310214e5a8e7",
+   "https://www.carrefouregypt.com/mafegy/en/washing-machine/fresh-shabah-top-load-washing-machine-7-kg-white/p/2289659000233?offer=offer_1021622896&sid=DEFAULT&sellerId=22896"
+  ]
+ },
+ "btech-1MSAWMFUWW90T404F008": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Child Lock",
+    "Yes"
+   ],
+   [
+    "Inverter Motor",
+    "Yes"
+   ],
+   [
+    "Steam Function",
+    "Yes"
+   ],
+   [
+    "RPM",
+    "1400"
+   ],
+   [
+    "Dimensions",
+    "(HXDXW): 85X60X55 cm"
+   ],
+   [
+    "Model Number",
+    "WW90T4040CX1AS"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/samsung-automatic-washing-machine-9kg-ww90t4040cx1as?offering_id=2da8ac31-7483-49f8-9f02-09773294d4c0",
+   "https://www.carrefouregypt.com/mafegy/en/washing-machine/samsung-wm-ww90t4040cx1as-9kg/p/573696?offer=offer_carrefour_&sid=DEFAULT&sellerId=0000"
+  ]
+ },
+ "noon-N70072149V": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Sharp"
+   ],
+   [
+    "Filter Type",
+    "Anti-Dust Filter"
+   ],
+   [
+    "Cooling Type",
+    "Only Cooling"
+   ],
+   [
+    "Cooling Capacity",
+    "12000 BTU"
+   ],
+   [
+    "Dimensions",
+    "Indoor unit : 879x289x229 mm & Outdoor unit : 760x 540x270 mm"
+   ],
+   [
+    "Model Number",
+    "AH-AP12ZHE"
+   ],
+   [
+    "Horsepower",
+    "1.5 horsepower"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/sharp-split-air-conditioner-1-5-hp-cooling-white-ahap12zhe?offering_id=7cb31651-42f2-4a67-be2e-c36b25cff62b"
+  ]
+ },
+ "btech-0AB4C3E758BBE7231A48": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Sharp"
+   ],
+   [
+    "Cooling Type",
+    "Cooling and Heating"
+   ],
+   [
+    "Inverter Motor",
+    "Yes"
+   ],
+   [
+    "Cooling Capacity",
+    "24000 BTU"
+   ],
+   [
+    "Dimensions",
+    "Indoor Unit : 1122 x 327 x 259, Outdoor Unit : 890 x 800 x 320"
+   ],
+   [
+    "Model Number",
+    "AY-XP24UHE"
+   ],
+   [
+    "Horsepower",
+    "3 horsepower"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/sharp-split-air-conditioner-3-hp-cooling-and-heating-inverter-silver-ay-xp24uhe?offering_id=c6762be8-6b0b-4089-b313-a1092ac58535",
+   "https://www.carrefouregypt.com/mafegy/en/air-conditioners/sharp-ac-fan-ah-xp24uhe/p/592849?offer=offer_1159316985&sid=DEFAULT&sellerId=16985"
+  ]
+ },
+ "btech-LS32CG552EMXEGDE": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Port Type",
+    "Multi Ports"
+   ],
+   [
+    "Resolution Type",
+    "QHD"
+   ],
+   [
+    "Display Resolution",
+    "1440x2560"
+   ],
+   [
+    "Refresh Rate",
+    "165 Hertz"
+   ],
+   [
+    "Response Time",
+    "1 Millisecond"
+   ],
+   [
+    "Model Number",
+    "LS32CG552EMXEG"
+   ],
+   [
+    "Model Name",
+    "Odyssey G5 G55C"
+   ],
+   [
+    "Connectivity",
+    "HDMI port, Display port, audio port"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/samsung-32-inch-qhd-va-gaming-monitor-ls32cg552emxeg?offering_id=75bdb0e7-586d-4be3-84f3-2b5cfe70c60c",
+   "https://www.compumarts.com/products/samsung-32-inch-g55c-va-2k-qhd-165hz-refresh-rate-1ms-curved-gaming-monitor.js"
+  ]
+ },
+ "noon-N70138557V": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "compumarts",
+  "specs": [
+   [
+    "DISPLAY",
+    "24\" (60.96 cm)"
+   ],
+   [
+    "SPEED",
+    "200 Hz"
+   ],
+   [
+    "CONNECTIVITY",
+    "2 HDMI ports (HDCP 1.4 and HDCP 2.2) (Supports up to FHD 1920 x 1080 200Hz, VRR, HDR as per specified in HDMI 2.1)"
+   ]
+  ],
+  "tried": [
+   "https://www.compumarts.com/products/products-dell-se2425hg-24-inch-fhd-ips-200hz-freesync-premium-gaming-monitor.js"
+  ]
+ },
+ "btech-7769228025B8F08956F0": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Philips"
+   ],
+   [
+    "Wattage",
+    "1700 Watt"
+   ],
+   [
+    "Capacity",
+    "6.2 Liter"
+   ],
+   [
+    "Model Name",
+    "2000 Series"
+   ],
+   [
+    "Model Number",
+    "NA230-00"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/23c90d6e-2fbc-41a0-941d-e5eca1b1caf1?offering_id=fa7a9467-5a79-456a-bb5c-fe9abc7cf8a2",
+   "https://www.carrefouregypt.com/mafegy/en/air-fryer/philips-air-fryerna230-00-1700w/p/643386?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000"
+  ]
+ },
+ "noon-N53327261A": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Huawei"
+   ],
+   [
+    "Display Type",
+    "AMOLED"
+   ],
+   [
+    "Model Name",
+    "Band 7"
+   ],
+   [
+    "Connectivity",
+    "Android 6 or later, iOS 9 or later"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/2c94fa9d-ceb5-405e-9894-7260cbccce6d?offering_id=5ae4dde3-80a2-409c-8d28-5e14d4f0ddff"
+  ]
+ },
+ "xprs-68146579603674": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "Brand",
+    "Sony"
+   ],
+   [
+    "MPN",
+    "GM655"
+   ],
+   [
+    "Device Type",
+    "Gaming Consoles"
+   ],
+   [
+    "Color",
+    "White"
+   ],
+   [
+    "Model",
+    "Sony PlayStation 5 Standard Edition Slim"
+   ],
+   [
+    "GPU",
+    "The custom integration of the PS5® console's systems lets creators pull data from the SSD so quickly that they can design games in ways never before possible."
+   ],
+   [
+    "Hard Disk Capacity",
+    "1 Tera"
+   ],
+   [
+    "Resolution",
+    "4K UHD"
+   ],
+   [
+    "Game Controller",
+    "DUALSHOCK®4 wireless controller"
+   ],
+   [
+    "I/O Ports",
+    "Up to 120fps with 120Hz output , Enjoy smooth and fluid high frame rate gameplay at up to 120fps for compatible games, with support for 120Hz output on 4K displays."
+   ],
+   [
+    "Connectivity",
+    "Bluetooth Bluetooth® 4.0 + LE LAN Integrated 10/100 M Ethernet LAN WiFi Yes,IEEE 802.11 b/g/n"
+   ],
+   [
+    "Package Contents",
+    "PlayStation®5 console, DualSense™ Wireless Controller, 1TB SSD, 2 Horizontal stand feet, HDMI® cable, AC power cord, USB cable, Printed materials, ASTRO's PLAYROOM (Pre-installed game)"
+   ],
+   [
+    "warranty",
+    "1 Year"
+   ]
+  ],
+  "tried": [
+   "https://2b.com.eg/en/sony-playstation-5-standard-slim.html"
+  ]
+ },
+ "btech-BUTV55LG8070BESP26N": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Levon"
+   ],
+   [
+    "Display Type",
+    "QLED"
+   ],
+   [
+    "Resolution Type",
+    "4K UHD"
+   ],
+   [
+    "Built-In Receiver",
+    "Yes"
+   ],
+   [
+    "Display Resolution",
+    "2160x3840"
+   ],
+   [
+    "Remote Control Included",
+    "Yes"
+   ],
+   [
+    "Connection Type",
+    "Wired and Wireless"
+   ],
+   [
+    "Number of HDMI Ports",
+    "4"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/d652f904-f1e4-4651-8baa-7c8a1ed27986?offering_id=f9477197-64e2-4e29-b16d-52fe693e1b69",
+   "https://www.carrefouregypt.com/mafegy/en/qled-qned-tv/tcl-qled-tv-55p8k-sm-rc-4k-frameles/p/662730?offer=offer_1169716985&sid=DEFAULT&sellerId=16985"
+  ]
+ },
+ "carrefour-679634": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Display diagonal",
+    "55 Inch"
+   ],
+   [
+    "Display resolution",
+    "3840 x 2160"
+   ],
+   [
+    "HD type",
+    "Ultra HD"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "Smart TV",
+    "Yes"
+   ]
+  ],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/oled-tv/lg-oled55b66la-4k-sm-rc/p/679634?offer=offer_1074918304&sid=DEFAULT&sellerId=18304"
+  ]
+ },
+ "carrefour-679641": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "carrefour",
+  "specs": [
+   [
+    "Display diagonal",
+    "55 Inch"
+   ],
+   [
+    "Display resolution",
+    "3840 x 2160"
+   ],
+   [
+    "HD type",
+    "Ultra HD"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ]
+  ],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/qled-qned-tv/lg-qned-tv-55qned84b6t-4k-sm-rc/p/679641?offer=offer_1078118304&sid=DEFAULT&sellerId=18304"
+  ]
+ },
+ "carrefour-500002016": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/washing-machine/fresh-washing-machine-baby-3-k-g-/p/500002016?offer=offer_1000422896&sid=DEFAULT&sellerId=22896"
+  ]
+ },
+ "miami-237786": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Honor"
+   ],
+   [
+    "Network",
+    "5G"
+   ],
+   [
+    "Sim Type",
+    "Nano-SIM"
+   ],
+   [
+    "Port Type",
+    "Type C"
+   ],
+   [
+    "Display Type",
+    "AMOLED"
+   ],
+   [
+    "Charging Type",
+    "Wired"
+   ],
+   [
+    "Number of Sim",
+    "Dual-SIM"
+   ],
+   [
+    "Display Resolution",
+    "2788×1280"
+   ],
+   [
+    "Operating System Type",
+    "MagicOS 10"
+   ],
+   [
+    "Gift",
+    "HONOR CHOICE Earbuds X7 Lite (Color May Vary)"
+   ],
+   [
+    "Dimensions",
+    "H×W×D: 162.2×77×8.08 mm"
+   ],
+   [
+    "Model Name",
+    "X9e Pro"
+   ],
+   [
+    "Connectivity",
+    "Wi-Fi 6E (802.11 ax) and 802.11 a/b/g/n/ac, Bluetooth 6, USB: Type-C, USB 2, OTG, GPS/AGPS/Glonass/BeiDou/Galileo/QZSS/BDS"
+   ],
+   [
+    "Zoom Capability",
+    "15X Digital zoom"
+   ],
+   [
+    "Chipset Manufacturer",
+    "Qualcomm Snapdragon 6 Gen 5, Octa-core"
+   ],
+   [
+    "Video Capture Format",
+    "Support 4K pixels"
+   ],
+   [
+    "Processor Manufacturer",
+    "Qualcomm Snapdragon 6 Gen 5, Octa-core"
+   ],
+   [
+    "Screen Size",
+    "6.8 Inch"
+   ],
+   [
+    "Front Camera",
+    "16 megapixels"
+   ],
+   [
+    "Primary Camera",
+    "108 megapixels"
+   ],
+   [
+    "Battery Capacity",
+    "11000 mAh"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/honor-x9e-pro-256-gb-8-gb-5g-dual-sim-deep-purple-18"
+  ]
+ },
+ "2b-samsung-32-uhd-monitor-with-intelligent-eye-care-60hz-ls32a700nwmxzn.html": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "2b",
+  "specs": [
+   [
+    "MPN",
+    "LS32A700NWMXZN"
+   ],
+   [
+    "Brand",
+    "Samsung"
+   ],
+   [
+    "Model",
+    "LS32A700NWMXZN"
+   ],
+   [
+    "Design",
+    "Flat"
+   ],
+   [
+    "Monitor Type",
+    "Office"
+   ],
+   [
+    "Display Size",
+    "32 inches"
+   ],
+   [
+    "Display Type",
+    "LED"
+   ],
+   [
+    "Resolution",
+    "4K UHD"
+   ],
+   [
+    "Refresh Rate",
+    "60HZ"
+   ],
+   [
+    "Brightness",
+    "300 cd/㎡"
+   ],
+   [
+    "Contrast Ratio",
+    "2500:1(Typ)"
+   ],
+   [
+    "Response Time",
+    "5 ms"
+   ],
+   [
+    "warranty",
+    "3 Years"
+   ]
+  ],
+  "tried": [
+   "https://2b.com.eg/en/samsung-32-uhd-monitor-with-intelligent-eye-care-60hz-ls32a700nwmxzn.html"
+  ]
+ },
+ "btech-0B539DD6A6B9C6096368": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": "btech",
+  "specs": [
+   [
+    "Brand",
+    "Xiaomi"
+   ],
+   [
+    "Model Name",
+    "Mi Anion"
+   ],
+   [
+    "Model Number",
+    "H300"
+   ],
+   [
+    "Power Source",
+    "Electricity"
+   ],
+   [
+    "Speed Settings",
+    "2"
+   ]
+  ],
+  "tried": [
+   "https://btech.com/en/p/2525ee01-d828-48a8-866c-3129266fce7e?offering_id=5188eed4-2d23-497a-973a-af3fdeb809cf"
+  ]
+ },
+ "carrefour-633160": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/air-conditioners/sharp-ac-fan-ah-a12zse1-5-st-cold/p/633160?offer=offer_1159716985&sid=DEFAULT&sellerId=16985"
+  ]
+ },
+ "carrefour-633159": {
+  "t": "2026-11-21T21:01+00:00",
+  "source": null,
+  "specs": [],
+  "tried": [
+   "https://www.carrefouregypt.com/mafegy/en/air-conditioners/sharp-ac-fan-ay-ap12zhe1-5-h-c-dig/p/633159?offer=offer_1161616985&sid=DEFAULT&sellerId=16985"
   ]
  }
 }
