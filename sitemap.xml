@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://bkam-eg.github.io/</loc><lastmod>2026-11-22</lastmod><priority>1.0</priority></url>
   <url><loc>https://bkam-eg.github.io/c/kitchen-appliances.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
-  <url><loc>https://bkam-eg.github.io/c/mobiles.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/c/playstation.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bkam-eg.github.io/c/mobiles.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/c/headphones.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
-  <url><loc>https://bkam-eg.github.io/c/tvs.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/c/laptops.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/c/smart-watches.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/c/mobile-accessories.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bkam-eg.github.io/c/tvs.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/c/home-appliances.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/c/monitors.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/c/computer.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/c/tablets.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bkam-eg.github.io/m/sony-dualsense.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bkam-eg.github.io/m/sony-playstation-5-dualsense.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/samsung-galaxy-s25-ultra.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/sony-playstation-5-slim.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/samsung-galaxy-a56.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
-  <url><loc>https://bkam-eg.github.io/m/samsung-galaxy-buds-3-pro.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
-  <url><loc>https://bkam-eg.github.io/m/oppo-reno-16f.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
-  <url><loc>https://bkam-eg.github.io/m/sony-dualsense.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
-  <url><loc>https://bkam-eg.github.io/m/sony-playstation-5-dualsense.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bkam-eg.github.io/m/samsung-galaxy-watch-9.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bkam-eg.github.io/m/samsung-galaxy-watch-8.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/apple-iphone-17-pro-max.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/apple-iphone-17.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/apple-iphone-16-plus.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
@@ -31,33 +31,39 @@
   <url><loc>https://bkam-eg.github.io/m/xiaomi-redmi-note-17-pro.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/apple-airpods-pro-3.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/apple-airpods-4.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bkam-eg.github.io/m/samsung-galaxy-buds-3-pro.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bkam-eg.github.io/m/samsung-galaxy-a08.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/realme-15-pro.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
-  <url><loc>https://bkam-eg.github.io/m/realme-16-pro.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/infinix-note-60.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bkam-eg.github.io/m/infinix-note-edge.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/infinix-hot-70.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
-  <url><loc>https://bkam-eg.github.io/m/samsung-galaxy-watch-9.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
-  <url><loc>https://bkam-eg.github.io/m/samsung-galaxy-watch-8.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/samsung-galaxy-watch-8-classic.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/sony-playstation-5-pro.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
-  <url><loc>https://bkam-eg.github.io/m/xiaomi-redmi-note-14-pro.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bkam-eg.github.io/m/apple-iphone-17e.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/samsung-galaxy-buds-3-fe.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/jbl-tune-520bt.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bkam-eg.github.io/m/oppo-reno-15.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bkam-eg.github.io/m/realme-16-pro.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bkam-eg.github.io/m/honor-x9d.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/apple-ipad-2025.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
-  <url><loc>https://bkam-eg.github.io/m/samsung-galaxy-tab-s10-fe.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/samsung-galaxy-tab-s11-ultra.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bkam-eg.github.io/m/samsung-galaxy-tab-s10-fe.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/samsung-galaxy-tab-a11-plus.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/sony-playstation-5-slim-digital.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/sony-playstation-5-slim-disc.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bkam-eg.github.io/m/xiaomi-redmi-note-14-pro.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bkam-eg.github.io/m/generic-galaxy-buds-3-fe.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bkam-eg.github.io/m/samsung-galaxy-buds-4-pro.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bkam-eg.github.io/m/samsung-galaxy-smarttag2.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/infinix-note-60-pro.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
-  <url><loc>https://bkam-eg.github.io/m/infinix-note-edge.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/infinix-hot-60.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/apple-ipad-2025-11th-gen.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bkam-eg.github.io/m/xiaomi-redmi-pad-2.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/apple-watch-series-11.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/apple-apple-watch-series-11.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/apple-watch-series-12.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/samsung-galaxy-watch-ultra.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/samsung-galaxy-z-fold-8.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
-  <url><loc>https://bkam-eg.github.io/m/samsung-galaxy-a17.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/apple-iphone-18-pro-max.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/apple-iphone-16e.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/samsung-galaxy-a27.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
@@ -69,8 +75,6 @@
   <url><loc>https://bkam-eg.github.io/m/laut-aero-protect-for-airpods.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/laut-pod-for-airpods-4.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/laut-holo-for-airpods-4.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
-  <url><loc>https://bkam-eg.github.io/m/samsung-galaxy-buds-4-pro.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
-  <url><loc>https://bkam-eg.github.io/m/samsung-galaxy-smarttag2.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/infinix-hot-60i.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/apple-ipad-air-13-inch.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/apple-magic-keyboard-for-ipad.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
@@ -88,53 +92,53 @@
   <url><loc>https://bkam-eg.github.io/m/uniq-ryze-360-for-ipad.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/m/uniq-camden-click-for-ipad.html</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://bkam-eg.github.io/b/kitchen-appliances-philips.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
-  <url><loc>https://bkam-eg.github.io/b/mobiles-samsung.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/playstation-sony.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
+  <url><loc>https://bkam-eg.github.io/b/mobiles-samsung.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/headphones-samsung.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
-  <url><loc>https://bkam-eg.github.io/b/tvs-xiaomi.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/laptops-lenovo.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/laptops-asus.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
-  <url><loc>https://bkam-eg.github.io/b/mobiles-oppo.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
-  <url><loc>https://bkam-eg.github.io/b/kitchen-appliances-tefal.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
-  <url><loc>https://bkam-eg.github.io/b/kitchen-appliances-fresh.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/kitchen-appliances-kieslect.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/kitchen-appliances-de'longhi.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
+  <url><loc>https://bkam-eg.github.io/b/smart-watches-samsung.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/mobiles-apple.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/mobiles-xiaomi.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/headphones-apple.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/headphones-logitech.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
-  <url><loc>https://bkam-eg.github.io/b/mobile-accessories-samsung.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
+  <url><loc>https://bkam-eg.github.io/b/mobile-accessories-anker.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/tvs-samsung.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/tvs-lg.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
+  <url><loc>https://bkam-eg.github.io/b/tvs-xiaomi.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/laptops-hp.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
-  <url><loc>https://bkam-eg.github.io/b/laptops-apple.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
-  <url><loc>https://bkam-eg.github.io/b/home-appliances-fresh.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/home-appliances-sharp.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/home-appliances-carrier.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
+  <url><loc>https://bkam-eg.github.io/b/mobiles-oppo.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/mobiles-realme.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
-  <url><loc>https://bkam-eg.github.io/b/mobiles-honor.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/mobiles-infinix.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/monitors-samsung.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/monitors-dell.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
-  <url><loc>https://bkam-eg.github.io/b/kitchen-appliances-xiaomi.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
+  <url><loc>https://bkam-eg.github.io/b/kitchen-appliances-tefal.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/kitchen-appliances-nespresso.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
-  <url><loc>https://bkam-eg.github.io/b/smart-watches-samsung.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
+  <url><loc>https://bkam-eg.github.io/b/kitchen-appliances-xiaomi.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/headphones-jbl.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
-  <url><loc>https://bkam-eg.github.io/b/mobile-accessories-anker.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
+  <url><loc>https://bkam-eg.github.io/b/mobile-accessories-samsung.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/computer-logitech.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/tvs-tcl.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
+  <url><loc>https://bkam-eg.github.io/b/laptops-apple.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
+  <url><loc>https://bkam-eg.github.io/b/home-appliances-fresh.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/home-appliances-samsung.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
+  <url><loc>https://bkam-eg.github.io/b/mobiles-honor.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/mobiles-vivo.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/tablets-apple.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/tablets-samsung.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/tablets-xiaomi.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/smart-watches-huawei.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/smart-watches-xiaomi.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
-  <url><loc>https://bkam-eg.github.io/b/home-appliances-zanussi.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
+  <url><loc>https://bkam-eg.github.io/b/tvs-xiaomi..html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/smart-watches-apple.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
+  <url><loc>https://bkam-eg.github.io/b/kitchen-appliances-fresh.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
+  <url><loc>https://bkam-eg.github.io/b/home-appliances-zanussi.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/mobiles-skinarma.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/headphones-laut.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
-  <url><loc>https://bkam-eg.github.io/b/tvs-xiaomi..html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/home-appliances-aura.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/home-appliances-tornado.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/home-appliances-bosch.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
@@ -145,176 +149,157 @@
   <url><loc>https://bkam-eg.github.io/b/monitors-xiaomi.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/b/monitors-dahua.html</loc><lastmod>2026-11-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://bkam-eg.github.io/p/philips-countertop-blender-with-mill-problend-system-1-liter-e099e5.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-s25-ultra-ai-dual-sim-titanium-black-59e36e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/sony-dualsense-wireless-controller-for-playstation-5-white-12d8c6.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/sony-playstation-5-dualsense-wireless-controller-cobalt-blue-8f23c4.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-s25-ultra-ai-dual-sim-titanium-black-2e3ac5.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sony-playstation-5-slim-console-international-version-digital-edition-2e6046.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/sony-dualsense-wireless-ps5-controller-grey-camouflage-e9cf88.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/sony-dualsense-wireless-controller-for-playstation-5-official-version-3f7c4f.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-a56-5g-dual-sim-awesome-graphite-8gb-ad9895.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-buds-3-pro-earbuds-silver-sm-r630-109e9a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/xiaomi-43-inch-smart-tv-fhd-led-built-in-e5fed6.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-a37-256-gb-8-5g-dual-sim-21055b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-a56-256-gb-8-4g-lte-dual-8a4d99.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-a17-256-gb-8-5g-dual-sim-0a623d.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/lenovo-laptop-ideapad-slim-3-15irh10-core-i5-13420h-ea9b20.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-lenovo-ideapad-slim-3-15iru8-laptop-core-i3-bf4d1b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/asus-upgraded-version-tuf-gaming-f16-fx608jmr-16-wuxga-fab621.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/oppo-reno-16f-256-gb-12-5g-dual-sim-75c59d.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/oppo-reno-16f-256-gb-8-5g-dual-sim-151328.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/tefal-air-fryer-1-2-kg-1500-watt-black-4bdf53.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/fresh-air-fryer-digital-7l-1800-watt-black-aff-99d39f.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/fresh-air-fryer-5-liter-1500-watt-digital-black-7f2fb0.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/tornado-air-fryer-4-liters-1550w-black-silver-thf-f8738d.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/kieslect-turkish-coffee-machine-700w-550ml-tcm700b-ks-black-5ba390.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/de-longhi-magnifica-evo-fully-automatic-coffee-machine-black-3de43b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/de-longhi-magnifica-start-bean-to-cup-coffee-machine-c31d0f.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-watch-9-smart-44mm-silver-54ef95.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-watch-8-local-44mm-graphite-31ab24.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/honor-band-10-smart-1-57-inch-black-b0ff28.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/sony-dualsense-wireless-ps5-controller-grey-camouflage-e9cf88.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/sony-playstation-5-dualsense-wireless-controller-cobalt-blue-8f23c4.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/sony-dualsense-wireless-controller-for-playstation-5-midnight-black-53c927.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/sony-dualsense-wireless-controller-for-playstation-5-official-version-7ea94e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/sony-dualsense-wireless-controller-purple-6275df.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sony-playstation-portal-remote-player-5-337fbd.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/apple-iphone-17-pro-max-256gb-nano-sim-esim-578f8b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/apple-iphone-17-pro-max-256-gb-esim-only-e3ba76.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/apple-iphone-17-pro-max-256-gb-esim-only-2e7394.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/apple-iphone-17-pro-max-256-gb-deep-blue-bc9f2f.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/apple-iphone-17-256gb-nano-sim-esim-black-5g-d5933a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/apple-iphone-17-256gb-nano-sim-esim-white-5g-09b129.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/apple-iphone-17-256gb-nano-sim-esim-mist-blue-36bad1.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/apple-iphone-17-pro-max-256-gb-12-5g-842079.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/apple-iphone-17-pro-max-256-gb-cosmic-orange-29e9c3.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/apple-iphone-17-256gb-nano-sim-esim-sage-5g-6e4a70.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/apple-iphone-16-plus-256gb-black-5g-middle-east-42db0c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/apple-iphone-16-128gb-black-5g-middle-east-version-a1a185.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/apple-iphone-16-128gb-white-5g-with-facetime-international-f8e8d9.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/apple-iphone-16-128gb-pink-5g-middle-east-version-797f8d.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/apple-iphone-16-128gb-teal-5g-middle-east-version-c71097.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-a57-256-gb-8-5g-dual-sim-f13b6f.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-a57-256-gb-12-5g-dual-sim-0a26aa.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-a57-256-gb-8-5g-dual-sim-9a9d7e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-a36-5g-dual-sim-awesome-white-8gb-828f88.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-a16-128-gb-4-4g-lte-dual-4e890b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-a16-128-gb-4-4g-lte-dual-77eea5.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-a16-128-gb-4-4g-lte-dual-c8d617.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/xiaomi-redmi-note-15-pro-dual-sim-512gb-12gb-17d5c0.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-a16-128-gb-4-4g-lte-dual-ebe18b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/xiaomi-redmi-note-15-pro-dual-sim-titanium-12gb-35d555.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/xiaomi-redmi-note-17-pro-5g-dual-sim-8gb-d031ba.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/xiaomi-redmi-note-17-pro-dual-sim-5g-black-d0317a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/apple-airpods-pro-3-wireless-earbuds-bluetooth-headphones-active-b6a246.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/logitech-pro-x-superlight-2-wireless-gaming-mouse-white-7ff425.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/apple-airpods-4-earbuds-with-active-noise-cancellation-white-96a744.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-usb-c-wall-charger-25w-ep-t2510nbegww-black-7fa22f.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-buds-3-pro-earbuds-silver-sm-r630-109e9a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-a08-64-gb-4-4g-dual-sim-ceed24.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/anker-powercore-20k-wired-power-bank-20000-mah-2-9cb89c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-55-inch-mini-led-4k-smart-tv-advanced-afda71.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/generic-haier-55-inch-4k-uhd-smart-google-tv-3bf3e7.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-55-inch-crystal-uhd-smart-tv-u8000h-with-87243c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-haier-55-inch-4k-uhd-smart-google-tv-3bf3e7.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-55-inch-smart-tv-4k-uhd-oled-built-57c94f.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/lg-55-inch-nano-nu850-4k-uhd-smart-tv-0f2a76.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/generic-xiaomi-tv-32-inch-hd-smart-led-with-ab69b1.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/generic-xiaomi-tv-box-s-3rd-gen-4k-uhd-8abe91.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/xiaomi-43-inch-smart-tv-fhd-led-built-in-e5fed6.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/lenovo-ideapad-slim-3-15iph11-laptop-intel-core-ultra-f17311.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/lenovo-laptop-ideapad-slim-3-15irh10-intel-core-i7-148f5e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-hp-victus-15-fa2013dx-laptop-with-6-inch-48725a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/asus-fa608uh-rv007w-tuf-gaming-a16-laptop-with-16-fbafb2.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/asus-tuf-gaming-a15-fa506ncq-hn167w-laptop-amd-ryzen-a6020d.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/asus-tuf-gaming-a15-fa506ncg-hn857w-laptop-amd-ryzen-051c6e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/apple-new-2026-macbook-air-mdhe4-13-inch-display-e8c1b3.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/fresh-washing-machine-4-kg-swm400-multicolour-36acee.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sharp-2-25-hp-cooling-air-conditioner-ah-a18zse-81b89d.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/carrier-x-cool-split-air-conditioner-1-5-horsepower-6268e7.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/carrier-optimax-split-air-conditioner-1-5-horsepower-only-8224ad.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-carrier-xcool-split-inverter-air-conditioner-2-25-e80ed3.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/oppo-reno-16-256-gb-12-5g-dual-sim-11890e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/realme-15-pro-5g-dual-sim-flowing-silver-12gb-2772f6.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/realme-15-pro-5g-dual-sim-velvet-green-12gb-6a56cd.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/realme-16-pro-256-gb-12-5g-dual-sim-92572b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/realme-16-pro-256-gb-12-5g-dual-sim-3261bc.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/honor-x9e-pro-256-gb-8-5g-dual-sim-130ca0.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/honor-x9d-256-gb-12-5g-dual-sim-reddish-bdb0d6.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/realme-c85-pro-256-gb-8-4g-lte-dual-5f8868.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-infinix-note-60-smartphone-dual-sim-256gb-storage-9fe90b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/infinix-note-60-256-gb-8-5g-dual-sim-6e682e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/infinix-note-edge-256-gb-8-5g-dual-sim-e1078b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/infinix-note-60-256-gb-8-5g-dual-sim-0a7202.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-infinix-hot-70-dual-sim-128gb-6gb-ram-08c033.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-odyssey-g5-g55c-32-inch-qhd-monitor-165-6e7218.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-samsung-odyssey-g5-2k-qhd-hdr10-va-panel-c5b2d4.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/dell-monitor-24-e2425hm-display-hdmi-vga-3-years-7e03c7.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/tefal-easy-fry-max-hot-air-fryer-5-liters-f5ebf7.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/tefal-easy-fry-max-air-fryer-5-liter-black-cf13d6.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/beko-expertfry-dual-zone-digital-air-fryer-8-5l-4dce61.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/tefal-easy-fry-u0026-grill-xxl-digital-air-fryer-607af0.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/armadillo-air-fryer-10-l-digital-double-door-arm-1a287a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/fresh-air-fryer-1500w-7-l-digital-steam-cooking-504aca.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/kieslect-digital-air-fryer-with-viewing-window-8l-2000w-849446.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/xiaomi-h101-hair-dryer-1600-watt-white-fff43c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/ido-air-fryer-4-5-liter-1400-watt-manual-c01aef.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/xiaomi-smart-air-fryer-6-5l-1800w-large-capacity-76d0b9.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/philips-viva-collection-promix-handblender-2-years-warranty-hr2657-95c0f4.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/nespresso-inissia-coffee-machine-red-c40-eu-re-ne-14e001.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/xiaomi-semi-automatic-espresso-coffee-machine-1350-watt-silver-d1a6f0.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/de-longhi-delonghi-dedica-arte-espresso-coffee-machine-ec885-963d42.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/de-longhi-delonghi-magnifica-smart-espresso-coffee-machine-1450w-a77742.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/de-longhi-delonghi-rivelia-one-touch-coffee-machine-exam440-ed300b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-watch-9-smart-44mm-silver-54ef95.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-watch-8-local-44mm-graphite-31ab24.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-watch-8-classic-46mm-international-black-9223ff.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sony-playstation-5-slim-console-international-version-disc-with-4f6cba.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/sony-playstation-5-disc-version-slim-console-with-controller-500224.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/sony-playstation-5-slim-console-digital-edition-825-gb-f7a6cc.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sony-playstation-5-pro-console-2tb-official-ksa-version-f88ed1.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/sony-dualsense-wireless-controller-for-playstation-5-white-12d8c6.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/sony-dualsense-wireless-controller-for-playstation-5-midnight-black-53c927.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/sony-dualsense-wireless-controller-pink-3f218e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/ea-fc-26-standard-edition-ps5-uae-version-playstation-60e339.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/apple-iphone-17-pro-max-512-gb-12-5g-5efd38.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/apple-iphone-17-pro-max-512-gb-12-5g-c0c6a9.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/apple-iphone-17-pro-max-512-gb-12-5g-9f81e7.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/apple-iphone-17e-256gb-black-5g-nano-sim-esim-7fb0f6.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/apple-iphone-17-pro-256-gb-12-5g-dual-d8f919.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/apple-iphone-16-plus-128gb-white-5g-middle-east-8b6307.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-s25-ultra-ai-dual-sim-titanium-grey-fb860e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-a36-5g-dual-sim-awesome-black-8gb-67ad5a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/xiaomi-redmi-note-17-pro-5g-dual-sim-12gb-67133c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/xiaomi-redmi-note-17-pro-dual-sim-5g-satin-f1d26b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/xiaomi-redmi-note-14-pro-plus-256-gb-12-266fad.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-pro-air-pods-compatible-with-android-iphone-white-93a338.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/logitech-pro-x-2-lightspeed-wireless-gaming-headphones-black-bd422a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-buds3-fe-active-noise-cancellation-grey-54a0c2.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-buds3-fe-active-noise-cancellation-black-3f8870.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/apple-airpods-4-earbuds-white-55a42a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-buds3-fe-earbuds-active-noise-cancellation-black-2ba7dd.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-buds3-fe-earbuds-active-noise-cancellation-gray-08cbcc.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-buds-3-pro-earbuds-white-sm-r630-6f80eb.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/jbl-tune-520bt-wireless-on-ear-headphones-pure-bass-df807a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/jbl-tune-520bt-wireless-on-ear-headphones-pure-bass-a2c997.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/jbl-tune-520bt-wireless-on-ear-headphones-pure-bass-66557a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/jbl-tune-520bt-wireless-on-ear-headphones-pure-bass-dc88df.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/jbl-tune-520bt-wireless-on-ear-headphones-black-96cfb2.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/generic-anker-zolo-wall-charger-type-c-25w-fast-4b960e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/anker-usb-a-c-power-bank-20000-mah-3-0e66c3.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-wall-charger-usb-25-watt-black-7c1f6e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-wall-charger-1-ports-type-c-45-watt-aff7d7.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-logitech-g102-light-sync-gaming-mouse-with-customizable-b1c97e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-logitech-g502-x-wired-mouse-black-c2ec08.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-logitech-g-g502-x-lightspeed-wireless-gaming-mouse-7a4a03.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-logitech-g502-x-wired-gaming-mouse-lightforce-hybrid-80cccd.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-logitech-g502-x-plus-wireless-gaming-mouse-black-5f876c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/lg-55-inch-smart-tv-4k-uhd-led-built-43dcff.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/tcl-55-inch-p6k-led-4k-uhd-hdr-smart-f76475.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/xiaomi-s-3rd-gen-tv-box-4k-uhd-black-4d6251.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/tcl-43-inch-smart-tv-fhd-qled-built-in-906c45.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-hp-victus-15-fa2392tx-gaming-laptop-intel-core-2ed430.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/hp-victus-15-fa1082wm-laptop-intel-core-i5-13420h-019b99.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/generic-asus-tuf-gaming-16-fx610jh-tu655w-laptop-intel-8ce6b5.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/apple-new-2026-macbook-air-mdhh4-13-inch-display-bec252.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/apple-new-2026-macbook-air-mdh74-13-inch-display-7c51f6.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/generic-fresh-baby-fws300na-washing-machine-3kg-white-5d048c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/generic-fresh-washing-machine-10-kg-jumbo-single-tub-92ef5e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/hp-victus-15-fa2787nr-gaming-laptop-intel-core-i7-95f326.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/asus-tuf-gaming-a15-fa506ncq-hn167w-laptop-amd-ryzen-422b29.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/asus-tuf-f16-fx607vjb-rl165w-gaming-laptop-intel-core-43da7f.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/asus-tuf-gaming-a15-fa506ncg-hn857w-laptop-amd-ryzen-051c6e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/apple-macbook-air-laptop-m4-chip-with-10-core-651c8b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/apple-macbook-air-laptop-m4-chip-with-10-core-b61f67.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/fresh-top-load-half-automatic-washing-machine-10-kg-9977df.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/fresh-front-load-washing-machine-8-kg-black-w8bldc1255pcbl-8a86e1.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-front-load-washing-machine-9-kg-silver-ww90t4040cx1as-49b543.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/fresh-front-load-washing-machine-8-kg-black-500016432-f5f676.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/fresh-washing-machine-8-kgs-inverter-front-loading-full-aba72e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-front-load-washing-machine-1400-rpm-9-kg-1a1838.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-samsung-washing-machine-eco-bubble-9kg-inverter-motor-6c8b42.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-washing-machine-front-loading-11-kg-local-warranty-ce303d.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-sharp-split-air-conditioner-1-5-hp-cool-5d92dc.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sharp-split-air-conditioner-3-horsepower-only-cooling-silver-b5fdfe.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-carrier-1-5-hp-cool-only-air-conditioner-2eb2b6.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/carrier-xcool-air-conditioner-1-5-hp-cooling-and-71928f.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/carrier-optimax-split-air-conditioner-1-5-horsepower-only-8224ad.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/carrier-split-air-conditioner-5-horsepower-cooling-and-heating-b72bda.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-oppo-reno16-f-dual-sim-twilight-violet-12gb-e09014.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/realme-16-pro-plus-256-gb-12-5g-dual-188b97.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/infinix-note-60-256-gb-8-5g-dual-sim-d2a568.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/oppo-reno-15-256-gb-12-5g-dual-sim-6ea2b7.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/realme-16-pro-256-gb-12-5g-dual-sim-92572b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/realme-16-pro-256-gb-12-5g-dual-sim-3261bc.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/honor-x9d-256-gb-12-5g-dual-sim-midnight-3db6ac.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/honor-x9d-256-gb-12-5g-dual-sim-sunrise-669998.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-vivo-y31d-dual-sim-smartphone-128gb-storage-6gb-bb1b78.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/apple-ipad-2025-11th-generation-a16-11-inch-wi-787053.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/apple-ipad-2025-11th-generation-a16-11-inch-wi-2f0424.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/apple-ipad-2025-11th-generation-a16-11-inch-wi-125af0.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-tab-s10-fe-silver-8gb-ram-128gb-421a40.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-tab-s11-ultra-ai-tablet-silver-wifi-d9ed94.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-tab-s11-ultra-ai-tablet-gray-5g-ce45b2.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-tab-s10-fe-silver-12gb-ram-256gb-fb6761.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-tab-s10-fe-light-blue-12gb-ram-fda35c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-tab-a11-tablet-128-gb-6-5g-715a01.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-tab-a11-tablet-256-gb-8-5g-55f1cd.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/xiaomi-redmi-pad-se-tablet-256-gb-8-graphite-692aa4.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-essential-monitor-s3-24-inch-fhd-flat-100-5a2e25.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-samsung-s3-s27f320gau-27-inch-ips-fhd-120hz-91fdf9.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-monitor-24-ls24f330eauxen-s33gf-100hz-va-panel-fhd-2d17fb.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-samsung-24-inch-essential-monitor-s3-ips-full-9c3e5a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-dell-24-monitor-se2425h-d9ee63.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/dell-20-inch-hd-monitor-60-hertz-5-millisecond-a5fade.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/dell-27-inch-fhd-flat-monitor-100-hertz-8-ccc484.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/generic-philips-air-fryer-3-2l-rapid-technology-na110-fb1d53.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/philips-air-fryer-4-2-liter-1500-watt-black-feaf73.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/tefal-air-fryer-5l-digital-10-programs-ey2458eg-412c31.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/philips-air-fryer-3000-series-7-2l-digital-2000w-3ebac6.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/pluto-air-fryer-1800w-digital-7-2-liter-capacity-19494c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/xiaomi-smart-digital-air-fryer-6-5-liter-1800-d8bd30.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/xiaomi-mi-anion-hair-dryer-1600-watt-white-h300-2a7fd2.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/xiaomi-air-fryer-6l-xxl-hot-1500w-40-200-12a160.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/xiaomi-mi-smart-air-fryer-360-degrees-hot-circulation-e6f211.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/generic-xiaomi-air-fryer-essential-6l-large-capacity-household-061c8e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/midea-air-fryer-9-liters-2200-watt-digital-black-867176.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/philips-2000-series-air-fryer-6-2-liter-1700-f5ee61.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/philips-blender-5000-series-1200w-2l-capacity-3-speed-071dca.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/nespresso-lattissima-one-coffee-machine-with-milk-1-liter-a28a69.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/nespresso-inissia-coffee-machine-black-d40-eu-bk-ne-db71c2.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
@@ -329,75 +314,84 @@
   <url><loc>https://bkam-eg.github.io/p/huawei-band-11-smart-1-62-inch-black-a38bb8.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/xiaomi-smart-band-9-pro-obsidian-black-08369d.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/xiaomi-smart-band-8-pro-black-dcf022.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/sony-playstation-5-slim-international-version-disc-dualsense-wireless-ae72e7.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/sony-playstation-5-disc-version-slim-console-with-controller-500224.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sony-playstation-5-slim-digital-console-ksa-version-with-6205d2.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sony-playstation-5-slim-console-disc-version-with-extra-7486c1.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sony-playstation-5-slim-disc-console-with-extra-wireless-8c00d1.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sony-playstation-5-pro-international-version-console-with-controller-b701c2.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sony-playstation-5-pro-digital-console-dualsense-wireless-controller-106abb.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/powera-officially-licensed-twin-charging-station-for-dualsense-controller-cba6e9.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/sony-dualsense-wireless-controller-for-playstation-5-official-version-7ea94e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sony-playstation-5-dualsense-wireless-controller-sterling-silver-uae-83021b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/sony-dualsense-wireless-controller-for-playstation-5-galactic-purple-2e25d9.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sony-dualsense-wireless-controller-black-8627dd.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sony-play-station-portal-remote-player-for-ps5-console-5b62fc.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sony-playstation-portal-midnight-black-fb00cf.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/ea-sports-fc-26-standard-edition-ps5-int-version-c44d4f.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/e-a-fc-26-ps5-e54593.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sony-playstation-5-disc-slim-console-with-extra-white-1feee2.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/apple-iphone-17-pro-max-1-terabyte-12-gb-c3e366.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/apple-iphone-17-512-gb-8-5g-dual-sim-444f41.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/apple-iphone-16-256-gb-8-5g-single-sim-87bcef.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/apple-iphone-16-256-gb-8-5g-single-sim-ef5dd2.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/apple-iphone-17-pro-max-2-terabyte-12-gb-525159.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/apple-iphone-16-plus-128-gb-8-5g-single-967327.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/tpu-samsung-galaxy-s25-ultra-ee920c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-a56-256-gb-12-5g-dual-sim-394520.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/xiaomi-redmi-note-15-pro-dual-sim-glacier-blue-92c02f.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/xiaomi-redmi-note-14-pro-512-gb-12-4g-e24bb9.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/xiaomi-redmi-note-14-pro-512-gb-12-4g-6b88d4.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/xiaomi-redmi-note-14-pro-256-gb-8-4g-f37aee.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-new-air-pods-pro-2nd-generation-usa-white-654426.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/apple-airpods-pro-2nd-generation-white-5b5c1c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/apple-airpods-4-earbuds-white-55a42a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/zerotech-noise-cancellation-airpods-4-microphones-zpce-b01i-g-739a53.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/logitech-pro-x-2-lightspeed-wireless-gaming-headphones-black-bd422a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/apple-airpods-4-usb-c-wg-d0e519.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/generic-eartips-for-galaxy-buds3-pro-memory-foam-replacement-e69852.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/miruchertter-earbuds-for-galaxy-buds3-pro-memory-foam-replacement-46e779.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/generic-ear-tips-for-galaxy-buds3-pro-memory-foam-74ee0b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-galaxy-buds3-fe-earbuds-active-noise-cancellation-black-20a2a1.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-galaxy-buds3-fe-earbuds-active-noise-cancellation-gray-c457fc.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-buds-4-pro-2026-ai-true-wireless-ec2257.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-buds4-pro-earbuds-black-7ea3f4.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-buds4-pro-earbuds-white-5c07b0.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-smarttag2-pack-of-4-2-black-white-7312ea.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/jbl-tune-520bt-wireless-on-ear-headphones-pure-bass-321910.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/jbl-tune-520bt-wireless-on-ear-headphones-pure-bass-35a229.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/jbl-tune-520bt-wireless-on-ear-headphones-pure-bass-4814e0.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/jbl-tune-520bt-wireless-on-ear-headphones-blue-4686af.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/jbl-tune-520bt-wireless-on-ear-headphones-white-ed2846.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/anker-20000-mah-zolo-power-bank-20-000mah-22-d95e19.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/anker-20000-mah-zolo-power-bank-20-000mah-30w-2cd021.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/anker-10000-mah-maggo-power-bank-ultra-slim-10-09d585.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/anker-5000-mah-nano-power-bank-ultra-slim-5-a40302.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/anker-20000-mah-power-bank-20-000-87w-total-4e83ec.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/generic-anker-20000mah-power-bank-with-dual-built-in-89e2b6.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/anker-10000-mah-nano-power-bank-10-000mah-portable-7aed17.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/anker-prime-wired-power-bank-20000-mah-3-ports-e6db70.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/anker-usb-a-c-power-bank-20000-mah-3-0e66c3.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/anker-zolo-wired-power-bank-black-a110e-bd1d2a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-25w-pd-usb-c-super-fast-charger-black-54247c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/generic-samsung-magnet-wireless-charger-qi2-25w-dark-gray-c94bc6.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/generic-25w-usb-c-fast-wall-charger-with-type-6c2140.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/i-conx-ic-03-25w-qc-3-0-fast-0ab092.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/majentik-usb-c-wall-charger-25w-gan-fast-charging-d9f4ff.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-wall-charger-type-c-15-watt-black-a91eb8.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/anker-zolo-wired-power-bank-with-built-in-cable-730231.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/anker-wired-power-bank-20000-mah-2-ports-galaxy-c2a391.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/anker-soundcore-k20i-earbuds-blue-a3994h31-with-zolo-wired-a0703a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/anker-zolo-wired-power-bank-with-built-in-cables-3b5ee5.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/anker-zolo-power-bank-20000mah-22-5w-built-in-80fb03.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/anker-power-bank-powercore-10000mah-22-5w-portable-charger-1b3e56.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/zolo-power-bank-20-000mah-22-5w-max-portable-017477.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/20000-mah-prime-power-bank-portable-charger-with-200w-bfbd2b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/anker-zolo-digital-wired-power-bank-with-built-in-d3a6ee.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/energizer-20000mah-power-bank-22-5w-fast-charging-usb-5dc15c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/baseus-20000mah-power-bank-20w-p10022804113-00-2b0ad0.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-wall-charger-1-ports-type-c-25-watt-21065a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-wall-charger-1-ports-type-c-45-watt-e7e92c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-wall-charger-type-c-15-watt-black-a91eb8.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-wall-charger-type-c-45-watt-240-volt-f49e59.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-25w-pd-charger-2pin-usb-c-cable-1m-bef454.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-wall-charger-type-c-45w-black-e5b8bd.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/anker-nano-45w-type-c-charger-fast-charging-compact-164959.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/anker-25w-usb-c-charger-super-fast-compact-foldable-241de6.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-logitech-g102-light-sync-gaming-mouse-with-customizable-8ac412.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/hotline-games-ice-mouse-skates-for-logitech-g102-g203-ff9f55.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-logitech-g502-x-plus-lightspeed-wireless-rgb-gaming-5f374d.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-logitech-g502-lightspeed-wireless-gaming-mouse-hero-25k-32a142.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-43-full-hd-smart-led-tv-hdr-purcolor-832f82.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/lg-55-nano-4k-uhd-ai-smart-tv-2026-aee3b9.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/hisense-55-inch-4k-uhd-vidaa-smart-tv-dolby-30fb80.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-55-inch-smart-tv-4k-uhd-micro-rgb-f2aca0.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-55-inch-smart-tv-4k-uhd-oled-built-b76dfa.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/lg-55-inch-smart-tv-4k-uhd-qned-built-f73211.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/lg-55-inch-smart-tv-4k-uhd-led-built-43dcff.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/lg-55-inch-smart-tv-4k-uhd-qned-mini-cf3e54.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/levon-55-inch-smart-tv-4k-uhd-qled-built-ba84e7.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/generic-xiaomi-smart-projector-l1-full-hd-lcd-with-7f32ea.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/generic-xiaomi-tv-stick-4k-2nd-gen-mdz-33-506931.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/generic-xiaomi-android-tv-mi-box-s-4k-ultra-711e54.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/generic-xiaomi-mi-tv-stick-1080p-dolby-dts-chromecast-73f21c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/xiaomi-32-inch-smart-tv-hd-led-built-in-8747d2.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/xiaomi-a-pro-55-inch-smart-tv-4k-uhd-1d6aa8.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/xiaomi-tv-stick-4k-black-05e5e4.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/xiaomi-mi-box-s-2nd-gen-tv-black-954654.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/xiaomi-tv-55-inch-pro-ultra-qled-4k-uhd-2b8042.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/xiaomi-redmi-15c-6-9-inch-256gb-8gb-dual-04b5c8.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/xiaomi-tv-l43ma-afeg-3d49b5.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/xiaomi-tv-stick-hd-1080p-b7e441.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/xiaomi-tv-box-s-4k-ultra-hd-3rd-gen-9b1764.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-tcl-television-43-inch-smart-tv-qled-hdr-56ecec.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-tcl-43-inch-s5k-qled-2k-full-hd-3f31f7.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-remote-control-compatible-with-tcl-4k-smart-tvs-b0c0bd.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
@@ -414,91 +408,79 @@
   <url><loc>https://bkam-eg.github.io/p/generic-hp-victus-15-fa2025nia-gaming-laptop-intel-core-5859e7.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/hp-victus-15-fa2082wm-gaming-laptop-with-6-inch-88bb1c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/hp-victus-15-fa2103ne-laptop-intel-core-5-210h-70e998.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/hp-victus-15-fa1036ne-laptop-intel-core-i5-13500h-5d7e00.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/apple-new-2025-macbook-air-mw0w3-13-inch-display-bb5a40.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/apple-new-2026-macbook-air-mdvh4-15-inch-display-3b615c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/apple-new-2026-macbook-air-mdvq4-15-inch-display-ea7b22.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/apple-macbook-air-laptop-m4-chip-with-10-core-b61f67.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/apple-macbook-air-laptop-m4-chip-with-10-core-ed02cc.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/apple-macbook-air-2025-mw0w3-laptop-m4-chip-with-4c0ac2.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/apple-macbook-air-2025-mw103-laptop-m4-chip-with-2f9480.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/apple-new-2026-macbook-air-mdhe4-13-inch-display-20259e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/asus-mouse-p307-tuf-gaming-m4-air-ms333516000dpi-43a3d8.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/apple-macbook-air-m4-13-inch-256-16gb-silver-91b8f6.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/apple-macbook-air-m4-13-inch-256-16gb-midnight-517cc4.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/apple-macbook-air-m4-13-inch-256-16gb-sky-5779c0.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-samsung-rt61m6211sg-mr-twin-cooling-plus-refrigerator-black-8cb1d0.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-samsung-rt30a3300sa-mr-metal-refrigerator-305l-silver-acb948.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-nofrost-top-freezer-refrigerator-396-liter-silver-rt40a3010sa-ed7ab7.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-nofrost-side-by-refrigerator-659-liter-inverter-motor-7b669e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-nofrost-side-by-refrigerator-659-liter-inverter-motor-eac887.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-nofrost-side-by-refrigerator-659-liter-inverter-motor-7b669e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sharp-nofrost-top-freezer-refrigerator-396-liter-stainless-steel-8205ca.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sharp-top-freezer-refrigerator-450-liter-red-sj-gv58g-8b9dd0.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sharp-top-freezer-refrigerator-538-liter-red-sj-gv69g-187c09.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sharp-nofrost-top-freezer-refrigerator-449-liter-black-sj-52fc6e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/sharp-refrigerator-385-liter-digital-no-frost-black-sj-1acec9.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sharp-refrigerator-640-liter-no-frost-inverter-digital-silver-01ed3a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/generic-fresh-washing-machine-duetto-fwt500na-16a1c6.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/generic-fresh-shatoura-5-kg-single-tub-washing-machine-924f29.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/generic-fresh-top-load-washing-machine-15kg-panorama-black-2b4f48.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/fresh-top-load-washing-machine-8-kg-silver-50013520-c0da3c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/fresh-front-load-washing-machine-8-kg-black-500016432-f5f676.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/fresh-top-load-washing-machine-8-kg-grey-500020432-83325c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/fresh-fwt14000nd-top-load-half-automatic-washing-machine-14-9305b4.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/fresh-washing-machine-9-kgs-front-loading-full-automatic-f158a2.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/fresh-washing-machine-9-kgs-front-loading-full-automatic-a30fe3.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/fresh-washing-machine-4-kg-swm400-multicolour-a8cdfc.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/fresh-shabah-top-load-washing-machine-7-kg-white-bdfa2f.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/fresh-washing-machine-baby-3-k-g-a29b89.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-washing-machine-with-hygiene-steam-digital-inverter-technology-c78236.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-washing-machine-with-hygiene-steam-digital-inverter-technology-3e5a26.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-top-load-washing-machine-11-kg-grey-wa11dg5410bdas-34c9eb.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-front-load-washing-machine-9-kg-black-caviar-e7c52c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-inverter-front-load-washing-machine-11-kg-black-8536f9.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-inverter-front-load-washing-machine-11-kg-black-bb790f.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-inverter-front-load-washing-machine-11-kg-black-8d6581.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-digital-inverter-front-loading-washing-machine-8kg-inox-b49cca.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/toshiba-top-loading-washing-machine-ultra-fine-bubble-great-5db062.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/zanussi-steammax-washing-machine-8-kg-front-load-digital-148897.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/zanussi-steammax-washing-machine-8-kg-front-load-digital-a132a8.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sharp-split-air-conditioner-1-5-hp-cool-inverter-e19c54.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sharp-split-air-conditioner-1-5-hp-cool-digital-8a1346.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sharp-split-air-conditioner-1-5-hp-cooling-super-6bded9.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/sharp-split-air-conditioner-4-horsepower-cooling-and-heating-e2a843.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sharp-split-air-conditioner-2-25-horsepower-only-cooling-202616.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/sharp-split-air-conditioner-3-horsepower-only-cooling-white-f30d84.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/carrier-split-air-conditioner-2-25-horsepower-only-cooling-1235d4.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/carrier-split-air-conditioner-3-horsepower-cooling-and-heating-e984d1.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/carrier-air-conditioner-2-25-hp-xcool-split-inverter-4afddf.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/carrier-xcool-air-conditioner-2-25-hp-split-cooling-a87214.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/carrier-xcool-air-conditioner-2-25-hp-cooling-heating-e7c186.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/carrier-xcool-air-conditioner-1-5-hp-split-cooling-aaea3c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/carrier-xcool-air-conditioner-1-5-hp-cooling-and-724f98.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/carrier-38khct12n-708-optimax-cooling-only-split-air-conditioner-aa0a4c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-carrier-x-cool-1-5-hp-cooling-only-894241.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-carrier-1-5-hp-xcool-cooling-only-digital-33e7ab.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/carrier-1-5-hp-optimax-pro-split-air-conditioner-0054a1.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/carrier-classicool-split-air-conditioner-2-25-horsepower-cooling-b01e5f.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-oppo-reno15-f-dual-sim-256gb-12gb-ram-be761d.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-oppo-reno15-dual-sim-256gb-12gb-ram-5g-6207a1.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-golden-mask-compatible-with-honor-x9d-camera-lens-c136ca.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/honor-x9d-256-gb-8-5g-dual-sim-reddish-e9503f.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/infinix-note-60-pro-ai-dual-sim-torino-black-07bdb1.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/infinix-note-edge-ai-dual-sim-lunar-titanium-16gb-ccae00.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/infinix-note-edge-ai-dual-sim-shadow-black-16gb-db7b17.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-oraimo-silkline-1m-3a-type-c-data-cable-4ca7e9.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/infinix-hot-70-ai-dual-sim-silver-dancer-16gb-dea8cd.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/infinix-hot-70-ai-dual-sim-dive-blue-16gb-cbef84.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/infinix-hot-70-ai-dual-sim-silver-dancer-16gb-dea8cd.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/infinix-hot-70-ai-dual-sim-thermo-orange-16gb-6f22f3.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/infinix-hot-60-128-gb-6-5g-dual-sim-aeaea2.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/infinix-hot-60-128-gb-6-5g-dual-sim-7a7fe7.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/infinix-hot-60-128-gb-6-5g-dual-sim-aeaea2.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-vinmooog-stylus-pen-for-tablet-compatible-with-samsung-cbb5f0.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/apple-ipad-2025-11th-gen-tablet-128-gb-6-d8476a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/apple-ipad-air-tablet-128-gb-8-without-sim-ca4441.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/apple-ipad-2025-11th-gen-tablet-128-gb-6-40a19e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/apple-ipad-2025-11th-gen-tablet-256-gb-8-093f53.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-tab-s10-plus-moonstone-gray-12gb-256gb-63e557.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-tab-a11-4g-silver-4gb-ram-64gb-07bb1b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-tab-a9-plus-tablet-128-gb-8-089f1d.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-tab-s11-tablet-256-gb-12-5g-29076f.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/xiaomi-focus-pen-pro-compatible-with-pad-6s-12-378686.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/generic-xiaomi-mijia-lcd-writing-tablet-with-pen-20inch-cb9d3b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/xiaomi-focus-stylus-pen-for-pad-6-max-14-941166.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-xiaomi-mijia-lcd-writing-tablet-with-pen-20inch-cb9d3b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-xiaomi-pad-8-pro-keyboard-pc-level-typing-35186e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-fekra-premium-18-pcs-kit-for-xiaomi-x20-e09b12.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/xiaomi-redmi-pad-2-pro-tablet-256-gb-8-fe83ba.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-24-inch-fhd-monitor-75-hertz-5-millisecond-e34c25.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/xiaomi-redmi-pad-2-tablet-256-gb-8-4g-7f867f.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-32-curved-gaming-monitor-165hz-2k-qhd-immersive-0621ef.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-samsung-27-inch-odyssey-g5-ips-2k-qhd-9fab3c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-27-inch-fhd-monitor-75-hertz-5-millisecond-3ac33b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-24-inch-fhd-monitor-75-hertz-5-millisecond-e34c25.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-32-inch-qhd-flat-gaming-monitor-180-hertz-62924c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-essential-s3-24-inch-monitor-100-hertz-5-238312.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-32-uhd-monitor-with-intelligent-eye-care-60hz-1bd632.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-odyssey-neo-g9-49-dqhd-curved-monitor-240hz-4db0c4.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-gaming-monitor-24-flat-ips-qhd-75-hz-363277.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-odyssey-g5-g55c-27-2k-gaming-curved-monitor-dc874b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-27-inch-fhd-essential-s30gd-led-100hz-monitor-d657b2.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-odyssey-g9-g91sd-49-inch-qhd-curved-gaming-2c7620.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-odyssey-g5-g50f-ls27fg502emxeg-27-inch-qhd-fast-3a749c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-27-odyssey-oled-g6-g60sd-qhd-360hz-0-dd93df.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-viewfinity-s6-34-ls34c650vamxue-uwqhd-curved-monitor-100hz-26182c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-odyssey-oled-g8-g80sd-32-4k-uhd-240hz-992cc9.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-1-meter-2-pin-euro-plug-c7-to-be4299.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-usb-c-to-hdmi-type-a-adapter-3in1-ee2973.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/generic-fske-c7-power-cable-3-meters-2-pin-c61a5c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-fske-c7-power-cable-3-meters-2-pin-c7ab5c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/cyjjzq-19v-ac-dc-adapter-charger-power-cord-fit-4ccc2d.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/hoyulli-usb-c-to-hdmi-type-a-adapter-3in1-6fb5be.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-power-cable-3-meters-2-pin-euro-plug-462421.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
@@ -507,46 +489,30 @@
   <url><loc>https://bkam-eg.github.io/p/generic-dell-19-hd-lcd-monitor-tn-panel-with-e8db96.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-dell-p2018h-20-led-backlit-lcd-monitor-black-c95fea.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/dell-24-inch-flat-monitor-75-hertz-4-millisecond-dc75aa.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/dell-pro-plus-27-inch-fhd-monitor-100-hertz-e60537.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/philips-airfryer-xl-see-through-cooking-window-13-methods-4800cc.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/philips-air-fryer-with-touch-panel-uses-up-to-c0f8cd.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/philips-extra-large-airfryer-with-rapid-air-tech-up-ae709c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-philips-airfryer-xl-1700w-50-60hz-6-2l-720b77.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/philips-airfryer-xl-see-through-cooking-window-16-functions-3ece8d.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/philips-airfryer-l-see-through-cooking-window-13-methods-345707.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/philips-digital-air-fryer-6-2-liter-black-na23000-4afc24.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/philips-2000-series-air-fryer-6-2-liter-1700-812fa8.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/philips-air-fryer-4-2-liter-1500-watt-black-feaf73.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/tefal-air-fryer-easy-fry-grill-2-in-1-ee95e3.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/tefal-easy-fry-and-grill-hot-air-fryer-2-603152.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/tefal-air-fryer-easy-fry-max-5l-serves-up-e5c600.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-tefal-xxl-dual-easy-fry-11l-air-fryer-011bae.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/tefal-air-fryer-1-2-kg-1500-watt-black-69e0c4.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/tefal-air-fryer-6-5-liter-1700-watt-black-e81a3a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/tefal-air-fryer-4-2-liter-1500-watt-black-979f05.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/tefal-actifry-air-fryer-1-kg-1400-watt-white-775a33.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/tefal-digital-air-fryer-5-liters-1600-watt-black-e20719.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/bosch-series-4-digital-touch-airfryer-2050w-6-1-07b0fb.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/fresh-air-fryer-1500w-7-l-digital-steam-cooking-a2652d.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/armadillo-air-fryer-6-7-l-digital-arm-sda-e1405a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/touch-healthy-plus-digital-air-fryer-8l-2400w-10-fea172.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/xiaomi-mi-smart-air-fryer-3-5-l-with-a591e1.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/xiaomi-dual-zone-air-fryer-10l-black-xi606ha27p27pnafamz-e232c6.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/tornado-air-fryer-1800w-8liter-manual-control-stainless-x-376e08.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/white-whale-air-fryer-4liters-2000w-waf-041m-02ee40.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/sokany-digital-air-fryer-7-5l-2200w-10-programs-6ccffd.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/tefal-ultra-fry-air-fryer-digital-8-programs-4-40cd2c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/tefal-2-in-1-easy-fry-classic-air-fryer-661465.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/tefal-air-fryer-easy-fry-grill-2-in-1-c1acc2.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/generic-tefal-easy-fry-infrared-air-fryer-premium-technology-4aeedc.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/tefal-easy-fry-infrared-digital-air-fryer-7-liters-a04736.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/tefal-air-fryer-6-5-liters-black-ey8018egy-steam-ee30c3.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/tefal-easy-fry-max-air-fryer-5-liter-black-cf13d6.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-xiaomi-air-fryer-6-5l-1700w-large-capacity-1104da.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/xiaomi-mi-smart-air-fryer-360-degrees-hot-circulation-e6f211.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-xiaomi-air-fryer-essential-6l-large-capacity-household-061c8e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/xiaomi-air-fryer-6l-xxl-hot-1500w-40-200-12a160.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/xiaomi-mi-smart-air-fryer-6-5l-100-recipes-6e4c2e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/xiaomi-mi-air-fryer-6-5-liter-1700-watt-5aa4dc.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/xiaomi-xxl-digital-air-fryer-6-liter-1500-watt-919dd0.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/xiaomi-smart-digital-air-fryer-10-liter-2700-watt-d70cf4.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/xiaomi-air-fryer-smart-5-5l-1600w-maf-15-9077b2.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/xiaomi-air-fryer-smart-pro-4l-1600w-maf-04-93004a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/xiaomi-smart-air-fryer-4-5-l-white-5l-f4d93d.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/xiaomi-mijia-smart-air-purifier-6-white-ac-m25-c2dca0.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/xiaomi-smart-waterproof-hair-clipper-trimmer-black-lfq02kl-c25cdc.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/xiaomi-air-fryer-essential-6l-flip-free-cooking-360-d2f0d0.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/xiaomi-h101-hair-dryer-1600-watt-pink-addc50.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-philips-5000-series-immersion-hand-blender-1200w-motor-e86e4b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/philips-avent-series-5000-plastic-jar-blender-800w-2l-0695b8.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/philips-promix-hand-blender-with-beaker-650-watt-white-4da73c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
@@ -614,30 +580,135 @@
   <url><loc>https://bkam-eg.github.io/p/xiaomi-smart-tag-1-pack-white-7f39cd.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/garmin-cirqa-smart-band-l-xl-mauve-83e034.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/xiaomi-smart-tower-fan-2-24w-white-83d826.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-a37-256-gb-8-5g-dual-sim-21055b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-a57-256-gb-12-5g-dual-sim-0a26aa.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/sony-dualsense-wireless-controller-purple-6275df.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/apple-iphone-17-pro-12gb-256gb-cosmic-orange-a6ca0c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-a17-256-gb-8-5g-dual-sim-0a623d.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/oppo-reno-16f-256-gb-12-5g-dual-sim-75c59d.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/fresh-air-fryer-digital-7l-1800-watt-black-aff-99d39f.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/fresh-air-fryer-5-liter-1500-watt-digital-black-7f2fb0.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/tornado-air-fryer-4-liters-1550w-black-silver-thf-f8738d.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/apple-iphone-17-pro-max-256-gb-esim-only-2e7394.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/apple-iphone-17-pro-max-256-gb-12-5g-842079.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-a16-128-gb-4-4g-lte-dual-77eea5.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/honor-x9e-pro-256-gb-8-5g-dual-sim-130ca0.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/beko-expertfry-dual-zone-digital-air-fryer-8-5l-4dce61.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/tefal-easy-fry-u0026-grill-xxl-digital-air-fryer-607af0.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/armadillo-air-fryer-10-l-digital-double-door-arm-1a287a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/fresh-air-fryer-1500w-7-l-digital-steam-cooking-504aca.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/kieslect-digital-air-fryer-with-viewing-window-8l-2000w-849446.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/xiaomi-h101-hair-dryer-1600-watt-white-fff43c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/ido-air-fryer-4-5-liter-1400-watt-manual-c01aef.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/xiaomi-smart-air-fryer-6-5l-1800w-large-capacity-76d0b9.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/sony-dualsense-wireless-controller-pink-3f218e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-s25-ultra-ai-dual-sim-titanium-grey-fb860e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/xiaomi-redmi-note-14-pro-plus-256-gb-12-266fad.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-anker-zolo-wall-charger-type-c-25w-fast-4b960e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-asus-tuf-gaming-16-fx610jh-tu655w-laptop-intel-8ce6b5.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/apple-new-2026-macbook-air-mdhh4-13-inch-display-bec252.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/apple-new-2026-macbook-air-mdh74-13-inch-display-7c51f6.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-fresh-baby-fws300na-washing-machine-3kg-white-5d048c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-fresh-washing-machine-10-kg-jumbo-single-tub-92ef5e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/realme-16-pro-plus-256-gb-12-5g-dual-188b97.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/apple-ipad-2025-11th-generation-a16-11-inch-wi-125af0.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-tab-s10-fe-silver-8gb-ram-128gb-421a40.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/dell-27-inch-fhd-flat-monitor-100-hertz-8-ccc484.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-philips-air-fryer-3-2l-rapid-technology-na110-fb1d53.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/tefal-air-fryer-5l-digital-10-programs-ey2458eg-412c31.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/philips-air-fryer-3000-series-7-2l-digital-2000w-3ebac6.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/pluto-air-fryer-1800w-digital-7-2-liter-capacity-19494c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/xiaomi-smart-digital-air-fryer-6-5-liter-1800-d8bd30.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/xiaomi-mi-anion-hair-dryer-1600-watt-white-h300-2a7fd2.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/midea-air-fryer-9-liters-2200-watt-digital-black-867176.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/sony-playstation-5-slim-international-version-disc-dualsense-wireless-ae72e7.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/apple-iphone-17-512-gb-8-5g-dual-sim-444f41.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/apple-iphone-16-256-gb-8-5g-single-sim-87bcef.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/zerotech-noise-cancellation-airpods-4-microphones-zpce-b01i-g-739a53.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-eartips-for-galaxy-buds3-pro-memory-foam-replacement-e69852.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/miruchertter-earbuds-for-galaxy-buds3-pro-memory-foam-replacement-46e779.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-ear-tips-for-galaxy-buds3-pro-memory-foam-74ee0b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/anker-20000-mah-zolo-power-bank-20-000mah-22-d95e19.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/anker-20000-mah-zolo-power-bank-20-000mah-30w-2cd021.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/anker-10000-mah-maggo-power-bank-ultra-slim-10-09d585.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/anker-5000-mah-nano-power-bank-ultra-slim-5-a40302.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/anker-20000-mah-power-bank-20-000-87w-total-4e83ec.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-anker-20000mah-power-bank-with-dual-built-in-89e2b6.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/anker-10000-mah-nano-power-bank-10-000mah-portable-7aed17.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-25w-pd-usb-c-super-fast-charger-black-54247c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-samsung-magnet-wireless-charger-qi2-25w-dark-gray-c94bc6.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/i-conx-ic-03-25w-qc-3-0-fast-0ab092.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/majentik-usb-c-wall-charger-25w-gan-fast-charging-d9f4ff.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/lg-55-nano-4k-uhd-ai-smart-tv-2026-aee3b9.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/lg-55-inch-smart-tv-4k-uhd-qned-built-f73211.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-xiaomi-smart-projector-l1-full-hd-lcd-with-7f32ea.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-xiaomi-tv-stick-4k-2nd-gen-mdz-33-506931.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-xiaomi-android-tv-mi-box-s-4k-ultra-711e54.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-xiaomi-mi-tv-stick-1080p-dolby-dts-chromecast-73f21c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/hp-victus-15-fa1036ne-laptop-intel-core-i5-13500h-5d7e00.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/apple-new-2025-macbook-air-mw0w3-13-inch-display-bb5a40.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/apple-new-2026-macbook-air-mdvh4-15-inch-display-3b615c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/apple-new-2026-macbook-air-mdvq4-15-inch-display-ea7b22.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/sharp-refrigerator-385-liter-digital-no-frost-black-sj-1acec9.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-fresh-washing-machine-duetto-fwt500na-16a1c6.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-fresh-shatoura-5-kg-single-tub-washing-machine-924f29.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-fresh-top-load-washing-machine-15kg-panorama-black-2b4f48.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-digital-inverter-front-loading-washing-machine-8kg-inox-b49cca.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/toshiba-top-loading-washing-machine-ultra-fine-bubble-great-5db062.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/zanussi-steammax-washing-machine-8-kg-front-load-digital-148897.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/zanussi-steammax-washing-machine-8-kg-front-load-digital-a132a8.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/sharp-split-air-conditioner-3-horsepower-only-cooling-white-f30d84.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/carrier-split-air-conditioner-2-25-horsepower-only-cooling-1235d4.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/carrier-split-air-conditioner-3-horsepower-cooling-and-heating-e984d1.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/carrier-xcool-air-conditioner-2-25-hp-split-cooling-a87214.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/carrier-xcool-air-conditioner-2-25-hp-cooling-heating-e7c186.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/carrier-xcool-air-conditioner-1-5-hp-split-cooling-aaea3c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/carrier-38khct12n-708-optimax-cooling-only-split-air-conditioner-aa0a4c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/infinix-note-edge-ai-dual-sim-lunar-titanium-16gb-ccae00.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/apple-ipad-air-tablet-128-gb-8-without-sim-ca4441.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-tab-a9-plus-tablet-128-gb-8-089f1d.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-32-uhd-monitor-with-intelligent-eye-care-60hz-1bd632.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-odyssey-neo-g9-49-dqhd-curved-monitor-240hz-4db0c4.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-gaming-monitor-24-flat-ips-qhd-75-hz-363277.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-odyssey-g5-g55c-27-2k-gaming-curved-monitor-dc874b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-27-inch-fhd-essential-s30gd-led-100hz-monitor-d657b2.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-odyssey-g9-g91sd-49-inch-qhd-curved-gaming-2c7620.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-odyssey-g5-g50f-ls27fg502emxeg-27-inch-qhd-fast-3a749c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-27-odyssey-oled-g6-g60sd-qhd-360hz-0-dd93df.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-viewfinity-s6-34-ls34c650vamxue-uwqhd-curved-monitor-100hz-26182c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/samsung-odyssey-oled-g8-g80sd-32-4k-uhd-240hz-992cc9.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/tefal-air-fryer-4-2-liter-1500-watt-black-979f05.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/tefal-actifry-air-fryer-1-kg-1400-watt-white-775a33.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/tefal-digital-air-fryer-5-liters-1600-watt-black-e20719.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/bosch-series-4-digital-touch-airfryer-2050w-6-1-07b0fb.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/fresh-air-fryer-1500w-7-l-digital-steam-cooking-a2652d.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/armadillo-air-fryer-6-7-l-digital-arm-sda-e1405a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/touch-healthy-plus-digital-air-fryer-8l-2400w-10-fea172.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/xiaomi-mi-smart-air-fryer-3-5-l-with-a591e1.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/xiaomi-dual-zone-air-fryer-10l-black-xi606ha27p27pnafamz-e232c6.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/tornado-air-fryer-1800w-8liter-manual-control-stainless-x-376e08.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/white-whale-air-fryer-4liters-2000w-waf-041m-02ee40.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/sokany-digital-air-fryer-7-5l-2200w-10-programs-6ccffd.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/tefal-ultra-fry-air-fryer-digital-8-programs-4-40cd2c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/tefal-2-in-1-easy-fry-classic-air-fryer-661465.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/tefal-air-fryer-easy-fry-grill-2-in-1-c1acc2.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/generic-tefal-easy-fry-infrared-air-fryer-premium-technology-4aeedc.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/tefal-easy-fry-infrared-digital-air-fryer-7-liters-a04736.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/tefal-air-fryer-6-5-liters-black-ey8018egy-steam-ee30c3.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/xiaomi-air-fryer-smart-5-5l-1600w-maf-15-9077b2.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/xiaomi-air-fryer-smart-pro-4l-1600w-maf-04-93004a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/xiaomi-smart-air-fryer-4-5-l-white-5l-f4d93d.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/xiaomi-mijia-smart-air-purifier-6-white-ac-m25-c2dca0.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/xiaomi-smart-waterproof-hair-clipper-trimmer-black-lfq02kl-c25cdc.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/xiaomi-air-fryer-essential-6l-flip-free-cooking-360-d2f0d0.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bkam-eg.github.io/p/xiaomi-h101-hair-dryer-1600-watt-pink-addc50.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sony-playstation-5-slim-1tb-ssd-with-wireless-controller-a7120d.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/apple-airpods-4-anc-local-warranty-fb0dcd.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/anker-powercore-20k-wired-power-bank-20000-mah-2-9cb89c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/asus-tuf-gaming-f16-fx607vu-rl167w-laptop-intel-core-b8245e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/infinix-note-edge-256-gb-8-5g-dual-sim-9e22b9.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/infinix-note-edge-8gb-ram-256gb-green-fa9852.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sony-playstation-5-slim-edition-console-1tb-hard-disk-d1de69.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/lenovo-legion-h500-pro-gaming-headset-ps4-ps-5-cb67b6.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sony-playstation-5-pro-2tb-digital-cuh-7021-c7b596.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sony-dualsense-wireless-controller-for-playstation-5-official-version-dd00ee.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/apple-iphone-17-pro-max-2-terabyte-12-gb-525159.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/apple-iphone-18-pro-max-512gb-burgundy-287340.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/apple-iphone-17e-8gb-256gb-black-d66a1b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/apple-iphone-16e-128gb-white-english-31aac3.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-a27-128-gb-8-5g-dual-sim-ba89c7.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-wall-charger-usb-25-watt-black-7c1f6e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/lenovo-ideapad-slim-3-15irh10-83k100qred-laptop-intel-core-2acc13.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/asus-tuf-gaming-a16-2025-fa608pm-rv169w-laptop-amd-452eb6.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/fresh-top-load-half-automatic-washing-machine-10-kg-9977df.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-carrier-3-hp-split-air-conditioner-x-cool-ddd82b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/dobe-dual-charge-station-for-ps5-controllers-and-edge-52fd94.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sony-playstation-5-slim-ultra-hd-blu-ray-disc-d9755b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
@@ -688,37 +759,11 @@
   <url><loc>https://bkam-eg.github.io/p/laut-huex-protect-for-airpods-4-neon-orange-7e4a4f.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/laut-pod-for-airpods-4-heron-blue-20b3d5.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/laut-aero-protect-for-airpods-4-bright-pink-68b77c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-buds-4-pro-2026-ai-true-wireless-ec2257.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-buds4-pro-earbuds-black-7ea3f4.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-buds4-pro-earbuds-white-5c07b0.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-smarttag2-pack-of-4-2-black-white-7312ea.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/anker-zolo-wired-power-bank-with-built-in-cable-730231.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/anker-soundcore-k20i-earbuds-blue-a3994h31-with-zolo-wired-a0703a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/anker-wired-power-bank-20000-mah-2-ports-galaxy-c2a391.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/anker-maggo-622-magnetic-wireless-power-bank-5000-mah-9e237f.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/anker-power-bank-powercore-10000mah-22-5w-portable-charger-1b3e56.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/zolo-power-bank-20-000mah-22-5w-max-portable-017477.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/20000-mah-prime-power-bank-portable-charger-with-200w-bfbd2b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/anker-zolo-digital-wired-power-bank-with-built-in-d3a6ee.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/energizer-20000mah-power-bank-22-5w-fast-charging-usb-5dc15c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/baseus-20000mah-power-bank-20w-p10022804113-00-2b0ad0.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-wall-charger-type-c-45-watt-240-volt-f49e59.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-25w-pd-charger-2pin-usb-c-cable-1m-bef454.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/anker-nano-45w-type-c-charger-fast-charging-compact-164959.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/anker-25w-usb-c-charger-super-fast-compact-foldable-241de6.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/generic-logitech-g502-lightspeed-wireless-gaming-mouse-hero-25k-32a142.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/lg-55-inch-oled-b4-4k-uhd-smart-tv-91473e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/lg-55-inch-oled-ai-smart-tv-4k-uhd-718cad.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/lg-55-inch-4k-qned-ai-mini-led-smart-067551.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/lg-55-inch-4k-qned-ai-mini-led-smart-70aec8.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/xiaomi-tv-stick-4k-black-05e5e4.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/xiaomi-mi-box-s-2nd-gen-tv-black-954654.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/xiaomi-tv-55-inch-pro-ultra-qled-4k-uhd-2b8042.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/xiaomi-redmi-15c-6-9-inch-256gb-8gb-dual-04b5c8.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/xiaomi-tv-l43ma-afeg-3d49b5.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/xiaomi-tv-stick-hd-1080p-b7e441.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/xiaomi-tv-box-s-4k-ultra-hd-3rd-gen-9b1764.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/tcl-55-inch-smart-tv-4k-uhd-led-built-43f76f.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/tcl-50-inch-smart-tv-4k-uhd-qled-built-d4f70d.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/tcl-65-inch-qled-ultra-hd-4k-smart-tv-66738a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/lenovo-ideapad-1-laptop-intel-celeron-n4020-15-6-afd56a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
@@ -736,16 +781,8 @@
   <url><loc>https://bkam-eg.github.io/p/hp-victus-16-gaming-laptop-intel-core-i7-14700hx-88c16b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/hp-victus-15-fb3031ne-laptop-amd-ryzen-7-7445hs-75bd44.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/hp-victus-15-fa2082wm-gaming-laptop-intel-core-i5-415bd6.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/hp-victus-15-fa2787nr-gaming-laptop-core-i7-13620h-b8f771.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/hp-victus-15-fa2352tx-gaming-laptop-core-i7-13620h-fd7998.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/asus-tuf-gaming-f16-2024-fx607vjb-laptop-intel-core-1c5635.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/asus-laptop-tuf-gaming-a14-fa401km-rg014w-ryzen-ai-cfed36.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/apple-macbook-air-2025-mw0w3-laptop-m4-chip-with-4c0ac2.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/apple-macbook-air-2025-mw103-laptop-m4-chip-with-2f9480.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/asus-mouse-p307-tuf-gaming-m4-air-ms333516000dpi-43a3d8.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/apple-macbook-air-m4-13-inch-256-16gb-silver-91b8f6.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/apple-macbook-air-m4-13-inch-256-16gb-midnight-517cc4.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/apple-macbook-air-m4-13-inch-256-16gb-sky-5779c0.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-nofrost-bottom-freezer-refrigerator-340-liter-inverter-motor-eae135.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-nofrost-bottom-freezer-refrigerator-344-liter-inverter-motor-765493.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-nofrost-top-freezer-refrigerator-344-liter-blue-rb34a6b0e41-7efc5f.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
@@ -753,16 +790,10 @@
   <url><loc>https://bkam-eg.github.io/p/samsung-refrigerator-344-liter-bottom-freezer-no-frost-inverter-9b035a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/fresh-top-load-washing-machine-13-kg-silver-ftm-ec7c7a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/fresh-fws330na-top-load-manual-washing-machine-3-kg-ab498c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/fresh-washing-machine-9-kgs-front-loading-full-automatic-f158a2.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/fresh-washing-machine-8-kgs-inverter-front-loading-full-aba72e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/fresh-washing-machine-9-kgs-front-loading-full-automatic-a30fe3.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/fresh-washing-machine-baby-3-k-g-a29b89.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-ww80t4040cx1as-front-load-washing-machine-8-kg-inox-217197.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-ww80t4020cx1as-inverter-front-load-washing-machine-8-kg-87f67a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/zanussi-perlamax-washing-machine-8-kg-front-load-digital-cbc1ab.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sharp-split-air-conditioner-3-horsepower-inverter-motor-cooling-7d9145.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/generic-carrier-1-5-hp-xcool-cooling-only-digital-33e7ab.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/carrier-1-5-hp-optimax-pro-split-air-conditioner-0054a1.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/honor-x9e-pro-256-8gb-5g-deep-purple-c6bbe7.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/infinix-note-60-pro-12gb-ram-256gb-orange-10bb8b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/infinix-hot-60i-128-gb-6-4g-dual-sim-7ae04d.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
@@ -775,17 +806,13 @@
   <url><loc>https://bkam-eg.github.io/p/apple-magic-keyboard-for-ipad-air-11-inch-white-4481a5.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/apple-ipad-air-13-inch-m4-wi-fi-128gb-90cab5.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/apple-ipad-air-13-inch-m4-wi-fi-128gb-00b1c6.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/philips-airfryer-xl-see-through-cooking-window-16-functions-3ece8d.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-philips-airfryer-2000-series-6-2l-9-preset-164d8f.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/xiaomi-redmi-17-4g-6gb-256gb-black-fc67db.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/apple-iphone-17-pro-max-256gb-nano-sim-esim-b30d11.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-fresh-10-kg-top-loading-panoramic-washing-machine-6c0e48.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sharp-air-conditioner-cooling-and-heating-digital-with-plasmacluster-c0fc31.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/carrier-x-cool-split-air-conditioner-3-horsepower-inverter-115fde.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/generic-samsung-s3-s27f320gau-27-inch-ips-fhd-120hz-91fdf9.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-s26-ultra-12gb-256gb-white-804372.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-mobile-galaxy-a56-256gb-8gb-ram-5g-awesome-ad9f8d.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-a17-8gb-256gb-black-936311.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-a08-4gb-128gb-dark-blue-87a4dc.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/xiaomi-redmi-a7-pro-4gb-64gb-mist-blue-4f5cdf.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/asus-tuf-gaming-f16-fx607vjr-tu855w-intel-core-5-14fdb8.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
@@ -823,8 +850,6 @@
   <url><loc>https://bkam-eg.github.io/p/generic-fresh-4kg-kids-washing-machine-with-spin-drum-23105f.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-fresh-half-washing-machine-10-kg-jumbo-twin-0b909d.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/fresh-top-load-washing-machine-6-kg-silver-ftm-6820f4.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-washing-machine-with-hygiene-steam-digital-inverter-technology-c78236.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-washing-machine-with-hygiene-steam-digital-inverter-technology-3e5a26.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sharp-split-air-conditioner-3-horsepower-only-cooling-white-80e24e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sharp-split-air-conditioner-2-25-hp-cool-heat-9c844f.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sharp-split-air-conditioner-2-25-hp-cool-heat-110bec.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
@@ -842,13 +867,9 @@
   <url><loc>https://bkam-eg.github.io/p/aura-5hp-digital-split-air-conditioner-with-inverter-technology-38492a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/raylamon-multi-functional-portable-air-conditioner-cooling-heating-white-8af666.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/tornado-split-air-conditioner-1-5-hp-cool-heat-3804b6.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/infinix-note-edge-ai-dual-sim-shadow-black-16gb-db7b17.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/infinix-hot-60-128-gb-6-5g-dual-sim-ed8e7a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-32-curved-gaming-monitor-165hz-2k-qhd-immersive-0621ef.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/generic-samsung-27-inch-odyssey-g5-ips-2k-qhd-9fab3c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/vivo-y500-6-83-inch-256gb-6gb-dual-sim-930718.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/jbl-tune-530bt-wireless-on-ear-headphones-beige-45b0ca.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/realme-c85-pro-256-gb-8-4g-lte-dual-5b45ad.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/jbl-tune-730bt-wireless-over-ear-headphones-blue-ec4c2b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/bosch-series-2-front-load-washing-machine-8kg-wlz2421seg-9d16a4.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/vivo-v70-fe-6-83-inch-256gb-12gb-dual-ed123d.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
@@ -911,7 +932,6 @@
   <url><loc>https://bkam-eg.github.io/p/jbl-tune-530-bt-white-e7484e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/jbl-tune-530-bt-purple-8f717e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/jbl-tune-530-bt-beige-e8c244.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/anker-zolo-power-bank-20000mah-22-5w-huge-built-f719ef.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/anker-zolo-power-bank-25000mah-165w-built-in-usb-2edda2.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/realme-power-bank-20000mah-45w-with-cable-c2501-black-736b06.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/baseus-lipow-power-bank-20000mah-22-5w-digital-display-78ef11.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
@@ -975,7 +995,6 @@
   <url><loc>https://bkam-eg.github.io/p/uniq-claro-macbook-air-13-m2-m4-smoke-matte-38e2a2.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/apple-15-inch-macbook-air-m5-chip-with-10-36e0b2.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/apple-15-inch-macbook-air-m5-chip-with-10-6f95dc.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/fresh-top-load-washing-machine-8-kg-grey-500020432-83325c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/fresh-top-load-washing-machine-6-liter-grey-500022310-6cbf50.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/lg-inverter-front-load-washing-machine-wi-fi-7-708a7b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/zanussi-perla-max-front-load-washing-machine-7kg-1200-7c4ecb.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
@@ -1012,7 +1031,6 @@
   <url><loc>https://bkam-eg.github.io/p/vivo-y500-6-83-inch-256gb-8gb-dual-sim-401084.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/vivo-y500-6-83-inch-256gb-6gb-dual-sim-5bd861.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/apple-ipad-2025-11th-gen-tablet-256-gb-8-b852f4.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/apple-ipad-2025-11th-gen-tablet-256-gb-8-093f53.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/anker-541-usb-c-hub-6-in-1-for-adc749.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/apple-ipad-11th-generation-a16-wi-fi-10-9-9ff194.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/apple-ipad-pro-m5-local-warranty-11-inch-wi-5a8cef.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
@@ -1039,7 +1057,6 @@
   <url><loc>https://bkam-eg.github.io/p/uniq-ryze-360-for-ipad-pro-13-2024-midnight-44963c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/uniq-camden-click-for-ipad-pro-13-2024-rhino-0e878b.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/uniq-ryze-360-for-ipad-pro-11-2024-midnight-f478f3.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-tab-s11-tablet-256-gb-12-5g-29076f.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-tab-a11-plus-5g-8gb-ram-256gb-71279a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-tab-a11-plus-5g-6gb-ram-128gb-aa980f.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-tab-a11-plus-5g-6gb-ram-128gb-6c8be8.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
@@ -1062,7 +1079,6 @@
   <url><loc>https://bkam-eg.github.io/p/xiaomi-g34wqi-34-inch-ultrawide-curved-gaming-monitor-wqhd-5dcbfe.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/philips-evnia-curved-gaming-monitor-34-qhd-175hz-0-67f3dc.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/viewsonic-27-monitor-vp2768a-2k-pantone-validated-100-srgb-071f10.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/dell-pro-plus-27-inch-fhd-monitor-100-hertz-e60537.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/dell-pro-22-led-monitor-fhd-100hz-e2225hm-e8e78a.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/dell-se2725hg-27-200hz-full-hd-ips-monitor-1920-6c5851.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/dell-e2723h-27-full-hd-1920-x-1080-va-d83534.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
@@ -1107,14 +1123,12 @@
   <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-tab-s10-fe-plus-gray-8gb-ram-e252b9.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/dell-27-inch-fhd-monitor-100-hertz-4-millisecond-f93707.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/toshiba-55-inch-c350rp-4k-uhd-smart-led-tv-71cfa4.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/samsung-galaxy-tab-s10-fe-light-blue-12gb-ram-fda35c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sony-playstation-5-slim-disc-console-ksa-version-with-360c9e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sony-playstation-5-slim-disc-2023-international-version-05727d.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/sony-playstation-5-digital-edition-with-ea-sports-fc-965604.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/apple-new-2025-macbook-air-mc6t4-13-inch-display-ed4b89.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/apple-new-2025-macbook-air-mw123-13-inch-display-ef987c.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/fresh-modena-twin-tub-semi-automatic-washing-machine-041693.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/fresh-fwt14000nd-top-load-half-automatic-washing-machine-14-9305b4.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/samsung-inverter-front-load-washing-machine-8-kg-black-490197.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/generic-usb-c-to-vga-adapter-3-1-type-741581.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/one-minute-elevate-your-infinix-note-edge-privacy-protection-bc2807.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
@@ -1132,7 +1146,6 @@
   <url><loc>https://bkam-eg.github.io/p/samsung-wall-charger-multi-ports-35-watt-black-7cfd8f.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/lg-55inch-oled-ai-b5-4k-120hz-smart-tv-cc3923.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/tcl-55-inch-qled-ultra-hd-4k-smart-tv-fc0adc.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://bkam-eg.github.io/p/fresh-front-load-washing-machine-8-kg-1200-rpm-f492bf.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/fresh-front-load-washing-machine-9-kg-1400-rpm-848e8e.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/carrier-optimax-38qhct12dn-708-split-cooling-and-heating-air-d692d3.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://bkam-eg.github.io/p/oppo-mobile-reno-16f-256gb-8gb-ram-5g-pop-c2d536.html</loc><lastmod>2026-11-22</lastmod><priority>0.6</priority></url>
