@@ -37,7 +37,8 @@ SPECS = ROOT / "specs.json"  # من fetch_specs.py
 CAT_SLUG = {"موبايلات": "mobiles", "تابلت": "tablets", "لابتوب": "laptops", "تلفزيونات": "tvs",
             "شاشات كمبيوتر": "monitors", "كمبيوتر": "computer", "بلايستيشن": "playstation", "سماعات": "headphones",
             "ساعات ذكية": "smart-watches", "إكسسوارات موبايل": "mobile-accessories",
-            "أجهزة منزلية": "home-appliances", "أجهزة مطبخ": "kitchen-appliances"}
+            "أجهزة منزلية": "home-appliances", "أجهزة مطبخ": "kitchen-appliances",
+            "أدوات منزلية": "housewares", "مستلزمات أطفال": "baby"}
 
 AR_DIGITS = str.maketrans("0123456789,", "٠١٢٣٤٥٦٧٨٩٬")
 e = lambda s: html.escape(str(s), quote=True)
